@@ -8,7 +8,11 @@ on:
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
-    
+    permissions:
+      contents: read
+      pages: write
+      id-token: form
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -29,14 +33,6 @@ jobs:
         with:
           path: ./dist/build/h5
 
-  deploy:
-    needs: build-and-deploy
-    runs-on: ubuntu-latest
-    permissions:
-      pages: write
-      id-token: upload
-    
-    steps:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
