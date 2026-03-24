@@ -1,0 +1,1107 @@
+{
+  "grammar_topics": [
+    {
+      "id": "pronouns",
+      "name": "3-代词-四类代词全掌握",
+      "icon": "square",
+      "color": "#2ecc71",
+      "lessons": [
+        {
+          "id": "pronouns_1",
+          "title": "1-人称代词的用法",
+          "content": "### 人称代词的核心定义\n人称代词**用来指代人或事物**，是英语中最基础、使用频率最高的代词类型，分为**主格**和**宾格**两类，主格作句子主语，宾格作句子宾语（包括动词宾语、介词宾语），是初中英语代词的核心考点，中考单选、完形、语篇填空均会高频考查。\n\n### 人称代词的分类及形式（中考必考对照表）\n| 人称 | 数 | 主格（作主语） | 宾格（作宾语） | 中文释义 |\n|------|----|----------------|----------------|----------|\n| 第一人称 | 单数 | I | me | 我 |\n| 第一人称 | 复数 | we | us | 我们 |\n| 第二人称 | 单/复数 | you | you | 你/你们 |\n| 第三人称 | 单数（男） | he | him | 他 |\n| 第三人称 | 单数（女） | she | her | 她 |\n| 第三人称 | 单数（物/不明性别） | it | it | 它 |\n| 第三人称 | 复数 | they | them | 他/她/它们 |\n\n### 人称代词的核心用法\n#### 用法1：主格作主语，放句首/谓语动词前\n主格是动作的发出者，必须放在句子主语位置，不可用宾格替代，这是最基础的易错点。\n例：I am a student.（我是一名学生，I作主语，不可说Me am a student.）；He likes playing football.（他喜欢踢足球，He作主语，不可说Him likes playing football.）。\n\n#### 用法2：宾格作动词宾语，放及物动词后\n及物动词（like/see/help等）后接宾语，需用宾格，表动作的承受者。\n例：She knows me well.（她很了解我，me作knows的宾语）；We helped him with his homework.（我们帮他辅导作业，him作helped的宾语）。\n\n#### 用法3：宾格作介词宾语，放介词后\n介词（to/with/for/at等）后接宾语，必须用宾格，中考高频介词搭配：talk to sb、play with sb、buy sth for sb。\n例：This gift is for her.（这份礼物是给她的，her作for的宾语）；I play basketball with them every weekend.（我每周和他们打篮球，them作with的宾语）。\n\n#### 用法4：人称代词并列的顺序（礼仪原则+易错点）\n多个人称代词并列时，顺序遵循“你→他→我”（复数：你们→他们→我们），犯错时则把“我”放最前，这是中考写作、改错的高频考点。\n- 正常顺序：You, he and I are good friends.（你、他和我是好朋友）；They, you and we will go to the park.（他们、你们和我们要去公园）；\n- 犯错顺序：I and Tom made a mistake.（我和汤姆犯了一个错误）。\n\n#### 用法5：it的特殊用法（中考重点）\nit除了指代单数事物/动物，还有3个高频特殊用法：\n1. 指代前文提到的单数可数名词/不可数名词：I have a book. It is very interesting.（我有一本书，它很有趣，it指代a book）；\n2. 指代不明身份的人：Who is knocking at the door? —It’s me.（谁在敲门？是我，it指代敲门的人）；\n3. 作形式主语/形式宾语，替代真正的主语/宾语（不定式/动名词/从句）：It is easy to learn English.（学英语很简单，it作形式主语，真正主语是to learn English）；I find it difficult to finish the work.（我发现完成这项工作很难，it作形式宾语，真正宾语是to finish the work）。\n\n### 人称代词的使用禁忌\n1. 主格和宾格不可混用，如：错→Me like music；对→I like music；\n2. 单独使用人称代词回答问题时，用宾格，如：Who broke the cup? —Me.（不是I）；\n3. 介词后必须用宾格，如：错→with he；对→with him；\n4. it指代天气/时间/距离时，无实际意义，不可省略：It is sunny today.（今天晴天）；It is 7 o’clock now.（现在7点）；It is 500 meters from here to the school.（从这到学校500米）。",
+          "examples": [
+            {
+              "sentence": "She is my sister. I love her very much.",
+              "translation": "她是我的姐姐，我非常爱她。",
+              "analysis": "第一句中she是第三人称单数主格，作主语，指代“姐姐”；第二句中her是she的宾格，作love的动词宾语，表动作的承受者。"
+            },
+            {
+              "sentence": "We will go to the zoo with them tomorrow.",
+              "translation": "我们明天要和他们一起去动物园。",
+              "analysis": "we是第一人称复数主格，作主语；them是第三人称复数宾格，作介词with的宾语，符合“介词后用宾格”的规则。"
+            },
+            {
+              "question": "It is important to read English every day.",
+              "translation": "每天读英语很重要。",
+              "analysis": "it在此处作形式主语，无实际意义，真正的主语是后面的不定式to read English，这是it的高频特殊用法，避免句子头重脚轻。"
+            },
+            {
+              "sentence": "You and I should finish the task on time.",
+              "translation": "你和我应该按时完成任务。",
+              "analysis": "you和I并列作主语，遵循“你→我”的顺序，均用主格；不可说I and you，也不可说me and you。"
+            },
+            {
+              "sentence": "He gave a pen to me as a gift.",
+              "translation": "他送了一支钢笔给我作为礼物。",
+              "analysis": "he是第三人称单数主格，作主语；me是第一人称宾格，作介词to的宾语，符合“介词后用宾格”的规则。"
+            },
+            {
+              "sentence": "Who is that? —It is my teacher.",
+              "translation": "那是谁？是我的老师。",
+              "analysis": "it在此处指代不明身份的人，是it的特殊用法，不可用he/she替代，即使知道是老师，回答时也可先用it。"
+            },
+            {
+              "sentence": "I find it easy to make friends with her.",
+              "translation": "我发现和她交朋友很容易。",
+              "analysis": "it作形式宾语，替代真正的宾语to make friends with her；her是she的宾格，作介词with的宾语。"
+            },
+            {
+              "sentence": "They don’t like the movie. Let’s watch another one with them.",
+              "translation": "他们不喜欢这部电影，我们和他们一起看另一部吧。",
+              "analysis": "第一个they是主格，作主语；第二个them是宾格，作介词with的宾语，主格和宾格用法区分清晰。"
+            },
+            {
+              "sentence": "It is 10 kilometers from my home to school.",
+              "translation": "从我家到学校有10公里。",
+              "analysis": "it在此处指代距离，无实际意义，是it的固定用法，不可省略，也不可用this/that替代。"
+            },
+            {
+              "sentence": "I and my brother made a mistake yesterday.",
+              "translation": "我和我哥哥昨天犯了一个错误。",
+              "analysis": "犯错场景下，人称代词并列把“I”放最前，符合“犯错时我在前”的礼仪规则；made a mistake是固定搭配，此处重点考查人称代词顺序。"
+            }
+          ],
+          "exercises": [
+            {
+              "question": "___ am a student. ___ like reading books.",
+              "options": {
+                "A": "I; Me",
+                "B": "Me; I",
+                "C": "I; I"
+              },
+              "answer": "C",
+              "explanation": "两句均需用人称代词主格作主语，I是主格，me是宾格，不可作主语，因此选C。"
+            },
+            {
+              "question": "My mother loves ___ very much. I love ___ too.",
+              "options": {
+                "A": "I; her",
+                "B": "me; she",
+                "C": "me; her"
+              },
+              "answer": "C",
+              "explanation": "第一空作loves的动词宾语，用宾格me；第二空作love的宾语，指代mother，用宾格her；she是主格，不可作宾语。"
+            },
+            {
+              "question": "Tom will go to the park with ___ and ___ sister.",
+              "options": {
+                "A": "I; my",
+                "B": "me; my",
+                "C": "me; mine"
+              },
+              "answer": "B",
+              "explanation": "第一空作介词with的宾语，用宾格me；第二空修饰名词sister，用形容词性物主代词my；mine是名词性物主代词，不可修饰名词。"
+            },
+            {
+              "question": "___ is raining outside. We can’t go out to play.",
+              "options": {
+                "A": "It",
+                "B": "He",
+                "C": "She"
+              },
+              "answer": "A",
+              "explanation": "it指代天气（下雨），是it的固定特殊用法，he/she不可指代天气，因此选A。"
+            },
+            {
+              "question": "___ is important for us to learn Chinese well.",
+              "options": {
+                "A": "This",
+                "B": "It",
+                "C": "That"
+              },
+              "answer": "B",
+              "explanation": "it作形式主语，替代真正的主语to learn Chinese well，这是it的高频考点，this/that无此用法。"
+            },
+            {
+              "question": "Who broke the window? —___.",
+              "options": {
+                "A": "I",
+                "B": "Me",
+                "C": "My"
+              },
+              "answer": "B",
+              "explanation": "单独回答“谁做了某事”时，用人称代词宾格me，而非主格I；my是物主代词，不可单独使用。"
+            },
+            {
+              "question": "You, he and ___ are in the same class.",
+              "options": {
+                "A": "I",
+                "B": "me",
+                "C": "mine"
+              },
+              "answer": "A",
+              "explanation": "多个人称代词并列作主语，遵循“你→他→我”的顺序，且需用主格I；me是宾格，mine是名词性物主代词，均不可作主语。"
+            },
+            {
+              "question": "I want to buy a book for ___. Do you know what ___ likes?",
+              "options": {
+                "A": "her; she",
+                "B": "she; her",
+                "C": "her; her"
+              },
+              "answer": "A",
+              "explanation": "第一空作介词for的宾语，用宾格her；第二空作likes的主语，用主格she，主格和宾格需区分使用。"
+            },
+            {
+              "question": "We found ___ difficult to finish the work in an hour.",
+              "options": {
+                "A": "this",
+                "B": "it",
+                "C": "that"
+              },
+              "answer": "B",
+              "explanation": "it作形式宾语，替代真正的宾语to finish the work in an hour，find it + 形容词 + to do sth是固定结构。"
+            },
+            {
+              "question": "___ is 8 o’clock now. Let’s start our class.",
+              "options": {
+                "A": "It",
+                "B": "This",
+                "C": "That"
+              },
+              "answer": "A",
+              "explanation": "it指代时间，是固定用法，this/that不可指代时间，因此选A。"
+            },
+            {
+              "question": "My father often plays basketball with ___ after work.",
+              "options": {
+                "A": "I",
+                "B": "me",
+                "C": "my"
+              },
+              "answer": "B",
+              "explanation": "介词with后接宾格，me是I的宾格；I是主格，my是物主代词，均不可作介词宾语。"
+            },
+            {
+              "question": "___ and ___ made a mistake in the exam yesterday.",
+              "options": {
+                "A": "I; Tom",
+                "B": "Tom; I",
+                "C": "Me; Tom"
+              },
+              "answer": "A",
+              "explanation": "犯错场景下，人称代词并列需把“I”放最前，且作主语用主格I，me是宾格不可作主语。"
+            },
+            {
+              "question": "She told ___ a story about her childhood.",
+              "options": {
+                "A": "we",
+                "B": "us",
+                "C": "our"
+              },
+              "answer": "B",
+              "explanation": "told是tell的过去式，及物动词后接宾格；us是we的宾格，we是主格，our是物主代词，因此选B。"
+            },
+            {
+              "question": "___ is about 500 meters from here to the supermarket.",
+              "options": {
+                "A": "It",
+                "B": "This",
+                "C": "That"
+              },
+              "answer": "A",
+              "explanation": "it指代距离，是固定用法，this/that无此用法，因此选A。"
+            },
+            {
+              "question": "They are my friends. I often play with ___.",
+              "options": {
+                "A": "they",
+                "B": "them",
+                "C": "their"
+              },
+              "answer": "B",
+              "explanation": "介词with后接宾格，them是they的宾格；they是主格，their是物主代词，均不可作介词宾语。"
+            },
+            {
+              "question": "___ is my dog. ___ name is Lucky.",
+              "options": {
+                "A": "It; Its",
+                "B": "He; His",
+                "C": "She; Her"
+              },
+              "answer": "A",
+              "explanation": "第一空指代狗，用it作主语；第二空修饰名词name，用形容词性物主代词its（它的）；he/she指代人，不符合语境。"
+            },
+            {
+              "question": "I like music. ___ makes me happy.",
+              "options": {
+                "A": "It",
+                "B": "They",
+                "C": "He"
+              },
+              "answer": "A",
+              "explanation": "it指代前文提到的不可数名词music，不可数名词需用单数代词it指代；they指代复数，he指代人，均不符合。"
+            },
+            {
+              "question": "My sister and ___ go to school by bike every day.",
+              "options": {
+                "A": "I",
+                "B": "me",
+                "C": "mine"
+              },
+              "answer": "A",
+              "explanation": "and连接两个并列主语，需用主格I；me是宾格，mine是名词性物主代词，均不可作主语。"
+            },
+            {
+              "question": "Can you help ___ with my English? I am not good at ___.",
+              "options": {
+                "A": "me; it",
+                "B": "I; it",
+                "C": "me; them"
+              },
+              "answer": "A",
+              "explanation": "第一空作help的宾语，用宾格me；第二空指代不可数名词English，用it；they指代复数，不符合。"
+            },
+            {
+              "question": "___ are good students. The teacher likes ___ very much.",
+              "options": {
+                "A": "We; us",
+                "B": "Us; we",
+                "C": "We; our"
+              },
+              "answer": "A",
+              "explanation": "第一空作主语，用主格we；第二空作likes的宾语，用宾格us；our是物主代词，不可作宾语。"
+            }
+          ]
+        },
+        {
+          "id": "pronouns_2",
+          "title": "2-物主代词的用法",
+          "content": "### 物主代词的核心定义\n物主代词**表示所属关系**，即“谁的”，分为**形容词性物主代词**和**名词性物主代词**两类，形容词性物主代词需修饰名词（相当于形容词），名词性物主代词可单独使用（相当于“形容词性物主代词+名词”），是初中英语代词的重点考点，中考常与人称代词混合考查。\n\n### 物主代词的分类及形式（中考必考对照表）\n| 人称 | 数 | 形容词性物主代词（修饰名词） | 名词性物主代词（单独使用） | 中文释义 |\n|------|----|------------------------------|----------------------------|----------|\n| 第一人称 | 单数 | my | mine | 我的 |\n| 第一人称 | 复数 | our | ours | 我们的 |\n| 第二人称 | 单/复数 | your | yours | 你的/你们的 |\n| 第三人称 | 单数（男） | his | his | 他的 |\n| 第三人称 | 单数（女） | her | hers | 她的 |\n| 第三人称 | 单数（物） | its | its | 它的 |\n| 第三人称 | 复数 | their | theirs | 他/她/它们的 |\n\n### 物主代词的核心用法\n#### 用法1：形容词性物主代词+名词，作定语\n形容词性物主代词本身不能单独使用，必须放在名词前作定语，限定名词的所属，这是最基础的用法。\n例：my book（我的书，my修饰book）；her pen（她的钢笔，her修饰pen）；their classroom（他们的教室，their修饰classroom）。\n\n#### 用法2：名词性物主代词=形容词性物主代词+名词，可作主语/宾语/表语\n名词性物主代词是“形容词性物主代词+名词”的省略形式，避免重复，需根据语境判断替代的名词，中考高频考点。\n- 作主语：This book is mine. = This book is my book.（这本书是我的，mine作表语，替代my book）；\n- 作宾语：I like your pen. I want to buy one like yours.（我喜欢你的钢笔，我想买一支和你的一样的，yours作介词like的宾语，替代your pen）；\n- 作表语：The red bike is his. = The red bike is his bike.（这辆红色自行车是他的，his作表语，替代his bike）。\n\n#### 用法3：物主代词的“双重所有格”（中考难点）\n结构：of + 名词性物主代词/名词所有格，表“部分所属”，强调“其中之一/一部分”，常与a/an/some/any等连用。\n例：a friend of mine（我的一个朋友，= one of my friends，不可说a friend of me）；some books of theirs（他们的一些书，= some of their books）。\n\n#### 用法4：its与it’s的区分（中考易错点）\n- its：形容词性/名词性物主代词，表“它的”，无撇号；\n- it’s：it is/it has的缩写，表“它是/它有”，有撇号；\n例：Its tail is short.（它的尾巴很短，its是形容词性物主代词）；It’s a cat.（它是一只猫，it’s=it is）。\n\n#### 用法5：名词性物主代词的语境替代规则\n需根据前文提到的名词，确定名词性物主代词替代的内容，避免歧义：\n- 前文：This is my ruler. 后文：Is that yours?（yours替代your ruler）；\n- 前文：Our classroom is big. 后文：Theirs is big too.（theirs替代their classroom）。\n\n### 物主代词的使用禁忌\n1. 形容词性物主代词不可单独使用，如：错→my is a book；对→My book is here.；\n2. 名词性物主代词不可修饰名词，如：错→mine book；对→my book/mine；\n3. 双重所有格中，of后必须用名词性物主代词/名词所有格，不可用宾格，如：错→a friend of me；对→a friend of mine；\n4. 物主代词不可与冠词（a/an/the）、指示代词（this/that）同时修饰一个名词，如：错→the my pen；对→my pen/the pen。",
+          "examples": [
+            {
+              "sentence": "This is my bag. That bag is hers.",
+              "translation": "这是我的包，那个包是她的。",
+              "analysis": "my是形容词性物主代词，修饰名词bag；hers是名词性物主代词，单独作表语，替代her bag，避免重复。"
+            },
+            {
+              "sentence": "His pen is black. Mine is blue.",
+              "translation": "他的钢笔是黑色的，我的（钢笔）是蓝色的。",
+              "analysis": "his是形容词性物主代词，修饰pen；mine是名词性物主代词，作主语，替代my pen，符合“名词性物主代词作主语”的规则。"
+            },
+            {
+              "sentence": "I like your dress. Where did you buy yours?",
+              "translation": "我喜欢你的连衣裙，你在哪里买的你的（连衣裙）？",
+              "analysis": "your是形容词性物主代词，修饰dress；yours是名词性物主代词，作buy的宾语，替代your dress。"
+            },
+            {
+              "sentence": "A friend of mine will come to see me tomorrow.",
+              "translation": "我的一个朋友明天要来看我。",
+              "analysis": "a friend of mine是双重所有格，mine是名词性物主代词，表“我的朋友中的一个”，不可说a friend of me。"
+            },
+            {
+              "sentence": "Its eyes are big. It’s a lovely dog.",
+              "translation": "它的眼睛很大，它是一只可爱的狗。",
+              "analysis": "its是形容词性物主代词，修饰eyes，表“狗的”；it’s是it is的缩写，表“它是”，需注意与its的区分。"
+            },
+            {
+              "sentence": "Our classroom is on the first floor. Theirs is on the second floor.",
+              "translation": "我们的教室在一楼，他们的（教室）在二楼。",
+              "analysis": "our是形容词性物主代词，修饰classroom；theirs是名词性物主代词，作主语，替代their classroom。"
+            },
+            {
+              "sentence": "She lost her key. Can you help her find hers?",
+              "translation": "她弄丢了她的钥匙，你能帮她找到她的（钥匙）吗？",
+              "analysis": "第一个her是形容词性物主代词，修饰key；第二个hers是名词性物主代词，作find的宾语，替代her key。"
+            },
+            {
+              "sentence": "Some books of theirs are on the desk.",
+              "translation": "他们的一些书在桌子上。",
+              "analysis": "some books of theirs是双重所有格，theirs是名词性物主代词，表“他们的书中的一些”，不可说some books of them。"
+            },
+            {
+              "sentence": "Your bike is new. Mine is old but it still works.",
+              "translation": "你的自行车是新的，我的（自行车）虽然旧但还能用。",
+              "analysis": "your是形容词性物主代词，修饰bike；mine是名词性物主代词，作主语，替代my bike。"
+            },
+            {
+              "sentence": "The cat is sleeping in its bed.",
+              "translation": "这只猫正在它的窝里睡觉。",
+              "analysis": "its是形容词性物主代词，修饰bed，表“猫的窝”；注意its无撇号，与it’s（it is）区分，不可写成it’s bed。"
+            }
+          ],
+          "exercises": [
+            {
+              "question": "This is ___ pen. ___ is on the desk.",
+              "options": {
+                "A": "my; Your",
+                "B": "mine; Yours",
+                "C": "my; Yours"
+              },
+              "answer": "C",
+              "explanation": "第一空修饰名词pen，用形容词性物主代词my；第二空单独作主语，用名词性物主代词yours（替代your pen）；mine是名词性物主代词，不可修饰名词，your是形容词性物主代词，不可单独使用。"
+            },
+            {
+              "question": "___ book is on the floor. Can you pick up ___ for me?",
+              "options": {
+                "A": "My; it",
+                "B": "Mine; it",
+                "C": "My; its"
+              },
+              "answer": "A",
+              "explanation": "第一空修饰名词book，用形容词性物主代词my；第二空指代前文的book，用宾格it；mine是名词性物主代词，its是物主代词，均不符合。"
+            },
+            {
+              "question": "A friend of ___ will come to our school next week.",
+              "options": {
+                "A": "me",
+                "B": "mine",
+                "C": "my"
+              },
+              "answer": "B",
+              "explanation": "a friend of mine是双重所有格，of后需用名词性物主代词mine；me是宾格，my是形容词性物主代词，均不可用于此结构。"
+            },
+            {
+              "question": "___ tail is short. ___ a small dog.",
+              "options": {
+                "A": "Its; It’s",
+                "B": "It’s; Its",
+                "C": "It; Its"
+              },
+              "answer": "A",
+              "explanation": "第一空修饰名词tail，用形容词性物主代词its（它的）；第二空是it is的缩写，用it’s；it是人称代词主格，不可修饰名词，因此选A。"
+            },
+            {
+              "question": "Our house is big. ___ is small but clean.",
+              "options": {
+                "A": "Their",
+                "B": "Theirs",
+                "C": "Them"
+              },
+              "answer": "B",
+              "explanation": "空格处单独作主语，用名词性物主代词theirs（替代their house）；their是形容词性物主代词，不可单独使用；them是宾格，不可作主语。"
+            },
+            {
+              "question": "She likes ___ new dress very much. I like ___ too.",
+              "options": {
+                "A": "her; her",
+                "B": "her; hers",
+                "C": "hers; her"
+              },
+              "answer": "B",
+              "explanation": "第一空修饰名词dress，用形容词性物主代词her；第二空单独作like的宾语，用名词性物主代词hers（替代her dress）；hers不可修饰名词，因此选B。"
+            },
+            {
+              "question": "Is this ___ ruler? No, it’s not ___. It’s Tom’s.",
+              "options": {
+                "A": "your; my",
+                "B": "yours; mine",
+                "C": "your; mine"
+              },
+              "answer": "C",
+              "explanation": "第一空修饰名词ruler，用形容词性物主代词your；第二空单独作表语，用名词性物主代词mine（替代my ruler）；yours是名词性物主代词，不可修饰名词，my是形容词性物主代词，不可单独使用。"
+            },
+            {
+              "question": "Some toys of ___ are in the box. They are very cute.",
+              "options": {
+                "A": "their",
+                "B": "theirs",
+                "C": "them"
+              },
+              "answer": "B",
+              "explanation": "some toys of theirs是双重所有格，of后用名词性物主代词theirs；their是形容词性物主代词，them是宾格，均不可用于此结构。"
+            },
+            {
+              "question": "___ father is a doctor. What about ___?",
+              "options": {
+                "A": "My; yours",
+                "B": "Mine; your",
+                "C": "My; your"
+              },
+              "answer": "A",
+              "explanation": "第一空修饰名词father，用形容词性物主代词my；第二空单独作about的宾语，用名词性物主代词yours（替代your father）；mine不可修饰名词，your不可单独使用。"
+            },
+            {
+              "question": "The bird is in ___ cage. ___ cage is made of wood.",
+              "options": {
+                "A": "its; Its",
+                "B": "it’s; Its",
+                "C": "its; It’s"
+              },
+              "answer": "A",
+              "explanation": "两空均修饰名词cage，用形容词性物主代词its（它的）；it’s是it is的缩写，不可修饰名词，因此选A。"
+            },
+            {
+              "question": "I lost ___ key. Can you help me find ___?",
+              "options": {
+                "A": "my; it",
+                "B": "mine; it",
+                "C": "my; mine"
+              },
+              "answer": "A",
+              "explanation": "第一空修饰名词key，用形容词性物主代词my；第二空指代前文的key，用宾格it；mine是名词性物主代词，不可指代具体的key，因此选A。"
+            },
+            {
+              "question": "His school is far from home. ___ is near the park.",
+              "options": {
+                "A": "My",
+                "B": "Mine",
+                "C": "Me"
+              },
+              "answer": "B",
+              "explanation": "空格处单独作主语，用名词性物主代词mine（替代my school）；my是形容词性物主代词，不可单独使用；me是宾格，不可作主语。"
+            },
+            {
+              "question": "This is not ___ book. ___ is in the schoolbag.",
+              "options": {
+                "A": "her; Her",
+                "B": "her; Hers",
+                "C": "hers; Her"
+              },
+              "answer": "B",
+              "explanation": "第一空修饰名词book，用形容词性物主代词her；第二空单独作主语，用名词性物主代词hers（替代her book）；hers不可修饰名词，因此选B。"
+            },
+            {
+              "question": "___ classroom is clean and tidy. ___ is next to ours.",
+              "options": {
+                "A": "Their; Their",
+                "B": "Theirs; Their",
+                "C": "Their; Theirs"
+              },
+              "answer": "C",
+              "explanation": "第一空修饰名词classroom，用形容词性物主代词their；第二空单独作主语，用名词性物主代词theirs（替代their classroom）；theirs不可修饰名词，因此选C。"
+            },
+            {
+              "question": "A pen of ___ is missing. Have you seen it?",
+              "options": {
+                "A": "him",
+                "B": "his",
+                "C": "he"
+              },
+              "answer": "B",
+              "explanation": "a pen of his是双重所有格，of后用名词性物主代词his；him是宾格，he是主格，均不可用于此结构。"
+            },
+            {
+              "question": "Your phone is on the table. Where is ___?",
+              "options": {
+                "A": "mine",
+                "B": "my",
+                "C": "me"
+              },
+              "answer": "A",
+              "explanation": "空格处单独作表语，用名词性物主代词mine（替代my phone）；my是形容词性物主代词，不可单独使用；me是宾格，不符合语境。"
+            },
+            {
+              "question": "The dog is licking ___ paw. ___ very cute.",
+              "options": {
+                "A": "its; It’s",
+                "B": "it’s; Its",
+                "C": "it; It’s"
+              },
+              "answer": "A",
+              "explanation": "第一空修饰名词paw，用形容词性物主代词its；第二空是it is的缩写，用it’s，表“它很可爱”，因此选A。"
+            },
+            {
+              "question": "We love ___ country. ___ is a beautiful country.",
+              "options": {
+                "A": "our; Ours",
+                "B": "ours; Our",
+                "C": "our; Our"
+              },
+              "answer": "A",
+              "explanation": "第一空修饰名词country，用形容词性物主代词our；第二空单独作主语，用名词性物主代词ours（替代our country）；ours不可修饰名词，因此选A。"
+            },
+            {
+              "question": "Is that ___ bike? Yes, it’s ___.",
+              "options": {
+                "A": "her; her",
+                "B": "her; hers",
+                "C": "hers; hers"
+              },
+              "answer": "B",
+              "explanation": "第一空修饰名词bike，用形容词性物主代词her；第二空单独作表语，用名词性物主代词hers（替代her bike）；hers不可修饰名词，因此选B。"
+            },
+            {
+              "question": "Some flowers of ___ are for you. They are from my garden.",
+              "options": {
+                "A": "mine",
+                "B": "my",
+                "C": "me"
+              },
+              "answer": "A",
+              "explanation": "some flowers of mine是双重所有格，of后用名词性物主代词mine；my是形容词性物主代词，me是宾格，均不可用于此结构。"
+            }
+          ]
+        },
+        {
+          "id": "pronouns_3",
+          "title": "3-反身代词的用法",
+          "content": "### 反身代词的核心定义\n反身代词表示动作反射到动作执行者本身，或强调“亲自、本人”，由人称代词宾格/形容词性物主代词 + self/selves构成，是初中英语代词的核心考点，中考常考查固定搭配和语境运用。\n\n### 反身代词的形式（中考必考）\n| 人称/数 | 单数 | 复数 |\n|---------|------|------|\n| 第一人称 | myself（我自己） | ourselves（我们自己） |\n| 第二人称 | yourself（你自己） | yourselves（你们自己） |\n| 第三人称 | himself（他自己）<br>herself（她自己）<br>itself（它自己） | themselves（他们/她们/它们自己） |\n\n### 反身代词的核心用法（中考高频分类）\n#### 用法1：作宾语，表动作承受者是主语本身\n动作由主语发出，又作用于主语，常见动词：hurt、teach、enjoy、help、dress、wash、introduce等。\n- 例：She hurt herself when she fell off the bike.（她从自行车上摔下来伤到了自己。）\n- 例：He taught himself English at home.（他在家自学英语。）\n\n#### 用法2：作同位语，强调“亲自、本人”\n可置于名词/代词后或句末，突出“不是别人，正是某人自己”。\n- 例：I did the homework myself.（我自己做的作业。）\n- 例：The manager himself came to solve the problem.（经理本人来解决问题了。）\n\n#### 用法3：用于固定搭配（中考必考）\n需重点记忆以下高频搭配，不可替换或省略反身代词：\n- enjoy oneself（玩得开心）= have a good time；\n- help oneself to...（随便吃/用……）；\n- by oneself（独自）= alone；\n- lose oneself in...（沉浸于……）；\n- come to oneself（苏醒过来）；\n- behave oneself（表现得体）。\n\n### 反身代词的使用禁忌\n1. 不可单独作主语，需用主格代词，如：错→Myself did the work.；对→I did the work myself.；\n2. 主语与宾语指代不同人时，不可用反身代词，如：错→He helped myself.；对→He helped me.；\n3. 反身代词需与主语在人称、数上保持一致，如：错→We enjoyed himself.；对→We enjoyed ourselves.。",
+          "examples": [
+            {
+              "sentence": "She hurt herself when she was cooking.",
+              "translation": "她做饭的时候伤到了自己。",
+              "analysis": "主语是she，动作hurt的承受者也是she本人，因此用反身代词herself作宾语，体现动作反射到主语本身。"
+            },
+            {
+              "sentence": "We enjoyed ourselves at the party last night.",
+              "translation": "我们昨晚在聚会上玩得很开心。",
+              "analysis": "enjoy oneself是固定搭配，主语是we，对应的反身代词是ourselves，表“我们玩得开心”。"
+            },
+            {
+              "sentence": "The boy taught himself Japanese during the holiday.",
+              "translation": "这个男孩假期自学了日语。",
+              "analysis": "主语是the boy，teach的动作对象是主语本人，用himself作宾语，表“自学”。"
+            },
+            {
+              "sentence": "Help yourself to some fruit, Tom.",
+              "translation": "汤姆，随便吃点水果吧。",
+              "analysis": "help oneself to...是固定搭配，主语是Tom（第二人称单数），用yourself，表“请自便”。"
+            },
+            {
+              "sentence": "I finished the project myself without any help.",
+              "translation": "我没靠任何帮助，自己完成了这个项目。",
+              "analysis": "myself作I的同位语，置于句末，强调“亲自、本人”完成项目，突出动作执行者是自己。"
+            },
+            {
+              "sentence": "The cat washed itself carefully after eating.",
+              "translation": "这只猫吃完东西后仔细地给自己洗了澡。",
+              "analysis": "主语是the cat（第三人称单数），wash的动作对象是猫自己，用itself作宾语，保持人称和数一致。"
+            },
+            {
+              "sentence": "They lost themselves in the beautiful music.",
+              "translation": "他们沉浸在美妙的音乐中。",
+              "analysis": "lose oneself in...是固定搭配，主语是they，对应的反身代词是themselves，表“沉浸于……”。"
+            },
+            {
+              "sentence": "My sister dressed herself when she was three years old.",
+              "translation": "我妹妹三岁时就自己穿衣服了。",
+              "analysis": "dress oneself是固定搭配，主语是my sister，用herself作宾语，表“自己穿衣服”。"
+            },
+            {
+              "sentence": "He came to himself after drinking a cup of water.",
+              "translation": "他喝了一杯水后苏醒了过来。",
+              "analysis": "come to oneself是固定搭配，主语是he，用himself，表“苏醒过来”。"
+            },
+            {
+              "sentence": "You should behave yourselves in public places.",
+              "translation": "你们在公共场所应该表现得体。",
+              "analysis": "behave oneself是固定搭配，主语是you（第二人称复数），用yourselves，表“表现得体”。"
+            }
+          ],
+          "exercises": [
+            {
+              "question": "My brother taught ___ English last year.",
+              "options": {
+                "A": "him",
+                "B": "his",
+                "C": "himself"
+              },
+              "answer": "C",
+              "explanation": "teach oneself是固定搭配，表“自学”，主语是my brother，对应的反身代词是himself，故选C。"
+            },
+            {
+              "question": "We enjoyed ___ at the beach last weekend.",
+              "options": {
+                "A": "us",
+                "B": "ourselves",
+                "C": "our"
+              },
+              "answer": "B",
+              "explanation": "enjoy oneself是固定搭配，表“玩得开心”，主语是we，对应的反身代词是ourselves，故选B。"
+            },
+            {
+              "question": "Lily hurt ___ when she played basketball yesterday.",
+              "options": {
+                "A": "her",
+                "B": "herself",
+                "C": "she"
+              },
+              "answer": "B",
+              "explanation": "主语是Lily，动作hurt的承受者是Lily本人，需用反身代词herself作宾语，故选B。"
+            },
+            {
+              "question": "Help ___ to some cakes, children.",
+              "options": {
+                "A": "yourself",
+                "B": "yourselves",
+                "C": "you"
+              },
+              "answer": "B",
+              "explanation": "help oneself to...是固定搭配，children是复数，对应的反身代词是yourselves，故选B。"
+            },
+            {
+              "question": "The little bird can feed ___ now.",
+              "options": {
+                "A": "itself",
+                "B": "it",
+                "C": "it's"
+              },
+              "answer": "A",
+              "explanation": "主语是the little bird，feed的动作对象是小鸟自己，用反身代词itself作宾语，it's是it is的缩写，不符合语境，故选A。"
+            },
+            {
+              "question": "I did the homework ___ , no one helped me.",
+              "options": {
+                "A": "me",
+                "B": "myself",
+                "C": "mine"
+              },
+              "answer": "B",
+              "explanation": "此处用myself作I的同位语，强调“亲自、本人”完成作业，故选B。"
+            },
+            {
+              "question": "They lost ___ in the forest yesterday.",
+              "options": {
+                "A": "them",
+                "B": "their",
+                "C": "themselves"
+              },
+              "answer": "C",
+              "explanation": "lose oneself in...是固定搭配，表“迷路/沉浸于……”，主语是they，对应的反身代词是themselves，故选C。"
+            },
+            {
+              "question": "You should take care of ___ when your parents are not at home.",
+              "options": {
+                "A": "yourself",
+                "B": "you",
+                "C": "your"
+              },
+              "answer": "A",
+              "explanation": "take care of oneself是固定搭配，表“照顾自己”，主语是you（第二人称单数），用yourself，故选A。"
+            },
+            {
+              "question": "The manager ___ attended the meeting yesterday.",
+              "options": {
+                "A": "him",
+                "B": "himself",
+                "C": "his"
+              },
+              "answer": "B",
+              "explanation": "此处用himself作the manager的同位语，强调“经理本人”参加会议，故选B。"
+            },
+            {
+              "question": "She dressed ___ quickly and went to school.",
+              "options": {
+                "A": "her",
+                "B": "hers",
+                "C": "herself"
+              },
+              "answer": "C",
+              "explanation": "dress oneself是固定搭配，表“自己穿衣服”，主语是she，用herself作宾语，故选C。"
+            }
+          ]
+        },
+        {
+          "id": "pronouns_4",
+          "title": "4-指示代词的用法",
+          "content": "### 指示代词的核心定义\n指示代词用来**指示或标识人/事物**，明确指代的对象是“这个/那个/这些/那些”，可作主语、宾语、定语、表语，是初中英语代词的基础考点，中考常考查单复数一致、近指远指区分。\n\n### 指示代词的形式（中考必考）\n| 类别 | 单数 | 复数 | 含义 | 用法 |\n|------|------|------|------|------|\n| 近指 | this（这个） | these（这些） | 指代距离说话人近的人/事物 | 指时间/空间上“靠近”的对象 |\n| 远指 | that（那个） | those（那些） | 指代距离说话人远的人/事物 | 指时间/空间上“远离”的对象 |\n| 替代词 | that（=the+单数/不可数名词） | those（=the+复数名词） | 避免重复前面提到的名词 | 用于比较结构、指代上文内容 |\n\n### 指示代词的核心用法（中考高频分类）\n#### 用法1：作定语，修饰名词（最基础用法）\n置于名词前，限定名词的范围，表“这个/那个/这些/那些”，需注意单复数一致。\n- 例：This book is mine.（这本书是我的。）\n- 例：Those flowers are very beautiful.（那些花很漂亮。）\n\n#### 用法2：作主语，指代人/事物\n单独作主语，谓语动词需与指示代词的单复数一致。\n- 例：This is my pen.（这是我的钢笔。）\n- 例：Those are my classmates.（那些是我的同学。）\n\n#### 用法3：作宾语，指代前文提到的人/事物\n置于动词或介词后，指代明确的对象。\n- 例：I like this, not that.（我喜欢这个，不喜欢那个。）\n- 例：Give that to me, please.（请把那个给我。）\n\n#### 用法4：作表语，指代身份/事物\n置于be动词后，明确指代的对象。\n- 例：My favorite color is this.（我最喜欢的颜色是这个。）\n- 例：What I want is that.（我想要的是那个。）\n\n#### 用法5：替代前文名词，避免重复（中考重点）\n- that替代“the+单数可数名词/不可数名词”，常用于比较句中；\n- those替代“the+复数可数名词”，也可用于比较句中。\n- 例：The weather in Beijing is colder than that in Guangzhou.（北京的天气比广州的冷。that替代the weather）\n- 例：The books in this shop are cheaper than those in that shop.（这家店的书比那家店的便宜。those替代the books）\n\n#### 用法6：打电话/介绍人时的特殊用法\n- 打电话时，用this指代自己，that指代对方：This is Tom speaking.（我是汤姆。）Who is that?（你是谁？）\n- 介绍人时，用this/these指代身边的人，that/those指代远处的人：This is my sister.（这是我妹妹。）That is my teacher over there.（那边那位是我的老师。）\n\n### 指示代词的使用禁忌\n1. 不可与定冠词the、物主代词同时修饰名词，如：错→this my book；对→this book / my book；\n2. 指代复数名词时，必须用these/those，不可用this/that，如：错→this apples；对→these apples；\n3. that/those替代前文名词时，不可省略the，如：错→The air in the country is fresher than that in city.；对→The air in the country is fresher than that in the city.。",
+          "examples": [
+            {
+              "sentence": "This pen is red, that pen is blue.",
+              "translation": "这支钢笔是红色的，那支钢笔是蓝色的。",
+              "analysis": "this修饰pen（单数），表近指；that修饰pen（单数），表远指，均作定语，明确指代不同的钢笔。"
+            },
+            {
+              "sentence": "These are my books, those are my brother’s.",
+              "translation": "这些是我的书，那些是我哥哥的。",
+              "analysis": "these（复数近指）、those（复数远指）单独作主语，谓语动词用are，与指示代词单复数一致。"
+            },
+            {
+              "question": "The population of China is larger than ___ of India.",
+              "translation": "中国的人口比印度的多。",
+              "analysis": "that替代前文的the population（不可数名词），避免重复，是中考比较句中的高频用法。"
+            },
+            {
+              "sentence": "I prefer these flowers to those.",
+              "translation": "比起那些花，我更喜欢这些。",
+              "analysis": "these作定语修饰flowers，those单独作宾语，指代“那些花”，避免重复名词flowers。"
+            },
+            {
+              "sentence": "This is Lucy speaking. Who is that?",
+              "translation": "我是露西。你是谁？",
+              "analysis": "打电话场景中，this指代自己，that指代对方，是固定用法。"
+            },
+            {
+              "sentence": "This is my friend Lily, and that is her mother over there.",
+              "translation": "这是我的朋友莉莉，那边那位是她的妈妈。",
+              "analysis": "介绍人时，this指代身边的人（近指），that指代远处的人（远指），符合指示代词的近指/远指规则。"
+            },
+            {
+              "sentence": "What I need is this, not that.",
+              "translation": "我需要的是这个，不是那个。",
+              "analysis": "this和that作表语，指代具体的事物，明确区分所需对象。"
+            },
+            {
+              "sentence": "The cars in this street are more expensive than those in that street.",
+              "translation": "这条街上的车比那条街上的贵。",
+              "analysis": "those替代前文的the cars（复数名词），避免重复，是中考核心考点。"
+            },
+            {
+              "sentence": "Give this to your mother, please.",
+              "translation": "请把这个给你妈妈。",
+              "analysis": "this作give的宾语，指代具体的物品，无需重复名词，简洁明了。"
+            },
+            {
+              "sentence": "That is a good idea.",
+              "translation": "那是个好主意。",
+              "analysis": "that作主语，指代前文提到的“主意”，单数形式对应谓语动词is，单复数一致。"
+            }
+          ],
+          "exercises": [
+            {
+              "question": "___ is my desk, and ___ is your desk over there.",
+              "options": {
+                "A": "This; that",
+                "B": "That; this",
+                "C": "These; those"
+              },
+              "answer": "A",
+              "explanation": "第一空表近指“这个桌子”，用this；第二空有over there（在那边）表远指，用that，且desk是单数，故选A。"
+            },
+            {
+              "question": "The weather in Shanghai is hotter than ___ in Beijing in summer.",
+              "options": {
+                "A": "it",
+                "B": "that",
+                "C": "this"
+              },
+              "answer": "B",
+              "explanation": "that用于替代前文的the weather（不可数名词），避免重复，比较句中替代不可数名词用that，故选B。"
+            },
+            {
+              "question": "___ are my pens, and ___ are my pencils.",
+              "options": {
+                "A": "This; that",
+                "B": "These; those",
+                "C": "That; this"
+              },
+              "answer": "B",
+              "explanation": "pens和pencils都是复数，需用复数指示代词，these表近指，those表远指，故选B。"
+            },
+            {
+              "question": "—Hello, ___ is Mike speaking. Who is ___ ? — ___ is Lily.",
+              "options": {
+                "A": "this; that; This",
+                "B": "that; this; That",
+                "C": "this; that; That"
+              },
+              "answer": "A",
+              "explanation": "打电话时，this指代自己，that指代对方，回答时仍用this指代自己，故选A。"
+            },
+            {
+              "question": "The books in our library are more than ___ in their library.",
+              "options": {
+                "A": "those",
+                "B": "that",
+                "C": "these"
+              },
+              "answer": "A",
+              "explanation": "those用于替代前文的the books（复数名词），避免重复，比较句中替代复数名词用those，故选A。"
+            },
+            {
+              "question": "I like ___ dress, not ___ one on the sofa.",
+              "options": {
+                "A": "this; that",
+                "B": "that; this",
+                "C": "these; those"
+              },
+              "answer": "A",
+              "explanation": "第一空表近指“这条裙子”，用this；第二空on the sofa表远指“沙发上的那条”，用that，dress是单数，故选A。"
+            },
+            {
+              "question": "___ is a cat, and ___ are dogs.",
+              "options": {
+                "A": "This; those",
+                "B": "These; that",
+                "C": "That; this"
+              },
+              "answer": "A",
+              "explanation": "cat是单数，用this/that；dogs是复数，用those/these，只有A选项单复数匹配，故选A。"
+            },
+            {
+              "question": "Give ___ to me, I need it to write.",
+              "options": {
+                "A": "this",
+                "B": "these",
+                "C": "those"
+              },
+              "answer": "A",
+              "explanation": "后文it指代单数对象，需用单数指示代词this作give的宾语，故选A。"
+            },
+            {
+              "question": "___ is my teacher, Miss Li. She is standing over there.",
+              "options": {
+                "A": "This",
+                "B": "That",
+                "C": "These"
+              },
+              "answer": "B",
+              "explanation": "over there表远指，且Miss Li是单数，用that指代远处的人，故选B。"
+            },
+            {
+              "question": "What I want to buy is ___ , not ___ .",
+              "options": {
+                "A": "this; that",
+                "B": "these; those",
+                "C": "that; this"
+              },
+              "answer": "A",
+              "explanation": "此处this和that作表语，分别指代近指和远指的单数事物，符合语境，故选A。"
+            }
+          ]
+        },
+        {
+          "id": "pronouns_5",
+          "title": "5-指示代词的用法",
+          "content": "### 指示代词的核心定义\n指示代词**用来指示或标识人/事物/地点**，明确指代的对象是“这个/那个/这些/那些”，分为**单数**（this/that）和**复数**（these/those）两类，还包括不定指示代词such/same等，是初中英语代词的基础考点，中考单选、完形常考查指代距离和语境用法。\n\n### 指示代词的分类及核心特征（中考必考）\n| 类别 | 形式 | 距离特征 | 指代对象 | 中文释义 |\n|------|------|----------|----------|----------|\n| 单数近指 | this | 指离说话人近的人/物 | 单数可数名词/不可数名词 | 这个 |\n| 单数远指 | that | 指离说话人远的人/物 | 单数可数名词/不可数名词 | 那个 |\n| 复数近指 | these | 指离说话人近的人/物 | 复数可数名词 | 这些 |\n| 复数远指 | those | 指离说话人远的人/物 | 复数可数名词 | 那些 |\n\n### 指示代词的核心用法\n#### 用法1：指代人/物，作主语/宾语/表语/定语\n- 作主语：This is a book.（这是一本书，this作主语，近指单数）；Those are apples.（那些是苹果，those作主语，远指复数）；\n- 作宾语：I like this.（我喜欢这个，this作宾语，近指）；He wants to buy those.（他想买那些，those作宾语，远指）；\n- 作表语：My pen is that.（我的钢笔是那个，that作表语，远指）；\n- 作定语：This pen is mine.（这支钢笔是我的，this修饰pen，近指单数）；These books are yours.（这些书是你的，these修饰books，近指复数）。\n\n#### 用法2：电话用语中，this指代自己，that指代对方\n打电话时固定用法，不可用I/you替代，中考高频考点：\n- 自我介绍：This is Tom speaking.（我是汤姆，电话用语，this指代自己）；\n- 询问对方：Is that Lily speaking?（你是莉莉吗？电话用语，that指代对方）。\n\n#### 用法3：that/those替代前文提到的名词，避免重复\nthat替代单数可数名词/不可数名词，those替代复数可数名词，常用于比较级结构中，中考高频考点：\n- 替代不可数名词：The weather in Beijing is colder than that in Guangzhou.（北京的天气比广州的冷，that替代weather）；\n- 替代单数可数名词：The population of China is larger than that of America.（中国的人口比美国的多，that替代population）；\n- 替代复数可数名词：The books in our library are more than those in theirs.（我们图书馆的书比他们的多，those替代books）。\n\n#### 用法4：this/that用于介绍人，遵循“近this远that”\n向别人介绍人时，离自己近的用this，远的用that：\n- 近指：This is my mother.（这是我的妈妈，妈妈在身边）；\n- 远指：That is my teacher over there.（那边那个是我的老师，老师在远处）。\n\n#### 用法5：that/this用于指代上文/下文内容\n- that指代上文提到的内容：He said he would come. That is true.（他说他会来，那是真的，that指代“he would come”）；\n- this指代下文要讲的内容：This is what I want to say.（这就是我想说的，this指代后面的“what I want to say”）。\n\n#### 用法6：such/ same作指示代词的用法\n- such：表“这样的/如此的”，such + 名词（短语），如：Such is life.（生活就是这样，such作主语）；I have never seen such a beautiful flower.（我从没见过这么美的花，such修饰flower）；\n- same：表“相同的”，必须与the连用，the same + 名词/单独使用，如：We are in the same class.（我们在同一个班）；The pen is the same as mine.（这支钢笔和我的一样）。\n\n### 指示代词的使用禁忌\n1. this/these表近指，that/those表远指，不可混用，如：错→That is my pen here.；对→This is my pen here.；\n2. 替代前文名词时，单数/不可数用that，复数用those，不可用this/these，如：错→The weather in Shanghai is hotter than this in Beijing.；对→The weather in Shanghai is hotter than that in Beijing.；\n3. same前必须加the，如：错→same book；对→the same book；\n4. 指示代词修饰名词时，不可与物主代词同时使用，如：错→this my pen；对→this pen/my pen。",
+          "examples": [
+            {
+              "sentence": "This is my pen. That is yours.",
+              "translation": "这是我的钢笔，那个是你的。",
+              "analysis": "this是单数近指指示代词，指代离说话人近的钢笔；that是单数远指指示代词，指代离说话人远的钢笔，符合“近this远that”的规则。"
+            },
+            {
+              "sentence": "These apples are fresh. Those are not good.",
+              "translation": "这些苹果是新鲜的，那些不好。",
+              "analysis": "these是复数近指指示代词，修饰apples，指代近处的苹果；those是复数远指指示代词，指代远处的苹果，避免重复说those apples。"
+            },
+            {
+              "sentence": "—Hello! Is that Mary speaking? —Yes, this is Mary speaking.",
+              "translation": "—你好！是玛丽吗？—是的，我是玛丽。",
+              "analysis": "电话用语中，that指代对方，this指代自己，是固定用法，不可用you/I替代。"
+            },
+            {
+              "sentence": "The air in the countryside is cleaner than that in the city.",
+              "translation": "乡下的空气比城里的干净。",
+              "analysis": "that替代前文提到的不可数名词air，避免重复说the air；不可数名词需用that替代，不可用this/these/those。"
+            },
+            {
+              "sentence": "This is my friend Tom. That is his brother over there.",
+              "translation": "这是我的朋友汤姆，那边那个是他的弟弟。",
+              "analysis": "介绍人时，Tom在身边，用this；his brother在远处，用that，遵循“近this远that”的介绍规则。"
+            },
+            {
+              "sentence": "He didn’t finish his homework. That made his teacher angry.",
+              "translation": "他没完成作业，那让他的老师生气了。",
+              "analysis": "that指代上文提到的“他没完成作业”这件事，是指示代词指代上文内容的用法。"
+            },
+            {
+              "sentence": "This is what I want to tell you: study hard every day.",
+              "translation": "这就是我想告诉你的：每天努力学习。",
+              "analysis": "this指代下文要讲的内容“study hard every day”，是指示代词指代下文内容的用法。"
+            },
+            {
+              "sentence": "The cars in this shop are more expensive than those in that shop.",
+              "translation": "这家店的车比那家店的贵。",
+              "analysis": "those替代前文提到的复数可数名词cars，避免重复说the cars；复数名词需用those替代，不可用that。"
+            },
+            {
+              "sentence": "Such is my plan. I hope you can support me.",
+              "translation": "这就是我的计划，我希望你能支持我。",
+              "analysis": "such作指示代词，单独作主语，指代“我的计划”，表“这样的（计划）”。"
+            },
+            {
+              "sentence": "We wear the same uniform at school.",
+              "translation": "我们在学校穿一样的校服。",
+              "analysis": "same作指示代词，修饰uniform，前面必须加the，是固定用法，不可说same uniform。"
+            }
+          ],
+          "exercises": [
+            {
+              "question": "___ is my desk. ___ is your desk over there.",
+              "options": {
+                "A": "This; That",
+                "B": "That; This",
+                "C": "These; Those"
+              },
+              "answer": "A",
+              "explanation": "第一空指代近处的桌子，用单数近指this；第二空指代远处的桌子，用单数远指that；these/those修饰复数，不符合语境。"
+            },
+            {
+              "question": "___ are my books. ___ are my sister’s.",
+              "options": {
+                "A": "This; That",
+                "B": "These; Those",
+                "C": "That; This"
+              },
+              "answer": "B",
+              "explanation": "两空后均为复数are，需用复数指示代词；these表近指，those表远指，符合“近these远those”的规则；this/that修饰单数，不符合。"
+            },
+            {
+              "question": "—Hello! Is ___ Mike speaking? —Yes, ___ is Mike speaking.",
+              "options": {
+                "A": "this; that",
+                "B": "that; this",
+                "C": "you; I"
+              },
+              "answer": "B",
+              "explanation": "电话用语中，that指代对方，this指代自己，是固定用法，不可用you/I替代，因此选B。"
+            },
+            {
+              "question": "The weather in summer in Wuhan is hotter than ___ in Beijing.",
+              "options": {
+                "A": "this",
+                "B": "that",
+                "C": "those"
+              },
+              "answer": "B",
+              "explanation": "that替代前文提到的不可数名词weather，避免重复；this不可替代前文名词，those替代复数名词，均不符合。"
+            },
+            {
+              "question": "___ is my teacher. ___ is my mother over there.",
+              "options": {
+                "A": "This; That",
+                "B": "That; This",
+                "C": "These; Those"
+              },
+              "answer": "A",
+              "explanation": "介绍人时，老师在身边用this，妈妈在远处用that，遵循“近this远that”的规则；these/those修饰复数，不符合。"
+            },
+            {
+              "question": "He broke the window. ___ made his parents very sad.",
+              "options": {
+                "A": "This",
+                "B": "That",
+                "C": "These"
+              },
+              "answer": "B",
+              "explanation": "that指代上文提到的“他打破窗户”这件事，指示代词指代上文内容用that；this指代下文内容，these修饰复数，均不符合。"
+            },
+            {
+              "question": "___ is my advice: you should go to bed early.",
+              "options": {
+                "A": "This",
+                "B": "That",
+                "C": "Those"
+              },
+              "answer": "A",
+              "explanation": "this指代下文要讲的内容“you should go to bed early”，指示代词指代下文内容用this；that指代上文内容，those修饰复数，均不符合。"
+            },
+            {
+              "question": "The trees in our school are taller than ___ in their school.",
+              "options": {
+                "A": "that",
+                "B": "this",
+                "C": "those"
+              },
+              "answer": "C",
+              "explanation": "those替代前文提到的复数可数名词trees，避免重复；that替代单数/不可数名词，this不可替代前文名词，均不符合。"
+            },
+            {
+              "question": "We are in ___ same class. We are good friends.",
+              "options": {
+                "A": "the",
+                "B": "a",
+                "C": "/"
+              },
+              "answer": "A",
+              "explanation": "same作指示代词时，前面必须加the，是固定用法，不可说same class或a same class，因此选A。"
+            },
+            {
+              "question": "___ is a cat. ___ is a dog over there.",
+              "options": {
+                "A": "This; That",
+                "B": "That; This",
+                "C": "These; Those"
+              },
+              "answer": "A",
+              "explanation": "第一空指代近处的猫，用单数近指this；第二空指代远处的狗，用单数远指that；these/those修饰复数，不符合语境。"
+            },
+            {
+              "question": "I like ___ book. Do you like ___?",
+              "options": {
+                "A": "this; this",
+                "B": "that; that",
+                "C": "this; it"
+              },
+              "answer": "C",
+              "explanation": "第一空修饰名词book，用指示代词this；第二空指代前文的book，用人称代词it，避免重复用this/that；直接用this/that作宾语虽可，但it更符合习惯。"
+            },
+            {
+              "question": "___ are my pens. Can you pass ___ to me?",
+              "options": {
+                "A": "These; them",
+                "B": "Those; it",
+                "C": "This; them"
+              },
+              "answer": "A",
+              "explanation": "第一空后为复数are，用复数指示代词these；第二空指代pens，用宾格them；it指代单数，this修饰单数，均不符合。"
+            },
+            {
+              "question": "The population of China is larger than ___ of India.",
+              "options": {
+                "A": "this",
+                "B": "that",
+                "C": "those"
+              },
+              "answer": "B",
+              "explanation": "that替代前文提到的单数可数名词population，避免重复；this不可替代前文名词，those替代复数名词，均不符合。"
+            },
+            {
+              "question": "—Who is ___? —___ is my uncle.",
+              "options": {
+                "A": "this; He",
+                "B": "that; He",
+                "C": "that; This"
+              },
+              "answer": "B",
+              "explanation": "第一空指代远处的人，用that；第二空回答时用人称代词he指代uncle，不可用this，因此选B。"
+            },
+            {
+              "question": "___ is what I think: we should help each other.",
+              "options": {
+                "A": "This",
+                "B": "That",
+                "C": "It"
+              },
+              "answer": "A",
+              "explanation": "this指代下文要讲的内容，是指示代词的用法；that指代上文内容，it作形式主语，均不符合语境。"
+            },
+            {
+              "question": "Such ___ life in the countryside. It’s quiet and happy.",
+              "options": {
+                "A": "is",
+                "B": "are",
+                "C": "am"
+              },
+              "answer": "A",
+              "explanation": "such作指示代词，指代不可数名词life，谓语动词用单数is；are修饰复数，am只与I连用，均不符合。"
+            },
+            {
+              "question": "The toys in the box are new. ___ on the floor are old.",
+              "options": {
+                "A": "That",
+                "B": "This",
+                "C": "Those"
+              },
+              "answer": "C",
+              "explanation": "空格处指代复数名词toys，用复数远指those；that/this修饰单数，不符合语境。"
+            },
+            {
+              "question": "—Is ___ your bike? —Yes, ___ is. I ride ___ to school every day.",
+              "options": {
+                "A": "this; it; it",
+                "B": "that; that; it",
+                "C": "this; this; this"
+              },
+              "answer": "A",
+              "explanation": "第一空修饰bike，用this；第二空回答时用人称代词it指代bike；第三空作ride的宾语，用it，避免重复用this，因此选A。"
+            },
+            {
+              "question": "The roads in Nanjing are wider than ___ in my hometown.",
+              "options": {
+                "A": "that",
+                "B": "those",
+                "C": "this"
+              },
+              "answer": "B",
+              "explanation": "those替代前文提到的复数可数名词roads，避免重复；that替代单数/不可数名词，this不可替代前文名词，均不符合。"
+            },
+            {
+              "question": "We have ___ same hobby. We both like reading.",
+              "options": {
+                "A": "the",
+                "B": "a",
+                "C": "an"
+              },
+              "answer": "A",
+              "explanation": "same前必须加the，是固定用法，不可说a same hobby或an same hobby，因此选A。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

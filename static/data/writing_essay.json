@@ -1,0 +1,300 @@
+{
+  "version": "1.0",
+  "type": "writing",
+  "year": 2024,
+  "difficulty": "medium",
+  "source": "上海中考英语作文",
+  "scoringCriteria": {
+    "fullScore": 20,
+    "levels": [
+      {
+        "level": "优秀",
+        "score": "17-20分",
+        "description": "内容完整，覆盖所有要点，语句通顺，语法无误，词汇丰富，句型多样，逻辑清晰，有恰当的拓展和情感表达"
+      },
+      {
+        "level": "良好",
+        "score": "13-16分",
+        "description": "内容基本完整，要点无遗漏，语句较通顺，少量语法错误，词汇较丰富，句型有变化，逻辑较清晰"
+      },
+      {
+        "level": "及格",
+        "score": "9-12分",
+        "description": "内容不完整，部分要点缺失，语句基本通顺，语法错误较多，词汇单一，句型简单"
+      },
+      {
+        "level": "不及格",
+        "score": "0-8分",
+        "description": "内容缺失严重，语句不通顺，语法错误百出，无法准确表达意思"
+      }
+    ]
+  },
+  "sampleEssays": [
+    {
+      "scene": "参加社区环保志愿活动",
+      "title": "A Meaningful Volunteer Activity",
+      "requirements": "请以“A Meaningful Volunteer Activity”为题，写一篇不少于100词的短文，介绍你参加社区环保志愿活动的经历，包括：1. 活动时间和地点；2. 活动内容；3. 你的感受。",
+      "essays": [
+        {
+          "level": "优秀范文",
+          "score": 19,
+          "content": "A Meaningful Volunteer Activity\nLast Sunday morning, I took part in an environmental protection volunteer activity in my community. It started at 9 o'clock and lasted for three hours.\nWhen I arrived at the community square, many volunteers were already there. We were divided into small groups. My group was responsible for picking up litter in the community park. We picked up plastic bottles, paper bags and food waste. Some of us also put up posters to remind people to protect the environment. After cleaning the park, we talked to the elderly residents about the importance of recycling.\nThis activity made me realize that small actions can make a big difference to our environment. I felt proud of what I did, and I decided to do more volunteer work to make our community cleaner and more beautiful.",
+          "analysis": "覆盖所有要点，细节丰富；使用一般过去时准确，运用be divided into, be responsible for, make a difference等短语，词汇丰富；语法零错误，逻辑清晰，结尾升华情感。"
+        }
+      ]
+    },
+    {
+      "scene": "学习一项新技能（做手工）",
+      "title": "Learning to Make a Paper Crane",
+      "requirements": "请以“Learning to Make a Paper Crane”为题，写一篇不少于100词的短文，描述你学习折千纸鹤的过程，包括：1. 你为什么想学；2. 学习过程中的困难；3. 学会后的感受。",
+      "essays": [
+        {
+          "level": "优秀范文",
+          "score": 20,
+          "content": "Learning to Make a Paper Crane\nI have always loved paper crafts, so last month I decided to learn how to make a paper crane. I thought it was a beautiful symbol of peace and hope, and I wanted to make one for my grandma's birthday.\nAt first, it was much harder than I thought. I watched a video tutorial many times, but I still couldn't fold the paper correctly. My fingers felt clumsy, and I almost gave up. But my mom encouraged me to keep trying. She sat with me and showed me step by step how to fold the wings and the tail. After two hours of practice, I finally made a perfect paper crane!\nHolding the paper crane in my hand, I felt so excited and proud. It taught me that patience and persistence are the keys to learning new things. I made ten more paper cranes and gave them to my grandma, who was very happy.",
+          "analysis": "内容完整，情感真挚；使用现在完成时、一般过去时准确，运用tutorial, clumsy, persistence等词汇，句型多样（宾语从句、状语从句）；语法无误，逻辑连贯，细节描写生动。"
+        }
+      ]
+    },
+    {
+      "scene": "帮助家人做家务",
+      "title": "Helping My Mom with Housework",
+      "requirements": "请以“Helping My Mom with Housework”为题，写一篇不少于100词的短文，讲述你帮妈妈做家务的经历，包括：1. 你做了哪些家务；2. 做家务的感受；3. 你对做家务的看法。",
+      "essays": [
+        {
+          "level": "优秀范文",
+          "score": 19,
+          "content": "Helping My Mom with Housework\nLast Saturday, my mom was feeling tired after a busy week, so I decided to help her with the housework. I wanted to let her have a good rest.\nFirst, I swept the floor and mopped it carefully. Then I cleaned the windows. It was not easy to make them clean and shiny, but I tried my best. After that, I washed the dishes and tidied up the living room. When my mom woke up from her nap, she was surprised to see the clean house. She hugged me and said I was a grown-up girl.\nDoing housework made me feel tired, but it also made me understand how hard my mom works every day. I think it's everyone's duty to share housework in the family. From now on, I will help my parents with housework more often.",
+          "analysis": "要点齐全，情感真实；使用first, then, after that等连接词，逻辑清晰；词汇如mop, shiny, grown-up等使用恰当，语法正确，结尾体现成长感悟。"
+        }
+      ]
+    },
+    {
+      "scene": "一次难忘的学校运动会",
+      "title": "An Unforgettable School Sports Meeting",
+      "requirements": "请以“An Unforgettable School Sports Meeting”为题，写一篇不少于100词的短文，描述你参加学校运动会的经历，包括：1. 你参加的项目；2. 比赛过程；3. 你的收获。",
+      "essays": [
+        {
+          "level": "优秀范文",
+          "score": 20,
+          "content": "An Unforgettable School Sports Meeting\nLast month, our school held a sports meeting, and I took part in the 800-meter race. It was a challenging event for me because I was not good at long-distance running.\nAt the start of the race, I ran fast to keep up with the other runners. But after 400 meters, I felt tired and my legs hurt. I wanted to stop, but I heard my classmates cheering for me loudly. Their encouragement gave me strength. I kept running and tried my best to finish the race. Finally, I got the third place!\nThis sports meeting was unforgettable. I learned that perseverance is important, and the support from friends and classmates is priceless. Even though I was tired, I felt proud of myself. It also made me realize that sports can bring us joy and team spirit.",
+          "analysis": "内容完整，情节生动；使用过去时准确，运用challenging, perseverance, priceless等词汇，句型有变化（原因状语从句、让步状语从句）；语法无误，情感表达真挚。"
+        }
+      ]
+    },
+    {
+      "scene": "参观上海博物馆",
+      "title": "A Visit to Shanghai Museum",
+      "requirements": "请以“A Visit to Shanghai Museum”为题，写一篇不少于100词的短文，介绍你参观上海博物馆的经历，包括：1. 参观时间和同行的人；2. 馆内印象最深的展品；3. 参观后的感受。",
+      "essays": [
+        {
+          "level": "优秀范文",
+          "score": 19,
+          "content": "A Visit to Shanghai Museum\nLast weekend, I visited Shanghai Museum with my parents. It is located in the center of Shanghai, and it is one of the most famous museums in China.\nWe spent three hours in the museum. There were many amazing exhibits, such as ancient Chinese paintings, bronze wares and porcelain. The exhibit that impressed me most was a blue and white porcelain vase from the Ming Dynasty. It was so beautiful and delicate that I couldn't take my eyes off it. I also listened to the guide's introduction carefully and learned a lot about Chinese history and culture.\nThis visit was a wonderful experience. It made me proud of our rich cultural heritage. I think everyone should visit museums to learn more about our history and cherish our traditional culture.",
+          "analysis": "覆盖所有要点，地点、展品描写具体；使用被动语态、定语从句等句型，词汇如bronze wares, porcelain, delicate等专业且准确；语法正确，逻辑清晰，文化感悟深刻。"
+        }
+      ]
+    },
+    {
+      "scene": "养宠物的经历",
+      "title": "My Pet Dog",
+      "requirements": "请以“My Pet Dog”为题，写一篇不少于100词的短文，介绍你的宠物狗，包括：1. 宠物狗的外貌和名字；2. 你和它的日常互动；3. 它给你带来的快乐。",
+      "essays": [
+        {
+          "level": "优秀范文",
+          "score": 20,
+          "content": "My Pet Dog\nI have a lovely pet dog named Doudou. He is a golden retriever, and he is two years old. He has soft golden fur and big round eyes. He is very friendly and always wags his tail when he sees me.\nEvery day after school, Doudou runs to the door to welcome me. I usually take him for a walk in the park for half an hour. He likes to play fetch with a ball, and he is very good at it. When I feel sad or tired, he lies beside me and licks my hand, which makes me feel better. I also feed him and clean his dog house every day.\nDoudou is not just a pet; he is a member of my family. He brings so much joy and happiness to my life. I love him very much and will take good care of him forever.",
+          "analysis": "内容详实，外貌、互动描写生动；使用一般现在时准确，运用wags his tail, play fetch, member of the family等短语，词汇丰富；语法无误，情感真挚，结尾升华主题。"
+        }
+      ]
+    },
+    {
+      "scene": "一次线上学习的经历",
+      "title": "My Online Learning Experience",
+      "requirements": "请以“My Online Learning Experience”为题，写一篇不少于100词的短文，描述你的线上学习经历，包括：1. 线上学习的原因；2. 学习过程中的优缺点；3. 你的收获。",
+      "essays": [
+        {
+          "level": "优秀范文",
+          "score": 19,
+          "content": "My Online Learning Experience\nLast term, because of the pandemic, we had to study online at home for two weeks. At first, I was a little nervous because I had never learned online before.\nOnline learning had both advantages and disadvantages. The good thing was that I could learn at my own pace. If I didn't understand a lesson, I could watch the video again. I also saved time on commuting to school. However, it was easy to get distracted by my phone or computer games. Sometimes I felt lonely because I couldn't talk to my classmates and teachers face to face.\nFrom this experience, I learned to be self-disciplined. I also realized how important it is to communicate with others. When I went back to school, I cherished the time with my classmates more.",
+          "analysis": "要点完整，优缺点分析清晰；使用连接词however, because等，逻辑连贯；词汇如pandemic, distracted, self-disciplined等使用恰当，语法正确，收获总结深刻。"
+        }
+      ]
+    },
+    {
+      "scene": "给外国朋友介绍上海的美食",
+      "title": "Delicious Food in Shanghai",
+      "requirements": "请以“Delicious Food in Shanghai”为题，写一篇不少于100词的短文，向你的外国朋友介绍上海的特色美食，包括：1. 你最喜欢的上海美食；2. 美食的特点；3. 推荐品尝的地点。",
+      "essays": [
+        {
+          "level": "优秀范文",
+          "score": 20,
+          "content": "Delicious Food in Shanghai\nDear Tom, I'm glad to tell you about the delicious food in Shanghai. My favorite Shanghai food is xiaolongbao (steamed buns). It is a famous local snack that you must try when you come to Shanghai.\nXiaolongbao has thin skin and juicy filling. The filling is usually made of pork and soup, and it tastes sweet and savory. When you eat it, you should be careful not to burn your mouth with the hot soup inside. Besides xiaolongbao, shengjian mantou (pan-fried buns) is also very popular. It has a crispy bottom and soft top.\nIf you want to taste authentic xiaolongbao, I recommend going to Nanxiang Steamed Bun Restaurant in Yu Garden. The food there is delicious and the environment is also traditional. I'm sure you will love Shanghai's food!",
+          "analysis": "对象明确，美食介绍具体；使用祈使句、定语从句等句型，词汇如savory, crispy, authentic等准确；语法无误，推荐地点清晰，语言亲切自然。"
+        }
+      ]
+    },
+    {
+      "scene": "参加英语演讲比赛",
+      "title": "My First English Speech Contest",
+      "requirements": "请以“My First English Speech Contest”为题，写一篇不少于100词的短文，讲述你第一次参加英语演讲比赛的经历，包括：1. 比赛前的准备；2. 比赛过程；3. 你的感受和收获。",
+      "essays": [
+        {
+          "level": "优秀范文",
+          "score": 19,
+          "content": "My First English Speech Contest\nLast month, I took part in my first English speech contest at school. The topic was “My Dream”. I was very excited but also nervous.\nBefore the contest, I practiced my speech every day after school. My English teacher helped me correct my pronunciation and grammar mistakes. I also practiced speaking in front of my family to build up my confidence. On the day of the contest, I was the fifth speaker. When I stood on the stage, I took a deep breath and started my speech.\nAlthough I didn't win the first prize, I got the third prize. I felt very proud of myself. This contest made me improve my English speaking skills and become more confident. I learned that practice makes perfect, and I will take part in more such activities in the future.",
+          "analysis": "内容完整，准备、比赛过程描写详细；使用build up my confidence, practice makes perfect等谚语和短语，词汇丰富；语法正确，情感表达真实，收获总结到位。"
+        }
+      ]
+    },
+    {
+      "scene": "周末去滨江大道散步",
+      "title": "A Walk Along the Binjiang Avenue",
+      "requirements": "请以“A Walk Along the Binjiang Avenue”为题，写一篇不少于100词的短文，描述你周末去滨江大道散步的经历，包括：1. 散步的时间和同行的人；2. 滨江大道的景色；3. 你的感受。",
+      "essays": [
+        {
+          "level": "优秀范文",
+          "score": 20,
+          "content": "A Walk Along the Binjiang Avenue\nLast Sunday afternoon, I took a walk along the Binjiang Avenue with my grandparents. The weather was sunny and warm, which made it a perfect day for a walk.\nThe Binjiang Avenue is one of the most beautiful places in Shanghai. We walked along the Huangpu River, and we could see the Oriental Pearl Tower and the Shanghai World Financial Center on the opposite bank. There were many people there: some were taking photos, some were flying kites, and some were sitting on the benches chatting. The breeze from the river made us feel very comfortable.\nThis walk was very relaxing. I enjoyed the beautiful scenery and the time with my grandparents. It made me realize how beautiful our city is, and I love Shanghai more than ever.",
+          "analysis": "景色描写生动，感官体验丰富；使用非限制性定语从句、并列句等句型，词汇如breeze, opposite bank等准确；语法无误，情感真挚，体现对家乡的热爱。"
+        }
+      ]
+    },
+    {
+      "scene": "学习骑自行车",
+      "title": "Learning to Ride a Bike",
+      "requirements": "请以“Learning to Ride a Bike”为题，写一篇不少于100词的短文，描述你学习骑自行车的过程，包括：1. 学习的原因；2. 遇到的困难和解决方法；3. 学会后的心情。",
+      "essays": [
+        {
+          "level": "优秀范文",
+          "score": 19,
+          "content": "Learning to Ride a Bike\nWhen I was ten years old, I wanted to learn to ride a bike because all my friends could ride one. My dad bought me a small bike and decided to teach me.\nAt first, I was afraid of falling down. I held the handlebars tightly and didn't dare to pedal hard. I fell off the bike twice, and I wanted to give up. But my dad encouraged me and held the back of the bike to help me keep balance. He told me to look forward and relax. After a few days of practice, I could ride the bike by myself!\nI felt so excited and free when I rode the bike along the street. It was one of the happiest moments in my childhood. Learning to ride a bike taught me that courage and practice can help us overcome difficulties.",
+          "analysis": "过程描写详细，情感真实；使用when引导的时间状语从句、宾语从句等，词汇如handlebars, pedal, balance等准确；语法无误，逻辑连贯，感悟深刻。"
+        }
+      ]
+    },
+    {
+      "scene": "参加生日派对",
+      "title": "My Best Friend's Birthday Party",
+      "requirements": "请以“My Best Friend's Birthday Party”为题，写一篇不少于100词的短文，讲述你参加好友生日派对的经历，包括：1. 派对的时间和地点；2. 派对的活动；3. 你的感受。",
+      "essays": [
+        {
+          "level": "优秀范文",
+          "score": 20,
+          "content": "My Best Friend's Birthday Party\nLast Saturday evening, I went to my best friend Lily's birthday party at her home. All our classmates were invited, and we brought many gifts for her.\nWhen we arrived, Lily's mom had prepared a big birthday cake and lots of delicious food, such as pizza, fruit salad and cupcakes. First, we sang the birthday song for Lily, and she made a wish and blew out the candles. Then we played games like truth or dare and musical chairs. We laughed and talked happily. I gave Lily a handmade notebook, and she said it was her favorite gift.\nThis party was so much fun. I was happy to share Lily's special day with her. It made me realize how important friendship is. I hope our friendship will last forever.",
+          "analysis": "派对活动描写生动，细节丰富；使用first, then等连接词，逻辑清晰；词汇如truth or dare, musical chairs等准确，语法无误，情感真挚，体现友谊的珍贵。"
+        }
+      ]
+    },
+    {
+      "scene": "在图书馆看书",
+      "title": "A Day in the Library",
+      "requirements": "请以“A Day in the Library”为题，写一篇不少于100词的短文，描述你在图书馆度过的一天，包括：1. 去图书馆的原因；2. 图书馆的环境和你的活动；3. 你的收获。",
+      "essays": [
+        {
+          "level": "优秀范文",
+          "score": 19,
+          "content": "A Day in the Library\nLast Saturday, I spent the whole day in the Shanghai Library because I needed to finish a book report for my Chinese class. I love reading, so I was very happy to have a quiet day to read.\nThe library was very quiet and clean. There were many books on the shelves, and I found the book I needed quickly. I sat by the window and read carefully. When I felt tired, I walked around and looked at other books. I also borrowed a few English storybooks to read at home. The librarians were very kind and helped me find the books I wanted.\nThis day in the library was very productive. I finished my book report and found many interesting books to read. I learned that the library is a great place to study and learn new things. I will go to the library more often in the future.",
+          "analysis": "内容完整，环境描写到位；使用because引导的原因状语从句，词汇如productive, shelves等准确；语法无误，逻辑清晰，收获总结合理。"
+        }
+      ]
+    },
+    {
+      "scene": "参加植树活动",
+      "title": "Planting Trees with My Classmates",
+      "requirements": "请以“Planting Trees with My Classmates”为题，写一篇不少于100词的短文，讲述你和同学参加植树活动的经历，包括：1. 活动的时间和地点；2. 植树的过程；3. 你的感受。",
+      "essays": [
+        {
+          "level": "优秀范文",
+          "score": 20,
+          "content": "Planting Trees with My Classmates\nOn Tree Planting Day, my classmates and I went to a park in the suburbs of Shanghai to plant trees. Our teacher told us that planting trees is good for the environment.\nFirst, we dug holes with shovels. It was hard work, and we were all sweating after a while. Then we put the young trees into the holes and filled them with soil. After that, we watered the trees carefully. We worked together and helped each other. In the end, we planted 20 trees. We also put small signs on the trees with our names on them.\nI felt very tired but happy. Looking at the young trees we planted, I thought they would grow into big trees and make our city greener. This activity taught me the importance of protecting the environment and working as a team.",
+          "analysis": "植树过程描写详细，动作连贯；使用first, then, after that等连接词，词汇如suburbs, shovels, soil等准确；语法无误，情感真挚，体现团队合作和环保意识。"
+        }
+      ]
+    },
+    {
+      "scene": "给贫困地区孩子捐赠书籍",
+      "title": "Donating Books to Children in Poor Areas",
+      "requirements": "请以“Donating Books to Children in Poor Areas”为题，写一篇不少于100词的短文，讲述你给贫困地区孩子捐赠书籍的经历，包括：1. 捐赠的原因；2. 捐赠的过程；3. 你的感受。",
+      "essays": [
+        {
+          "level": "优秀范文",
+          "score": 19,
+          "content": "Donating Books to Children in Poor Areas\nLast month, our school organized an activity to donate books to children in poor areas. I decided to donate some of my favorite books because I wanted to share the joy of reading with them.\nI chose 10 books, including storybooks, science books and English picture books. I wrote a short note in each book, hoping the children would like them. Then I took the books to school and put them into the donation box. Many other students also donated their books, and the box was full in one day.\nThis activity made me feel very happy. I think books are precious gifts, and they can help children in poor areas learn more knowledge. I hope the books can bring them happiness and open up a new world for them. I will continue to donate books and help others in the future.",
+          "analysis": "捐赠原因和过程清晰，情感真挚；使用including, hope that等结构，词汇如precious, open up等准确；语法无误，逻辑连贯，体现爱心和分享精神。"
+        }
+      ]
+    },
+    {
+      "scene": "学习做一道上海本帮菜",
+      "title": "Learning to Cook a Shanghai Local Dish",
+      "requirements": "请以“Learning to Cook a Shanghai Local Dish”为题，写一篇不少于100词的短文，描述你学习做上海本帮菜的过程，包括：1. 你学做的菜品；2. 做菜的过程；3. 你的感受。",
+      "essays": [
+        {
+          "level": "优秀范文",
+          "score": 20,
+          "content": "Learning to Cook a Shanghai Local Dish\nLast weekend, my grandma taught me to cook braised pork, a famous Shanghai local dish. It is my favorite dish, and I wanted to learn how to make it for my family.\nFirst, we cut the pork into small pieces and boiled it to remove the blood. Then we put some oil in the pan and fried the pork until it turned golden. Next, we added soy sauce, sugar and water, and cooked it slowly for about an hour. The smell was so delicious that I couldn't wait to taste it. Finally, we put the braised pork on a plate.\nWhen my family ate the dish, they all said it was delicious. I felt very proud of myself. Learning to cook this dish made me understand the charm of Shanghai's food culture. I want to learn more local dishes and cook for my family.",
+          "analysis": "做菜步骤描写详细，感官描写生动；使用first, then, next等连接词，词汇如braised pork, soy sauce等准确；语法无误，情感真挚，体现对家乡美食文化的理解。"
+        }
+      ]
+    },
+    {
+      "scene": "参加社区敬老活动",
+      "title": "Helping the Elderly in My Community",
+      "requirements": "请以“Helping the Elderly in My Community”为题，写一篇不少于100词的短文，讲述你参加社区敬老活动的经历，包括：1. 活动的时间和内容；2. 你为老人做的事情；3. 你的感受。",
+      "essays": [
+        {
+          "level": "优秀范文",
+          "score": 19,
+          "content": "Helping the Elderly in My Community\nLast Sunday, I took part in an activity to help the elderly in my community. Many volunteers, including students and parents, joined the activity.\nI was paired with an 80-year-old grandma who lived alone. First, I helped her clean her house, including sweeping the floor and wiping the windows. Then I talked to her and listened to her stories about her life. She told me many interesting things about old Shanghai, and I learned a lot. I also sang some old songs for her, and she clapped her hands and sang with me.\nThis activity made me feel warm and happy. I think the elderly need care and company, and we should spend more time with them. I will visit the grandma again and do what I can to help her.",
+          "analysis": "活动内容具体，与老人的互动描写感人；使用be paired with, company等词汇，句型多样；语法无误，逻辑清晰，体现尊老爱老的美德。"
+        }
+      ]
+    },
+    {
+      "scene": "一次难忘的旅行（迪士尼）",
+      "title": "An Unforgettable Trip to Shanghai Disneyland",
+      "requirements": "请以“An Unforgettable Trip to Shanghai Disneyland”为题，写一篇不少于100词的短文，描述你去上海迪士尼的旅行，包括：1. 旅行的时间和同行的人；2. 你最喜欢的项目；3. 你的感受。",
+      "essays": [
+        {
+          "level": "优秀范文",
+          "score": 20,
+          "content": "An Unforgettable Trip to Shanghai Disneyland\nLast summer vacation, I went to Shanghai Disneyland with my family. It was one of the most exciting trips I have ever had.\nThere were many interesting rides and shows in Disneyland. My favorite ride was the Pirates of the Caribbean. It was so realistic that I felt like I was really on a pirate ship. I also watched the parade of Disney characters, and I took photos with Mickey Mouse and Minnie Mouse. At night, we watched the fireworks show above the castle. It was so beautiful that I couldn't stop taking pictures.\nThis trip was unforgettable. I had a great time with my family, and I felt like I was in a fairy tale world. It was a wonderful experience, and I hope to go there again next year.",
+          "analysis": "旅行体验描写生动，感官体验丰富；使用最高级、定语从句等句型，词汇如realistic, parade, fireworks等准确；语法无误，情感真挚，体现旅行的快乐。"
+        }
+      ]
+    },
+    {
+      "scene": "参加书法兴趣班",
+      "title": "Learning Chinese Calligraphy",
+      "requirements": "请以“Learning Chinese Calligraphy”为题，写一篇不少于100词的短文，描述你学习书法的经历，包括：1. 学习的原因；2. 学习过程中的困难；3. 你的收获。",
+      "essays": [
+        {
+          "level": "优秀范文",
+          "score": 19,
+          "content": "Learning Chinese Calligraphy\nThis term, I joined a Chinese calligraphy interest class at school. I wanted to learn calligraphy because I think it is a beautiful traditional Chinese art.\nAt first, it was very difficult for me to hold the writing brush correctly. My hands shook, and the characters I wrote were messy. My teacher taught me how to hold the brush and practice basic strokes every day. I practiced for an hour after school every day, and my fingers hurt sometimes. But I didn't give up.\nAfter two months of practice, my calligraphy has improved a lot. I can write some simple characters neatly and beautifully. Learning calligraphy taught me to be patient and careful. It also made me appreciate the beauty of Chinese characters and traditional culture. I will keep learning calligraphy and pass on this traditional art.",
+          "analysis": "学习过程和困难描写真实，收获总结深刻；使用because引导的原因状语从句，词汇如calligraphy, strokes, appreciate等准确；语法无误，逻辑连贯，体现对传统文化的热爱。"
+        }
+      ]
+    },
+    {
+      "scene": "帮助同学解决学习困难",
+      "title": "Helping My Classmate with English Study",
+      "requirements": "请以“Helping My Classmate with English Study”为题，写一篇不少于100词的短文，讲述你帮助同学学习英语的经历，包括：1. 同学遇到的困难；2. 你帮助的方式；3. 你的感受。",
+      "essays": [
+        {
+          "level": "优秀范文",
+          "score": 20,
+          "content": "Helping My Classmate with English Study\nLast month, I found that my classmate Li Ming was worried about his English study. He had trouble remembering new words and understanding English grammar.\nI decided to help him. Every day after school, we studied English together for half an hour. I taught him some good ways to remember words, such as making word cards and reading words aloud. I also explained difficult grammar points to him and did exercises with him. When he made mistakes, I corrected them patiently and encouraged him to keep trying.\nAfter three weeks, Li Ming's English improved a lot. He got a good score in the English test, and he was very happy. I felt proud of him, and I also learned that helping others is a happy thing. It made our friendship stronger, and I will continue to help my classmates in need.",
+          "analysis": "帮助方式具体，过程描写详细；使用such as, when引导的时间状语从句等，词汇如grammar points, patiently等准确；语法无误，情感真挚，体现互助精神和友谊。"
+        }
+      ]
+    }
+  ],
+  "tags": ["上海中考", "英语作文", "真实场景", "满分范文"],
+  "wordCount": {
+    "required": 100,
+    "suggested": "100-120"
+  },
+  "timeLimit": "30分钟"
+}

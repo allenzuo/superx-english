@@ -1,0 +1,733 @@
+{
+  "grammar_topics": [
+    {
+      "id": "numerals",
+      "name": "4-数词-四类数词经典解析",
+      "icon": "number",
+      "color": "#2ecc71",
+      "lessons": [
+        {
+          "id": "numerals_1",
+          "title": "1-基数词的用法",
+          "content": "### 基数词的核心定义\n基数词是表示**数量多少**的数词，是英语数词的基础，可表示人数、物品数、时间、年龄、金额等，是初中英语数词的基础考点，也是中考单句、语篇填空、阅读理解的高频考查点。\n\n### 基数词的基本构成（中考必考）\n#### 1. 1-12：独立成词，需逐个熟记\none, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve\n\n#### 2. 13-19：以-teen结尾，注意拼写和发音\nthirteen, fourteen, fifteen（特殊）, sixteen, seventeen, eighteen（特殊）, nineteen\n**易错点**：fifteen无e，eighteen只有一个t，避免写成fiveteen/eightteen。\n\n#### 3. 20-90整十数：以-ty结尾\ntwenty, thirty（特殊）, forty（无u，易错）, fifty（特殊）, sixty, seventy, eighty, ninety\n**易错点**：thirty不是threety，forty不是fourty，fifty不是fivety。\n\n#### 4. 21-99非整十数：“整十数+连字符+个位”\ntwenty-one, thirty-five, forty-eight, seventy-nine, ninety-six\n**注意**：连字符不可省略，如25不可写成twenty five。\n\n#### 5. 100-999：“百位+and+十位/个位”（英式），美式可省略and\n105：one hundred and five（英式）/one hundred five（美式）\n289：two hundred and eighty-nine\n999：nine hundred and ninety-nine\n**注意**：hundred后不加s（前有具体数字时），如three hundred（三百），不可写成three hundreds。\n\n#### 6. 1000以上：千（thousand）、百万（million）、十亿（billion）分级\n1,000：one thousand\n2,500：two thousand five hundred（无and）\n1,000,000：one million\n3,800,000：three million eight hundred thousand\n**核心规则**：thousand/million/billion前有具体数字时，不加s；表“数以千计/百万计”时，加s+of，如thousands of（成千上万）、millions of（数百万）。\n\n### 基数词的核心用法\n#### 1. 表示数量、年龄、时间\n- 数量：There are fifty students in our class.（我们班有50名学生）\n- 年龄：He is eighteen years old.（他18岁）/ He is an eighteen-year-old boy.（复合形容词，year用单数）\n- 时间：It’s seven o’clock.（七点）/ I get up at six thirty.（六点半）\n\n#### 2. 表示金额\n- 整数：ten yuan（十元）、fifteen dollars（十五美元）\n- 小数：three point five yuan（3.5元）、eight point nine dollars（8.9美元）\n\n#### 3. 表示编号（与序数词区分）\n基数词表编号时，放名词后，首字母大写（或数字+名词）：\nRoom 302（302房间）、Class Five（五班）、Grade Nine（九年级）、Page 18（第18页）\n**对比**：the third room（第三个房间，序数词+名词）\n\n#### 4. 表示倍数（基础）\n基数词+times表“几倍”，如twice（两倍，特殊）、three times（三倍）、five times（五倍）\n例：This box is three times bigger than that one.（这个盒子比那个大三倍）\n\n#### 5. 固定搭配\n- hundreds of（成百上千）、thousands of（成千上万）、millions of（数百万）\n- in one’s + 整十数复数：in his twenties（在他二十多岁时）、in her fifties（在她五十多岁时）\n\n### 基数词的使用禁忌\n1. hundred/thousand/million前有具体数字时，不可加s，如：错→five hundreds；对→five hundred；\n2. 表示“几十多岁”时，整十数必须用复数，如：错→in her thirty；对→in her thirties；\n3. 复合形容词中，基数词后的名词用单数，如：错→a ten-years-old boy；对→a ten-year-old boy。",
+          "examples": [
+            {
+              "sentence": "There are thirty-six students in our class.",
+              "translation": "我们班有36名学生。",
+              "analysis": "36是21-99非整十数，由“整十数thirty+连字符+个位six”构成，连字符不可省略，表具体数量。"
+            },
+            {
+              "sentence": "He bought a new phone for five hundred and eighty yuan.",
+              "translation": "他花580元买了一部新手机。",
+              "analysis": "580是百位数字，英式表达为five hundred and eighty，hundred前有具体数字five，不加s；表金额时，yuan无复数。"
+            },
+            {
+              "sentence": "Thousands of people come to the park every weekend.",
+              "translation": "每周有成千上万的人来这个公园。",
+              "analysis": "thousands of表“成千上万”，是固定搭配，此时thousand加s+of，不可写成thousand of或three thousands of。"
+            },
+            {
+              "sentence": "She is an eighteen-year-old girl who likes reading.",
+              "translation": "她是一个18岁的喜欢读书的女孩。",
+              "analysis": "eighteen-year-old是复合形容词，修饰girl，其中year用单数，不可写成eighteen-years-old。"
+            },
+            {
+              "sentence": "My father is in his forties now.",
+              "translation": "我爸爸现在四十多岁了。",
+              "analysis": "in one’s forties表“在四十多岁时”，整十数forty用复数形式forties，不可写成in his forty。"
+            },
+            {
+              "sentence": "We will have a test on Page 105 tomorrow.",
+              "translation": "我们明天要考105页的内容。",
+              "analysis": "Page 105是基数词表编号，放名词Page后，表“第105页”，也可写成the 105th page（序数词）。"
+            },
+            {
+              "sentence": "This river is two thousand meters long.",
+              "translation": "这条河有2000米长。",
+              "translation": "2000是千位数，表达为two thousand，thousand前有具体数字two，不加s；meter表长度，前有具体数字，用复数meters。"
+            },
+            {
+              "sentence": "He plays basketball three times a week.",
+              "translation": "他一周打三次篮球。",
+              "analysis": "three times表“三次”，基数词three+times表次数，是固定用法，twice表“两次”为特殊形式。"
+            },
+            {
+              "sentence": "There are eight million people in this city.",
+              "translation": "这座城市有800万人口。",
+              "analysis": "800万表达为eight million，million前有具体数字eight，不加s；若表“数百万”，则为millions of。"
+            },
+            {
+              "sentence": "I live in Room 508, Building 9.",
+              "translation": "我住在9号楼508房间。",
+              "analysis": "Room 508、Building 9是基数词表编号，放名词后，首字母大写，表具体的房间/楼栋编号。"
+            }
+          ],
+          "exercises": [
+            {
+              "question": "There are ___ days in a week.",
+              "options": {"A": "seven", "B": "seventh", "C": "the seventh"},
+              "answer": "A",
+              "explanation": "表“一周有7天”，7是具体数量，用基数词seven；seventh是序数词，表“第七”，不符合句意。"
+            },
+            {
+              "question": "My grandmother is in her ___ now.",
+              "options": {"A": "eighty", "B": "eighties", "C": "eightieth"},
+              "answer": "B",
+              "explanation": "in one’s eighties表“在八十多岁时”，整十数用复数形式，eighty是基数词单数，eightieth是序数词，均不符合。"
+            },
+            {
+              "question": "___ people took part in the activity last week.",
+              "options": {"A": "Five hundred", "B": "Five hundreds", "C": "Five hundred of"},
+              "answer": "A",
+              "explanation": "hundred前有具体数字five，不加s，也不加of；hundreds of表“数百”，前无具体数字。"
+            },
+            {
+              "question": "She is a ___ student in Grade Seven.",
+              "options": {"A": "twelve-year-old", "B": "twelve-years-old", "C": "twelve year old"},
+              "answer": "A",
+              "explanation": "twelve-year-old是复合形容词，修饰student，其中year用单数，连字符不可省略；twelve-years-old形式错误。"
+            },
+            {
+              "question": "The number of the students in our school is about two ___.",
+              "options": {"A": "thousand", "B": "thousands", "C": "thousands of"},
+              "answer": "A",
+              "explanation": "two thousand表“两千”，thousand前有具体数字two，不加s；thousands of前无具体数字，表“成千上万”。"
+            },
+            {
+              "question": "I live on ___ floor of that building.",
+              "options": {"A": "forty", "B": "the forty", "C": "the fortieth"},
+              "answer": "C",
+              "explanation": "表“第四十层”，用序数词the fortieth；forty是基数词，表数量，不可表楼层编号（序数含义）。"
+            },
+            {
+              "question": "___ of trees are planted in the park every year.",
+              "options": {"A": "Million", "B": "Millions", "C": "Million of"},
+              "answer": "B",
+              "explanation": "millions of表“数百万”，是固定搭配，million需加s+of；前无具体数字时，不可用million原形。"
+            },
+            {
+              "question": "The little boy is ___ years old today. We will have a party for him.",
+              "options": {"A": "nine", "B": "ninth", "C": "the ninth"},
+              "answer": "A",
+              "explanation": "表“9岁”，用基数词nine；ninth是序数词，表“第九”，如the ninth birthday（第九个生日）。"
+            },
+            {
+              "question": "Our school is on ___ Street.",
+              "options": {"A": "the Fiftieth", "B": "Fiftieth", "C": "Fifty"},
+              "answer": "C",
+              "explanation": "基数词表编号时，放名词后，如Fifty Street（第五十大街）；序数词表编号需加the，如the 50th Street。"
+            },
+            {
+              "question": "This book costs eighty ___ and fifty ___.",
+              "options": {"A": "yuan; cent", "B": "yuans; cents", "C": "yuan; cents"},
+              "answer": "C",
+              "explanation": "yuan是人民币单位，无复数；cent是美分单位，前有fifty，用复数cents。"
+            },
+            {
+              "question": "He has read ___ books this term.",
+              "options": {"A": "forty five", "B": "forty-five", "C": "forty-fives"},
+              "answer": "B",
+              "explanation": "45是21-99非整十数，由“forty+连字符+five”构成，连字符不可省略，无复数形式。"
+            },
+            {
+              "question": "___ workers are needed to finish the work in time.",
+              "options": {"A": "Two hundred and eighty", "B": "Two hundreds and eighty", "C": "Two hundred eighty"},
+              "answer": "A",
+              "explanation": "280的英式表达为two hundred and eighty，hundred前有具体数字，不加s；美式可省略and，但选项中无此形式，故选A。"
+            },
+            {
+              "sentence": "She goes to see her grandparents ___ a month.",
+              "translation": "她一个月去看爷爷奶奶两次。",
+              "analysis": "twice表“两次”，是基数词表次数的特殊形式，不可写成two times（虽可理解，但twice更规范）。"
+            },
+            {
+              "question": "The park is about ___ kilometers away from my home.",
+              "options": {"A": "three point five", "B": "three points five", "C": "three and five"},
+              "answer": "A",
+              "explanation": "3.5公里的英文表达为three point five kilometers，小数点用point，不可用points或and。"
+            },
+            {
+              "question": "There are ___ months in a year. December is the ___ month.",
+              "options": {"A": "twelve; twelve", "B": "twelve; twelfth", "C": "twelfth; twelve"},
+              "answer": "B",
+              "explanation": "第一空表“12个月”，用基数词twelve；第二空表“第十二个月”，用序数词twelfth。"
+            },
+            {
+              "question": "___ people lost their homes in the flood last year.",
+              "options": {"A": "A thousand of", "B": "Thousand of", "C": "Thousands of"},
+              "answer": "C",
+              "explanation": "thousands of表“成千上万”，是固定搭配；a thousand后直接加名词，不加of，如a thousand people。"
+            },
+            {
+              "question": "He is a ___ man who has three children.",
+              "options": {"A": "thirty five year old", "B": "thirty-five-year-old", "C": "thirty-five-years-old"},
+              "answer": "B",
+              "explanation": "thirty-five-year-old是复合形容词，修饰man，year用单数，连字符不可省略；thirty-five-years-old形式错误。"
+            },
+            {
+              "question": "We have learned ___ English words since last term.",
+              "options": {"A": "five hundred and twenty", "B": "five hundreds and twenty", "C": "five hundred twenty"},
+              "answer": "A",
+              "explanation": "520的英式表达为five hundred and twenty，hundred前有具体数字，不加s；美式可省略and，但选项中A更规范。"
+            },
+            {
+              "question": "My brother was born in 2005. He is ___ years old in 2024.",
+              "options": {"A": "nineteen", "B": "nineteenth", "C": "the nineteenth"},
+              "answer": "A",
+              "explanation": "2024-2005=19，表“19岁”，用基数词nineteen；nineteenth是序数词，表“第十九”，不符合。"
+            },
+            {
+              "question": "There are ___ stars in the sky at night.",
+              "options": {"A": "billion of", "B": "billions of", "C": "billion"},
+              "answer": "B",
+              "explanation": "billions of表“数十亿”，是固定搭配，billion加s+of；前无具体数字时，不可用billion原形。"
+            },
+            {
+              "question": "Class ___ is on the second floor of the teaching building.",
+              "options": {"A": "Six", "B": "Sixth", "C": "the Sixth"},
+              "answer": "A",
+              "explanation": "基数词表班级编号，放名词Class后，首字母大写，即Class Six；序数词表编号需加the，如the Sixth Class。"
+            }
+          ]
+        },
+        {
+          "id": "numerals_2",
+          "title": "2-序数词的用法",
+          "content": "### 序数词的核心定义\n序数词是表示**顺序、位次**的数词，回答“第几”的问题，是初中英语数词的重点考点，中考单句、语篇填空、书面表达中均会高频考查，需重点掌握构成和用法。\n\n### 序数词的基本构成（中考必考，按规则记忆）\n#### 1. 1-3：特殊变化，需单独记忆\nfirst (1st)、second (2nd)、third (3rd)\n\n#### 2. 4-19：基数词+th，注意特殊拼写\nfourth (4th)、fifth (5th，five→fifth，去ve加f)、sixth (6th)、seventh (7th)、eighth (8th，eight→eighth，加h不加t)、ninth (9th，nine→ninth，去e)、tenth (10th)、eleventh (11th)、twelfth (12th，twelve→twelfth，去ve加f)\n**易错点**：fifth不是fiveth，eighth不是eightth，ninth不是nineth，twelfth不是twelveth。\n\n#### 3. 20-90整十数：基数词y变i+eth\ntwentieth (20th)、thirtieth (30th)、fortieth (40th)、fiftieth (50th)、sixtieth (60th)、seventieth (70th)、eightieth (80th)、ninetieth (90th)\n**易错点**：fortieth不是fourtieth，fiftieth不是fivetieth。\n\n#### 4. 21-99非整十数：“整十序数词+连字符+个位基数词”\ntwenty-first (21st)、thirty-fifth (35th)、forty-eighth (48th)、seventy-ninth (79th)、ninety-sixth (96th)\n**注意**：仅整十部分变序数词，个位仍用基数词，连字符不可省略。\n\n#### 5. 100及以上：“基数词+hundredth/thousandth”\none hundredth (100th)、two hundred and thirty-fourth (234th)、one thousandth (1000th)\n\n### 序数词的核心用法\n#### 1. 表顺序，前必须加the（除非有物主代词/名词所有格）\n- 基础用法：the first day（第一天）、the third floor（三楼）、the twentieth century（二十世纪）\n- 物主代词修饰：my first book（我的第一本书，有my，省略the）、Tom’s second bike（汤姆的第二辆自行车，有Tom’s，省略the）\n\n#### 2. 表日期（中考高频）\n- 英式：日（序数词）+月+年，如the fifth of May, 2024（2024年5月5日）\n- 美式：月+日（序数词）+年，如May fifth, 2024 / May 5th, 2024\n**注意**：日期中的序数词可缩写，如1st（first）、2nd（second）、3rd（third）、4th（fourth）。\n\n#### 3. 表“分数中的分子/分母”（分母≥2时用序数词复数）\n1/2：one second（正式）/a half（常用）\n1/3：one third\n2/5：two fifths（分母fifth加s）\n7/8：seven eighths\n**核心规则**：分子用基数词，分母用序数词，分子≥2时，分母加s。\n\n#### 4. 表“编号”（与基数词区分）\n序数词表编号时，放名词前，加the；基数词放名词后：\nthe fifth lesson（第五课）= Lesson Five\nthe tenth page（第十页）= Page Ten\n\n#### 5. 固定搭配\n- first of all（首先）、at first（起初）\n- for the first time（第一次）\n- in the second place（其次）\n\n### 序数词的使用注意事项\n1. 序数词前有物主代词（my/your）、名词所有格（Li Ming’s）时，省略the，如：错→the my first pen；对→my first pen；\n2. 序数词可作定语、表语、宾语，如：He is the first to arrive.（定语）、Today is the tenth.（表语）、I like the third.（宾语）；\n3. 序数词缩写形式：数字+序数词最后两个字母，如1st, 2nd, 3rd, 4th, 21st, 35th。",
+          "examples": [
+            {
+              "sentence": "January is the first month of the year.",
+              "translation": "一月是一年中的第一个月。",
+              "analysis": "first是序数词，表“第一”，修饰month，前加the表特指；序数词表顺序时，前必须加the（无限定词时）。"
+            },
+            {
+              "sentence": "She is the third student to finish the homework.",
+              "translation": "她是第三个完成作业的学生。",
+              "analysis": "third是序数词，表“第三”，前加the；不定式to finish the homework作后置定语，限定student，表特指。"
+            },
+            {
+              "sentence": "My birthday is on the fifth of June.",
+              "translation": "我的生日在6月5日。",
+              "analysis": "fifth是序数词，表日期中的“5日”，英式表达为the fifth of June，序数词前加the；美式可表达为June fifth。"
+            },
+            {
+              "sentence": "This is his second time to visit Beijing.",
+              "translation": "这是他第二次参观北京。",
+              "analysis": "second是序数词，前有物主代词his，省略the；若无his，需加the，即the second time。"
+            },
+            {
+              "sentence": "The twenty-first century is a time of rapid development.",
+              "translation": "21世纪是快速发展的时代。",
+              "analysis": "21世纪的序数词表达为the twenty-first century，21是非整十数，整十部分twenty变twentieth，个位用基数词one，连字符不可省略。"
+            },
+            {
+              "sentence": "He got the ninth place in the running race.",
+              "translation": "他在跑步比赛中得了第九名。",
+              "analysis": "ninth是序数词，表“第九名”，前加the；nine变ninth时，去e加th，不可写成nineth。"
+            },
+            {
+              "sentence": "The fourth lesson is about English grammar.",
+              "translation": "第四课是关于英语语法的。",
+              "analysis": "fourth是序数词，表“第四”，放名词lesson前，加the；也可表达为Lesson Four（基数词表编号）。"
+            },
+            {
+              "sentence": "For the first time, I felt proud of myself.",
+              "translation": "第一次，我为自己感到骄傲。",
+              "analysis": "for the first time是固定搭配，表“第一次”，first前加the，不可省略。"
+            },
+            {
+              "sentence": "She lives on the fortieth floor of the tall building.",
+              "translation": "她住在这栋高楼的第40层。",
+              "analysis": "40的序数词是fortieth，由基数词forty变y为i加eth构成，前加the表特指；不可写成fourtieth。"
+            },
+            {
+              "sentence": "Two thirds of the students in our class like music.",
+              "translation": "我们班三分之二的学生喜欢音乐。",
+              "analysis": "三分之二的表达为two thirds，分子two是基数词，分母third是序数词，分子≥2，分母加s；序数词表分数分母是核心用法。"
+            }
+          ],
+          "exercises": [
+            {
+              "question": "December is the ___ month of the year.",
+              "options": {"A": "twelve", "B": "twelfth", "C": "twelveth"},
+              "answer": "B",
+              "explanation": "表“第十二个月”，用序数词twelfth；twelve是基数词，表数量；twelveth是错误拼写，twelve变序数词需去ve加f，即twelfth。"
+            },
+            {
+              "question": "My ___ birthday is coming. I will have a big party.",
+              "options": {"A": "fifteen", "B": "fifteenth", "C": "the fifteenth"},
+              "answer": "B",
+              "explanation": "表“第十五个生日”，用序数词fifteenth；前有物主代词My，省略the；fifteen是基数词，表“十五”，不符合。"
+            },
+            {
+              "question": "He is the ___ to come to school every day.",
+              "options": {"A": "one", "B": "first", "C": "the first"},
+              "answer": "B",
+              "explanation": "表“第一个到校的人”，用序数词first；前有定冠词the，不可重复加the；one是基数词，表数量。"
+            },
+            {
+              "question": "Our school was built in the ___ century.",
+              "options": {"A": "twenty", "B": "twentieth", "C": "twenty-first"},
+              "answer": "B",
+              "explanation": "表“二十世纪”，用序数词twentieth；twenty是基数词，表数量；twenty-first是“二十一世纪”，不符合句意。"
+            },
+            {
+              "question": "The ___ day of May is Mother’s Day in China.",
+              "options": {"A": "second Sunday", "B": "two Sunday", "C": "the second Sunday"},
+              "answer": "A",
+              "explanation": "表“五月的第二个周日”，序数词second修饰Sunday，前有定冠词The（句首），Sunday前无需再加the；two是基数词，不可修饰Sunday表顺序。"
+            },
+            {
+              "question": "She finished the race in ___ place.",
+              "options": {"A": "eighth", "B": "eight", "C": "the eight"},
+              "answer": "A",
+              "explanation": "表“第八名”，用序数词eighth；eight是基数词，表数量；序数词前有介词in时，可省略the（固定搭配in eighth place）。"
+            },
+            {
+              "question": "___ of the land is covered with water on the earth.",
+              "options": {"A": "Three fourth", "B": "Three fourths", "C": "Third fourths"},
+              "answer": "B",
+              "explanation": "四分之三的表达为three fourths，分子three是基数词，分母fourth是序数词，分子≥2，分母加s；A选项分母未加s，C选项分子用了序数词，均错误。"
+            },
+            {
+              "question": "I will visit my grandparents on the ___ of next month.",
+              "options": {"A": "nineth", "B": "ninth", "C": "nine"},
+              "answer": "B",
+              "explanation": "表“下个月9日”，用序数词ninth；nine是基数词，表数量；nineth是错误拼写，nine变序数词需去e加th，即ninth。"
+            },
+            {
+              "question": "This is the ___ time I have seen such a beautiful bird.",
+              "options": {"A": "five", "B": "fiveth", "C": "fifth"},
+              "answer": "C",
+              "explanation": "表“第五次”，用序数词fifth；five是基数词，表数量；fiveth是错误拼写，five变序数词需去ve加f，即fifth。"
+            },
+            {
+              "question": "Lesson ___ is the most difficult in this book.",
+              "options": {"A": "thirty", "B": "thirtieth", "C": "the thirtieth"},
+              "answer": "A",
+              "explanation": "基数词表编号，放名词Lesson后，即Lesson Thirty（第三十课）；序数词表编号需放名词前，加the，即the thirtieth lesson。"
+            },
+            {
+              "question": "He was born on August ___ , 2000.",
+              "options": {"A": "twenty-one", "B": "twenty-first", "C": "the twenty-first"},
+              "answer": "B",
+              "explanation": "日期中的序数词表达为August twenty-first（美式），序数词前省略the；twenty-one是基数词，不可表日期。"
+            },
+            {
+              "question": "The ___ floor of the building is a big meeting room.",
+              "options": {"A": "eighty", "B": "eightieth", "C": "eightieths"},
+              "answer": "B",
+              "explanation": "表“第八十层”，用序数词eightieth；eighty是基数词，表数量；eightieths是序数词复数，不符合。"
+            },
+            {
+              "question": "___ of the students passed the English exam.",
+              "options": {"A": "One fifth", "B": "One five", "C": "First fifth"},
+              "answer": "A",
+              "explanation": "五分之一的表达为one fifth，分子one是基数词，分母fifth是序数词；B选项分母用基数词，C选项分子用序数词，均错误。"
+            },
+            {
+              "question": "Tom is in the ___ grade now. He will finish primary school next year.",
+              "options": {"A": "six", "B": "sixth", "C": "the sixth"},
+              "answer": "B",
+              "explanation": "表“六年级”，用序数词sixth；前有定冠词the（句中in the...），但选项中the sixth重复加the（in the the sixth），故直接选sixth（省略重复的the）。"
+            },
+            {
+              "question": "The ___ Olympic Games was held in Beijing in 2008.",
+              "options": {"A": "twenty-nine", "B": "twenty-ninth", "C": "the twenty-ninth"},
+              "answer": "B",
+              "explanation": "表“第二十九届奥运会”，用序数词twenty-ninth；前有定冠词The（句首），省略the；twenty-nine是基数词，表数量。"
+            },
+            {
+              "question": "She got the ___ prize in the singing competition.",
+              "options": {"A": "three", "B": "third", "C": "the third"},
+              "answer": "B",
+              "explanation": "表“三等奖”，用序数词third；前有定冠词the（the...prize），省略the；three是基数词，表数量。"
+            },
+            {
+              "question": "My father’s ___ birthday is a big day for my family.",
+              "options": {"A": "forty", "B": "fortieth", "C": "the fortieth"},
+              "answer": "B",
+              "explanation": "表“第四十个生日”，用序数词fortieth；前有物主代词My father’s，省略the；forty是基数词，表数量。"
+            },
+            {
+              "question": "The ___ day of a week is Monday in China.",
+              "options": {"A": "second", "B": "two", "C": "the second"},
+              "answer": "A",
+              "explanation": "在中国，一周的第二天是周一（周日是第一天），用序数词second；前有定冠词The（句首），省略the；two是基数词，表数量。"
+            },
+            {
+              "question": "We will have a test on the ___ page of this book.",
+              "options": {"A": "one hundred", "B": "one hundredth", "C": "the one hundredth"},
+              "answer": "B",
+              "explanation": "表“第一百页”，用序数词one hundredth；前有定冠词the（the...page），省略the；one hundred是基数词，表数量。"
+            },
+            {
+              "question": "___ of the water in the bottle is clean.",
+              "options": {"A": "Four fifth", "B": "Four fifths", "C": "Fours fifth"},
+              "answer": "B",
+              "explanation": "五分之四的表达为four fifths，分子four是基数词，分母fifth是序数词，分子≥2，分母加s；A选项分母未加s，C选项分子用复数，均错误。"
+            }
+          ]
+        },
+        {
+          "id": "numerals_3",
+          "title": "3-分数的用法",
+          "content": "### 分数的核心定义\n分数是表示**部分与整体关系**的数词，由分子和分母两部分构成，是初中英语数词的难点考点，中考常与主谓一致、百分数混合考查，需重点掌握构成和用法。\n\n### 分数的基本构成（中考必考，核心规则）\n#### 核心公式\n**分子（基数词）+ 分母（序数词）**，分子≥2时，分母加s。\n\n#### 1. 简单分数（分母≤10）\n- 1/2：one second（正式）/a half（常用，优先记）\n- 1/3：one third\n- 1/4：one fourth（正式）/a quarter（常用）\n- 1/5：one fifth\n- 2/3：two thirds（分子2≥2，分母third加s）\n- 3/4：three fourths（正式）/three quarters（常用）\n- 5/8：five eighths（分母eight变eighth，加s）\n- 7/9：seven ninths（分母nine变ninth，加s）\n\n#### 2. 复杂分数（分母>10）\n- 1/12：one twelfth\n- 3/20：three twentieths\n- 9/100：nine hundredths\n- 15/1000：fifteen thousandths\n\n#### 3. 带分数（整数+分数）\n- 1 1/2：one and a half（常用）/one and one second\n- 2 3/5：two and three fifths\n- 5 7/8：five and seven eighths\n**注意**：带分数中，整数和分数之间加and，分数部分遵循“分子≥2，分母加s”规则。\n\n### 分数的核心用法\n#### 1. 作定语，修饰名词（中考高频）\n- 分数+of+名词：two thirds of the students（三分之二的学生）、one fifth of the water（五分之一的水）\n- 主谓一致规则：谓语动词的单复数由of后的名词决定：\n  ✅ Two thirds of the land is covered with forest.（land是不可数名词，谓语用is）\n  ✅ Three quarters of the books are new.（books是复数名词，谓语用are）\n\n#### 2. 作主语\n- One third of the apple is bad.（apple是单数，谓语用is）\n- Two fifths of the workers are women.（workers是复数，谓语用are）\n\n#### 3. 作宾语\n- I finished three fourths of the homework.（我完成了四分之三的作业）\n- She drank one half of the milk.（她喝了一半的牛奶）\n\n#### 4. 作表语\n- The water left is only one fifth.（剩下的水只有五分之一）\n- The time we spent is two and a half hours.（我们花费的时间是两个半小时）\n\n#### 5. 分数与百分数的转换\n- 百分数=分数×100%，如：1/2=50%（fifty percent）、1/4=25%（twenty-five percent）、3/5=60%（sixty percent）\n- percent无复数，如：80%=eighty percent（不可写成eighty percents）\n\n### 分数的使用注意事项\n1. 分母为2时，优先用a half，不用one second；分母为4时，优先用a quarter/three quarters，不用one fourth/three fourths；\n2. 分数修饰名词时，名词前必须加the（表特指），如：错→two thirds of students；对→two thirds of the students；\n3. 带分数修饰名词时，名词用复数，如：one and a half apples（一个半苹果），不可写成one and a half apple；\n4. 分数作主语时，谓语动词的单复数由of后的名词决定，不可只看分子。",
+          "examples": [
+            {
+              "sentence": "Two thirds of the students in our class are boys.",
+              "translation": "我们班三分之二的学生是男生。",
+              "analysis": "三分之二的表达为two thirds，分子two≥2，分母third加s；of后的students是复数名词，谓语动词用are，遵循“主谓一致看of后名词”规则。"
+            },
+            {
+              "sentence": "One fifth of the water in the bottle is from the river.",
+              "translation": "瓶子里五分之一的水来自这条河。",
+              "analysis": "五分之一的表达为one fifth，分子one<2，分母fifth不加s；of后的water是不可数名词，谓语动词用is。"
+            },
+            {
+              "question": "She ate one and a half apples this morning.",
+              "translation": "她今天早上吃了一个半苹果。",
+              "analysis": "一个半的表达为one and a half，修饰apple时，apple用复数apples；带分数修饰名词，名词需用复数。"
+            },
+            {
+              "sentence": "Three quarters of the earth is covered with water.",
+              "translation": "地球的四分之三被水覆盖。",
+              "analysis": "四分之三的常用表达为three quarters，也可写成three fourths；of后的earth是不可数名词（表整体），谓语动词用is。"
+            },
+            {
+              "sentence": "About sixty percent of the population in this city are farmers.",
+              "translation": "这座城市大约60%的人口是农民。",
+              "analysis": "60%=three fifths（五分之三），percent无复数；population表“人口（具体成员）”时，谓语用are，遵循主谓一致规则。"
+            },
+            {
+              "sentence": "I have finished two fifths of my homework.",
+              "translation": "我已经完成了五分之二的作业。",
+              "analysis": "五分之二的表达为two fifths，分子two≥2，分母fifth加s；homework是不可数名词，前加my表特指，无需加the。"
+            },
+            {
+              "sentence": "One half of the cake is for you, and the other half is for me.",
+              "translation": "一半的蛋糕给你，另一半给我。",
+              "analysis": "一半的常用表达为one half/a half，修饰cake时，of后的cake是单数，谓语用is；the other half表“另一半”，是固定用法。"
+            },
+            {
+              "sentence": "Five eighths of the land in this area is used for farming.",
+              "translation": "这个地区八分之五的土地用于耕种。",
+              "analysis": "八分之五的表达为five eighths，分母eight变eighth，加s；land是不可数名词，谓语用is。"
+            },
+            {
+              "sentence": "Three and a half days are needed to finish the work.",
+              "translation": "完成这项工作需要三天半的时间。",
+              "analysis": "三天半的表达为three and a half days，带分数修饰day，day用复数days；主语是three and a half days，谓语用are。"
+            },
+            {
+              "sentence": "Ten percent of the students in our school are from other cities.",
+              "translation": "我们学校10%的学生来自其他城市。",
+              "analysis": "10%=one tenth（十分之一），percent无复数；of后的students是复数，谓语用are。"
+            }
+          ],
+          "exercises": [
+            {
+              "question": "___ of the land is covered with snow in winter in the north.",
+              "options": {"A": "Three fourth", "B": "Three fourths", "C": "Third fourths"},
+              "answer": "B",
+              "explanation": "四分之三的表达为three fourths/three quarters，分子three≥2，分母fourth加s；A选项分母未加s，C选项分子用序数词，均错误。"
+            },
+            {
+              "question": "About ___ of the students in my class like playing basketball.",
+              "options": {"A": "two fifth", "B": "two fifths", "C": "second fifths"},
+              "answer": "B",
+              "explanation": "五分之二的表达为two fifths，分子two≥2，分母fifth加s；A选项分母未加s，C选项分子用序数词，均错误。"
+            },
+            {
+              "question": "One half of the apple ___ bad. We can’t eat it.",
+              "options": {"A": "is", "B": "are", "C": "am"},
+              "answer": "A",
+              "explanation": "of后的apple是单数名词，谓语动词用is；分数作主语，主谓一致由of后的名词决定，与分子无关。"
+            },
+            {
+              "question": "Three quarters of the workers in this factory ___ women.",
+              "options": {"A": "is", "B": "are", "C": "was"},
+              "answer": "B",
+              "explanation": "of后的workers是复数名词，谓语动词用are；分数作主语，主谓一致看of后名词的单复数。"
+            },
+            {
+              "question": "She spent ___ hour doing the homework yesterday.",
+              "options": {"A": "one and a half", "B": "one and half", "C": "one and a halves"},
+              "answer": "A",
+              "explanation": "一个半小时的表达为one and a half hours（hour用复数），此处hour前有one and a half修饰，核心结构是one and a half，不可省略a或变复数。"
+            },
+            {
+              "question": "___ of the water in the lake ___ polluted.",
+              "options": {"A": "Two fifth; is", "B": "Two fifths; is", "C": "Two fifths; are"},
+              "answer": "B",
+              "explanation": "五分之二的表达为two fifths（分母加s）；of后的water是不可数名词，谓语用is。"
+            },
+            {
+              "question": "About eighty ___ of the students pass the exam every year.",
+              "options": {"A": "percent", "B": "percents", "C": "percentage"},
+              "answer": "A",
+              "explanation": "percent表“百分比”，无复数形式，eighty percent表“80%”；percentage是“百分率”，不符合句意。"
+            },
+            {
+              "question": "I have read ___ of the book. It’s very interesting.",
+              "options": {"A": "three fifth", "B": "three fifths", "C": "third fifths"},
+              "answer": "B",
+              "explanation": "五分之三的表达为three fifths，分子three≥2，分母fifth加s；A选项分母未加s，C选项分子用序数词，均错误。"
+            },
+            {
+              "question": "___ of the apples ___ rotten. We need to buy some new ones.",
+              "options": {"A": "One third; is", "B": "One third; are", "C": "One thirds; are"},
+              "answer": "B",
+              "explanation": "三分之一的表达为one third（分子1<2，分母不加s）；of后的apples是复数，谓语用are。"
+            },
+            {
+              "question": "It takes ___ days to travel around the country.",
+              "options": {"A": "two and a half", "B": "two and half", "C": "two halves and a"},
+              "answer": "A",
+              "explanation": "两天半的表达为two and a half days，核心结构是“整数+and+a half”，不可省略a或颠倒顺序。"
+            },
+            {
+              "question": "___ of the population in China ___ farmers.",
+              "options": {"A": "A quarter; is", "B": "A quarter; are", "C": "Quarter; are"},
+              "answer": "B",
+              "explanation": "四分之一的常用表达为a quarter；population表“人口（具体成员）”时，谓语用are；表“人口总数”时用is，此处指“农民”，用are。"
+            },
+            {
+              "question": "Seven ninths of the paper ___ used to make books.",
+              "options": {"A": "is", "B": "are", "C": "were"},
+              "answer": "A",
+              "explanation": "九分之七的表达为seven ninths（分母加s）；of后的paper是不可数名词，谓语用is。"
+            },
+            {
+              "question": "About ___ of the earth’s surface is covered with water.",
+              "options": {"A": "three fourth", "B": "three fourths", "C": "third fourths"},
+              "answer": "B",
+              "explanation": "四分之三的表达为three fourths/three quarters，分子three≥2，分母fourth加s；A选项分母未加s，C选项分子用序数词，均错误。"
+            },
+            {
+              "question": "I need ___ cup of milk to make the cake.",
+              "options": {"A": "one and a half", "B": "one and half", "C": "a half and one"},
+              "answer": "A",
+              "explanation": "一杯半牛奶的表达为one and a half cups of milk，核心结构one and a half不可错写，cup用复数，但此处修饰cup，核心是one and a half。"
+            },
+            {
+              "question": "Ten percent of the money ___ spent on books every year.",
+              "options": {"A": "is", "B": "are", "C": "have"},
+              "answer": "A",
+              "explanation": "money是不可数名词，谓语用is；percent无复数，10%=one tenth，主谓一致看of后的money。"
+            },
+            {
+              "question": "___ of the trees in the park are pine trees.",
+              "options": {"A": "Five eighth", "B": "Five eighths", "C": "Fives eighths"},
+              "answer": "B",
+              "explanation": "八分之五的表达为five eighths，分母eight变eighth，加s；A选项分母未加s，C选项分子用复数，均错误。"
+            },
+            {
+              "question": "One half of the ___ is for the children.",
+              "options": {"A": "cake", "B": "cakes", "C": "cake’s"},
+              "answer": "A",
+              "explanation": "one half of后接单数名词cake，表“一半的蛋糕”；若用cakes，表“一半的多个蛋糕”，不符合句意（特指一个蛋糕的一半）。"
+            },
+            {
+              "question": "About ___ of the students in our school are boys.",
+              "options": {"A": "fifty percent", "B": "fifty percents", "C": "fifty percentage"},
+              "answer": "A",
+              "explanation": "50%=one half，percent无复数，fifty percent表“50%”；percents和percentage均错误。"
+            },
+            {
+              "question": "Three and a half ___ are enough to finish the work.",
+              "options": {"A": "hour", "B": "hours", "C": "hour’s"},
+              "answer": "B",
+              "explanation": "three and a half修饰hour，hour用复数hours；带分数修饰可数名词，名词需用复数。"
+            },
+            {
+              "question": "___ of the time ___ spent on sports every day.",
+              "options": {"A": "One fourth; is", "B": "One fourth; are", "C": "One fourths; is"},
+              "answer": "A",
+              "explanation": "四分之一的表达为one fourth/a quarter（分母不加s）；time是不可数名词，谓语用is。"
+            }
+          ]
+        },
+        {
+          "id": "numerals_4",
+          "title": "4-倍数的用法",
+          "content": "### 倍数的核心定义\n倍数是表示**数量、大小、程度等方面的倍数关系**的数词，是初中英语数词的重难点考点，中考常出现在比较级、阅读理解、书面表达中，需重点掌握倍数的表达结构。\n\n### 倍数的基本表达结构（中考必考，按场景记忆）\n#### 结构1：A + 谓语 + 倍数 + as + 形容词/副词原级 + as + B\n表“A是B的几倍”，最基础、最常用的倍数表达结构。\n- 基本形式：This room is twice as big as that one.（这个房间是那个的两倍大）\n- 拓展：He runs three times as fast as his brother.（他跑的速度是他弟弟的三倍）\n**注意**：倍数放as...as结构前，形容词/副词用原级，不可用比较级。\n\n#### 结构2：A + 谓语 + 倍数 + 形容词/副词比较级 + than + B\n表“A比B大/快/高……几倍”，需注意：“倍数+比较级”=“倍数-1+as...as”\n- 基本形式：This room is bigger than that one by twice.（=This room is twice as big as that one）\n- 简化形式：This box is three times heavier than that one.（这个盒子比那个重三倍/是那个的四倍重，注意：部分教材中“三倍重”=“四倍重量”，需结合语境）\n**易错点**：避免写成This box is three times more heavy than that one（heavy的比较级是heavier，不是more heavy）。\n\n#### 结构3：A + 谓语 + 倍数 + the + 名词（size/height/weight/ length等） + of + B\n表“A的大小/高度/重量/长度等是B的几倍”，名词需用特定的度量名词。\n- 基本形式：This tree is three times the height of that one.（这棵树的高度是那棵的三倍）\n- 拓展：The river is twice the length of the lake.（这条河的长度是这个湖的两倍）\n**注意**：名词前必须加the，不可省略。\n\n#### 结构4：A + 谓语 + 倍数 + 可数名词复数/不可数名词\n表“A的数量是B的几倍”，用于修饰具体数量的名词。\n- 可数名词：He has three times more books than me.（他的书比我多三倍/是我的四倍）\n- 不可数名词：We need twice more water than before.（我们需要比以前多两倍的水/是以前的三倍）\n\n#### 结构5：倍数 + as many + 可数名词复数 + as / 倍数 + as much + 不可数名词 + as\n精准修饰可数/不可数名词的倍数结构，避免歧义。\n- 可数：She has twice as many pens as I do.（她的钢笔数量是我的两倍）\n- 不可数：He drinks three times as much coffee as his sister.（他喝的咖啡是他姐姐的三倍）\n\n### 倍数的特殊表达（中考高频）\n#### 1. “两倍”的特殊表达：twice/double（不用two times）\n- Twice：This shirt costs twice as much as that one.（这件衬衫的价格是那件的两倍）\n- Double：The output of rice this year is double that of last year.（今年水稻的产量是去年的两倍）\n\n#### 2. “三倍及以上”：基数词+times（three times/four times等）\n- Three times：The population of this city is three times that of ten years ago.（这座城市的人口是十年前的三倍）\n\n#### 3. “多几倍/少几倍”\n- 多几倍：A is N times more than B（A比B多N-1倍=A是B的N倍）\n- 少几倍：英语中无“少几倍”，需用“分数+as...as”，如：This book is one third as thick as that one.（这本书的厚度是那本的三分之一/比那本薄三分之二）\n\n### 倍数的使用注意事项\n1. 倍数表达中，“倍数+比较级+than”易产生歧义，优先用“倍数+as...as”，更精准；\n2. 修饰可数名词用many，不可数名词用much，如：twice as many apples（两倍的苹果）、twice as much milk（两倍的牛奶）；\n3. 倍数结构中，than/as后的代词需用主格（正式）/宾格（口语），如：He runs faster than I (do)/me；\n4. 避免重复使用倍数，如：错→This room is twice bigger than that one twice；对→This room is twice bigger than that one。",
+          "examples": [
+            {
+              "sentence": "This house is three times as big as that one.",
+              "translation": "这栋房子是那栋的三倍大。",
+              "analysis": "用“倍数+as+形容词原级+as”结构，three times表“三倍”，big用原级，as...as中间不可用比较级bigger。"
+            },
+            {
+              "sentence": "He earns twice as much money as his wife every month.",
+              "translation": "他每个月赚的钱是他妻子的两倍。",
+              "analysis": "money是不可数名词，用“倍数+as much+不可数名词+as”结构，twice表“两倍”，不可用two times。"
+            },
+            {
+              "sentence": "The elephant is five times heavier than the dog.",
+              "translation": "这头大象比这只狗重五倍（是狗的六倍重）。",
+              "analysis": "用“倍数+比较级+than”结构，heavier是heavy的比较级，five times放比较级前；注意该结构的歧义，优先用as...as结构更精准。"
+            },
+            {
+              "sentence": "This street is four times the length of that street.",
+              "translation": "这条街的长度是那条街的四倍。",
+              "analysis": "用“倍数+the+名词+of”结构，length是度量名词，前加the，不可省略；four times表“四倍”，修饰length。"
+            },
+            {
+              "sentence": "She has three times more pens than her brother.",
+              "translation": "她的钢笔数量比她弟弟多三倍（是弟弟的四倍）。",
+              "analysis": "pens是可数名词，用“倍数+more+可数名词复数+than”结构，three times表“三倍”，more修饰pens。"
+            },
+            {
+              "sentence": "The speed of the train is twice as fast as that of the bus.",
+              "translation": "火车的速度是公交车的两倍。",
+              "analysis": "that指代the speed，避免重复；twice表“两倍”，as fast as中fast用原级，修饰speed。"
+            },
+            {
+              "sentence": "The output of wheat this year is double that of last year.",
+              "translation": "今年小麦的产量是去年的两倍。",
+              "analysis": "double表“两倍”，相当于twice，that指代the output，避免重复；double是倍数的特殊表达，无需加times。"
+            },
+            {
+              "sentence": "I have twice as many books as my sister.",
+              "translation": "我的书的数量是我姐姐的两倍。",
+              "analysis": "books是可数名词，用“倍数+as many+可数名词复数+as”结构，twice表“两倍”，many修饰books。"
+            },
+            {
+              "sentence": "This mountain is six times the height of that hill.",
+              "translation": "这座山的高度是那座小山的六倍。",
+              "analysis": "height是度量名词，前加the，six times修饰height；用“倍数+the+名词+of”结构，表高度的倍数关系。"
+            },
+            {
+              "sentence": "This bottle holds three times more water than that one.",
+              "translation": "这个瓶子装的水比那个多三倍（是那个的四倍）。",
+              "analysis": "water是不可数名词，用“倍数+more+不可数名词+than”结构，three times表“三倍”，more修饰water。"
+            }
+          ],
+          "exercises": [
+            {
+              "question": "This room is ___ as big as that one.",
+              "options": {"A": "two time", "B": "twice", "C": "two times"},
+              "answer": "B",
+              "explanation": "“两倍”的正确表达是twice，不可写成two time（time需加s）或two times（不规范，优先用twice）。"
+            },
+            {
+              "question": "He runs ___ faster than his friend.",
+              "options": {"A": "three times", "B": "three time", "C": "three"},
+              "answer": "A",
+              "explanation": "倍数放比较级前，three times表“三倍”，修饰faster；three time形式错误（time加s），three不可直接修饰比较级。"
+            },
+            {
+              "question": "The tree is three times ___ of that one.",
+              "options": {"A": "height", "B": "the height", "C": "higher"},
+              "answer": "B",
+              "explanation": "用“倍数+the+名词+of”结构，height是度量名词，前必须加the；higher是比较级，不符合该结构。"
+            },
+            {
+              "question": "She has ___ books as her brother.",
+              "options": {"A": "twice as many", "B": "twice as much", "C": "as twice many"},
+              "answer": "A",
+              "explanation": "books是可数名词，用twice as many；much修饰不可数名词，倍数需放as...as前，不可写成as twice many。"
+            },
+            {
+              "question": "This box is ___ heavier than that one.",
+              "options": {"A": "four time", "B": "four times", "C": "four"},
+              "answer": "B",
+              "explanation": "four times表“四倍”，放比较级heavier前；four time形式错误，four不可直接修饰比较级。"
+            },
+            {
+              "question": "The population of this city is ___ that of ten years ago.",
+              "options": {"A": "three times", "B": "three times as", "C": "three times that of"},
+              "answer": "C",
+              "explanation": "that指代the population，避免重复；three times that of表“是……的三倍”，A选项缺少that of，B选项缺少名词/代词。"
+            },
+            {
+              "question": "I drink ___ coffee as my father every day.",
+              "options": {"A": "twice as much", "B": "twice as many", "C": "as twice much"},
+              "answer": "A",
+              "explanation": "coffee是不可数名词，用twice as much；many修饰可数名词，倍数需放as...as前。"
+            },
+            {
+              "question": "This river is ___ the length of that lake.",
+              "options": {"A": "twice", "B": "twice the", "C": "twice as"},
+              "answer": "B",
+              "explanation": "用“倍数+the+名词+of”结构，twice the length of表“是……长度的两倍”；A选项缺少the，C选项不符合该结构。"
+            },
+            {
+              "question": "He earns ___ money than his sister every month.",
+              "options": {"A": "three times more", "B": "three times much", "C": "three more times"},
+              "answer": "A",
+              "explanation": "money是不可数名词，用“倍数+more+不可数名词+than”结构，three times more修饰money；much是原级，不可用于than后，three more times顺序错误。"
+            },
+            {
+              "question": "The speed of the plane is ___ that of the car.",
+              "options": {"A": "ten times as fast as", "B": "ten times faster as", "C": "ten times fast as"},
+              "answer": "A",
+              "explanation": "用“倍数+as+原级+as”结构，fast用原级，不可用比较级faster或原形fast（缺少as）。"
+            },
+            {
+              "question": "This apple tree is ___ taller than that pear tree.",
+              "options": {"A": "five time", "B": "five times", "C": "five"},
+              "answer": "B",
+              "explanation": "five times表“五倍”，放比较级taller前；five time形式错误，five不可直接修饰比较级。"
+            },
+            {
+              "question": "She has ___ pens than her classmate.",
+              "options": {"A": "twice more", "B": "twice much", "C": "twice many"},
+              "answer": "A",
+              "explanation": "pens是可数名词，用“倍数+more+可数名词复数+than”结构，twice more修饰pens；much/many是原级，不可用于than后。"
+            },
+            {
+              "question": "The weight of the elephant is ___ that of the pig.",
+              "options": {"A": "eight times", "B": "eight times the weight of", "C": "eight times heavier"},
+              "answer": "B",
+              "explanation": "用“倍数+the+名词+of”结构，eight times the weight of表“是……重量的八倍”；A选项缺少the weight of，C选项有歧义（八倍重/九倍重）。"
+            },
+            {
+              "question": "This book is ___ as thick as that one.",
+              "options": {"A": "three time", "B": "three times", "C": "three"},
+              "answer": "B",
+              "explanation": "three times表“三倍”，放as thick as前；three time形式错误，three不可直接修饰as...as结构。"
+            },
+            {
+              "question": "The factory produces ___ cars this year as last year.",
+              "options": {"A": "twice as many", "B": "twice as much", "C": "as twice many"},
+              "answer": "A",
+              "explanation": "cars是可数名词，用twice as many；much修饰不可数名词，倍数需放as...as前。"
+            },
+            {
+              "question": "This road is ___ longer than that one.",
+              "options": {"A": "six time", "B": "six times", "C": "six"},
+              "answer": "B",
+              "explanation": "six times表“六倍”，放比较级longer前；six time形式错误，six不可直接修饰比较级。"
+            },
+            {
+              "question": "The amount of rain this month is ___ that of last month.",
+              "options": {"A": "four times", "B": "four times as much as", "C": "four times more"},
+              "answer": "B",
+              "explanation": "rain是不可数名词，用“倍数+as much as”结构，four times as much as表“是……的四倍”；A选项缺少as much as，C选项有歧义。"
+            },
+            {
+              "question": "He spends ___ time on homework than his sister.",
+              "options": {"A": "twice more", "B": "twice much", "C": "twice many"},
+              "answer": "A",
+              "explanation": "time是不可数名词，用“倍数+more+不可数名词+than”结构，twice more修饰time；much/many是原级，不可用于than后。"
+            },
+            {
+              "question": "This building is ___ the height of that one.",
+              "options": {"A": "seven times", "B": "seven times the", "C": "seven times as"},
+              "answer": "B",
+              "explanation": "用“倍数+the+名词+of”结构，seven times the height of表“是……高度的七倍”；A选项缺少the，C选项不符合该结构。"
+            },
+            {
+              "question": "The price of this phone is ___ as that of that one.",
+              "options": {"A": "three times", "B": "three times as high", "C": "three times higher"},
+              "answer": "B",
+              "explanation": "price用high/low修饰，不用big/small；用“倍数+as+原级+as”结构，three times as high as表“是……价格的三倍”；C选项有歧义，优先选B。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,555 @@
+{
+  "grammar_topics": [
+    {
+      "id": "verb_voice",
+      "name": "9-动词语态-三节内容全量分析",
+      "icon": "triangle",
+      "color": "#e74c3c",
+      "lessons": [
+        {
+          "id": "verb_voice_1",
+          "title": "1-主动语态与被动语态的核心概念",
+          "content": "### 动词语态的核心定义\n动词语态是动词的一种形式，用来表示**主语和谓语动词之间的关系**，初中阶段核心掌握两种语态：主动语态和被动语态，是中考单选、完形、句型转换的高频考点。\n\n### 主动语态（Active Voice）\n#### 核心定义：\n主语是谓语动词所表示动作的**发出者/执行者**，即“谁做了什么”，这是日常表达中最常用的语态。\n#### 基本结构：\n主语 + 谓语（主动形式） + 宾语（+ 其他成分）\n例：She cleans the room every day.（她每天打扫房间。）→ 主语she是“打扫”这个动作的执行者。\n\n### 被动语态（Passive Voice）\n#### 核心定义：\n主语是谓语动词所表示动作的**承受者/被执行者**，即“什么被谁做了”，强调动作的对象或动作本身，而非执行者。\n#### 基本结构：\n主语（动作承受者） + be动词（对应时态） + 动词过去分词（done） + （by + 动作执行者）\n⚠️ 关键：be动词的形式随时态、主语单复数变化，过去分词固定不变。\n例：The room is cleaned by her every day.（房间每天被她打扫。）→ 主语the room是“打扫”这个动作的承受者。\n\n### 主动语态与被动语态的核心区别（中考必辨）\n| 维度         | 主动语态                | 被动语态                |\n|--------------|-------------------------|-------------------------|\n| 主语身份     | 动作执行者              | 动作承受者              |\n| 结构核心     | 主语+主动谓语+宾语      | 主语+be+过去分词+(by+执行者) |\n| 表达重点     | 强调“谁做”              | 强调“被做”或动作本身    |\n| 常用场景     | 日常陈述、突出执行者    | 强调动作对象、执行者不明/无需提及 |\n\n### 被动语态的使用场景（中考必考）\n1. **强调动作的承受者**（核心场景）：\n   当我们想把动作的对象放在首位突出时，用被动语态。\n   例：A new hospital was built in our city last year.（去年我们城市建了一座新医院。）→ 强调“新医院”，而非“谁建的”。\n2. **动作执行者不明/无需提及**：\n   不知道谁做了这个动作，或执行者不重要、没必要说时，省略by短语。\n   例：The window was broken yesterday.（窗户昨天被打碎了。）→ 不知道谁打碎的，无需提及执行者。\n3. **避免提及执行者（礼貌/客观）**：\n   正式场合（如公告、新闻、说明）中，为保持客观或礼貌，隐藏执行者。\n   例：Rules must be obeyed.（规则必须被遵守。）→ 不强调“谁遵守”，只强调“遵守规则”这个要求。\n4. **前后文衔接（保持主语一致）**：\n   为避免主语频繁更换，让上下文更连贯，用被动语态衔接。\n   例：He wrote a novel. The novel was translated into 5 languages.（他写了一本小说。这本小说被翻译成了5种语言。）→ 后句主语承接前句的a novel，更连贯。",
+          "examples": [
+            {
+              "sentence": "Tom writes a letter to his pen pal every month.",
+              "translation": "汤姆每个月给他的笔友写一封信。",
+              "analysis": "主动语态；主语Tom是“写”这个动作的执行者，谓语writes是主动形式，强调“汤姆做了写信这个动作”。"
+            },
+            {
+              "sentence": "A letter is written to his pen pal by Tom every month.",
+              "translation": "一封信每个月被汤姆写给他的笔友。",
+              "analysis": "被动语态；主语A letter是“写”这个动作的承受者，be动词用is（一般现在时、单数），written是write的过去分词，by Tom补充动作执行者。"
+            },
+            {
+              "sentence": "They will finish the project next week.",
+              "translation": "他们下周将完成这个项目。",
+              "analysis": "主动语态；主语They是“完成”的执行者，will finish是主动形式的一般将来时，突出“他们”的动作。"
+            },
+            {
+              "sentence": "The project will be finished by them next week.",
+              "translation": "这个项目下周将被他们完成。",
+              "analysis": "被动语态；主语The project是“完成”的承受者，be动词用will be（一般将来时），finished是finish的过去分词，by them补充执行者。"
+            },
+            {
+              "sentence": "Someone stole my bike last night.",
+              "translation": "昨晚有人偷了我的自行车。",
+              "analysis": "主动语态；主语Someone是“偷”的执行者，但执行者不具体，此时更适合用被动语态。"
+            },
+            {
+              "sentence": "My bike was stolen last night.",
+              "translation": "我的自行车昨晚被偷了。",
+              "analysis": "被动语态；主语My bike是“偷”的承受者，be动词用was（一般过去时、单数），stolen是steal的过去分词；省略by someone（执行者不明/无需提及），符合被动语态常用场景。"
+            },
+            {
+              "sentence": "People should protect wild animals.",
+              "translation": "人们应该保护野生动物。",
+              "analysis": "主动语态；主语People是“保护”的执行者，should protect是主动形式，强调“人们”的责任。"
+            },
+            {
+              "sentence": "Wild animals should be protected by people.",
+              "translation": "野生动物应该被人们保护。",
+              "analysis": "被动语态；主语Wild animals是“保护”的承受者，be动词用be（情态动词should后接原形），protected是protect的过去分词，强调“野生动物”这个保护对象。"
+            },
+            {
+              "sentence": "The teacher is explaining the math problem now.",
+              "translation": "老师现在正在讲解这道数学题。",
+              "analysis": "主动语态；主语The teacher是“讲解”的执行者，is explaining是现在进行时的主动形式，突出“老师”的动作。"
+            },
+            {
+              "sentence": "The math problem is being explained by the teacher now.",
+              "translation": "这道数学题现在正在被老师讲解。",
+              "analysis": "被动语态；主语The math problem是“讲解”的承受者，be动词用is being（现在进行时的被动结构：am/is/are + being + 过去分词），explained是explain的过去分词，强调“数学题”这个讲解对象。"
+            }
+          ],
+          "exercises": [
+            {
+              "question": "Many trees ___ on the hill every year.",
+              "options": {"A": "plant", "B": "are planted", "C": "planted"},
+              "answer": "B",
+              "explanation": "主语Many trees是“种植”这个动作的承受者，用被动语态；every year表示一般现在时，主语是复数，be动词用are，plant的过去分词是planted，故选B。"
+            },
+            {
+              "question": "Tom ___ a new bike as a birthday gift yesterday.",
+              "options": {"A": "gave", "B": "was given", "C": "gives"},
+              "answer": "B",
+              "explanation": "主语Tom是“给”这个动作的承受者（汤姆被给了一辆新自行车），用被动语态；yesterday表示一般过去时，主语是单数，be动词用was，give的过去分词是given，故选B。"
+            },
+            {
+              "question": "The little boy ___ by his mother to wash hands before meals.",
+              "options": {"A": "tells", "B": "is told", "C": "told"},
+              "answer": "B",
+              "explanation": "主语The little boy是“告诉”的承受者（小男孩被妈妈告诉），用被动语态；描述日常习惯用一般现在时，主语单数，be动词用is，tell的过去分词是told，故选B。"
+            },
+            {
+              "question": "A new bridge ___ over the river next year.",
+              "options": {"A": "will build", "B": "will be built", "C": "is built"},
+              "answer": "B",
+              "explanation": "主语A new bridge是“建”的承受者，用被动语态；next year表示一般将来时，被动结构为will be + 过去分词，build的过去分词是built，故选B。"
+            },
+            {
+              "question": "The classroom ___ when we got there yesterday afternoon.",
+              "options": {"A": "was cleaning", "B": "was being cleaned", "C": "cleaned"},
+              "answer": "B",
+              "explanation": "主语The classroom是“打扫”的承受者，用被动语态；yesterday afternoon + when we got there表示过去进行时，过去进行时被动结构为was/were being + 过去分词，主语单数，用was being cleaned，故选B。"
+            },
+            {
+              "question": "These books ___ to the library already.",
+              "options": {"A": "have returned", "B": "have been returned", "C": "returned"},
+              "answer": "B",
+              "explanation": "主语These books是“归还”的承受者，用被动语态；already表示现在完成时，现在完成时被动结构为have/has been + 过去分词，主语复数，用have been returned，故选B。"
+            },
+            {
+              "question": "People ___ not to smoke in public places in our city.",
+              "options": {"A": "are told", "B": "tell", "C": "told"},
+              "answer": "A",
+              "explanation": "主语People是“告诉”的承受者（人们被告诉），用被动语态；描述城市规定用一般现在时，主语复数，be动词用are，tell的过去分词是told，故选A。"
+            },
+            {
+              "question": "The old man ___ by a kind girl when he fell down on the street.",
+              "options": {"A": "helped", "B": "is helped", "C": "was helped"},
+              "answer": "C",
+              "explanation": "主语The old man是“帮助”的承受者，用被动语态；fell down表示一般过去时，主语单数，be动词用was，help的过去分词是helped，故选C。"
+            },
+            {
+              "question": "English ___ in many countries around the world.",
+              "options": {"A": "speaks", "B": "is spoken", "C": "is speaking"},
+              "answer": "B",
+              "explanation": "主语English是“说”的承受者（英语被说），用被动语态；描述客观事实用一般现在时，主语单数，be动词用is，speak的过去分词是spoken，故选B。"
+            },
+            {
+              "question": "The problem ___ yet, so we need to discuss it again.",
+              "options": {"A": "hasn't solved", "B": "hasn't been solved", "C": "didn't solve"},
+              "answer": "B",
+              "explanation": "主语The problem是“解决”的承受者，用被动语态；yet表示现在完成时的否定，结构为haven't/hasn't been + 过去分词，主语单数，用hasn't been solved，故选B。"
+            },
+            {
+              "question": "We ___ to finish the work on time by our boss yesterday.",
+              "options": {"A": "were asked", "B": "asked", "C": "are asked"},
+              "answer": "A",
+              "explanation": "主语We是“要求”的承受者（我们被老板要求），用被动语态；yesterday表示一般过去时，主语复数，be动词用were，ask的过去分词是asked，故选A。"
+            },
+            {
+              "question": "A lot of food ___ to the poor areas last winter.",
+              "options": {"A": "sent", "B": "was sent", "C": "sends"},
+              "answer": "B",
+              "explanation": "主语A lot of food是“送”的承受者，用被动语态；last winter表示一般过去时，food是不可数名词，be动词用was，send的过去分词是sent，故选B。"
+            },
+            {
+              "question": "The window ___ by my little brother just now.",
+              "options": {"A": "breaks", "B": "was broken", "C": "is broken"},
+              "answer": "B",
+              "explanation": "主语The window是“打碎”的承受者，用被动语态；just now表示一般过去时，主语单数，be动词用was，break的过去分词是broken，故选B。"
+            },
+            {
+              "question": "New rules ___ in our school to keep students safe next term.",
+              "options": {"A": "will make", "B": "will be made", "C": "are made"},
+              "answer": "B",
+              "explanation": "主语New rules是“制定”的承受者，用被动语态；next term表示一般将来时，被动结构为will be + 过去分词，make的过去分词是made，故选B。"
+            },
+            {
+              "question": "___ the little girl ___ by her parents at the gate of the park yesterday?",
+              "options": {"A": "Was; found", "B": "Did; find", "C": "Is; found"},
+              "answer": "A",
+              "explanation": "主语the little girl是“找到”的承受者，用被动语态的一般疑问句；yesterday表示一般过去时，主语单数，be动词用was，提前至句首，find的过去分词是found，故选A。"
+            },
+            {
+              "question": "The movie ___ many people since it was on.",
+              "options": {"A": "has attracted", "B": "has been attracted", "C": "attracted"},
+              "answer": "A",
+              "explanation": "主语The movie是“吸引”的执行者（电影吸引人们），用主动语态；since引导的从句表示现在完成时，主语单数，用has attracted，故选A（本题考查主动与被动的辨析）。"
+            },
+            {
+              "question": "Computers ___ widely in our daily life now.",
+              "options": {"A": "use", "B": "are used", "C": "are using"},
+              "answer": "B",
+              "explanation": "主语Computers是“使用”的承受者（电脑被使用），用被动语态；now表示一般现在时，主语复数，be动词用are，use的过去分词是used，故选B。"
+            },
+            {
+              "question": "The work ___ before you come back tomorrow.",
+              "options": {"A": "will finish", "B": "will be finished", "C": "is finished"},
+              "answer": "B",
+              "explanation": "主语The work是“完成”的承受者，用被动语态；before you come back tomorrow表示将来的时间，用一般将来时被动结构will be + 过去分词，finish的过去分词是finished，故选B。"
+            },
+            {
+              "question": "I ___ to join the English club last week and I'm happy about it.",
+              "options": {"A": "was invited", "B": "invited", "C": "am invited"},
+              "answer": "A",
+              "explanation": "主语I是“邀请”的承受者（我被邀请），用被动语态；last week表示一般过去时，主语单数，be动词用was，invite的过去分词是invited，故选A。"
+            },
+            {
+              "question": "The letters ___ by my father every morning when he was young.",
+              "options": {"A": "were written", "B": "wrote", "C": "are written"},
+              "answer": "A",
+              "explanation": "主语The letters是“写”的承受者，用被动语态；when he was young表示一般过去时，主语复数，be动词用were，write的过去分词是written，故选A。"
+            }
+          ]
+        },
+        {
+          "id": "verb_voice_2",
+          "title": "2-不同时态的被动语态（中考核心）",
+          "content": "### 核心前提\n被动语态的核心变化在于**be动词的形式**，不同时态对应不同的be动词结构，而动词的过去分词始终不变。初中阶段需掌握8种核心时态的被动语态，是中考句型转换、翻译、填空的重中之重。\n\n### 各时态被动语态的结构与示例（按中考考频排序）\n#### 1. 一般现在时（最常考）\n- 结构：am/is/are + 过去分词（done）\n- 适用场景：描述经常性、习惯性的被动动作，或客观事实、真理。\n- 例句：\n  ✅ 主动：He cleans the classroom every day.（他每天打扫教室。）\n  ✅ 被动：The classroom is cleaned by him every day.（教室每天被他打扫。）\n  ✅ 拓展（复数）：These flowers are watered by my grandma every morning.（这些花每天早上被我奶奶浇水。）\n\n#### 2. 一般过去时（第二常考）\n- 结构：was/were + 过去分词（done）\n- 适用场景：描述过去发生的被动动作。\n- 例句：\n  ✅ 主动：They built a new school in 2020.（他们2020年建了一所新学校。）\n  ✅ 被动：A new school was built by them in 2020.（一所新学校2020年被他们建成。）\n  ✅ 拓展（复数）：The books were borrowed by Tom yesterday.（这些书昨天被汤姆借走了。）\n\n#### 3. 一般将来时\n- 结构：will be + 过去分词（done） / am/is/are going to be + 过去分词（done）\n- 适用场景：描述将要发生的被动动作。\n- 例句：\n  ✅ 主动：We will hold a sports meeting next month.（我们下个月将举办一场运动会。）\n  ✅ 被动：A sports meeting will be held by us next month.（一场运动会下个月将被我们举办。）\n  ✅ 拓展（be going to）：The problem is going to be discussed tomorrow.（这个问题明天将被讨论。）\n\n#### 4. 现在进行时\n- 结构：am/is/are being + 过去分词（done）\n- 适用场景：描述此时此刻正在发生的被动动作。\n- 例句：\n  ✅ 主动：The workers are repairing the road now.（工人们现在正在修这条路。）\n  ✅ 被动：The road is being repaired by the workers now.（这条路现在正在被工人们修理。）\n  ✅ 拓展（复数）：The letters are being written by the secretary at the moment.（秘书此刻正在写这些信件。）\n\n#### 5. 过去进行时\n- 结构：was/were being + 过去分词（done）\n- 适用场景：描述过去某个时刻/时间段正在发生的被动动作。\n- 例句：\n  ✅ 主动：She was cooking dinner when I arrived.（我到的时候她正在做晚饭。）→ 被动（较少用）：Dinner was being cooked by her when I arrived.（我到的时候晚饭正在被她做。）\n  ✅ 拓展：The house was being painted when the storm came.（暴风雨来的时候，房子正在被粉刷。）\n\n#### 6. 现在完成时\n- 结构：have/has been + 过去分词（done）\n- 适用场景：描述已经完成的被动动作，或动作对现在造成的影响。\n- 例句：\n  ✅ 主动：He has finished his homework.（他已经做完了作业。）\n  ✅ 被动：His homework has been finished by him.（他的作业已经被他做完了。）\n  ✅ 拓展（复数）：These questions have been answered by the teacher.（这些问题已经被老师解答了。）\n\n#### 7. 过去完成时\n- 结构：had been + 过去分词（done）\n- 适用场景：描述过去某个动作之前已经完成的被动动作（“过去的过去”）。\n- 例句：\n  ✅ 主动：They had sold out all the tickets before 8 o'clock.（8点前他们已经卖完了所有票。）\n  ✅ 被动：All the tickets had been sold out by them before 8 o'clock.（8点前所有票已经被他们卖完了。）\n\n#### 8. 情态动词的被动语态（高频易混）\n- 结构：情态动词（can/may/must/should等） + be + 过去分词（done）\n- 适用场景：表示“能够/可以/必须/应该被……”，是中考单选、句型转换的核心考点。\n- 例句：\n  ✅ 主动：We must follow the traffic rules.（我们必须遵守交通规则。）\n  ✅ 被动：The traffic rules must be followed by us.（交通规则必须被我们遵守。）\n  ✅ 拓展：This book can be borrowed from the library.（这本书可以从图书馆借到。）\n\n### 被动语态的易错点（中考必避坑）\n1. **时态对应错误**：如一般过去时被动误用is done（错）→ was/were done（对）；\n2. **be动词单复数错误**：如The books is written（错）→ The books are written（对）；\n3. **情态动词后be动词误用**：如must is done（错）→ must be done（对）；\n4. **现在进行时被动遗漏being**：如The house is built now（错）→ The house is being built now（对）；\n5. **过去分词拼写错误**：如write的过去分词写成wrote（错）→ written（对），break写成broke（错）→ broken（对）。",
+          "examples": [
+            {
+              "sentence": "Rice is grown in the south of China.",
+              "translation": "水稻在中国南方被种植。",
+              "analysis": "一般现在时被动语态；主语Rice是“种植”的承受者，描述客观事实用一般现在时，rice不可数，be动词用is，grown是grow的过去分词。"
+            },
+            {
+              "sentence": "The letter was sent to him yesterday.",
+              "translation": "这封信昨天被寄给了他。",
+              "analysis": "一般过去时被动语态；主语The letter是“寄”的承受者，yesterday表过去，主语单数，be动词用was，sent是send的过去分词。"
+            },
+            {
+              "sentence": "The sports meeting will be held next Friday.",
+              "translation": "运动会将在下周五举办。",
+              "analysis": "一般将来时被动语态；主语The sports meeting是“举办”的承受者，next Friday表将来，用will be + 过去分词，held是hold的过去分词。"
+            },
+            {
+              "sentence": "My bike is being repaired by the worker now.",
+              "translation": "我的自行车现在正在被工人修理。",
+              "analysis": "现在进行时被动语态；主语My bike是“修理”的承受者，now表现在进行，主语单数，be动词用is，加being + repaired（repair的过去分词）。"
+            },
+            {
+              "sentence": "The room was being cleaned when I came in.",
+              "translation": "我进来的时候，房间正在被打扫。",
+              "analysis": "过去进行时被动语态；主语The room是“打扫”的承受者，when I came in表过去某个时刻，主语单数，be动词用was，加being + cleaned（clean的过去分词）。"
+            },
+            {
+              "sentence": "This work has been finished by them already.",
+              "translation": "这项工作已经被他们完成了。",
+              "analysis": "现在完成时被动语态；主语This work是“完成”的承受者，already表现在完成时，work不可数，用has been + finished（finish的过去分词）。"
+            },
+            {
+              "sentence": "The tickets had been sold out before we arrived.",
+              "translation": "我们到的时候，票已经被卖完了。",
+              "analysis": "过去完成时被动语态；主语The tickets是“卖”的承受者，before we arrived表“过去的过去”，用had been + sold（sell的过去分词）。"
+            },
+            {
+              "sentence": "The classroom must be kept clean every day.",
+              "translation": "教室必须每天保持干净。",
+              "analysis": "情态动词的被动语态；主语The classroom是“保持”的承受者，must后接be + kept（keep的过去分词），表“必须被保持”。"
+            },
+            {
+              "sentence": "These trees are going to be planted next spring.",
+              "translation": "这些树明年春天将要被种植。",
+              "analysis": "一般将来时（be going to）被动语态；主语These trees是“种植”的承受者，next spring表将来，主语复数，用are going to be + planted（plant的过去分词）。"
+            },
+            {
+              "sentence": "Your homework should be handed in before class.",
+              "translation": "你的作业应该在上课前交上来。",
+              "analysis": "情态动词的被动语态；主语Your homework是“交”的承受者，should后接be + handed（hand的过去分词），hand in是固定搭配，被动中in位置不变。"
+            }
+          ],
+          "exercises": [
+            {
+              "question": "The classroom ___ every day by the students.",
+              "options": {"A": "cleans", "B": "is cleaned", "C": "was cleaned"},
+              "answer": "B",
+              "explanation": "一般现在时被动语态；every day表经常性动作，主语The classroom是“打扫”的承受者，单数，be动词用is，clean的过去分词是cleaned，故选B。"
+            },
+            {
+              "question": "The old building ___ down last year.",
+              "options": {"A": "was pulled", "B": "is pulled", "C": "pulled"},
+              "answer": "A",
+              "explanation": "一般过去时被动语态；last year表过去，主语The old building是“推倒”的承受者，单数，be动词用was，pull的过去分词是pulled，故选A。"
+            },
+            {
+              "question": "A new park ___ in our neighborhood next year.",
+              "options": {"A": "will build", "B": "will be built", "C": "is built"},
+              "answer": "B",
+              "explanation": "一般将来时被动语态；next year表将来，主语A new park是“建”的承受者，用will be + built（build的过去分词），故选B。"
+            },
+            {
+              "question": "Look! The window ___ by the children now.",
+              "options": {"A": "is being cleaned", "B": "is cleaned", "C": "cleans"},
+              "answer": "A",
+              "explanation": "现在进行时被动语态；Look!表此刻动作，主语The window是“打扫”的承受者，单数，用is being + cleaned（clean的过去分词），故选A。"
+            },
+            {
+              "question": "The phone ___ by my father when I got home yesterday evening.",
+              "options": {"A": "was being repaired", "B": "was repaired", "C": "is being repaired"},
+              "answer": "A",
+              "explanation": "过去进行时被动语态；when I got home表过去某个时刻，主语The phone是“修理”的承受者，单数，用was being + repaired（repair的过去分词），故选A。"
+            },
+            {
+              "question": "All the work ___ by the end of last month.",
+              "options": {"A": "has been finished", "B": "had been finished", "C": "was finished"},
+              "answer": "B",
+              "explanation": "过去完成时被动语态；by the end of last month表“过去的过去”，主语All the work是“完成”的承受者，不可数，用had been + finished（finish的过去分词），故选B。"
+            },
+            {
+              "question": "The rules ___ by everyone in our school.",
+              "options": {"A": "must follow", "B": "must be followed", "C": "must followed"},
+              "answer": "B",
+              "explanation": "情态动词的被动语态；主语The rules是“遵守”的承受者，must后接be + 过去分词，follow的过去分词是followed，故选B。"
+            },
+            {
+              "question": "These photos ___ by my sister in the park last Sunday.",
+              "options": {"A": "took", "B": "were taken", "C": "are taken"},
+              "answer": "B",
+              "explanation": "一般过去时被动语态；last Sunday表过去，主语These photos是“拍”的承受者，复数，be动词用were，take的过去分词是taken，故选B。"
+            },
+            {
+              "question": "The problem ___ yet, so we have to wait.",
+              "options": {"A": "hasn't been solved", "B": "isn't solved", "C": "wasn't solved"},
+              "answer": "A",
+              "explanation": "现在完成时被动语态；yet表现在完成时的否定，主语The problem是“解决”的承受者，单数，用hasn't been + solved（solve的过去分词），故选A。"
+            },
+            {
+              "question": "The baby ___ by her mother now.",
+              "options": {"A": "is being fed", "B": "is fed", "C": "feeds"},
+              "answer": "A",
+              "explanation": "现在进行时被动语态；now表此刻动作，主语The baby是“喂”的承受者，单数，用is being + fed（feed的过去分词），故选A。"
+            },
+            {
+              "question": "English ___ in more and more countries today.",
+              "options": {"A": "speaks", "B": "is spoken", "C": "is speaking"},
+              "answer": "B",
+              "explanation": "一般现在时被动语态；today表现在，主语English是“说”的承受者，单数，be动词用is，speak的过去分词是spoken，故选B。"
+            },
+            {
+              "question": "The meeting ___ for two hours when we got there.",
+              "options": {"A": "had been held", "B": "was held", "C": "has been held"},
+              "answer": "A",
+              "explanation": "过去完成时被动语态；for two hours + when we got there表“过去的过去”，主语The meeting是“举办”的承受者，用had been + held（hold的过去分词），故选A。"
+            },
+            {
+              "question": "The books ___ to the students next Monday.",
+              "options": {"A": "are going to give", "B": "are going to be given", "C": "give"},
+              "answer": "B",
+              "explanation": "一般将来时（be going to）被动语态；next Monday表将来，主语The books是“给”的承受者，复数，用are going to be + given（give的过去分词），故选B。"
+            },
+            {
+              "question": "This kind of bike ___ in that factory now.",
+              "options": {"A": "is made", "B": "is being made", "C": "makes"},
+              "answer": "B",
+              "explanation": "现在进行时被动语态；now表此刻动作，主语This kind of bike是“制造”的承受者，单数，用is being + made（make的过去分词），故选B。"
+            },
+            {
+              "question": "You ___ to leave the school without permission.",
+              "options": {"A": "should not allow", "B": "should not be allowed", "C": "are not allowed"},
+              "answer": "B",
+              "explanation": "情态动词的被动语态；主语You是“允许”的承受者，should not后接be + allowed（allow的过去分词），表“不应该被允许”，故选B。"
+            },
+            {
+              "question": "The bridge ___ in 2018 and it's still in use now.",
+              "options": {"A": "was built", "B": "is built", "C": "has been built"},
+              "answer": "A",
+              "explanation": "一般过去时被动语态；in 2018表过去，主语The bridge是“建”的承受者，单数，be动词用was，build的过去分词是built，故选A。"
+            },
+            {
+              "question": "The water ___ before you drink it.",
+              "options": {"A": "must boil", "B": "must be boiled", "C": "boils"},
+              "answer": "B",
+              "explanation": "情态动词的被动语态；主语The water是“煮沸”的承受者，must后接be + boiled（boil的过去分词），表“必须被煮沸”，故选B。"
+            },
+            {
+              "question": "The little boy ___ by his teacher because of his mistake just now.",
+              "options": {"A": "was punished", "B": "is punished", "C": "has been punished"},
+              "answer": "A",
+              "explanation": "一般过去时被动语态；just now表过去，主语The little boy是“惩罚”的承受者，单数，be动词用was，punish的过去分词是punished，故选A。"
+            },
+            {
+              "question": "A lot of information ___ on the Internet since the 1990s.",
+              "options": {"A": "has been shared", "B": "was shared", "C": "is shared"},
+              "answer": "A",
+              "explanation": "现在完成时被动语态；since the 1990s表从过去持续到现在，主语A lot of information是“分享”的承受者，不可数，用has been + shared（share的过去分词），故选A。"
+            },
+            {
+              "question": "The plan ___ at the meeting tomorrow morning.",
+              "options": {"A": "will discuss", "B": "will be discussed", "C": "is discussed"},
+              "answer": "B",
+              "explanation": "一般将来时被动语态；tomorrow morning表将来，主语The plan是“讨论”的承受者，用will be + discussed（discuss的过去分词），故选B。"
+            },
+            {
+              "question": "The song ___ by many young people since it came out.",
+              "options": {"A": "has been sung", "B": "was sung", "C": "is sung"},
+              "answer": "A",
+              "explanation": "现在完成时被动语态；since it came out表从过去持续到现在，主语The song是“唱”的承受者，单数，用has been + sung（sing的过去分词），故选A。"
+            }
+          ]
+        },
+        {
+          "id": "verb_voice_3",
+          "title": "3-被动语态的特殊情况与主动表被动",
+          "content": "### 一、被动语态的特殊情况（中考易考）\n#### 1. 双宾语的被动语态\n当主动句中有直接宾语和间接宾语时，被动句可将其中一个宾语变为主语，另一个保留。\n- 主动结构：主语 + 谓语 + 间接宾语（人） + 直接宾语（物）\n- 被动结构1（间接宾语作主语）：间接宾语 + be + 过去分词 + 直接宾语\n- 被动结构2（直接宾语作主语）：直接宾语 + be + 过去分词 + to + 间接宾语\n- 例句：\n  ✅ 主动：He gave me a book.（他给了我一本书。）\n  ✅ 被动1（me作主语）：I was given a book by him.（我被他给了一本书。）\n  ✅ 被动2（a book作主语）：A book was given to me by him.（一本书被他给了我。）\n⚠️ 关键：直接宾语作主语时，间接宾语前需加to（give/send/pass等）或for（buy/make/cook等）。\n\n#### 2. 复合宾语的被动语态\n主动句中谓语后接“宾语 + 宾语补足语（名词/形容词/不定式/分词）”，被动句将宾语变为主语，宾补保留（称为“主语补足语”）。\n- 主动结构：主语 + 谓语 + 宾语 + 宾补\n- 被动结构：宾语 + be + 过去分词 + 宾补\n- 例句：\n  ✅ 主动：We call him Tom.（我们叫他汤姆。）\n  ✅ 被动：He is called Tom by us.（他被我们叫做汤姆。）（宾补Tom作主语补足语）\n  ✅ 主动：They asked her to sing a song.（他们让她唱一首歌。）\n  ✅ 被动：She was asked to sing a song by them.（她被他们要求唱一首歌。）（不定式to sing a song作主语补足语，to不可省略）\n⚠️ 易错点：主动句中使役动词（make/let/have）、感官动词（see/hear/watch）后接不带to的不定式作宾补，被动句中需还原to。\n  ✅ 主动：We saw him play football.（我们看到他踢足球。）\n  ✅ 被动：He was seen to play football by us.（他被我们看到踢足球。）（还原to）\n\n#### 3. 不及物动词无被动语态\n不及物动词（vi.）后无宾语，无法承受动作，因此没有被动语态，常见的有：happen（发生）、appear（出现）、disappear（消失）、come（来）、go（去）、arrive（到达）、die（死亡）、sleep（睡觉）等。\n- 错：The accident was happened yesterday.（无被动）\n- 对：The accident happened yesterday.（昨天发生了一场事故。）\n\n#### 4. 系动词无被动语态\n系动词（be/become/turn/get/look/sound/smell/taste/feel等）表状态，无被动语态。\n- 错：The cake is tasted delicious.（无被动）\n- 对：The cake tastes delicious.（这个蛋糕尝起来很美味。）\n\n#### 5. 短语动词的被动语态\n由“动词 + 介词/副词”构成的短语动词，被动时需将短语视为整体，不可拆分，介词/副词不可遗漏。\n- 主动：We should take care of the old.（我们应该照顾老人。）\n- 被动：The old should be taken care of by us.（老人应该被我们照顾。）（of不可漏）\n- 主动：They put off the meeting.（他们推迟了会议。）\n- 被动：The meeting was put off by them.（会议被他们推迟了。）（off不可漏）\n\n### 二、主动表被动（中考难点）\n有些情况下，形式上是主动语态，但表达被动含义，无需用被动语态，核心场景如下：\n#### 1. 主语是物，谓语是表“属性/特征”的动词（sell/write/read/wash/cut等）+ 副词（well/easily等）\n表“某物具有某种被动属性”，用主动表被动。\n- 例句：This pen writes smoothly.（这支钢笔写起来很顺滑。）（钢笔是“被写”，但用主动）\n- 例句：The clothes wash easily.（这些衣服容易洗。）（衣服是“被洗”，用主动）\n\n#### 2. “be + 形容词 + to do”结构\n主语是不定式的逻辑宾语，用主动表被动。\n- 例句：The problem is easy to solve.（这个问题容易解决。）（问题是“被解决”，to solve用主动）\n- 例句：The book is interesting to read.（这本书读起来很有趣。）（书是“被读”，to read用主动）\n\n#### 3. 某些动词的进行时表被动\n少数动词（print/cook/build等）的现在进行时可表被动含义，强调动作正在被进行。\n- 例句：The newspaper is printing.（报纸正在印刷中。）（= The newspaper is being printed.）\n- 例句：The dinner is cooking.（晚饭正在做。）（= The dinner is being cooked.）\n\n#### 4. “need/want/require + doing”结构\n= need/want/require + to be done，表“某物需要被……”，主动形式表被动含义。\n- 例句：The bike needs repairing.（= The bike needs to be repaired.）（这辆自行车需要修理。）\n- 例句：The room wants cleaning.（= The room wants to be cleaned.）（这个房间需要打扫。）",
+          "examples": [
+            {
+              "sentence": "I was given a new pen by my uncle on my birthday.",
+              "translation": "我生日那天叔叔给了我一支新钢笔。",
+              "analysis": "双宾语的被动语态；主动句中my uncle是主语，me是间接宾语，a new pen是直接宾语；被动句将间接宾语me变为主语I，用was given + 直接宾语a new pen，符合双宾语被动结构。"
+            },
+            {
+              "sentence": "A new pen was given to me by my uncle on my birthday.",
+              "translation": "一支新钢笔在我生日那天被叔叔送给了我。",
+              "analysis": "双宾语的被动语态；主动句中直接宾语a new pen变为主语，被动结构需加to + 间接宾语me，give后接to，不可遗漏。"
+            },
+            {
+              "sentence": "He was seen to enter the building just now.",
+              "translation": "刚才有人看到他进入了这栋楼。",
+              "analysis": "复合宾语的被动语态；主动句中saw后接him + enter（不带to的不定式），被动句中him变为主语He，需还原to，用was seen to enter。"
+            },
+            {
+              "sentence": "The accident happened on a rainy day.",
+              "translation": "这场事故发生在一个雨天。",
+              "analysis": "不及物动词无被动语态；happen是不及物动词，无宾语，只能用主动语态，不可说was happened。"
+            },
+            {
+              "sentence": "The old man should be looked after well.",
+              "translation": "这位老人应该被好好照顾。",
+              "analysis": "短语动词的被动语态；look after是短语动词，被动时视为整体，after不可遗漏，用be looked after。"
+            },
+            {
+              "sentence": "This kind of cloth washes well.",
+              "translation": "这种布料很好洗。",
+              "analysis": "主动表被动；主语cloth是“被洗”的对象，wash后接well，用主动形式表被动含义，无需用is washed。"
+            },
+            {
+              "sentence": "The math problem is difficult to work out.",
+              "translation": "这道数学题很难解出来。",
+              "analysis": "主动表被动；“be + 形容词 + to do”结构，主语problem是work out的逻辑宾语，用主动形式to work out表被动含义。"
+            },
+            {
+              "sentence": "The bike needs repairing.",
+              "translation": "这辆自行车需要修理。",
+              "analysis": "主动表被动；need + doing结构，相当于need to be repaired，用主动形式repairing表被动含义。"
+            },
+            {
+              "sentence": "The soup is cooking in the kitchen now.",
+              "translation": "汤现在正在厨房里煮着。",
+              "analysis": "主动表被动；cook的现在进行时表被动，相当于is being cooked，强调汤正在被煮的状态。"
+            },
+            {
+              "sentence": "She was made to finish the work alone.",
+              "translation": "她被迫独自完成这项工作。",
+              "analysis": "复合宾语的被动语态；主动句中made后接her + finish（不带to），被动句中her变为主语She，需还原to，用was made to finish。"
+            }
+          ],
+          "exercises": [
+            {
+              "question": "My mother bought me a new dress. → A new dress ___ to me by my mother.",
+              "options": {"A": "was bought", "B": "was bought for", "C": "bought"},
+              "answer": "B",
+              "explanation": "双宾语的被动语态；主动句中me是间接宾语，a new dress是直接宾语，直接宾语作主语时，buy后需加for + 间接宾语，故选B。"
+            },
+            {
+              "question": "We heard her sing a song in the next room. → She ___ a song in the next room.",
+              "options": {"A": "heard to sing", "B": "was heard sing", "C": "was heard to sing"},
+              "answer": "C",
+              "explanation": "复合宾语的被动语态；感官动词hear后接不带to的不定式作宾补，被动句中需还原to，结构为was heard to sing，故选C。"
+            },
+            {
+              "question": "What ___ to him yesterday?",
+              "options": {"A": "happened", "B": "was happened", "C": "did happen"},
+              "answer": "A",
+              "explanation": "不及物动词无被动语态；happen是不及物动词，只能用主动语态，yesterday表过去，用happened，故选A。"
+            },
+            {
+              "question": "The children should ___ well by their parents.",
+              "options": {"A": "take care of", "B": "be taken care", "C": "be taken care of"},
+              "answer": "C",
+              "explanation": "短语动词的被动语态；take care of是固定短语，被动时of不可遗漏，结构为be taken care of，故选C。"
+            },
+            {
+              "question": "This kind of paper ___ very soft.",
+              "options": {"A": "is felt", "B": "feels", "C": "is feeling"},
+              "answer": "B",
+              "explanation": "系动词无被动语态；feel是系动词，表“摸起来”，用主动形式，主语单数，用feels，故选B。"
+            },
+            {
+              "question": "The book ___ well and it ___ out in two days.",
+              "options": {"A": "sells; will be sold", "B": "is sold; sells", "C": "sells; sells"},
+              "answer": "A",
+              "explanation": "主动表被动+被动语态；第一空sell后接well，主动表被动，用sells；第二空表“被卖完”，in two days表将来，用will be sold，故选A。"
+            },
+            {
+              "question": "The classroom is dirty and it needs ___.",
+              "options": {"A": "clean", "B": "to clean", "C": "cleaning"},
+              "answer": "C",
+              "explanation": "主动表被动；need + doing结构表“需要被做”，相当于need to be cleaned，故选C。"
+            },
+            {
+              "question": "The problem is easy ___.",
+              "options": {"A": "to solve", "B": "to be solved", "C": "solve"},
+              "answer": "A",
+              "explanation": "主动表被动；“be + 形容词 + to do”结构，主语是不定式的逻辑宾语，用主动形式to solve表被动，故选A。"
+            },
+            {
+              "question": "The workers were made ___ ten hours a day in the past.",
+              "options": {"A": "work", "B": "to work", "C": "working"},
+              "answer": "B",
+              "explanation": "复合宾语的被动语态；使役动词make后接不带to的不定式，被动句中还原to，结构为were made to work，故选B。"
+            },
+            {
+              "question": "The radio ___ well. It ___ in this factory last year.",
+              "options": {"A": "is listened; was made", "B": "listens; was made", "C": "is listened to; made"},
+              "answer": "B",
+              "explanation": "主动表被动+被动语态；第一空listen后接well，主动表被动（radio“听起来”），用listens；第二空表“被制造”，last year表过去，用was made，故选B。"
+            },
+            {
+              "question": "The meeting ___ because of the bad weather last week.",
+              "options": {"A": "put off", "B": "was put off", "C": "was put"},
+              "answer": "B",
+              "explanation": "短语动词的被动语态；put off是“推迟”，被动时不可拆分，off不可漏，last week表过去，用was put off，故选B。"
+            },
+            {
+              "question": "The milk ___ sweet. It's fresh.",
+              "options": {"A": "tastes", "B": "is tasted", "C": "tasted"},
+              "answer": "A",
+              "explanation": "系动词无被动语态；taste是系动词，表“尝起来”，用主动形式，主语不可数，用tastes，故选A。"
+            },
+            {
+              "question": "He was seen ___ basketball on the playground just now.",
+              "options": {"A": "play", "B": "to play", "C": "playing"},
+              "answer": "B",
+              "explanation": "复合宾语的被动语态；感官动词see后接不带to的不定式，被动句还原to，用was seen to play，故选B。"
+            },
+            {
+              "question": "The window ___ and it needs ___.",
+              "options": {"A": "is broken; repair", "B": "broke; to repair", "C": "is broken; repairing"},
+              "answer": "C",
+              "explanation": "被动语态+主动表被动；第一空表“窗户被打碎”，用is broken；第二空need + doing表“需要被修理”，用repairing，故选C。"
+            },
+            {
+              "question": "The train ___ at 8 o'clock every morning. It ___ on time yesterday.",
+              "options": {"A": "arrives; arrived", "B": "is arrived; arrived", "C": "arrives; was arrived"},
+              "answer": "A",
+              "explanation": "不及物动词无被动语态；arrive是不及物动词，无被动，第一空every morning表一般现在时，用arrives；第二空yesterday表过去，用arrived，故选A。"
+            },
+            {
+              "question": "The little girl was heard ___ happily in her room just now.",
+              "options": {"A": "sing", "B": "to sing", "C": "singing"},
+              "answer": "B",
+              "explanation": "复合宾语的被动语态；感官动词hear后接不带to的不定式，被动句还原to，用was heard to sing，故选B。"
+            },
+            {
+              "question": "This shirt ___ very well. I want to buy one.",
+              "options": {"A": "washes", "B": "is washed", "C": "washed"},
+              "answer": "A",
+              "explanation": "主动表被动；wash后接well，主语shirt是“被洗”的对象，用主动形式washes表被动属性，故选A。"
+            },
+            {
+              "question": "The work ___ before Friday. It's very important.",
+              "options": {"A": "must finish", "B": "must be finished", "C": "must be finish"},
+              "answer": "B",
+              "explanation": "情态动词的被动语态；主语The work是“完成”的承受者，must后接be + 过去分词finished，故选B。"
+            },
+            {
+              "question": "The letter ___ to him last week, but he ___ it yet.",
+              "options": {"A": "was sent; hasn't received", "B": "sent; didn't receive", "C": "was sent; hasn't been received"},
+              "answer": "A",
+              "explanation": "被动语态+主动语态；第一空表“信被寄”，last week表过去，用was sent；第二空he是“接收”的执行者，yet表现在完成时，用hasn't received，故选A。"
+            },
+            {
+              "question": "The cake ___ delicious. Who made it?",
+              "options": {"A": "is tasted", "B": "tastes", "C": "tasted"},
+              "answer": "B",
+              "explanation": "系动词无被动语态；taste是系动词，表“尝起来”，用主动形式，主语单数，用tastes，故选B。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

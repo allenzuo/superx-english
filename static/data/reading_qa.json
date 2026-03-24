@@ -1,0 +1,1402 @@
+[
+  {
+    "version": "1.0",
+    "type": "reading_qa",
+    "year": 2023,
+    "difficulty": "medium",
+    "source": "2023年北京中考",
+    "title": "The Importance of Sleep",
+    "passage": "Sleep is very important for our health. Everyone needs enough sleep to stay healthy and feel good.\n\nDoctors say that teenagers should get about 8 to 10 hours of sleep every night. However, many students don't get enough sleep because they have too much homework or stay up late playing games.\n\nNot getting enough sleep can cause many problems. Students may feel tired in class and can't concentrate on their studies. They may also become easily angry or sad. What's more, not sleeping enough can make it harder to remember things.\n\nTo have better sleep, students should try to go to bed at the same time every night. They should also avoid using phones or watching TV before bed. Exercise during the day can help them sleep better at night.",
+    "questions": [
+      {
+        "id": "q1",
+        "number": 1,
+        "questionType": "open-ended",
+        "content": "How many hours of sleep do teenagers need every night?",
+        "sampleAnswer": "Teenagers need about 8 to 10 hours of sleep every night.",
+        "keyPoints": ["8", "10", "hours", "every night"],
+        "analysis": "文章第二段明确提到'teenagers should get about 8 to 10 hours of sleep every night'。"
+      },
+      {
+        "id": "q2",
+        "number": 2,
+        "questionType": "open-ended",
+        "content": "What problems can be caused by not getting enough sleep?",
+        "sampleAnswer": "Students may feel tired, can't concentrate, become easily angry or sad, and have problems remembering things.",
+        "keyPoints": ["tired", "concentrate", "angry", "sad", "remember"],
+        "analysis": "文章第三段提到：feel tired, can't concentrate, become easily angry or sad, harder to remember things。"
+      },
+      {
+        "id": "q3",
+        "number": 3,
+        "questionType": "open-ended",
+        "content": "What should students do to have better sleep? (Give at least two suggestions)",
+        "sampleAnswer": "Students should go to bed at the same time every night, avoid using phones or watching TV before bed, and exercise during the day.",
+        "keyPoints": ["same time", "avoid phones", "avoid TV", "exercise"],
+        "analysis": "文章最后一段提到：go to bed at the same time, avoid using phones or watching TV before bed, exercise during the day。"
+      },
+      {
+        "id": "q4",
+        "number": 4,
+        "questionType": "open-ended",
+        "content": "Do you think sleep is important? Why or why not?",
+        "sampleAnswer": "Yes, I think sleep is very important because it helps us stay healthy, feel good, concentrate in class, and remember things better.",
+        "keyPoints": ["健康", "精力", "专注", "记忆"],
+        "analysis": "开放性问题，根据文章内容和个人理解回答，言之有理即可。"
+      }
+    ],
+    "tags": ["阅读问答", "健康", "睡眠"],
+    "wordCount": 168,
+    "readingTime": "5-6分钟"
+  },
+  {
+    "version": "1.0",
+    "type": "reading_qa",
+    "year": 2023,
+    "difficulty": "medium",
+    "source": "2023年北京中考模拟",
+    "title": "How to Keep Healthy",
+    "passage": "Keeping healthy is important for everyone. There are many ways to stay healthy. First, eat a balanced diet. You should eat more fruits and vegetables, and less junk food like chips and candy. Second, do regular exercise. Walking, running or playing sports for 30 minutes every day is good for your body. Third, wash your hands often, especially before meals, to keep away from germs. Finally, stay happy. A good mood can make your body work better and help you fight illness.",
+    "questions": [
+      {
+        "id": "q1",
+        "number": 1,
+        "questionType": "open-ended",
+        "content": "What kind of food should we eat more to keep healthy?",
+        "sampleAnswer": "We should eat more fruits and vegetables to keep healthy.",
+        "keyPoints": ["fruits", "vegetables"],
+        "analysis": "文章明确提到'You should eat more fruits and vegetables'。"
+      },
+      {
+        "id": "q2",
+        "number": 2,
+        "questionType": "open-ended",
+        "content": "How long should we do exercise every day?",
+        "sampleAnswer": "We should do exercise for 30 minutes every day.",
+        "keyPoints": ["30 minutes", "every day"],
+        "analysis": "文章提到'Walking, running or playing sports for 30 minutes every day is good for your body'。"
+      },
+      {
+        "id": "q3",
+        "number": 3,
+        "questionType": "open-ended",
+        "content": "What should we do to keep away from germs?",
+        "sampleAnswer": "We should wash our hands often, especially before meals, to keep away from germs.",
+        "keyPoints": ["wash hands", "often", "before meals"],
+        "analysis": "文章指出'wash your hands often, especially before meals, to keep away from germs'。"
+      },
+      {
+        "id": "q4",
+        "number": 4,
+        "questionType": "open-ended",
+        "content": "Why is it important to stay happy for health?",
+        "sampleAnswer": "It is important because a good mood can make our body work better and help us fight illness.",
+        "keyPoints": ["good mood", "body work better", "fight illness"],
+        "analysis": "文章最后一句提到'A good mood can make your body work better and help you fight illness'。"
+      }
+    ],
+    "tags": ["阅读问答", "健康", "饮食", "运动"],
+    "wordCount": 125,
+    "readingTime": "4-5分钟"
+  },
+  {
+    "version": "1.0",
+    "type": "reading_qa",
+    "year": 2023,
+    "difficulty": "medium",
+    "source": "2023年北京中考模拟",
+    "title": "Volunteering in Our Community",
+    "passage": "Volunteering is a great way to help others and make our community better. Many teenagers in Beijing volunteer their time to do useful things. Some help clean up parks and streets. Others visit old people's homes to talk with the elderly or sing songs for them. Some also help teach young kids to read or do homework.\n\nVolunteering not only helps people in need but also benefits the volunteers themselves. It can help teenagers learn new skills, make new friends, and understand the world better. It also makes them feel proud and happy to know they are helping others.",
+    "questions": [
+      {
+        "id": "q1",
+        "number": 1,
+        "questionType": "open-ended",
+        "content": "What do some teenagers do to volunteer in parks and streets?",
+        "sampleAnswer": "They help clean up parks and streets.",
+        "keyPoints": ["clean up", "parks", "streets"],
+        "analysis": "文章第一段提到'Some help clean up parks and streets'。"
+      },
+      {
+        "id": "q2",
+        "number": 2,
+        "questionType": "open-ended",
+        "content": "What do volunteers do in old people's homes?",
+        "sampleAnswer": "They talk with the elderly or sing songs for them.",
+        "keyPoints": ["talk with", "elderly", "sing songs"],
+        "analysis": "文章第一段指出'Others visit old people's homes to talk with the elderly or sing songs for them'。"
+      },
+      {
+        "id": "q3",
+        "number": 3,
+        "questionType": "open-ended",
+        "content": "What benefits can volunteering bring to teenagers?",
+        "sampleAnswer": "It can help them learn new skills, make new friends, understand the world better, and feel proud and happy.",
+        "keyPoints": ["new skills", "new friends", "understand world", "proud", "happy"],
+        "analysis": "文章第二段提到：learn new skills, make new friends, understand the world better, feel proud and happy。"
+      },
+      {
+        "id": "q4",
+        "number": 4,
+        "questionType": "open-ended",
+        "content": "Would you like to be a volunteer? Why or why not?",
+        "sampleAnswer": "Yes, I would like to be a volunteer because I want to help others and learn new things at the same time.",
+        "keyPoints": ["help others", "learn new things"],
+        "analysis": "开放性问题，结合文章中志愿服务的意义回答，言之有理即可。"
+      }
+    ],
+    "tags": ["阅读问答", "社区", "志愿活动", "成长"],
+    "wordCount": 138,
+    "readingTime": "4-5分钟"
+  },
+  {
+    "version": "1.0",
+    "type": "reading_qa",
+    "year": 2023,
+    "difficulty": "medium",
+    "source": "2023年北京中考模拟",
+    "title": "Learning English Through Reading",
+    "passage": "Reading is one of the best ways to improve your English. It can help you learn new words, understand grammar better, and know more about different cultures.\n\nTo make reading more useful, you should choose books or articles that are not too hard for you. Start with short stories or easy news articles. Try to read for 15 to 20 minutes every day. When you meet new words, don't stop to look them up at once. Try to guess their meanings first. After reading, write down a few new words or sentences to remember them better.\n\nReading English books can also make learning more fun. You can read about your favorite topics like sports, animals or music.",
+    "questions": [
+      {
+        "id": "q1",
+        "number": 1,
+        "questionType": "open-ended",
+        "content": "What can reading help us do in learning English?",
+        "sampleAnswer": "It can help us learn new words, understand grammar better, and know more about different cultures.",
+        "keyPoints": ["new words", "grammar", "different cultures"],
+        "analysis": "文章第一段明确提到'It can help you learn new words, understand grammar better, and know more about different cultures'。"
+      },
+      {
+        "id": "q2",
+        "number": 2,
+        "questionType": "open-ended",
+        "content": "How long should we read English every day?",
+        "sampleAnswer": "We should read English for 15 to 20 minutes every day.",
+        "keyPoints": ["15", "20", "minutes", "every day"],
+        "analysis": "文章第二段提到'Try to read for 15 to 20 minutes every day'。"
+      },
+      {
+        "id": "q3",
+        "number": 3,
+        "questionType": "open-ended",
+        "content": "What should we do when we meet new words while reading?",
+        "sampleAnswer": "We should try to guess their meanings first instead of looking them up at once.",
+        "keyPoints": ["guess meanings", "first", "not look up at once"],
+        "analysis": "文章第二段指出'When you meet new words, don't stop to look them up at once. Try to guess their meanings first'。"
+      },
+      {
+        "id": "q4",
+        "number": 4,
+        "questionType": "open-ended",
+        "content": "Why is reading English books fun?",
+        "sampleAnswer": "Because we can read about our favorite topics like sports, animals or music.",
+        "keyPoints": ["favorite topics", "sports", "animals", "music"],
+        "analysis": "文章最后一句提到'You can read about your favorite topics like sports, animals or music'。"
+      }
+    ],
+    "tags": ["阅读问答", "英语学习", "阅读", "方法"],
+    "wordCount": 145,
+    "readingTime": "5-6分钟"
+  },
+  {
+    "version": "1.0",
+    "type": "reading_qa",
+    "year": 2023,
+    "difficulty": "medium",
+    "source": "2023年北京中考模拟",
+    "title": "Protecting Wild Animals",
+    "passage": "Wild animals are our friends. They play an important role in nature. However, many wild animals are in danger now because of pollution, hunting and losing their homes.\n\nIn China, there are many protected wild animals, such as pandas, tigers and red-crowned cranes. To protect them, the government has built many nature reserves. People are also told not to hunt or kill wild animals. We should also stop buying products made from wild animals, like fur coats or ivory.\n\nProtecting wild animals is protecting ourselves. If wild animals disappear, the balance of nature will be broken, and our life will be affected too.",
+    "questions": [
+      {
+        "id": "q1",
+        "number": 1,
+        "questionType": "open-ended",
+        "content": "Why are many wild animals in danger now?",
+        "sampleAnswer": "They are in danger because of pollution, hunting and losing their homes.",
+        "keyPoints": ["pollution", "hunting", "losing homes"],
+        "analysis": "文章第一段提到'many wild animals are in danger now because of pollution, hunting and losing their homes'。"
+      },
+      {
+        "id": "q2",
+        "number": 2,
+        "questionType": "open-ended",
+        "content": "What has the government done to protect wild animals?",
+        "sampleAnswer": "The government has built many nature reserves to protect wild animals.",
+        "keyPoints": ["built", "nature reserves"],
+        "analysis": "文章第二段指出'To protect them, the government has built many nature reserves'。"
+      },
+      {
+        "id": "q3",
+        "number": 3,
+        "questionType": "open-ended",
+        "content": "What should we not buy to protect wild animals?",
+        "sampleAnswer": "We should not buy products made from wild animals, like fur coats or ivory.",
+        "keyPoints": ["products made from wild animals", "fur coats", "ivory"],
+        "analysis": "文章第二段提到'We should also stop buying products made from wild animals, like fur coats or ivory'。"
+      },
+      {
+        "id": "q4",
+        "number": 4,
+        "questionType": "open-ended",
+        "content": "Why is protecting wild animals important for us?",
+        "sampleAnswer": "Because protecting wild animals is protecting ourselves, and if they disappear, the balance of nature will be broken and our life will be affected.",
+        "keyPoints": ["protect ourselves", "balance of nature", "life affected"],
+        "analysis": "文章最后一段提到'Protecting wild animals is protecting ourselves. If wild animals disappear, the balance of nature will be broken, and our life will be affected too'。"
+      }
+    ],
+    "tags": ["阅读问答", "野生动物", "环保", "自然"],
+    "wordCount": 132,
+    "readingTime": "4-5分钟"
+  },
+  {
+    "version": "1.0",
+    "type": "reading_qa",
+    "year": 2023,
+    "difficulty": "medium",
+    "source": "2023年北京中考模拟",
+    "title": "Online Learning",
+    "passage": "Online learning has become popular in recent years. It allows students to learn at home and choose their own study time. With a computer or a phone, students can take classes from excellent teachers all over the country.\n\nHowever, online learning also has some problems. Some students get distracted by games or videos during class. Others find it hard to ask teachers questions face to face. To make online learning effective, students should make a study plan and follow it strictly. They should also keep in touch with teachers and classmates through online chats.",
+    "questions": [
+      {
+        "id": "q1",
+        "number": 1,
+        "questionType": "open-ended",
+        "content": "What equipment do students need for online learning?",
+        "sampleAnswer": "Students need a computer or a phone for online learning.",
+        "keyPoints": ["computer", "phone"],
+        "analysis": "文章第一段提到'With a computer or a phone, students can take classes'。"
+      },
+      {
+        "id": "q2",
+        "number": 2,
+        "questionType": "open-ended",
+        "content": "What problems do some students have in online learning?",
+        "sampleAnswer": "Some get distracted by games or videos, and others find it hard to ask teachers questions face to face.",
+        "keyPoints": ["distracted", "games", "videos", "ask questions", "face to face"],
+        "analysis": "文章第二段指出'Some students get distracted by games or videos... Others find it hard to ask teachers questions face to face'。"
+      },
+      {
+        "id": "q3",
+        "number": 3,
+        "questionType": "open-ended",
+        "content": "What should students do to make online learning effective?",
+        "sampleAnswer": "They should make a study plan and follow it strictly, and keep in touch with teachers and classmates through online chats.",
+        "keyPoints": ["study plan", "follow strictly", "keep in touch", "online chats"],
+        "analysis": "文章第二段提到'To make online learning effective, students should make a study plan... keep in touch with teachers and classmates through online chats'。"
+      },
+      {
+        "id": "q4",
+        "number": 4,
+        "questionType": "open-ended",
+        "content": "Do you like online learning? Why or why not?",
+        "sampleAnswer": "Yes, I like it because it's flexible and I can learn from good teachers. But I also miss studying with classmates in the classroom.",
+        "keyPoints": ["灵活", "优质师资", "想念同学"],
+        "analysis": "开放性问题，结合线上学习的优缺点回答，言之有理即可。"
+      }
+    ],
+    "tags": ["阅读问答", "线上学习", "科技", "学习方式"],
+    "wordCount": 156,
+    "readingTime": "5-6分钟"
+  },
+  {
+    "version": "1.0",
+    "type": "reading_qa",
+    "year": 2023,
+    "difficulty": "medium",
+    "source": "2023年北京中考模拟",
+    "title": "Chinese Traditional Festivals",
+    "passage": "China has many colorful traditional festivals. The Spring Festival is the most important one. Families get together to have a big dinner and watch the Spring Festival Gala. Children get red envelopes with money from their parents and relatives.\n\nThe Mid-Autumn Festival is another important festival. People eat mooncakes and admire the full moon at night. It's a time for family reunion too. The Dragon Boat Festival is to remember Qu Yuan, a great poet. People eat zongzi and watch dragon boat races on that day.",
+    "questions": [
+      {
+        "id": "q1",
+        "number": 1,
+        "questionType": "open-ended",
+        "content": "What is the most important traditional festival in China?",
+        "sampleAnswer": "The Spring Festival is the most important traditional festival in China.",
+        "keyPoints": ["Spring Festival", "most important"],
+        "analysis": "文章第一段明确提到'The Spring Festival is the most important one'。"
+      },
+      {
+        "id": "q2",
+        "number": 2,
+        "questionType": "open-ended",
+        "content": "What do children get during the Spring Festival?",
+        "sampleAnswer": "Children get red envelopes with money from their parents and relatives.",
+        "keyPoints": ["red envelopes", "money", "parents", "relatives"],
+        "analysis": "文章第一段指出'Children get red envelopes with money from their parents and relatives'。"
+      },
+      {
+        "id": "q3",
+        "number": 3,
+        "questionType": "open-ended",
+        "content": "What do people do on the Mid-Autumn Festival?",
+        "sampleAnswer": "People eat mooncakes and admire the full moon at night on the Mid-Autumn Festival.",
+        "keyPoints": ["mooncakes", "admire", "full moon"],
+        "analysis": "文章第二段提到'The Mid-Autumn Festival... People eat mooncakes and admire the full moon at night'。"
+      },
+      {
+        "id": "q4",
+        "number": 4,
+        "questionType": "open-ended",
+        "content": "Which traditional festival do you like best? Why?",
+        "sampleAnswer": "I like the Spring Festival best because I can get together with my whole family and receive red envelopes.",
+        "keyPoints": ["团圆", "红包", "喜欢的节日"],
+        "analysis": "开放性问题，结合节日特色回答，言之有理即可。"
+      }
+    ],
+    "tags": ["阅读问答", "传统文化", "节日", "习俗"],
+    "wordCount": 142,
+    "readingTime": "4-5分钟"
+  },
+  {
+    "version": "1.0",
+    "type": "reading_qa",
+    "year": 2023,
+    "difficulty": "medium",
+    "source": "2023年北京中考模拟",
+    "title": "Healthy Eating Habits",
+    "passage": "Healthy eating habits are key to good health. Breakfast is the most important meal of the day. It gives us energy for the morning. We should eat something like eggs, milk and bread for breakfast.\n\nLunch should be a balanced meal with vegetables, meat and rice. We shouldn't eat too much for dinner because our body digests food slowly at night. Also, we should drink enough water every day and avoid drinking too much sugary drinks like cola. Eating slowly and chewing food well can help our body absorb nutrients better.",
+    "questions": [
+      {
+        "id": "q1",
+        "number": 1,
+        "questionType": "open-ended",
+        "content": "Why is breakfast important?",
+        "sampleAnswer": "Breakfast is important because it gives us energy for the morning.",
+        "keyPoints": ["energy", "morning"],
+        "analysis": "文章第一段提到'Breakfast is the most important meal of the day. It gives us energy for the morning'。"
+      },
+      {
+        "id": "q2",
+        "number": 2,
+        "questionType": "open-ended",
+        "content": "What should a healthy lunch include?",
+        "sampleAnswer": "A healthy lunch should include vegetables, meat and rice.",
+        "keyPoints": ["vegetables", "meat", "rice"],
+        "analysis": "文章第二段指出'Lunch should be a balanced meal with vegetables, meat and rice'。"
+      },
+      {
+        "id": "q3",
+        "number": 3,
+        "questionType": "open-ended",
+        "content": "What should we avoid drinking too much?",
+        "sampleAnswer": "We should avoid drinking too much sugary drinks like cola.",
+        "keyPoints": ["sugary drinks", "cola"],
+        "analysis": "文章第二段提到'we should... avoid drinking too much sugary drinks like cola'。"
+      },
+      {
+        "id": "q4",
+        "number": 4,
+        "questionType": "open-ended",
+        "content": "What healthy eating habits do you have?",
+        "sampleAnswer": "I always eat breakfast, drink plenty of water every day and eat lots of vegetables.",
+        "keyPoints": ["吃早餐", "多喝水", "吃蔬菜"],
+        "analysis": "开放性问题，结合自身习惯和文章内容回答，言之有理即可。"
+      }
+    ],
+    "tags": ["阅读问答", "健康", "饮食习惯", "营养"],
+    "wordCount": 148,
+    "readingTime": "5-6分钟"
+  },
+  {
+    "version": "1.0",
+    "type": "reading_qa",
+    "year": 2023,
+    "difficulty": "medium",
+    "source": "2023年北京中考模拟",
+    "title": "Traveling in Beijing",
+    "passage": "Beijing is a beautiful city with a long history. There are many famous places to visit. The Forbidden City is one of the most popular attractions. It was the home of Chinese emperors for hundreds of years. The Great Wall is another must-see place. It's one of the seven wonders of the world.\n\nTian'anmen Square is a great place to take photos. The Summer Palace has beautiful lakes and gardens. When traveling in Beijing, you can also try local food like Peking duck. It's important to wear comfortable shoes because you will walk a lot. And don't forget to take a map or use a phone map to find your way.",
+    "questions": [
+      {
+        "id": "q1",
+        "number": 1,
+        "questionType": "open-ended",
+        "content": "What was the Forbidden City used for in the past?",
+        "sampleAnswer": "It was the home of Chinese emperors for hundreds of years.",
+        "keyPoints": ["home", "Chinese emperors", "hundreds of years"],
+        "analysis": "文章第一段提到'The Forbidden City... It was the home of Chinese emperors for hundreds of years'。"
+      },
+      {
+        "id": "q2",
+        "number": 2,
+        "questionType": "open-ended",
+        "content": "What is one of the seven wonders of the world in Beijing?",
+        "sampleAnswer": "The Great Wall is one of the seven wonders of the world.",
+        "keyPoints": ["Great Wall", "seven wonders of the world"],
+        "analysis": "文章第一段指出'The Great Wall... It's one of the seven wonders of the world'。"
+      },
+      {
+        "id": "q3",
+        "number": 3,
+        "questionType": "open-ended",
+        "content": "What local food can you try in Beijing?",
+        "sampleAnswer": "You can try Peking duck when traveling in Beijing.",
+        "keyPoints": ["Peking duck"],
+        "analysis": "文章第二段提到'When traveling in Beijing, you can also try local food like Peking duck'。"
+      },
+      {
+        "id": "q4",
+        "number": 4,
+        "questionType": "open-ended",
+        "content": "Which place in Beijing do you want to visit most? Why?",
+        "sampleAnswer": "I want to visit the Great Wall most because it's a symbol of China and very amazing.",
+        "keyPoints": ["长城", "象征", "壮观"],
+        "analysis": "开放性问题，结合景点特色回答，言之有理即可。"
+      }
+    ],
+    "tags": ["阅读问答", "旅行", "北京", "名胜古迹"],
+    "wordCount": 155,
+    "readingTime": "5-6分钟"
+  },
+  {
+    "version": "1.0",
+    "type": "reading_qa",
+    "year": 2023,
+    "difficulty": "medium",
+    "source": "2023年北京中考模拟",
+    "title": "Playing Sports",
+    "passage": "Playing sports is good for both our body and mind. It can make us strong and keep us fit. Popular sports among teenagers include basketball, football, swimming and running.\n\nPlaying team sports like basketball can help us learn teamwork and make new friends. It also teaches us to respect others and work hard to win. However, we should always play sports safely. Wear proper sports clothes and shoes, and warm up before playing. Don't play sports when you are tired or hurt, or it may cause more injuries.",
+    "questions": [
+      {
+        "id": "q1",
+        "number": 1,
+        "questionType": "open-ended",
+        "content": "What benefits does playing sports bring to us?",
+        "sampleAnswer": "Playing sports can make us strong, keep us fit, and is good for our mind.",
+        "keyPoints": ["strong", "fit", "mind"],
+        "analysis": "文章第一段提到'Playing sports is good for both our body and mind. It can make us strong and keep us fit'。"
+      },
+      {
+        "id": "q2",
+        "number": 2,
+        "questionType": "open-ended",
+        "content": "What can team sports like basketball teach us?",
+        "sampleAnswer": "They can teach us teamwork, make new friends, respect others and work hard to win.",
+        "keyPoints": ["teamwork", "new friends", "respect others", "work hard"],
+        "analysis": "文章第二段指出'Playing team sports like basketball can help us learn teamwork and make new friends. It also teaches us to respect others and work hard to win'。"
+      },
+      {
+        "id": "q3",
+        "number": 3,
+        "questionType": "open-ended",
+        "content": "What should we do to play sports safely?",
+        "sampleAnswer": "We should wear proper sports clothes and shoes, warm up before playing, and not play when tired or hurt.",
+        "keyPoints": ["proper clothes", "shoes", "warm up", "not play when tired/hurt"],
+        "analysis": "文章第二段提到'we should always play sports safely. Wear proper sports clothes and shoes, and warm up before playing. Don't play sports when you are tired or hurt'。"
+      },
+      {
+        "id": "q4",
+        "number": 4,
+        "questionType": "open-ended",
+        "content": "What sport do you like to play? Why do you like it?",
+        "sampleAnswer": "I like playing basketball because I can play with my friends and it makes me feel energetic.",
+        "keyPoints": ["篮球", "朋友", "精力充沛"],
+        "analysis": "开放性问题，结合自身喜好和运动好处回答，言之有理即可。"
+      }
+    ],
+    "tags": ["阅读问答", "运动", "健康", "团队合作"],
+    "wordCount": 143,
+    "readingTime": "4-5分钟"
+  },
+  {
+    "version": "1.0",
+    "type": "reading_qa",
+    "year": 2023,
+    "difficulty": "medium",
+    "source": "2023年北京中考模拟",
+    "title": "Saving Water",
+    "passage": "Water is very important for life. We need water to drink, cook and clean. However, many places in the world are short of water. So it's necessary for us to save water in our daily life.\n\nThere are many ways to save water. We can turn off the tap when we brush our teeth or wash our hands. We can collect rainwater to water plants. Also, we should fix the broken taps quickly to stop water from running away. Taking shorter showers instead of long baths can also save a lot of water.",
+    "questions": [
+      {
+        "id": "q1",
+        "number": 1,
+        "questionType": "open-ended",
+        "content": "Why do we need to save water?",
+        "sampleAnswer": "We need to save water because water is important for life and many places are short of water.",
+        "keyPoints": ["important for life", "short of water"],
+        "analysis": "文章第一段提到'Water is very important for life... many places in the world are short of water. So it's necessary for us to save water'。"
+      },
+      {
+        "id": "q2",
+        "number": 2,
+        "questionType": "open-ended",
+        "content": "What can we do to save water when brushing teeth?",
+        "sampleAnswer": "We can turn off the tap when we brush our teeth.",
+        "keyPoints": ["turn off", "tap", "brushing teeth"],
+        "analysis": "文章第二段提到'We can turn off the tap when we brush our teeth or wash our hands'。"
+      },
+      {
+        "id": "q3",
+        "number": 3,
+        "questionType": "open-ended",
+        "content": "How can we use rainwater to save water?",
+        "sampleAnswer": "We can collect rainwater to water plants.",
+        "keyPoints": ["collect rainwater", "water plants"],
+        "analysis": "文章第二段指出'We can collect rainwater to water plants'。"
+      },
+      {
+        "id": "q4",
+        "number": 4,
+        "questionType": "open-ended",
+        "content": "What other ways can you think of to save water?",
+        "sampleAnswer": "We can reuse the water from washing vegetables to clean the floor, and don't play water games too often.",
+        "keyPoints": ["洗菜水再利用", "不玩泼水游戏"],
+        "analysis": "开放性问题，结合生活实际回答，言之有理即可。"
+      }
+    ],
+    "tags": ["阅读问答", "环保", "节约用水", "生活"],
+    "wordCount": 136,
+    "readingTime": "4-5分钟"
+  },
+  {
+    "version": "1.0",
+    "type": "reading_qa",
+    "year": 2023,
+    "difficulty": "medium",
+    "source": "2023年北京中考模拟",
+    "title": "Recycling Waste",
+    "passage": "Recycling waste is a good way to protect the environment. It can reduce pollution and save natural resources like trees and oil. In Beijing, people sort their waste into four categories: recyclable waste, kitchen waste, harmful waste and other waste.\n\nRecyclable waste includes paper, plastic, glass and metal. We should put them in blue bins. Kitchen waste like fruit peels and vegetable leaves goes into green bins. Harmful waste such as batteries and medicine should be put in red bins. Other waste like toilet paper goes into gray bins. Everyone should learn to sort waste correctly to make our city cleaner.",
+    "questions": [
+      {
+        "id": "q1",
+        "number": 1,
+        "questionType": "open-ended",
+        "content": "What are the benefits of recycling waste?",
+        "sampleAnswer": "It can reduce pollution and save natural resources like trees and oil.",
+        "keyPoints": ["reduce pollution", "save natural resources"],
+        "analysis": "文章第一段提到'Recycling waste... It can reduce pollution and save natural resources like trees and oil'。"
+      },
+      {
+        "id": "q2",
+        "number": 2,
+        "questionType": "open-ended",
+        "content": "How many categories of waste are there in Beijing?",
+        "sampleAnswer": "There are four categories of waste in Beijing.",
+        "keyPoints": ["four", "categories"],
+        "analysis": "文章第一段指出'In Beijing, people sort their waste into four categories'。"
+      },
+      {
+        "id": "q3",
+        "number": 3,
+        "questionType": "open-ended",
+        "content": "What color bins are for recyclable waste?",
+        "sampleAnswer": "Recyclable waste should be put in blue bins.",
+        "keyPoints": ["blue bins", "recyclable waste"],
+        "analysis": "文章第二段提到'Recyclable waste... We should put them in blue bins'。"
+      },
+      {
+        "id": "q4",
+        "number": 4,
+        "questionType": "open-ended",
+        "content": "Why is it important to sort waste correctly?",
+        "sampleAnswer": "It's important because it can protect the environment and make our city cleaner.",
+        "keyPoints": ["保护环境", "城市更干净"],
+        "analysis": "开放性问题，结合文章内容和环保意义回答，言之有理即可。"
+      }
+    ],
+    "tags": ["阅读问答", "环保", "垃圾分类", "北京"],
+    "wordCount": 152,
+    "readingTime": "5-6分钟"
+  },
+  {
+    "version": "1.0",
+    "type": "reading_qa",
+    "year": 2023,
+    "difficulty": "medium",
+    "source": "2023年北京中考模拟",
+    "title": "Keeping a Pet",
+    "passage": "Keeping a pet can bring lots of joy to our life. Many people keep dogs, cats, birds or fish as pets. Dogs are loyal and can play with us. Cats are cute and quiet. Taking care of a pet teaches us responsibility. We need to feed it, clean its home and take it to the vet when it's sick.\n\nHowever, keeping a pet also needs time and money. We should make sure we can look after it well before getting a pet. Also, we should follow the rules in our community, like cleaning up the pet's waste when walking it outside.",
+    "questions": [
+      {
+        "id": "q1",
+        "number": 1,
+        "questionType": "open-ended",
+        "content": "What kind of joy can keeping a pet bring?",
+        "sampleAnswer": "Keeping a pet can bring lots of joy to our life.",
+        "keyPoints": ["lots of joy"],
+        "analysis": "文章第一段开头提到'Keeping a pet can bring lots of joy to our life'。"
+      },
+      {
+        "id": "q2",
+        "number": 2,
+        "questionType": "open-ended",
+        "content": "What can taking care of a pet teach us?",
+        "sampleAnswer": "Taking care of a pet teaches us responsibility.",
+        "keyPoints": ["responsibility"],
+        "analysis": "文章第一段指出'Taking care of a pet teaches us responsibility'。"
+      },
+      {
+        "id": "q3",
+        "number": 3,
+        "questionType": "open-ended",
+        "content": "What should we do before getting a pet?",
+        "sampleAnswer": "We should make sure we can look after it well before getting a pet.",
+        "keyPoints": ["make sure", "look after well"],
+        "analysis": "文章第二段提到'We should make sure we can look after it well before getting a pet'。"
+      },
+      {
+        "id": "q4",
+        "number": 4,
+        "questionType": "open-ended",
+        "content": "Do you want to keep a pet? What pet do you want and why?",
+        "sampleAnswer": "Yes, I want to keep a dog because dogs are loyal and can play with me when I'm lonely.",
+        "keyPoints": ["狗", "忠诚", "陪伴"],
+        "analysis": "开放性问题，结合宠物特点和自身想法回答，言之有理即可。"
+      }
+    ],
+    "tags": ["阅读问答", "宠物", "责任", "生活"],
+    "wordCount": 140,
+    "readingTime": "4-5分钟"
+  },
+  {
+    "version": "1.0",
+    "type": "reading_qa",
+    "year": 2023,
+    "difficulty": "medium",
+    "source": "2023年北京中考模拟",
+    "title": "Learning Chinese History",
+    "passage": "Learning Chinese history is important for every Chinese student. It helps us understand our culture and where we come from. We can learn about great people like Confucius, Qin Shi Huang and Mao Zedong. We also learn about important events like the building of the Great Wall and the founding of the People's Republic of China.\n\nThere are many ways to learn history. We can read history books, visit museums, or watch historical documentaries. Talking with old people in our family is also a good way, as they can share interesting stories from the past.",
+    "questions": [
+      {
+        "id": "q1",
+        "number": 1,
+        "questionType": "open-ended",
+        "content": "Why is learning Chinese history important for students?",
+        "sampleAnswer": "It helps us understand our culture and where we come from.",
+        "keyPoints": ["understand culture", "where we come from"],
+        "analysis": "文章第一段提到'Learning Chinese history... It helps us understand our culture and where we come from'。"
+      },
+      {
+        "id": "q2",
+        "number": 2,
+        "questionType": "open-ended",
+        "content": "Who are some great people we learn about in Chinese history?",
+        "sampleAnswer": "We learn about great people like Confucius, Qin Shi Huang and Mao Zedong.",
+        "keyPoints": ["Confucius", "Qin Shi Huang", "Mao Zedong"],
+        "analysis": "文章第一段指出'We can learn about great people like Confucius, Qin Shi Huang and Mao Zedong'。"
+      },
+      {
+        "id": "q3",
+        "number": 3,
+        "questionType": "open-ended",
+        "content": "What are the ways to learn Chinese history?",
+        "sampleAnswer": "We can read history books, visit museums, watch historical documentaries, or talk with old family members.",
+        "keyPoints": ["history books", "museums", "documentaries", "old people"],
+        "analysis": "文章第二段提到'There are many ways to learn history. We can read history books, visit museums, or watch historical documentaries. Talking with old people in our family is also a good way'。"
+      },
+      {
+        "id": "q4",
+        "number": 4,
+        "questionType": "open-ended",
+        "content": "What part of Chinese history interests you most? Why?",
+        "sampleAnswer": "I'm most interested in the history of the Great Wall because it's a great project and shows Chinese people's hard work.",
+        "keyPoints": ["长城", "伟大工程", "勤劳"],
+        "analysis": "开放性问题，结合历史内容回答，言之有理即可。"
+      }
+    ],
+    "tags": ["阅读问答", "历史", "文化", "学习方式"],
+    "wordCount": 150,
+    "readingTime": "5-6分钟"
+  },
+  {
+    "version": "1.0",
+    "type": "reading_qa",
+    "year": 2023,
+    "difficulty": "medium",
+    "source": "2023年北京中考模拟",
+    "title": "Making Friends",
+    "passage": "Friends are important in our life. Good friends can make us happy and help us when we are in trouble. To make good friends, we should be kind and honest. We should listen to our friends and care about their feelings.\n\nIt's also important to share things with friends, like our hobbies and feelings. We should respect our friends' differences and learn from each other. However, we should avoid making friends with people who are rude or dishonest. True friendship lasts a long time, so we should treasure our friends.",
+    "questions": [
+      {
+        "id": "q1",
+        "number": 1,
+        "questionType": "open-ended",
+        "content": "Why are good friends important to us?",
+        "sampleAnswer": "Good friends can make us happy and help us when we are in trouble.",
+        "keyPoints": ["happy", "help", "in trouble"],
+        "analysis": "文章第一段提到'Good friends can make us happy and help us when we are in trouble'。"
+      },
+      {
+        "id": "q2",
+        "number": 2,
+        "questionType": "open-ended",
+        "content": "What should we do to make good friends?",
+        "sampleAnswer": "We should be kind and honest, listen to friends and care about their feelings.",
+        "keyPoints": ["kind", "honest", "listen", "care about feelings"],
+        "analysis": "文章第一段指出'To make good friends, we should be kind and honest. We should listen to our friends and care about their feelings'。"
+      },
+      {
+        "id": "q3",
+        "number": 3,
+        "questionType": "open-ended",
+        "content": "What should we share with our friends?",
+        "sampleAnswer": "We should share our hobbies and feelings with our friends.",
+        "keyPoints": ["hobbies", "feelings"],
+        "analysis": "文章第二段提到'It's also important to share things with friends, like our hobbies and feelings'。"
+      },
+      {
+        "id": "q4",
+        "number": 4,
+        "questionType": "open-ended",
+        "content": "What do you think makes a true friend?",
+        "sampleAnswer": "I think a true friend is honest, kind and always helps you when you need them.",
+        "keyPoints": ["诚实", "善良", "帮助"],
+        "analysis": "开放性问题，结合文章内容和自身理解回答，言之有理即可。"
+      }
+    ],
+    "tags": ["阅读问答", "友谊", "交友", "相处"],
+    "wordCount": 139,
+    "readingTime": "4-5分钟"
+  },
+  {
+    "version": "1.0",
+    "type": "reading_qa",
+    "year": 2023,
+    "difficulty": "medium",
+    "source": "2023年北京中考模拟",
+    "title": "Reading Books",
+    "passage": "Reading books is a wonderful hobby. It can open up our eyes to the world and make us smarter. There are many kinds of books, such as storybooks, science books, history books and poetry books.\n\nReading for 30 minutes every day can improve our language skills and imagination. We can read books in the library, at home or even on the bus. It's better to choose books that we are interested in, because it makes reading more enjoyable. After reading a book, we can write a book review to share our thoughts with others.",
+    "questions": [
+      {
+        "id": "q1",
+        "number": 1,
+        "questionType": "open-ended",
+        "content": "What benefits does reading books bring?",
+        "sampleAnswer": "It can open up our eyes to the world, make us smarter, improve language skills and imagination.",
+        "keyPoints": ["open up eyes", "smarter", "language skills", "imagination"],
+        "analysis": "文章第一段和第二段提到'Reading books... It can open up our eyes to the world and make us smarter... improve our language skills and imagination'。"
+      },
+      {
+        "id": "q2",
+        "number": 2,
+        "questionType": "open-ended",
+        "content": "How long should we read every day to improve our skills?",
+        "sampleAnswer": "We should read for 30 minutes every day.",
+        "keyPoints": ["30 minutes", "every day"],
+        "analysis": "文章第二段提到'Reading for 30 minutes every day can improve our language skills and imagination'。"
+      },
+      {
+        "id": "q3",
+        "number": 3,
+        "questionType": "open-ended",
+        "content": "Where can we read books?",
+        "sampleAnswer": "We can read books in the library, at home or on the bus.",
+        "keyPoints": ["library", "home", "bus"],
+        "analysis": "文章第二段指出'We can read books in the library, at home or even on the bus'。"
+      },
+      {
+        "id": "q4",
+        "number": 4,
+        "questionType": "open-ended",
+        "content": "What kind of books do you like to read? Why?",
+        "sampleAnswer": "I like to read science books because they teach me interesting knowledge about nature and technology.",
+        "keyPoints": ["科学书", "自然知识", "科技"],
+        "analysis": "开放性问题，结合书籍类型和自身兴趣回答，言之有理即可。"
+      }
+    ],
+    "tags": ["阅读问答", "阅读", "书籍", "爱好"],
+    "wordCount": 145,
+    "readingTime": "5-6分钟"
+  },
+  {
+    "version": "1.0",
+    "type": "reading_qa",
+    "year": 2023,
+    "difficulty": "medium",
+    "source": "2023年北京中考模拟",
+    "title": "Protecting the Environment",
+    "passage": "Protecting the environment is everyone's responsibility. Air pollution and plastic pollution are big problems today. We can do many small things to help protect the earth.\n\nFirst, we can go to school by bike or on foot instead of by car to reduce air pollution. Second, we can use cloth bags instead of plastic bags when shopping. Third, we can plant more trees to make the air fresher. Also, we should not litter and pick up trash when we see it on the street. Small actions can make a big difference to the environment.",
+    "questions": [
+      {
+        "id": "q1",
+        "number": 1,
+        "questionType": "open-ended",
+        "content": "What are the big environmental problems today?",
+        "sampleAnswer": "Air pollution and plastic pollution are big problems today.",
+        "keyPoints": ["air pollution", "plastic pollution"],
+        "analysis": "文章第一段提到'Air pollution and plastic pollution are big problems today'。"
+      },
+      {
+        "id": "q2",
+        "number": 2,
+        "questionType": "open-ended",
+        "content": "How can we reduce air pollution when going to school?",
+        "sampleAnswer": "We can go to school by bike or on foot instead of by car.",
+        "keyPoints": ["bike", "on foot", "instead of car"],
+        "analysis": "文章第二段提到'we can go to school by bike or on foot instead of by car to reduce air pollution'。"
+      },
+      {
+        "id": "q3",
+        "number": 3,
+        "questionType": "open-ended",
+        "content": "What can we use instead of plastic bags when shopping?",
+        "sampleAnswer": "We can use cloth bags instead of plastic bags when shopping.",
+        "keyPoints": ["cloth bags"],
+        "analysis": "文章第二段指出'we can use cloth bags instead of plastic bags when shopping'。"
+      },
+      {
+        "id": "q4",
+        "number": 4,
+        "questionType": "open-ended",
+        "content": "What other small actions can we take to protect the environment?",
+        "sampleAnswer": "We can save electricity by turning off lights when leaving rooms, and reuse water to water plants.",
+        "keyPoints": ["节约用电", "重复用水"],
+        "analysis": "开放性问题，结合生活实际回答，言之有理即可。"
+      }
+    ],
+    "tags": ["阅读问答", "环保", "责任", "行动"],
+    "wordCount": 147,
+    "readingTime": "5-6分钟"
+  },
+  {
+    "version": "1.0",
+    "type": "reading_qa",
+    "year": 2023,
+    "difficulty": "medium",
+    "source": "2023年北京中考模拟",
+    "title": "School Clubs",
+    "passage": "School clubs are a great part of school life. They help students develop hobbies and learn new skills. There are many kinds of clubs in middle schools, such as art clubs, music clubs, sports clubs and science clubs.\n\nJoining a club can also help students make new friends who have the same interests. It's a good way to relax after class and make school life more colorful. When choosing a club, we should pick one that we really like, not just because our friends join it. We should also balance club activities with our studies.",
+    "questions": [
+      {
+        "id": "q1",
+        "number": 1,
+        "questionType": "open-ended",
+        "content": "What do school clubs help students do?",
+        "sampleAnswer": "They help students develop hobbies, learn new skills, make new friends and relax after class.",
+        "keyPoints": ["develop hobbies", "new skills", "new friends", "relax"],
+        "analysis": "文章第一段和第二段提到'School clubs... help students develop hobbies and learn new skills... help students make new friends... It's a good way to relax after class'。"
+      },
+      {
+        "id": "q2",
+        "number": 2,
+        "questionType": "open-ended",
+        "content": "What kind of friends can students make in school clubs?",
+        "sampleAnswer": "They can make new friends who have the same interests.",
+        "keyPoints": ["new friends", "same interests"],
+        "analysis": "文章第二段指出'Joining a club can also help students make new friends who have the same interests'。"
+      },
+      {
+        "id": "q3",
+        "number": 3,
+        "questionType": "open-ended",
+        "content": "What should we consider when choosing a club?",
+        "sampleAnswer": "We should pick one we really like and balance club activities with studies.",
+        "keyPoints": ["really like", "balance", "studies"],
+        "analysis": "文章第二段提到'When choosing a club, we should pick one that we really like... We should also balance club activities with our studies'。"
+      },
+      {
+        "id": "q4",
+        "number": 4,
+        "questionType": "open-ended",
+        "content": "What club would you like to join? Why?",
+        "sampleAnswer": "I'd like to join the music club because I love playing the piano and want to learn from other students.",
+        "keyPoints": ["音乐俱乐部", "弹钢琴", "学习"],
+        "analysis": "开放性问题，结合俱乐部类型和自身兴趣回答，言之有理即可。"
+      }
+    ],
+    "tags": ["阅读问答", "校园生活", "俱乐部", "兴趣"],
+    "wordCount": 141,
+    "readingTime": "4-5分钟"
+  },
+  {
+    "version": "1.0",
+    "type": "reading_qa",
+    "year": 2023,
+    "difficulty": "medium",
+    "source": "2023年北京中考模拟",
+    "title": "Time Management",
+    "passage": "Time management is an important skill for students. It helps us use our time wisely and finish our tasks on time. Many students feel stressed because they don't plan their time well.\n\nTo manage time well, we should make a to-do list every morning. Write down all the tasks we need to do, like doing homework, reading and exercising. Then, we should set a time for each task and follow the plan. We should also avoid wasting time on phone games or social media. Taking short breaks between tasks can help us stay focused.",
+    "questions": [
+      {
+        "id": "q1",
+        "number": 1,
+        "questionType": "open-ended",
+        "content": "Why is time management important for students?",
+        "sampleAnswer": "It helps us use time wisely and finish tasks on time, and reduces stress.",
+        "keyPoints": ["use time wisely", "finish tasks on time", "reduce stress"],
+        "analysis": "文章第一段提到'Time management... It helps us use our time wisely and finish our tasks on time. Many students feel stressed because they don't plan their time well'。"
+      },
+      {
+        "id": "q2",
+        "number": 2,
+        "questionType": "open-ended",
+        "content": "What should we do every morning to manage time well?",
+        "sampleAnswer": "We should make a to-do list every morning.",
+        "keyPoints": ["to-do list"],
+        "analysis": "文章第二段提到'To manage time well, we should make a to-do list every morning'。"
+      },
+      {
+        "id": "q3",
+        "number": 3,
+        "questionType": "open-ended",
+        "content": "What should we avoid to save time?",
+        "sampleAnswer": "We should avoid wasting time on phone games or social media.",
+        "keyPoints": ["wasting time", "phone games", "social media"],
+        "analysis": "文章第二段指出'We should also avoid wasting time on phone games or social media'。"
+      },
+      {
+        "id": "q4",
+        "number": 4,
+        "questionType": "open-ended",
+        "content": "How do you manage your time after school? Give an example.",
+        "sampleAnswer": "I make a plan after school: first do homework for an hour, then read for 30 minutes, and finally exercise for 20 minutes.",
+        "keyPoints": ["制定计划", "做作业", "阅读", "运动"],
+        "analysis": "开放性问题，结合自身时间安排回答，言之有理即可。"
+      }
+    ],
+    "tags": ["阅读问答", "时间管理", "学习技巧", "效率"],
+    "wordCount": 144,
+    "readingTime": "5-6分钟"
+  },
+  {
+    "version": "1.0",
+    "type": "reading_qa",
+    "year": 2023,
+    "difficulty": "medium",
+    "source": "2023年北京中考模拟",
+    "title": "Learning a Foreign Language",
+    "passage": "Learning a foreign language, like English, is very useful. It can help us communicate with people from other countries and learn about different cultures. It also opens up more chances for our future study and work.\n\nTo learn a foreign language well, we should practice speaking every day, even if it's just a few sentences. Listening to songs or watching movies in the language can improve our listening skills. Reading simple stories and writing short diaries are also good ways. Don't be afraid to make mistakes, because making mistakes is part of learning.",
+    "questions": [
+      {
+        "id": "q1",
+        "number": 1,
+        "questionType": "open-ended",
+        "content": "What are the benefits of learning a foreign language?",
+        "sampleAnswer": "It helps us communicate with foreign people, learn different cultures, and brings more chances for study and work.",
+        "keyPoints": ["communicate", "different cultures", "chances", "study", "work"],
+        "analysis": "文章第一段提到'Learning a foreign language... It can help us communicate with people from other countries and learn about different cultures. It also opens up more chances for our future study and work'。"
+      },
+      {
+        "id": "q2",
+        "number": 2,
+        "questionType": "open-ended",
+        "content": "What should we do every day to practice a foreign language?",
+        "sampleAnswer": "We should practice speaking every day, even just a few sentences.",
+        "keyPoints": ["practice speaking", "every day", "a few sentences"],
+        "analysis": "文章第二段提到'To learn a foreign language well, we should practice speaking every day, even if it's just a few sentences'。"
+      },
+      {
+        "id": "q3",
+        "number": 3,
+        "questionType": "open-ended",
+        "content": "How can we improve our listening skills in a foreign language?",
+        "sampleAnswer": "We can listen to songs or watch movies in the language to improve listening skills.",
+        "keyPoints": ["listen to songs", "watch movies"],
+        "analysis": "文章第二段指出'Listening to songs or watching movies in the language can improve our listening skills'。"
+      },
+      {
+        "id": "q4",
+        "number": 4,
+        "questionType": "open-ended",
+        "content": "What do you think is the hardest part of learning English? How do you overcome it?",
+        "sampleAnswer": "Speaking is the hardest part for me. I practice speaking with my classmates every day to improve it.",
+        "keyPoints": ["口语", "练习", "克服"],
+        "analysis": "开放性问题，结合自身学习体验回答，言之有理即可。"
+      }
+    ],
+    "tags": ["阅读问答", "外语学习", "英语", "学习方法"],
+    "wordCount": 151,
+    "readingTime": "5-6分钟"
+  },
+  {
+    "version": "1.0",
+    "type": "reading_qa",
+    "year": 2023,
+    "difficulty": "medium",
+    "source": "2023年北京中考模拟",
+    "title": "Outdoor Activities",
+    "passage": "Outdoor activities are great for our health and mood. They can make us forget about school stress and enjoy nature. Popular outdoor activities include hiking, camping, cycling and flying kites.\n\nWhen doing outdoor activities, we should prepare well. Wear comfortable clothes and shoes, bring enough water and food, and tell our parents where we are going. It's also important to follow safety rules, like not swimming alone in rivers and not getting lost in the mountains. Outdoor activities with family or friends are more fun and safer.",
+    "questions": [
+      {
+        "id": "q1",
+        "number": 1,
+        "questionType": "open-ended",
+        "content": "What benefits do outdoor activities bring?",
+        "sampleAnswer": "They are good for our health and mood, help us forget school stress and enjoy nature.",
+        "keyPoints": ["health", "mood", "forget stress", "enjoy nature"],
+        "analysis": "文章第一段提到'Outdoor activities are great for our health and mood. They can make us forget about school stress and enjoy nature'。"
+      },
+      {
+        "id": "q2",
+        "number": 2,
+        "questionType": "open-ended",
+        "content": "What should we prepare for outdoor activities?",
+        "sampleAnswer": "We should wear comfortable clothes and shoes, bring enough water and food, and tell parents our location.",
+        "keyPoints": ["comfortable clothes/shoes", "water", "food", "tell parents location"],
+        "analysis": "文章第二段提到'When doing outdoor activities, we should prepare well. Wear comfortable clothes and shoes, bring enough water and food, and tell our parents where we are going'。"
+      },
+      {
+        "id": "q3",
+        "number": 3,
+        "questionType": "open-ended",
+        "content": "What safety rules should we follow during outdoor activities?",
+        "sampleAnswer": "We should not swim alone in rivers, not get lost in mountains, and do activities with family or friends.",
+        "keyPoints": ["not swim alone", "not get lost", "with family/friends"],
+        "analysis": "文章第二段指出'It's also important to follow safety rules, like not swimming alone in rivers and not getting lost in the mountains. Outdoor activities with family or friends are more fun and safer'。"
+      },
+      {
+        "id": "q4",
+        "number": 4,
+        "questionType": "open-ended",
+        "content": "What outdoor activity do you like most? Why?",
+        "sampleAnswer": "I like hiking most because I can enjoy the beautiful scenery and exercise at the same time.",
+        "keyPoints": ["徒步", "风景", "锻炼"],
+        "analysis": "开放性问题，结合活动特点回答，言之有理即可。"
+      }
+    ],
+    "tags": ["阅读问答", "户外活动", "自然", "安全"],
+    "wordCount": 153,
+    "readingTime": "5-6分钟"
+  },
+  {
+    "version": "1.0",
+    "type": "reading_qa",
+    "year": 2023,
+    "difficulty": "medium",
+    "source": "2023年北京中考模拟",
+    "title": "Giving Gifts",
+    "passage": "Giving gifts is a way to show our love and care to family and friends. It doesn't matter how expensive the gift is; what matters is the thought behind it.\n\nFor parents, a handmade card or a hug can make them happy. For friends, a small gift like a book or a pen is nice. When choosing a gift, we should think about the person's hobbies and needs. For example, if your friend likes reading, a new book is a perfect gift. Giving gifts on special days like birthdays or festivals makes the moment more meaningful.",
+    "questions": [
+      {
+        "id": "q1",
+        "number": 1,
+        "questionType": "open-ended",
+        "content": "What is the meaning of giving gifts?",
+        "sampleAnswer": "It's a way to show our love and care to family and friends.",
+        "keyPoints": ["love", "care", "family", "friends"],
+        "analysis": "文章第一段提到'Giving gifts is a way to show our love and care to family and friends'。"
+      },
+      {
+        "id": "q2",
+        "number": 2,
+        "questionType": "open-ended",
+        "content": "What matters most when giving a gift?",
+        "sampleAnswer": "The thought behind the gift matters most, not the price.",
+        "keyPoints": ["thought", "not expensive/price"],
+        "analysis": "文章第一段指出'It doesn't matter how expensive the gift is; what matters is the thought behind it'。"
+      },
+      {
+        "id": "q3",
+        "number": 3,
+        "questionType": "open-ended",
+        "content": "What should we consider when choosing a gift?",
+        "sampleAnswer": "We should think about the person's hobbies and needs.",
+        "keyPoints": ["hobbies", "needs"],
+        "analysis": "文章第二段提到'When choosing a gift, we should think about the person's hobbies and needs'。"
+      },
+      {
+        "id": "q4",
+        "number": 4,
+        "questionType": "open-ended",
+        "content": "What gift would you give to your mother on her birthday? Why?",
+        "sampleAnswer": "I would give her a handmade card because it shows my love and she will be happy to get it.",
+        "keyPoints": ["手工贺卡", "爱", "开心"],
+        "analysis": "开放性问题，结合礼物意义和收礼人特点回答，言之有理即可。"
+      }
+    ],
+    "tags": ["阅读问答", "礼物", "情感", "节日"],
+    "wordCount": 137,
+    "readingTime": "4-5分钟"
+  },
+  {
+    "version": "1.0",
+    "type": "reading_qa",
+    "year": 2023,
+    "difficulty": "medium",
+    "source": "2023年北京中考模拟",
+    "title": "Using Phones Wisely",
+    "passage": "Phones are very useful in our daily life. We can use them to call people, send messages, and look up information. However, many teenagers spend too much time on phones, which is bad for their eyes and study.\n\nTo use phones wisely, we should set a time limit, like using phones for no more than one hour a day after school. We should not use phones during class or before bed. Also, we can use phones to learn, such as listening to English podcasts or reading news, instead of playing games all the time. Parents can help us control phone use to keep a healthy balance.",
+    "questions": [
+      {
+        "id": "q1",
+        "number": 1,
+        "questionType": "open-ended",
+        "content": "What are the uses of phones in daily life?",
+        "sampleAnswer": "We can use phones to call people, send messages, and look up information.",
+        "keyPoints": ["call people", "send messages", "look up information"],
+        "analysis": "文章第一段提到'Phones are very useful in our daily life. We can use them to call people, send messages, and look up information'。"
+      },
+      {
+        "id": "q2",
+        "number": 2,
+        "questionType": "open-ended",
+        "content": "What problems can too much phone use cause?",
+        "sampleAnswer": "It is bad for teenagers' eyes and study.",
+        "keyPoints": ["bad for eyes", "bad for study"],
+        "analysis": "文章第一段指出'many teenagers spend too much time on phones, which is bad for their eyes and study'。"
+      },
+      {
+        "id": "q3",
+        "number": 3,
+        "questionType": "open-ended",
+        "content": "What time limit should we set for phone use after school?",
+        "sampleAnswer": "We should use phones for no more than one hour a day after school.",
+        "keyPoints": ["no more than one hour", "a day", "after school"],
+        "analysis": "文章第二段提到'To use phones wisely, we should set a time limit, like using phones for no more than one hour a day after school'。"
+      },
+      {
+        "id": "q4",
+        "number": 4,
+        "questionType": "open-ended",
+        "content": "How do you use your phone in a smart way? Give an example.",
+        "sampleAnswer": "I use my phone to listen to English songs and learn new words, and I don't use it during dinner time.",
+        "keyPoints": ["学英语", "不使用手机（特定时段）"],
+        "analysis": "开放性问题，结合合理用机方式回答，言之有理即可。"
+      }
+    ],
+    "tags": ["阅读问答", "手机", "合理使用", "健康"],
+    "wordCount": 149,
+    "readingTime": "5-6分钟"
+  },
+  {
+    "version": "1.0",
+    "type": "reading_qa",
+    "year": 2023,
+    "difficulty": "medium",
+    "source": "2023年北京中考模拟",
+    "title": "Celebrating Birthdays",
+    "passage": "Birthdays are special days for everyone. In China, people celebrate birthdays in different ways. For children, parents usually hold a birthday party and buy a birthday cake with candles. The child makes a wish and blows out the candles.\n\nFor adults, they may have a family dinner with parents and relatives. Some people like to celebrate their birthdays by doing something meaningful, like planting a tree or volunteering. No matter how we celebrate, the most important thing is to show thanks to our parents for giving us life.",
+    "questions": [
+      {
+        "id": "q1",
+        "number": 1,
+        "questionType": "open-ended",
+        "content": "How do parents celebrate children's birthdays in China?",
+        "sampleAnswer": "Parents usually hold a birthday party and buy a birthday cake with candles.",
+        "keyPoints": ["birthday party", "birthday cake", "candles"],
+        "analysis": "文章第一段提到'For children, parents usually hold a birthday party and buy a birthday cake with candles'。"
+      },
+      {
+        "id": "q2",
+        "number": 2,
+        "questionType": "open-ended",
+        "content": "What does the child do with the birthday candles?",
+        "sampleAnswer": "The child makes a wish and blows out the candles.",
+        "keyPoints": ["makes a wish", "blows out candles"],
+        "analysis": "文章第一段指出'The child makes a wish and blows out the candles'。"
+      },
+      {
+        "id": "q3",
+        "number": 3,
+        "questionType": "open-ended",
+        "content": "What meaningful things do some people do to celebrate birthdays?",
+        "sampleAnswer": "Some people plant a tree or do volunteering to celebrate birthdays.",
+        "keyPoints": ["plant a tree", "volunteering"],
+        "analysis": "文章第二段提到'Some people like to celebrate their birthdays by doing something meaningful, like planting a tree or volunteering'。"
+      },
+      {
+        "id": "q4",
+        "number": 4,
+        "questionType": "open-ended",
+        "content": "How do you like to celebrate your birthday? Why?",
+        "sampleAnswer": "I like to have a dinner with my family because I can share happiness with them and thank my parents.",
+        "keyPoints": ["家庭晚餐", "分享快乐", "感谢父母"],
+        "analysis": "开放性问题，结合生日庆祝方式和意义回答，言之有理即可。"
+      }
+    ],
+    "tags": ["阅读问答", "生日", "庆祝方式", "感恩"],
+    "wordCount": 140,
+    "readingTime": "4-5分钟"
+  },
+  {
+    "version": "1.0",
+    "type": "reading_qa",
+    "year": 2023,
+    "difficulty": "medium",
+    "source": "2023年北京中考模拟",
+    "title": "Gardening",
+    "passage": "Gardening is a relaxing and rewarding hobby. It can make our home more beautiful and give us fresh air. Many people like to grow flowers, vegetables or herbs in their yards or on balconies.\n\nTo start gardening, we need to choose the right plants for our home. For example, sunflowers need lots of sunlight, while ferns grow well in shade. We should water the plants regularly and remove weeds to help them grow. Harvesting the vegetables or flowers we grow makes us feel proud and happy. Gardening also teaches us to be patient and care for living things.",
+    "questions": [
+      {
+        "id": "q1",
+        "number": 1,
+        "questionType": "open-ended",
+        "content": "What benefits does gardening bring?",
+        "sampleAnswer": "It's relaxing and rewarding, makes home beautiful, gives fresh air, and teaches patience and care for living things.",
+        "keyPoints": ["relaxing", "rewarding", "beautiful home", "fresh air", "patience", "care for living things"],
+        "analysis": "文章第一段和第二段提到'Gardening is a relaxing and rewarding hobby. It can make our home more beautiful and give us fresh air... Gardening also teaches us to be patient and care for living things'。"
+      },
+      {
+        "id": "q2",
+        "number": 2,
+        "questionType": "open-ended",
+        "content": "What do sunflowers need to grow well?",
+        "sampleAnswer": "Sunflowers need lots of sunlight to grow well.",
+        "keyPoints": ["lots of sunlight"],
+        "analysis": "文章第二段提到'For example, sunflowers need lots of sunlight'。"
+      },
+      {
+        "id": "q3",
+        "number": 3,
+        "questionType": "open-ended",
+        "content": "What should we do to help plants grow?",
+        "sampleAnswer": "We should water them regularly and remove weeds.",
+        "keyPoints": ["water regularly", "remove weeds"],
+        "analysis": "文章第二段指出'We should water the plants regularly and remove weeds to help them grow'。"
+      },
+      {
+        "id": "q4",
+        "number": 4,
+        "questionType": "open-ended",
+        "content": "Would you like to try gardening? What plant would you grow?",
+        "sampleAnswer": "Yes, I'd like to grow tomatoes because I like eating fresh tomatoes and want to see them grow.",
+        "keyPoints": ["西红柿", "喜欢吃", "观察生长"],
+        "analysis": "开放性问题，结合园艺体验和植物选择回答，言之有理即可。"
+      }
+    ],
+    "tags": ["阅读问答", "园艺", "爱好", "耐心"],
+    "wordCount": 146,
+    "readingTime": "5-6分钟"
+  },
+  {
+    "version": "1.0",
+    "type": "reading_qa",
+    "year": 2023,
+    "difficulty": "medium",
+    "source": "2023年北京中考模拟",
+    "title": "Helping Others",
+    "passage": "Helping others is a kind act that makes the world warmer. Small actions can make a big difference. For example, we can help an old person carry heavy bags, or help a classmate with their homework.\n\nWhen we help others, we not only make them happy but also feel good about ourselves. It teaches us to be kind and responsible. We can also join community service activities, like cleaning up the park or helping homeless people. Remember, helping others doesn't need to be big; even a smile or a kind word can brighten someone's day.",
+    "questions": [
+      {
+        "id": "q1",
+        "number": 1,
+        "questionType": "open-ended",
+        "content": "What kind of act is helping others?",
+        "sampleAnswer": "It's a kind act that makes the world warmer.",
+        "keyPoints": ["kind act", "world warmer"],
+        "analysis": "文章第一段提到'Helping others is a kind act that makes the world warmer'。"
+      },
+      {
+        "id": "q2",
+        "number": 2,
+        "questionType": "open-ended",
+        "content": "What small actions can we take to help others?",
+        "sampleAnswer": "We can help an old person carry heavy bags or help a classmate with homework.",
+        "keyPoints": ["old person", "carry heavy bags", "classmate", "homework"],
+        "analysis": "文章第一段指出'For example, we can help an old person carry heavy bags, or help a classmate with their homework'。"
+      },
+      {
+        "id": "q3",
+        "number": 3,
+        "questionType": "open-ended",
+        "content": "What can we learn from helping others?",
+        "sampleAnswer": "We learn to be kind and responsible.",
+        "keyPoints": ["kind", "responsible"],
+        "analysis": "文章第二段提到'It teaches us to be kind and responsible'。"
+      },
+      {
+        "id": "q4",
+        "number": 4,
+        "questionType": "open-ended",
+        "content": "Have you ever helped someone? What did you do and how did you feel?",
+        "sampleAnswer": "Yes, I helped my neighbor carry groceries last week. I felt happy and proud of myself.",
+        "keyPoints": ["帮助邻居", "拎东西", "开心", "自豪"],
+        "analysis": "开放性问题，结合自身经历回答，言之有理即可。"
+      }
+    ],
+    "tags": ["阅读问答", "帮助他人", "善良", "社会责任"],
+    "wordCount": 138,
+    "readingTime": "4-5分钟"
+  },
+  {
+    "version": "1.0",
+    "type": "reading_qa",
+    "year": 2023,
+    "difficulty": "medium",
+    "source": "2023年北京中考模拟",
+    "title": "Music in Our Life",
+    "passage": "Music is an important part of our life. It can make us happy when we are sad, and help us relax after a busy day. There are many kinds of music, such as pop music, classical music, folk music and rock music.\n\nListening to music can improve our mood and reduce stress. Learning to play a musical instrument, like the piano or guitar, can also develop our creativity and patience. We can listen to music with family or friends, which makes our time together more enjoyable. Music connects people and brings joy to everyone's life.",
+    "questions": [
+      {
+        "id": "q1",
+        "number": 1,
+        "questionType": "open-ended",
+        "content": "What role does music play in sad times?",
+        "sampleAnswer": "It can make us happy when we are sad.",
+        "keyPoints": ["make us happy", "sad"],
+        "analysis": "文章第一段提到'It can make us happy when we are sad'。"
+      },
+      {
+        "id": "q2",
+        "number": 2,
+        "questionType": "open-ended",
+        "content": "What benefits does listening to music bring?",
+        "sampleAnswer": "It can improve our mood and reduce stress.",
+        "keyPoints": ["improve mood", "reduce stress"],
+        "analysis": "文章第二段提到'Listening to music can improve our mood and reduce stress'。"
+      },
+      {
+        "id": "q3",
+        "number": 3,
+        "questionType": "open-ended",
+        "content": "What can learning to play a musical instrument develop?",
+        "sampleAnswer": "It can develop our creativity and patience.",
+        "keyPoints": ["creativity", "patience"],
+        "analysis": "文章第二段指出'Learning to play a musical instrument... can also develop our creativity and patience'。"
+      },
+      {
+        "id": "q4",
+        "number": 4,
+        "questionType": "open-ended",
+        "content": "What kind of music do you like? How does it make you feel?",
+        "sampleAnswer": "I like pop music because it's energetic and makes me feel happy when I listen to it.",
+        "keyPoints": ["流行音乐", "有活力", "开心"],
+        "analysis": "开放性问题，结合音乐类型和自身感受回答，言之有理即可。"
+      }
+    ],
+    "tags": ["阅读问答", "音乐", "情绪", "创造力"],
+    "wordCount": 139,
+    "readingTime": "4-5分钟"
+  },
+  {
+    "version": "1.0",
+    "type": "reading_qa",
+    "year": 2023,
+    "difficulty": "medium",
+    "source": "2023年北京中考模拟",
+    "title": "Morning Exercises",
+    "passage": "Morning exercises are a great way to start the day. They can wake up our body and give us energy for the whole day. Common morning exercises include jogging, stretching, doing tai chi or jumping rope.\n\nDoing morning exercises for 20 to 30 minutes every day can improve our physical health and make us more focused in class. It's best to exercise in a park or a quiet place with fresh air. We should wear comfortable clothes and drink some water before exercising. Exercising with family members or friends makes it more fun and easier to keep doing it.",
+    "questions": [
+      {
+        "id": "q1",
+        "number": 1,
+        "questionType": "open-ended",
+        "content": "What can morning exercises do for us at the start of the day?",
+        "sampleAnswer": "They can wake up our body and give us energy for the whole day.",
+        "keyPoints": ["wake up body", "energy", "whole day"],
+        "analysis": "文章第一段提到'Morning exercises... They can wake up our body and give us energy for the whole day'。"
+      },
+      {
+        "id": "q2",
+        "number": 2,
+        "questionType": "open-ended",
+        "content": "How long should we do morning exercises every day?",
+        "sampleAnswer": "We should do morning exercises for 20 to 30 minutes every day.",
+        "keyPoints": ["20 to 30 minutes", "every day"],
+        "analysis": "文章第二段提到'Doing morning exercises for 20 to 30 minutes every day can improve our physical health'。"
+      },
+      {
+        "id": "q3",
+        "number": 3,
+        "questionType": "open-ended",
+        "content": "Where is the best place to do morning exercises?",
+        "sampleAnswer": "It's best to exercise in a park or a quiet place with fresh air.",
+        "keyPoints": ["park", "quiet place", "fresh air"],
+        "analysis": "文章第二段指出'It's best to exercise in a park or a quiet place with fresh air'。"
+      },
+      {
+        "id": "q4",
+        "number": 4,
+        "questionType": "open-ended",
+        "content": "Do you do morning exercises? What exercise do you do and how do you feel?",
+        "sampleAnswer": "Yes, I do jumping rope every morning. It makes me feel energetic and ready for school.",
+        "keyPoints": ["跳绳", "精力充沛", "准备上学"],
+        "analysis": "开放性问题，结合自身晨练情况回答，言之有理即可。"
+      }
+    ],
+    "tags": ["阅读问答", "晨练", "健康", "习惯"],
+    "wordCount": 142,
+    "readingTime": "4-5分钟"
+  }
+]

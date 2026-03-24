@@ -1,0 +1,1029 @@
+{
+  "grammar_topics": [
+    {
+      "id": "phrases_fixed_collocations",
+      "name": "中考高频短语（固定搭配）",
+      "icon": "book",
+      "color": "#3498db",
+      "lessons": [
+        {
+          "id": "phrases_1",
+          "title": "1-动词类高频固定搭配",
+          "content": "### 动词类固定搭配核心定义\n动词类固定搭配是中考英语单选、完形、语篇填空的核心考点，指动词和介词/副词/名词形成的固定组合，意思和用法固定，不能随意替换单词，就像汉语里的“打篮球”不能说“打足球”一样，记准搭配才能做对题。\n\n### 核心分类及用法（通俗易懂版）\n#### 1. 动词+介词（最常考）\n这类搭配里，动词和介词绑在一起，后面接名词/代词/动名词（doing），就像“锁和钥匙”，缺一不可。\n- look at（看）：强调“看”的动作对象，例：Look at the blackboard.（看黑板）；\n- listen to（听）：强调“听”的对象，例：Listen to the teacher carefully.（认真听老师讲）；\n- arrive in/at（到达）：大地方用in（城市、国家），小地方用at（车站、学校），例：arrive in Beijing（到北京）、arrive at the park（到公园）；\n- look for（寻找）：强调“找”的动作，例：I'm looking for my pen.（我在找我的钢笔）；\n- look after（照顾）：=take care of，例：Look after your little sister.（照顾你的小妹妹）；\n- agree with（同意某人）：例：I agree with you.（我同意你的看法）；\n- depend on（依靠/依赖）：例：We depend on our parents when we are young.（我们小时候依赖父母）；\n- pay for（为……付钱）：例：I pay 20 yuan for the book.（我花20块买了这本书）。\n\n#### 2. 动词+副词（易错点）\n这类搭配里，副词修饰动词，代词（it/them等）要放在动词和副词中间，名词可前可后。\n- put on（穿上）：例：Put on your coat. = Put your coat on.（穿上你的外套）；但只能说Put it on.（穿上它），不能说Put on it.；\n- take off（脱下/起飞）：例：Take off your shoes. = Take your shoes off.（脱鞋）；The plane takes off at 8 am.（飞机早上8点起飞）；\n- turn on/off（打开/关闭）：接电器，例：Turn on the light.（开灯）、Turn off the TV.（关电视）；\n- pick up（捡起/接人）：例：Pick up the book.（捡起书）、Pick me up at the station.（到车站接我）；\n- give up（放弃）：后接doing，例：Give up smoking.（戒烟）；\n- write down（写下）：例：Write down the new words.（写下新单词）。\n\n#### 3. 动词+名词（固定组合）\n动词和名词固定搭配，意思固定，不能换词。\n- have breakfast/lunch/dinner（吃早/中/晚饭）：不能说eat breakfast；\n- take a walk（散步）：=have a walk，例：Take a walk after dinner.（饭后散步）；\n- make a mistake（犯错）：例：I made a mistake in the exam.（我考试犯错了）；\n- take a bus/train（坐公交/火车）：例：Take a bus to school.（坐公交上学）；\n- make friends（交朋友）：例：Make friends with her.（和她交朋友）；\n- do homework（做作业）：不能说make homework；\n- play sports（做运动）：例：Play sports every day.（每天做运动）。\n\n#### 4. 情态动词/助动词类固定搭配\n这类搭配后接动词原形，是中考必考点，错一个就丢分。\n- can/could/may/might/must/should+动词原形：例：You should study hard.（你应该努力学习）；\n- have to（不得不）：有人称和时态变化，例：He has to go now.（他现在得走了）、We had to stay at home yesterday.（我们昨天不得不待在家）；\n- used to（过去常常）：后接动词原形，例：I used to play basketball.（我过去常打篮球）。\n\n### 使用注意事项（避坑指南）\n1. 介词别用混：arrive in接大地方、arrive at接小地方，look for（找动作）和find（找结果）别搞反；\n2. 代词放中间：动词+副词的搭配，代词（it/them/me等）必须放动词和副词之间，名词可前可后；\n3. 固定组合别乱改：“做作业”是do homework，不是make homework，记准固定说法；\n4. 后接doing的搭配：give up、look forward to（期待）、be good at（擅长）等，后面必须接doing，不能接原形。",
+          "examples": [
+            {
+              "sentence": "She is looking forward to visiting her grandparents next week.",
+              "translation": "她期待下周去看望她的祖父母。",
+              "analysis": "look forward to是固定搭配，to是介词，后面必须接动名词visiting，不能接visit；next week表将来，用现在进行时表期待的状态。"
+            },
+            {
+              "sentence": "My mother told me to pick up my toys and put them away.",
+              "translation": "我妈妈让我捡起我的玩具并把它们收好。",
+              "analysis": "pick up（捡起）、put away（收好）都是动词+副词搭配，代词them放在动词和副词中间，不能说put away them；tell sb to do是另一个固定搭配，后接动词原形。"
+            },
+            {
+              "sentence": "We arrived at the train station at 9 o'clock and then took a bus to the city center.",
+              "translation": "我们9点到达火车站，然后坐公交去市中心。",
+              "analysis": "train station是小地方，用arrive at；take a bus是固定搭配，表“坐公交”，不能说by a bus（by后直接接交通工具，不加a）。"
+            },
+            {
+              "sentence": "He used to smoke, but now he has given up smoking.",
+              "translation": "他过去常抽烟，但现在已经戒烟了。",
+              "analysis": "used to后接动词原形smoke（表过去习惯）；give up后接动名词smoking（戒烟），固定搭配不能改。"
+            },
+            {
+              "sentence": "I agree with what you said, but I don't have enough money to pay for the book.",
+              "translation": "我同意你说的话，但我没有足够的钱买这本书。",
+              "analysis": "agree with sb/sth（同意某人/某事）是固定搭配；pay for（为……付钱），for不能少，例中pay for the book表“为这本书付钱”。"
+            },
+            {
+              "sentence": "Could you turn on the radio? I want to listen to the news.",
+              "translation": "你能打开收音机吗？我想听新闻。",
+              "analysis": "turn on（打开电器）固定搭配，radio是名词，可放on后；listen to（听）固定搭配，to不能丢，listen是不及物动词，必须加to才能接宾语the news。"
+            },
+            {
+              "sentence": "She made a mistake in the math exam because she didn't look at the questions carefully.",
+              "translation": "她数学考试犯错了，因为她没仔细看题目。",
+              "analysis": "make a mistake（犯错）固定搭配，mistake前用a；look at（看）固定搭配，强调看的对象the questions，不能直接说look the questions。"
+            },
+            {
+              "sentence": "We have to finish our homework before 8 pm, and then we can take a walk in the park.",
+              "translation": "我们必须在晚上8点前完成作业，然后可以去公园散步。",
+              "analysis": "have to（不得不）后接动词原形finish，主语we用have to（三单用has to）；take a walk（散步）固定搭配，不能说do a walk。"
+            },
+            {
+              "sentence": "Don't give up learning English. It's important for us to make friends with foreigners.",
+              "translation": "别放弃学英语，和外国人交朋友对我们很重要。",
+              "analysis": "give up后接动名词learning，不能接learn；make friends with sb（和某人交朋友）固定搭配，friends必须用复数。"
+            },
+            {
+              "sentence": "The plane will take off in 10 minutes, so we must arrive at the airport on time.",
+              "translation": "飞机10分钟后起飞，所以我们必须按时到达机场。",
+              "analysis": "take off（起飞）固定搭配，in 10 minutes表将来，用will+动词原形；airport是小地方，用arrive at，on time（按时）也是固定短语。"
+            },
+            {
+              "sentence": "I picked up a pen on the road and gave it to the teacher.",
+              "translation": "我在路上捡到一支钢笔，把它交给了老师。",
+              "analysis": "pick up（捡起）固定搭配，pen是名词，放up后；代词it放在give和to中间（give it to sb），固定搭配give sth to sb（把某物给某人）。"
+            },
+            {
+              "sentence": "She is good at playing the piano and she often plays sports after school.",
+              "translation": "她擅长弹钢琴，放学后经常做运动。",
+              "analysis": "be good at后接动名词playing，不能接play；play sports（做运动）固定搭配，sports用复数，不能说play sport。"
+            },
+            {
+              "sentence": "We depend on our parents for food and clothes when we are young.",
+              "translation": "我们小时候依靠父母提供衣食。",
+              "analysis": "depend on（依靠）固定搭配，on不能少；depend on sb for sth（依靠某人获得某物）是延伸搭配，中考常考。"
+            },
+            {
+              "sentence": "He forgot to turn off the light when he left the room yesterday.",
+              "translation": "他昨天离开房间时忘记关灯了。",
+              "translation": "他昨天离开房间时忘记关灯了。",
+              "analysis": "turn off（关闭）固定搭配，light是名词，放off后；forget to do（忘记要做某事）固定搭配，left是leave的过去式，yesterday表过去时间。"
+            },
+            {
+              "sentence": "Shall we have lunch together and then do some shopping?",
+              "translation": "我们一起吃午饭然后去购物好吗？",
+              "analysis": "have lunch（吃午饭）固定搭配，不能说eat lunch；do some shopping（购物）固定搭配，shopping不能换成shop。"
+            }
+          ],
+          "exercises": [
+            {
+              "question": "My father often ___ a walk after dinner.（用所给词的适当形式填空，take）",
+              "options": {"A": "take", "B": "takes", "C": "taking"},
+              "answer": "B",
+              "explanation": "take a walk（散步）是固定搭配，主语my father是第三人称单数，often表一般现在时，所以用takes。"
+            },
+            {
+              "question": "Could you ___ the radio? I can't hear the news clearly.（选择合适的短语，turn on/turn off/turn up）",
+              "options": {"A": "turn on", "B": "turn off", "C": "turn up"},
+              "answer": "C",
+              "explanation": "turn up（调大音量）是固定搭配，根据“听不清新闻”可知需要调大音量；turn on是打开，turn off是关闭，均不符合语境。"
+            },
+            {
+              "question": "We will arrive ___ Shanghai tomorrow morning.（选择合适的介词，in/at/on）",
+              "options": {"A": "in", "B": "at", "C": "on"},
+              "answer": "A",
+              "explanation": "arrive in接大地方（城市、国家），Shanghai是城市，属于大地方，所以用in；arrive at接小地方（车站、公园等）。"
+            },
+            {
+              "question": "She agreed ___ me to go to the movies this weekend.（选择合适的介词，with/to/for）",
+              "options": {"A": "with", "B": "to", "C": "for"},
+              "answer": "A",
+              "explanation": "agree with sb（同意某人）是固定搭配；agree to后接“提议、计划”，agree for不成立，所以选with。"
+            },
+            {
+              "question": "Don't give up ___ English. It's very important.（用所给词的适当形式填空，learn）",
+              "options": {"A": "learn", "B": "to learn", "C": "learning"},
+              "answer": "C",
+              "explanation": "give up后接动名词（doing）是固定搭配，所以用learning，不能接原形learn或不定式to learn。"
+            },
+            {
+              "question": "I ___ my keys everywhere, but I couldn't find them.（选择合适的短语，look for/find/found）",
+              "options": {"A": "look for", "B": "find", "C": "looked for"},
+              "answer": "C",
+              "explanation": "look for强调“找”的动作，find强调“找”的结果；根据“找不到”可知是“找”的动作，couldn't表过去时，所以用looked for。"
+            },
+            {
+              "question": "He has to ___ the book to the library tomorrow.（选择合适的短语，give back/give up/give in）",
+              "options": {"A": "give back", "B": "give up", "C": "give in"},
+              "answer": "A",
+              "explanation": "give back（归还）是固定搭配，根据“把书还到图书馆”可知选give back；give up是放弃，give in是屈服，均不符合。"
+            },
+            {
+              "question": "Could you pick ___ my son at the school gate?（选择合适的副词，up/on/off）",
+              "options": {"A": "up", "B": "on", "C": "off"},
+              "answer": "A",
+              "explanation": "pick up（接人）是固定搭配，pick up my son表“接我儿子”；pick on是欺负，pick off是摘下，均不符合。"
+            },
+            {
+              "question": "She made a lot of ___ in her English exam.（用所给词的适当形式填空，mistake）",
+              "options": {"A": "mistake", "B": "mistakes", "C": "mistaking"},
+              "answer": "B",
+              "explanation": "make a mistake（犯错）是固定搭配，a lot of后接复数名词，所以用mistakes。"
+            },
+            {
+              "question": "We used to ___ basketball every afternoon after school.（用所给词的适当形式填空，play）",
+              "options": {"A": "play", "B": "played", "C": "playing"},
+              "answer": "A",
+              "explanation": "used to后接动词原形是固定搭配，表“过去常常做某事”，所以用play，不能用过去式played或动名词playing。"
+            },
+            {
+              "question": "I listen ___ music every night before going to bed.（选择合适的介词，/ /to/for）",
+              "options": {"A": "/", "B": "to", "C": "for"},
+              "answer": "B",
+              "explanation": "listen是不及物动词，listen to（听）是固定搭配，必须加to才能接宾语music，不能省略。"
+            },
+            {
+              "question": "He put ___ his coat and went out. It was cold outside.（选择合适的副词，on/off/up）",
+              "options": {"A": "on", "B": "off", "C": "up"},
+              "answer": "A",
+              "explanation": "put on（穿上）是固定搭配，根据“外面冷”可知是穿上外套；put off是推迟，put up是张贴，均不符合。"
+            },
+            {
+              "question": "We depend ___ our teachers to help us with our study.（选择合适的介词，on/in/at）",
+              "options": {"A": "on", "B": "in", "C": "at"},
+              "answer": "A",
+              "explanation": "depend on（依靠）是固定搭配，depend on sb to do sth表“依靠某人做某事”，in/at均不与depend搭配。"
+            },
+            {
+              "question": "She paid 50 yuan ___ the new book.（选择合适的介词，for/on/in）",
+              "options": {"A": "for", "B": "on", "C": "in"},
+              "answer": "A",
+              "explanation": "pay for（为……付钱）是固定搭配，pay money for sth表“为某物付多少钱”，on/in均不与pay搭配。"
+            },
+            {
+              "question": "My mother told me to write ___ the new words in my notebook.（选择合适的副词，down/up/on）",
+              "options": {"A": "down", "B": "up", "C": "on"},
+              "answer": "A",
+              "explanation": "write down（写下）是固定搭配，write down the new words表“写下新单词”；write up是整理，write on是写在……上，均不符合。"
+            },
+            {
+              "question": "___ you ___ sports every day? It's good for your health.（选择合适的短语，Do; play/Does; play/Do; do）",
+              "options": {"A": "Do; play", "B": "Does; play", "C": "Do; do"},
+              "answer": "A",
+              "explanation": "play sports（做运动）是固定搭配，主语you不是第三人称单数，一般现在时的一般疑问句用Do+主语+动词原形play。"
+            },
+            {
+              "question": "I forgot ___ off the light when I left the room.（用所给词的适当形式填空，turn）",
+              "options": {"A": "turn", "B": "to turn", "C": "turning"},
+              "answer": "B",
+              "explanation": "forget to do（忘记要做某事）是固定搭配，根据“离开房间时忘记关灯”（没做关灯这个动作），所以用to turn；forget doing是忘记做过某事，不符合。"
+            },
+            {
+              "question": "We arrived ___ the bus stop at 7 am and waited for the bus.（选择合适的介词，in/at/on）",
+              "options": {"A": "in", "B": "at", "C": "on"},
+              "answer": "B",
+              "explanation": "arrive at接小地方（车站、公园、学校等），bus stop是公交车站，属于小地方，所以用at；in接大地方。"
+            },
+            {
+              "question": "She is good at ___ the piano. She practices it every day.（用所给词的适当形式填空，play）",
+              "options": {"A": "play", "B": "to play", "C": "playing"},
+              "answer": "C",
+              "explanation": "be good at后接动名词（doing）是固定搭配，所以用playing，play the piano（弹钢琴）也是固定搭配，乐器前要加the。"
+            },
+            {
+              "question": "Shall we ___ dinner together in the restaurant tonight?（选择合适的动词，have/eat/make）",
+              "options": {"A": "have", "B": "eat", "C": "make"},
+              "answer": "A",
+              "explanation": "have dinner（吃晚饭）是固定搭配，不能说eat dinner（虽然语法没错，但中考优先考have的固定搭配）；make dinner是做晚饭，不符合语境。"
+            },
+            {
+              "question": "The plane ___ off at 9 am tomorrow. We have to get to the airport early.（用所给词的适当形式填空，take）",
+              "options": {"A": "take", "B": "takes", "C": "will take"},
+              "answer": "C",
+              "explanation": "take off（起飞）是固定搭配，tomorrow表将来时，所以用will take；一般现在时表将来只用于时刻表，飞机起飞不是固定时刻表，不用takes。"
+            },
+            {
+              "question": "He put the books ___ on the desk and then left the room.（选择合适的代词，it/them/they）",
+              "options": {"A": "it", "B": "them", "C": "they"},
+              "answer": "B",
+              "explanation": "put away（收好）是动词+副词搭配，代词要放中间，books是复数，所以用them（宾格）；it指代单数，they是主格，不能放动词和副词中间。"
+            },
+            {
+              "question": "We have to ___ our homework before 7 pm every day.（选择合适的动词，do/make/play）",
+              "options": {"A": "do", "B": "make", "C": "play"},
+              "answer": "A",
+              "explanation": "do homework（做作业）是固定搭配，不能说make homework或play homework，这是中考高频易错点。"
+            },
+            {
+              "question": "I look forward to ___ you soon.（用所给词的适当形式填空，see）",
+              "options": {"A": "see", "B": "to see", "C": "seeing"},
+              "answer": "C",
+              "explanation": "look forward to后接动名词（doing）是固定搭配，to是介词，不是不定式符号，所以用seeing。"
+            },
+            {
+              "question": "___ you ___ your grandparents last weekend?（选择合适的短语，Visit; / /Did; visit/Do; visit）",
+              "options": {"A": "Visit; /", "B": "Did; visit", "C": "Do; visit"},
+              "answer": "B",
+              "explanation": "visit grandparents（看望祖父母）是固定搭配，last weekend表过去时，一般疑问句用Did+主语+动词原形visit。"
+            },
+            {
+              "question": "She took ___ the bus to go to the supermarket yesterday.（选择合适的介词，/ /a/an）",
+              "options": {"A": "/", "B": "a", "C": "an"},
+              "answer": "B",
+              "explanation": "take a bus（坐公交）是固定搭配，bus前要加a；by bus中bus前不加冠词，注意区分take和by的搭配。"
+            },
+            {
+              "question": "Don't look ___ the window in class. Listen to the teacher carefully.（选择合适的介词，out of/at/for）",
+              "options": {"A": "out of", "B": "at", "C": "for"},
+              "answer": "A",
+              "explanation": "look out of（朝……外面看）是固定搭配，根据“上课别往窗外看”可知选out of；look at是看……，look for是寻找，均不符合。"
+            },
+            {
+              "question": "He made friends ___ many students from other countries.（选择合适的介词，with/and/for）",
+              "options": {"A": "with", "B": "and", "C": "for"},
+              "answer": "A",
+              "explanation": "make friends with sb（和某人交朋友）是固定搭配，with不能换成and或for。"
+            },
+            {
+              "question": "We had to ___ at home because it rained heavily yesterday.（选择合适的短语，stay/stay up/stand）",
+              "options": {"A": "stay", "B": "stay up", "C": "stand"},
+              "answer": "A",
+              "explanation": "stay at home（待在家）是固定搭配，have to后接动词原形；stay up是熬夜，stand是站，均不符合。"
+            },
+            {
+              "question": "Could you turn ___ the TV? My baby is sleeping now.（选择合适的副词，on/off/up）",
+              "options": {"A": "on", "B": "off", "C": "up"},
+              "answer": "B",
+              "explanation": "turn off（关闭）是固定搭配，根据“宝宝在睡觉”可知要关电视；turn on是打开，turn up是调大，均不符合。"
+            },
+            {
+              "question": "She looked after her sick mother ___ a week.（选择合适的介词，for/in/on）",
+              "options": {"A": "for", "B": "in", "C": "on"},
+              "answer": "A",
+              "explanation": "look after（照顾）是固定搭配，for+一段时间表“持续多久”，所以用for；in+一段时间表将来，on接具体某天，均不符合。"
+            },
+            {
+              "question": "I ___ a mistake in the exam and I was very sad.（用所给词的适当形式填空，make）",
+              "options": {"A": "make", "B": "made", "C": "makes"},
+              "answer": "B",
+              "explanation": "make a mistake（犯错）是固定搭配，was表过去时，所以用made（make的过去式）。"
+            },
+            {
+              "question": "They depend on their parents ___ money to go to school.（选择合适的介词，for/with/on）",
+              "options": {"A": "for", "B": "with", "C": "on"},
+              "answer": "A",
+              "explanation": "depend on sb for sth（依靠某人获得某物）是固定延伸搭配，表“依靠父母给钱上学”，所以用for。"
+            },
+            {
+              "question": "He gave ___ smoking last year and he is much healthier now.（选择合适的副词，up/off/back）",
+              "options": {"A": "up", "B": "off", "C": "back"},
+              "answer": "A",
+              "explanation": "give up（放弃）是固定搭配，give up smoking表“戒烟”；give off是散发，give back是归还，均不符合。"
+            },
+            {
+              "question": "We will take a walk ___ dinner tomorrow evening.（选择合适的介词，after/before/at）",
+              "options": {"A": "after", "B": "before", "C": "at"},
+              "answer": "A",
+              "explanation": "take a walk after dinner（饭后散步）是固定搭配，根据语境“明晚饭后散步”可知选after；before是饭前，at是吃饭时，均不符合。"
+            },
+            {
+              "question": "She agreed ___ the plan to go to the park this weekend.（选择合适的介词，to/with/for）",
+              "options": {"A": "to", "B": "with", "C": "for"},
+              "answer": "A",
+              "explanation": "agree to后接“计划、提议”，agree with后接“人/观点”，根据the plan（计划）可知选to。"
+            },
+            {
+              "question": "I picked up a wallet on the road and gave it ___ to the police.（选择合适的介词，back/up/off）",
+              "options": {"A": "back", "B": "up", "C": "off"},
+              "answer": "A",
+              "explanation": "give back（归还）是固定搭配，give it back to the police表“把钱包归还给警察”；give up是放弃，give off是散发，均不符合。"
+            },
+            {
+              "question": "He used to ___ late, but now he gets up early every day.（选择合适的短语，get up/stay up/wake up）",
+              "options": {"A": "get up", "B": "stay up", "C": "wake up"},
+              "answer": "A",
+              "explanation": "used to后接动词原形，get up late（起床晚）是固定搭配，根据“现在早起”可知过去常晚起；stay up是熬夜，wake up是醒来，均不符合。"
+            },
+            {
+              "question": "We have to wait ___ the bus for 10 minutes every morning.（选择合适的介词，for/at/on）",
+              "options": {"A": "for", "B": "at", "C": "on"},
+              "answer": "A",
+              "explanation": "wait for（等待）是固定搭配，wait for the bus表“等公交”；wait at接地点，wait on是服侍，均不符合。"
+            },
+            {
+              "question": "She is good at ___ stories in English.（用所给词的适当形式填空，tell）",
+              "options": {"A": "tell", "B": "to tell", "C": "telling"},
+              "answer": "C",
+              "explanation": "be good at后接动名词（doing），tell stories（讲故事）是固定搭配，所以用telling。"
+            },
+            {
+              "question": "I will ___ my bike to school tomorrow because the bus is too crowded.（选择合适的动词，ride/take/drive）",
+              "options": {"A": "ride", "B": "take", "C": "drive"},
+              "answer": "A",
+              "explanation": "ride a bike（骑自行车）是固定搭配，take后接bus/train，drive后接car，均不能接bike。"
+            }
+          ]
+        },
+        {
+          "id": "phrases_1",
+          "title": "2-动词+介词/副词类固定搭配",
+          "content": "### 核心定义\n动词+介词/副词构成的固定搭配是中考单选、完形、语篇填空的高频考点，这类搭配相当于“固定词组”，意思和用法不能拆分理解，记住就能直接拿分，是提分性价比最高的知识点。\n\n### 核心分类及用法（按动词分组，易懂好记）\n#### 第一组：look相关（“看”家族）\n1. look at 看（具体事物）\n   例：Look at the blackboard, please.（请看黑板）；\n   考点：后接名词/代词作宾语，不能丢at（错→look the blackboard；对→look at the blackboard）。\n2. look for 寻找（强调找的动作）\n   例：I am looking for my key.（我正在找我的钥匙）；\n   考点：和find区分（find强调找到的结果，例：I found my key on the desk.）。\n3. look up 查阅（字典/资料）；向上看\n   例：Look up new words in the dictionary.（在字典里查生词）；\n   考点：查资料必须用up，代词作宾语要放中间（look it up，不能说look up it）。\n4. look after 照顾、照料\n   例：My grandma looks after my little sister.（我奶奶照顾我的小妹妹）；\n   考点：同义替换take care of，中考常互换考查。\n5. look forward to 期待、盼望\n   例：I am looking forward to seeing you.（我期待见到你）；\n   考点：to是介词，后接动词-ing形式（必考易错点！）。\n\n#### 第二组：put相关（“放”家族）\n1. put on 穿上、戴上（强调动作）\n   例：Put on your coat. It's cold outside.（穿上你的外套，外面冷）；\n   考点：和wear区分（wear强调穿着的状态，例：She wears a red coat today.）。\n2. put off 推迟、延期\n   例：We have to put off the sports meeting because of rain.（因为下雨，我们不得不推迟运动会）；\n   考点：off表“离开、推迟”，后接名词/doing形式。\n3. put away 收好、放好\n   例：Put away your toys after playing.（玩完后把玩具收好）；\n   考点：代词放中间（put it away），中考常考情景运用。\n4. put up 张贴；搭建\n   例：Put up the poster on the wall.（把海报贴在墙上）；We put up a tent in the park.（我们在公园搭了帐篷）；\n   考点：一词多义，结合语境判断意思。\n\n#### 第三组：take相关（“拿/做”家族）\n1. take care of 照顾、照料（=look after）\n   例：Take care of yourself when I'm away.（我不在的时候照顾好自己）；\n   考点：同义替换是中考常考形式。\n2. take part in 参加（活动/比赛）\n   例：He takes part in the school sports meeting every year.（他每年参加校运会）；\n   考点：和join区分（join加组织/团体，例：join the club；join in加小型活动）。\n3. take place 发生（无被动语态）\n   例：The sports meeting will take place next week.（运动会下周举行）；\n   考点：不能说be taken place，这是易错点。\n4. take up 开始学习；占据（时间/空间）\n   例：She takes up painting this term.（她这学期开始学画画）；The desk takes up too much space.（这张桌子占太多空间）；\n   考点：两种意思都要掌握，中考随机考。\n5. take out 拿出、取出\n   例：Take out your books and turn to Page 10.（拿出你们的书，翻到第10页）；\n   考点：代词放中间（take it out）。\n\n#### 第四组：give相关（“给”家族）\n1. give up 放弃\n   例：Never give up learning English.（永远不要放弃学英语）；\n   考点：up后接doing（give up doing），必考！\n2. give away 赠送；泄露\n   例：She gave away her old clothes to charity.（她把旧衣服捐赠给慈善机构）；Don't give away the secret.（别泄露秘密）；\n   考点：语境区分两个意思。\n3. give back 归还\n   例：Please give back my pen tomorrow.（明天请把我的钢笔还给我）；\n   考点：同义替换return，代词放中间（give it back）。\n\n#### 第五组：get相关（“得到/变得”家族）\n1. get up 起床\n   例：I get up at 6 o'clock every day.（我每天6点起床）；\n   考点：中考常考时间状语搭配（every day/usually等）。\n2. get on/along with 与……相处；进展\n   例：She gets on well with her classmates.（她和同学相处得很好）；How is your study getting on?（你的学习进展如何？）；\n   考点：well修饰相处状态，必考。\n3. get ready for 为……做准备\n   例：We are getting ready for the exam.（我们正在为考试做准备）；\n   考点：同义替换prepare for。\n4. get off 下车/船\n   例：Get off the bus at the next stop.（在下一站下车）；\n   考点：和get on（上车）对比考查。\n5. get into 陷入；进入\n   例：Don't get into bad habits.（不要养成坏习惯）；She got into the classroom quickly.（她快速走进教室）；\n   考点：常考“陷入坏习惯”这个搭配。\n\n### 使用注意事项\n1. 动词+副词的搭配，代词（it/them等）必须放中间，名词可放中间或后面（例：put on the coat=put the coat on；但只能说put it on）；\n2. 介词后的动词必须用-ing形式（如look forward to doing、give up doing），这是中考头号易错点；\n3. 同义替换的搭配要成对记（look after=take care of、get ready for=prepare for），完形常考；\n4. 一词多义的搭配要结合语境判断（如put up表张贴/搭建），不要死记硬背。",
+          "examples": [
+            {
+              "sentence": "She looks forward to visiting her grandparents during the holiday.",
+              "translation": "她期待假期去看望祖父母。",
+              "analysis": "look forward to是固定搭配，to是介词，后接动词-ing形式visiting；holiday表将来时间，用现在进行时表期待的状态。"
+            },
+            {
+              "sentence": "Could you please look up the word in the dictionary for me?",
+              "translation": "你能帮我在字典里查一下这个单词吗？",
+              "analysis": "look up表“查阅”，固定搭配；the word是名词，可放up后，若换成it，需说look it up。"
+            },
+            {
+              "sentence": "My mother told me to put away my toys before going to bed.",
+              "translation": "妈妈让我睡前把玩具收好。",
+              "translation": "put away是“收好”的固定搭配，my toys是名词，放away后；before是介词，后接going（doing形式）。"
+            },
+            {
+              "sentence": "He took part in the singing competition and won the first prize.",
+              "translation": "他参加了歌唱比赛并获得了一等奖。",
+              "analysis": "take part in表“参加活动/比赛”，固定搭配；competition是活动类名词，符合搭配要求。"
+            },
+            {
+              "sentence": "Don't give up trying, and you will succeed sooner or later.",
+              "translation": "不要放弃尝试，你迟早会成功的。",
+              "analysis": "give up是固定搭配，后接doing形式trying；sooner or later表“迟早”，主句用将来时will succeed。"
+            },
+            {
+              "sentence": "It's polite to give back the books to the library on time.",
+              "translation": "按时把书归还图书馆是有礼貌的。",
+              "analysis": "give back表“归还”，固定搭配；the books是名词，放back后，同义替换return the books。"
+            },
+            {
+              "sentence": "How do you get on with your new deskmate?",
+              "translation": "你和你的新同桌相处得怎么样？",
+              "analysis": "get on with表“与……相处”，固定搭配；疑问词how提问相处状态，常和well搭配（get on well with）。"
+            },
+            {
+              "sentence": "We have to put off the picnic because of the heavy rain.",
+              "translation": "因为大雨，我们不得不推迟野餐。",
+              "analysis": "put off表“推迟”，固定搭配；the picnic是名词，放off后；because of后接名词短语heavy rain。"
+            },
+            {
+              "sentence": "She takes care of her sick mother every day after school.",
+              "translation": "她每天放学后照顾生病的妈妈。",
+              "analysis": "takes care of表“照顾”，固定搭配，同义替换looks after；every day表经常性动作，用一般现在时，主语she是三单，take变takes。"
+            },
+            {
+              "sentence": "Get off the train at Beijing Station, and you will see the square.",
+              "translation": "在北京站下车，你就能看到广场了。",
+              "analysis": "get off表“下车”，固定搭配；at Beijing Station表地点，主句用将来时will see，符合“祈使句+and+将来时”结构。"
+            },
+            {
+              "sentence": "The sports meeting didn't take place last week because of COVID-19.",
+              "translation": "因为新冠疫情，上周的运动会没有举行。",
+              "analysis": "take place表“发生/举行”，固定搭配，无被动语态；last week表过去时间，否定句用didn’t+动词原形take place。"
+            },
+            {
+              "sentence": "He got into the habit of reading English every morning.",
+              "translation": "他养成了每天早上读英语的习惯。",
+              "analysis": "get into the habit of是固定搭配，表“养成……习惯”；every morning表经常性动作，用一般过去时got（描述过去养成的习惯）。"
+            },
+            {
+              "sentence": "Put on your hat. It's windy outside.",
+              "translation": "戴上你的帽子，外面刮风了。",
+              "analysis": "put on表“戴上”，强调动作；outside表场景，windy是形容词作表语，提醒动作的必要性。"
+            },
+            {
+              "sentence": "She gave away all her pocket money to the poor children.",
+              "translation": "她把所有零花钱都捐给了贫困儿童。",
+              "analysis": "give away表“赠送/捐赠”，固定搭配；all her pocket money是名词短语，放away后；to表捐赠对象。"
+            },
+            {
+              "sentence": "We are getting ready for the final exam these days.",
+              "translation": "这些天我们正在为期末考试做准备。",
+              "analysis": "get ready for表“为……做准备”，固定搭配；these days表现阶段，用现在进行时are getting。"
+            },
+            {
+              "sentence": "He takes up running every morning to keep healthy.",
+              "translation": "他每天早上开始跑步来保持健康。",
+              "analysis": "take up表“开始做某事”，固定搭配；every morning表经常性动作，主语he是三单，take变takes；to keep healthy表目的。"
+            },
+            {
+              "sentence": "Look at the sign! It says 'No Smoking'.",
+              "translation": "看这个标志！上面写着“禁止吸烟”。",
+              "analysis": "look at表“看具体事物”，固定搭配；sign是具体事物，后句用一般现在时says（描述标志内容）。"
+            },
+            {
+              "sentence": "I have looked for my schoolbag everywhere, but I can't find it.",
+              "translation": "我到处找我的书包，但找不到。",
+              "analysis": "look for表“寻找（动作）”，find表“找到（结果）”，对比考查；everywhere表范围，现在完成时have looked for强调动作持续到现在。"
+            },
+            {
+              "sentence": "If you get on the bus now, you won't be late for school.",
+              "translation": "如果你现在上车，上学就不会迟到了。",
+              "analysis": "get on表“上车”，固定搭配；if引导条件状语从句，主将从现（主句won’t be late，从句get on用一般现在时）。"
+            },
+            {
+              "sentence": "My teacher told me not to give up speaking English in public.",
+              "translation": "老师告诉我不要放弃在公共场合说英语。",
+              "analysis": "tell sb not to do是固定结构，give up后接speaking（doing形式）；in public表“公共场合”，是常见搭配。"
+            }
+          ],
+          "exercises": [
+            {
+              "question": "She is looking forward to ___ (visit) the Great Wall next month.",
+              "options": {"A": "visit", "B": "visiting", "C": "visited"},
+              "answer": "B",
+              "explanation": "look forward to是固定搭配，to是介词，后接动词-ing形式visiting；next month表将来，用现在进行时表期待。"
+            },
+            {
+              "question": "Could you please ___ my dictionary? I need to look up a word.",
+              "options": {"A": "give up", "B": "give back", "C": "give away"},
+              "answer": "B",
+              "explanation": "句意“你能把我的字典还给我吗？我要查单词”，give back表“归还”，符合语境；give up放弃，give away赠送，均不符合。"
+            },
+            {
+              "question": "He ___ the sports meeting last year and won a medal.",
+              "options": {"A": "took part in", "B": "joined", "C": "took place"},
+              "answer": "A",
+              "explanation": "sports meeting是活动，take part in后接活动；join后接组织/团体（如join the club）；take place表“发生”，不符合句意；last year用一般过去时took。"
+            },
+            {
+              "question": "Don't ___ bad habits. It's bad for your health.",
+              "options": {"A": "get into", "B": "get up", "C": "get off"},
+              "answer": "A",
+              "explanation": "get into bad habits是固定搭配，表“养成坏习惯”；get up起床，get off下车，均不符合句意。"
+            },
+            {
+              "question": "Put ___ your coat. It's very cold outside.",
+              "options": {"A": "on", "B": "off", "C": "away"},
+              "answer": "A",
+              "explanation": "put on表“穿上”，符合“外面冷”的语境；put off推迟，put away收好，均不符合。"
+            },
+            {
+              "question": "My grandmother ___ my little brother when my parents are at work.",
+              "options": {"A": "looks for", "B": "looks after", "C": "looks up"},
+              "answer": "B",
+              "explanation": "句意“父母上班时，奶奶照顾弟弟”，look after表“照顾”；look for寻找，look up查阅，均不符合；主语grandmother是三单，用looks after。"
+            },
+            {
+              "question": "We have to ___ the picnic because it will rain tomorrow.",
+              "options": {"A": "put on", "B": "put off", "C": "put away"},
+              "answer": "B",
+              "explanation": "句意“因为明天下雨，我们要推迟野餐”，put off表“推迟”；put on穿上，put away收好，均不符合；have to后接动词原形。"
+            },
+            {
+              "question": "Never ___ learning, even if you are old.",
+              "options": {"A": "give up", "B": "give back", "C": "give away"},
+              "answer": "A",
+              "explanation": "句意“永远不要放弃学习，即使你老了”，give up表“放弃”，后接learning（doing形式）；give back归还，give away赠送，均不符合。"
+            },
+            {
+              "question": "How do you ___ with your new teacher?",
+              "options": {"A": "get on", "B": "get up", "C": "get ready"},
+              "answer": "A",
+              "explanation": "get on with sb是固定搭配，表“与某人相处”；get up起床，get ready for为……准备，均不符合。"
+            },
+            {
+              "question": "Please ___ your toys ___ after playing, Tom.",
+              "options": {"A": "put; up", "B": "put; away", "C": "put; off"},
+              "answer": "B",
+              "explanation": "put away表“收好”，符合“玩完玩具收好”的语境；put up张贴/搭建，put off推迟，均不符合；名词toys可放away前或后。"
+            },
+            {
+              "question": "The accident ___ at 8 o'clock yesterday morning.",
+              "options": {"A": "took place", "B": "took part in", "C": "took care of"},
+              "answer": "A",
+              "explanation": "句意“事故昨天早上8点发生”，take place表“发生”；took part in参加，took care of照顾，均不符合；yesterday用一般过去时took place。"
+            },
+            {
+              "question": "She ___ English last term and now she can speak it well.",
+              "options": {"A": "took up", "B": "got into", "C": "looked forward to"},
+              "answer": "A",
+              "explanation": "句意“她上学期开始学英语，现在说得很好”，take up表“开始学习”；got into陷入，looked forward to期待，均不符合；last term用一般过去时took up。"
+            },
+            {
+              "question": "___ the blackboard carefully and answer my question.",
+              "options": {"A": "Look at", "B": "Look for", "C": "Look up"},
+              "answer": "A",
+              "explanation": "句意“仔细看黑板，回答我的问题”，look at表“看具体事物”；look for寻找，look up查阅，均不符合；祈使句用动词原形开头。"
+            },
+            {
+              "question": "Please ___ the bus at the People's Park Station.",
+              "options": {"A": "get on", "B": "get off", "C": "get into"},
+              "answer": "B",
+              "explanation": "句意“请在人民公园站下车”，get off表“下车”；get on上车，get into进入，均不符合；祈使句用动词原形。"
+            },
+            {
+              "question": "We are ___ the coming exam these days.",
+              "options": {"A": "getting ready for", "B": "getting on with", "C": "getting up"},
+              "answer": "A",
+              "explanation": "get ready for表“为……做准备”，符合“为即将到来的考试准备”的语境；getting on with相处，getting up起床，均不符合；these days用现在进行时。"
+            },
+            {
+              "question": "I ___ my pen everywhere, but I still can't ___ it.",
+              "options": {"A": "look for; find", "B": "looked for; find", "C": "found; look for"},
+              "answer": "B",
+              "explanation": "look for表“找的动作”，find表“找的结果”；句意“我到处找钢笔，但还是没找到”，用一般过去时looked for（描述过去的动作），can’t后接原形find。"
+            },
+            {
+              "question": "He ___ his old bike to a poor boy last weekend.",
+              "options": {"A": "gave up", "B": "gave back", "C": "gave away"},
+              "answer": "C",
+              "explanation": "句意“他上周末把旧自行车赠送给了一个穷男孩”，give away表“赠送”；gave up放弃，gave back归还，均不符合；last weekend用一般过去时gave away。"
+            },
+            {
+              "question": "___ care of your health. It's the most important thing.",
+              "options": {"A": "Take", "B": "Look", "C": "Give"},
+              "answer": "A",
+              "explanation": "take care of是固定搭配，表“照顾”；look after也表照顾，但look不能直接接care；give care无此搭配；祈使句用Take开头。"
+            },
+            {
+              "question": "If you ___ up early, you won't miss the bus.",
+              "options": {"A": "get", "B": "got", "C": "will get"},
+              "answer": "A",
+              "explanation": "get up表“起床”，固定搭配；if引导条件状语从句，主将从现（主句won’t miss，从句用一般现在时get）。"
+            },
+            {
+              "question": "The teacher told us ___ off our mobile phones in class.",
+              "options": {"A": "to put", "B": "put", "C": "putting"},
+              "answer": "A",
+              "explanation": "tell sb to do sth是固定结构，put off表“关掉/推迟”，此处表“关掉手机”；to后接动词原形put。"
+            },
+            {
+              "question": "She ___ well with her sister, they never fight.",
+              "options": {"A": "gets on", "B": "gets up", "C": "gets into"},
+              "answer": "A",
+              "explanation": "get on well with sb是固定搭配，表“与某人相处得好”；gets up起床，gets into陷入，均不符合；主语she是三单，用gets on。"
+            },
+            {
+              "question": "I need to ___ the new words in the dictionary before class.",
+              "options": {"A": "look at", "B": "look up", "C": "look for"},
+              "answer": "B",
+              "explanation": "句意“上课前我需要在字典里查生词”，look up表“查阅”；look at看，look for寻找，均不符合；need to后接动词原形。"
+            },
+            {
+              "question": "They ___ a tent near the lake and had a picnic there.",
+              "options": {"A": "put up", "B": "put off", "C": "put away"},
+              "answer": "A",
+              "explanation": "put up表“搭建”，符合“在湖边搭帐篷”的语境；put off推迟，put away收好，均不符合；had用一般过去时，put的过去式还是put。"
+            },
+            {
+              "question": "Don't ___ the chance to study abroad. It's rare.",
+              "options": {"A": "give up", "B": "give back", "C": "give away"},
+              "answer": "A",
+              "explanation": "句意“不要放弃出国留学的机会，很难得”，give up表“放弃”；give back归还，give away赠送，均不符合；Don’t后接动词原形。"
+            },
+            {
+              "question": "We ___ the exam next week, so we are studying hard.",
+              "options": {"A": "get ready for", "B": "are getting ready for", "C": "got ready for"},
+              "answer": "B",
+              "explanation": "next week表将来，现在进行时are getting ready for表“正在为考试做准备”；get ready for一般现在时，got ready for一般过去时，均不符合语境。"
+            },
+            {
+              "question": "He ___ his keys in the office, so he had to wait for his wife.",
+              "options": {"A": "left", "B": "forgot", "C": "took up"},
+              "answer": "A",
+              "explanation": "leave sth+地点是固定搭配，表“把某物落在某地”；forget后不接地点（forget sth，不能说forget sth in sp）；took up开始做，不符合句意；had to用一般过去时left。"
+            },
+            {
+              "question": "___ me a hand, please! I can't carry the heavy box.",
+              "options": {"A": "Give", "B": "Take", "C": "Put"},
+              "answer": "A",
+              "explanation": "give sb a hand是固定搭配，表“帮某人忙”；take和put无此搭配；祈使句用Give开头。"
+            },
+            {
+              "question": "The meeting will ___ at 2 pm tomorrow afternoon.",
+              "options": {"A": "take place", "B": "take part in", "C": "look forward to"},
+              "answer": "A",
+              "explanation": "句意“会议明天下午2点举行”，take place表“举行/发生”；take part in参加，look forward to期待，均不符合；will后接动词原形。"
+            },
+            {
+              "question": "She ___ wearing a red dress at the party yesterday.",
+              "options": {"A": "put on", "B": "wore", "C": "took off"},
+              "answer": "B",
+              "explanation": "wear表“穿着的状态”，符合“昨天派对上穿红裙子”的语境；put on表“穿的动作”，took off脱下，均不符合；yesterday用一般过去时wore。"
+            },
+            {
+              "question": "I ___ English for 3 years and I love it very much.",
+              "options": {"A": "took up", "B": "have taken up", "C": "will take up"},
+              "answer": "B",
+              "explanation": "for 3 years表时间段，用现在完成时have taken up；took up一般过去时（只表过去，不接时间段），will take up将来时，均不符合。"
+            },
+            {
+              "question": "Could you ___ it ___ for me? I can't reach the shelf.",
+              "options": {"A": "look; up", "B": "give; back", "C": "get; down"},
+              "answer": "C",
+              "explanation": "get down表“拿下来”，符合“够不到架子，帮忙拿下来”的语境；look up查阅，give back归还，均不符合；代词it放中间。"
+            },
+            {
+              "question": "They ___ the club last year and have made many friends.",
+              "options": {"A": "joined", "B": "took part in", "C": "took place"},
+              "answer": "A",
+              "explanation": "club是团体，join后接组织/团体；take part in后接活动，take place发生，均不符合；last year用一般过去时joined。"
+            },
+            {
+              "question": "___ late for school again, Tom!",
+              "options": {"A": "Don't be", "B": "Don't get", "C": "Don't look"},
+              "answer": "A",
+              "explanation": "be late for是固定搭配，表“迟到”；get late无此搭配，look late不符合逻辑；祈使句否定用Don’t+be。"
+            },
+            {
+              "question": "She ___ her hometown for 5 years and misses it very much.",
+              "options": {"A": "has been away from", "B": "has left", "C": "left"},
+              "answer": "A",
+              "explanation": "for 5 years表时间段，要用延续性动词be away from；leave是短暂性动词，不能接时间段；left一般过去时，不符合。"
+            },
+            {
+              "question": "We ___ to the cinema tomorrow evening. Would you like to come?",
+              "options": {"A": "go", "B": "will go", "C": "are going"},
+              "answer": "C",
+              "explanation": "go是移动性动词，用现在进行时are going表将来（计划好的动作）；go一般现在时，will go表临时决定，均不如are going贴切。"
+            },
+            {
+              "question": "He ___ the book to the library yesterday. He ___ it for a week.",
+              "options": {"A": "returned; kept", "B": "gave back; borrowed", "C": "returned; borrowed"},
+              "answer": "A",
+              "explanation": "第一空yesterday用一般过去时returned（归还）；第二空for a week用延续性动词kept（保留），borrow是短暂性动词，不能接时间段；give back也可表归还，但第二空borrow错误。"
+            },
+            {
+              "question": "___ the light when you leave the room to save electricity.",
+              "options": {"A": "Turn off", "B": "Turn on", "C": "Turn up"},
+              "answer": "A",
+              "explanation": "turn off表“关掉”，符合“离开房间关灯省电”的语境；turn on打开，turn up调大，均不符合；祈使句用动词原形开头。"
+            },
+            {
+              "question": "She ___ singing when she was young and now she is a singer.",
+              "options": {"A": "took up", "B": "got on", "C": "put up"},
+              "answer": "A",
+              "explanation": "句意“她年轻时开始唱歌，现在是歌手”，take up表“开始做某事”；got on相处，put up张贴，均不符合；was young用一般过去时took up。"
+            },
+            {
+              "question": "I ___ my best to learn English well every day.",
+              "options": {"A": "try", "B": "do", "C": "make"},
+              "answer": "A",
+              "explanation": "try one’s best to do是固定搭配，表“尽某人最大努力做某事”；do/make无此搭配；every day用一般现在时try。"
+            },
+            {
+              "question": "The little girl is afraid ___ dogs. She never touches them.",
+              "options": {"A": "of", "B": "to", "C": "with"},
+              "answer": "A",
+              "explanation": "be afraid of是固定搭配，表“害怕某物”；be afraid to后接动词原形（be afraid to do），with无此搭配。"
+            }
+          ]
+        },
+        {
+          "id": "phrases_3",
+          "title": "3-介词短语/固定句型类搭配",
+          "content": "### 核心定义\n介词短语和固定句型类搭配是中考英语的“提分密码”，这类搭配不需要分析语法，记住就能直接用，在单选、完形、书面表达中都会考，尤其是书面表达用对能加分。\n\n### 核心分类及用法（易懂好记，按场景分组）\n#### 第一组：表时间/地点的介词短语\n1. in+大时间（年/月/季节/上午/下午/晚上）\n   例：in 2024（在2024年）、in July（在七月）、in summer（在夏天）、in the morning（在早上）；\n   考点：固定搭配，不能用on（错→on 2024；对→in 2024）。\n2. on+具体时间（具体某一天/星期/节日）\n   例：on Monday（在周一）、on June 1st（在6月1日）、on Christmas Day（在圣诞节）、on the morning of May 1st（在5月1日早上）；\n   考点：具体到某一天用on，是中考高频易错点。\n3. at+小时间（具体时刻/固定搭配）\n   例：at 7:30（在7点半）、at noon（在中午）、at night（在晚上）、at the weekend（在周末）；\n   考点：at night是固定搭配，不能说in night。\n4. in/on/at+地点\n   - in+大地点（国家/城市/房间）：in China（在中国）、in Beijing（在北京）、in the classroom（在教室）；\n   - on+表面（在……上）：on the desk（在桌子上）、on the wall（在墙上）；\n   - at+小地点（具体位置/站点）：at the bus stop（在公交站）、at home（在家）、at school（在学校）；\n   考点：at home是固定搭配，不能说in home。\n\n#### 第二组：高频固定句型（“套公式”就能用）\n1. It’s + 形容词 + (for sb) to do sth 对某人来说做某事是……的\n   例：It’s important for us to learn English.（对我们来说学英语很重要）；\n   考点：it是形式主语，真正主语是to do sth，形容词修饰to do的动作。\n2. It’s + 形容词 + (of sb) to do sth 某人做某事是……的（形容词修饰人）\n   例：It’s kind of you to help me.（你帮我真是太好了）；\n   考点：形容词是描述人的品质（kind/nice/foolish等）时用of，否则用for。\n3. spend ... (in) doing sth / spend ... on sth 花费时间/金钱做某事\n   例：I spend an hour (in) reading English every day.（我每天花一小时读英语）；She spends 50 yuan on the book.（她花50元买这本书）；\n   考点：in可以省略，doing不能错；on后接名词，不能接doing。\n4. It takes sb some time to do sth 做某事花费某人多长时间\n   例：It takes me 20 minutes to get to school.（我到学校要花20分钟）；\n   考点：take的主语必须是it，不能是人（错→I take 20 minutes；对→It takes me 20 minutes）。\n5. pay ... for sth 为某物付钱\n   例：He paid 100 yuan for the shirt.（他花100元买了这件衬衫）；\n   考点：pay的主语是人，后接for，不能直接接物（错→pay the shirt；对→pay for the shirt）。\n6. buy sb sth / buy sth for sb 给某人买某物\n   例：My mother bought me a pen. = My mother bought a pen for me.（妈妈给我买了一支笔）；\n   考点：for不能换成to（错→buy a pen to me；对→buy a pen for me）。\n7. tell sb to do sth / tell sb not to do sth 告诉某人做/不做某事\n   例：The teacher told us to finish homework on time.（老师告诉我们按时完成作业）；\n   考点：to do/not to do是固定结构，不能少to。\n8. ask sb to do sth / ask sb for sth 让某人做某事/向某人要某物\n   例：I ask my teacher to help me.（我让老师帮我）；She asked her mother for money.（她向妈妈要钱）；\n   考点：两个搭配的介词不同（to/for），别记混。\n9. be good at doing sth 擅长做某事\n   例：She is good at playing the piano.（她擅长弹钢琴）；\n   考点：at是介词，后接doing，必考！\n10. be good for sb/sth 对……有好处\n    例：Fruit is good for our health.（水果对我们的健康有好处）；\n    考点：和be good at区分，for表“对……”，at表“擅长”。\n11. be good with sb 与……相处得好\n    例：My teacher is good with students.（我的老师和学生相处得好）；\n    考点：with表“和……一起”，别和for/at混。\n12. enjoy doing sth 喜欢做某事\n    例：I enjoy reading books in my free time.（我喜欢在空闲时间看书）；\n    考点：enjoy后只能接doing，不能接to do（错→enjoy to read；对→enjoy reading）。\n13. finish doing sth 完成做某事\n    例：He finished doing his homework at 8 pm.（他晚上8点完成作业）；\n    考点：finish后接doing，不能接to do，中考必考！\n14. want to do sth / would like to do sth 想要做某事\n    例：I want to go to the park.（我想去公园）；Would you like to drink some tea?（你想喝点茶吗？）；\n    考点：to do不能错，would like的疑问句更礼貌，中考常考。\n15. had better do sth / had better not do sth 最好做/不做某事\n    例：You had better go to bed early.（你最好早点睡觉）；\n    考点：had better后接动词原形，不能加to（错→had better to go；对→had better go）。\n\n### 使用注意事项\n1. 介词搭配的“固定性”：比如in the morning/on Monday/at night，记准介词，不能乱换；\n2. 固定句型的“公式化”：比如It takes sb time to do，把“sb”“time”“to do”当成填空，套进去就行；\n3. 动词后接doing/to do的区分：enjoy/finish/keep/practice后接doing；want/would like/ask/tell后接to do；\n4. 易混搭配对比记：be good at（擅长）/be good for（对……好）/be good with（相处好），pay for（付钱）/spend on（花费）/take to do（花费）。",
+          "examples": [
+            {
+              "sentence": "It's important for us to keep healthy every day.",
+              "translation": "对我们来说，每天保持健康很重要。",
+              "analysis": "It’s + 形容词（important） + for sb（us） + to do sth（to keep healthy）是固定句型；important修饰to keep healthy的动作，所以用for。"
+            },
+            {
+              "sentence": "It's very kind of you to help me with my English.",
+              "translation": "你帮我学英语真是太好了。",
+              "analysis": "It’s + 形容词（kind） + of sb（you） + to do sth（to help me）是固定句型；kind是描述人的品质，所以用of；help sb with sth是固定搭配，表“帮某人做某事”。"
+            },
+            {
+              "sentence": "She spends two hours (in) doing her homework every evening.",
+              "translation": "她每天晚上花两小时做作业。",
+              "analysis": "spend + 时间 + (in) doing sth是固定搭配；in可以省略，doing her homework不能写成to do；every evening表经常性动作，用一般现在时spends（主语she是三单）。"
+            },
+            {
+              "sentence": "It takes me 15 minutes to walk to the bus stop.",
+              "translation": "我走到公交站要花15分钟。",
+              "analysis": "It takes sb + 时间 + to do sth是固定句型；take的主语必须是it，不能用人；to walk to the bus stop是真正主语，it是形式主语。"
+            },
+            {
+              "sentence": "My father paid 2000 yuan for the new watch last week.",
+              "translation": "爸爸上周花2000元买了这块新手表。",
+              "analysis": "pay + 钱 + for sth是固定搭配；主语是人（my father），last week用一般过去时paid；for不能省略，也不能换成on。"
+            },
+            {
+              "sentence": "My uncle bought me a new bike as my birthday gift.",
+              "translation": "叔叔给我买了一辆新自行车作为我的生日礼物。",
+              "analysis": "buy sb sth是固定搭配，等同于buy sth for sb；as my birthday gift表“作为生日礼物”，是常见介词短语。"
+            },
+            {
+              "sentence": "The teacher told us not to talk in class and listen carefully.",
+              "translation": "老师告诉我们不要在课堂上说话，要认真听讲。",
+              "analysis": "tell sb not to do sth是固定结构；not to talk不能写成not talk；and连接两个并列的动作（not to talk/listen）。"
+            },
+            {
+              "sentence": "She is good at singing and dancing, and she is good with her classmates.",
+              "translation": "她擅长唱歌跳舞，而且和同学相处得很好。",
+              "analysis": "be good at后接doing（singing/dancing），be good with sb表“和某人相处好”；两个be good搭配对比考查，是中考热点。"
+            },
+            {
+              "sentence": "I enjoy reading storybooks before going to bed. It's good for my sleep.",
+              "translation": "我喜欢睡前看故事书，这对我的睡眠有好处。",
+              "analysis": "enjoy后接reading（doing形式），不能接to read；be good for表“对……有好处”，my sleep是名词，符合搭配要求。"
+            },
+            {
+              "sentence": "You had better finish doing your homework before watching TV.",
+              "translation": "你最好在看电视前完成作业。",
+              "analysis": "had better后接动词原形finish；finish后接doing your homework，不能接to do；before是介词，后接watching（doing形式）。"
+            },
+            {
+              "sentence": "On the morning of October 1st, we went to Tian'anmen Square to watch the flag-raising ceremony.",
+              "translation": "10月1日早上，我们去天安门广场看升旗仪式。",
+              "analysis": "具体某一天的早上用on（on the morning of October 1st），不能用in；go to sp to do sth是固定结构，表“去某地做某事”。"
+            },
+            {
+              "sentence": "At night, my grandmother often tells me stories about her childhood.",
+              "translation": "晚上，奶奶经常给我讲她童年的故事。",
+              "analysis": "at night是固定搭配，不能说in night；tell sb stories是tell sb sth的变形，表“给某人讲故事”；about表“关于”，是常见介词。"
+            },
+            {
+              "sentence": "I asked my mother to buy a new skirt for me on my birthday.",
+              "translation": "我生日那天让妈妈给我买了一条新裙子。",
+              "analysis": "ask sb to do sth是固定搭配（to buy）；buy sth for sb是固定搭配，for不能换成to；on my birthday表具体时间，用on。"
+            },
+            {
+              "sentence": "It's foolish of him to play computer games all day.",
+              "translation": "他整天玩电脑游戏真是太傻了。",
+              "analysis": "foolish是描述人的品质，所以用It’s + 形容词 + of sb + to do sth句型；all day表“整天”，play computer games是固定短语。"
+            },
+            {
+              "sentence": "She spends a lot of money on beautiful clothes, but she never pays for books.",
+              "translation": "她花很多钱买漂亮衣服，但从不花钱买书。",
+              "analysis": "spend + 钱 + on sth（on beautiful clothes）；pay for sth（pay for books）是固定搭配；but表转折，前后时态一致（一般现在时）。"
+            },
+            {
+              "sentence": "Would you like to go for a walk with me after dinner?",
+              "translation": "晚饭后你想和我一起散步吗？",
+              "analysis": "would like to do sth是固定搭配（to go）；go for a walk是固定短语，表“散步”；after dinner表“晚饭后”，用after。"
+            },
+            {
+              "sentence": "Finish doing the exercises and hand them in before class is over.",
+              "translation": "完成练习，在下课前交上来。",
+              "analysis": "finish后接doing the exercises，不能接to do；hand in是固定搭配，them放中间（hand them in）；before class is over表“下课前”，用before。"
+            },
+            {
+              "sentence": "Fruit and vegetables are good for our health, so we should eat them every day.",
+              "translation": "水果和蔬菜对我们的健康有好处，所以我们应该每天吃。",
+              "analysis": "be good for sth（our health）是固定搭配；so表因果，should后接动词原形eat；every day表经常性动作，用一般现在时。"
+            },
+            {
+              "sentence": "In China, people usually have a big dinner on Spring Festival Eve.",
+              "translation": "在中国，人们通常在除夕吃一顿丰盛的晚餐。",
+              "analysis": "in China表大地点，用in；on Spring Festival Eve表具体节日，用on；have a big dinner是固定短语，表“吃大餐”。"
+            },
+            {
+              "sentence": "He wants to be a doctor when he grows up, so he studies hard every day.",
+              "translation": "他长大后想当医生，所以每天努力学习。",
+              "translation": "want to do sth（to be a doctor）是固定搭配；when引导时间状语从句，主将从现（主句wants用一般现在时，从句grows up也用一般现在时）。"
+            }
+          ],
+          "exercises": [
+            {
+              "question": "It's important ___ us ___ learn English well.",
+              "options": {"A": "for; to", "B": "of; to", "C": "for; /"},
+              "answer": "A",
+              "explanation": "It’s + 形容词（important） + for sb + to do sth是固定句型；important修饰to learn English well的动作，所以用for，to不能省略。"
+            },
+            {
+              "question": "She ___ two hours ___ her homework every day.",
+              "options": {"A": "spends; to do", "B": "spends; doing", "C": "takes; to do"},
+              "answer": "B",
+              "explanation": "spend + 时间 + (in) doing sth是固定搭配，主语是人（she）；take的主语必须是it，所以排除C；A选项to do错误，应该用doing。"
+            },
+            {
+              "question": "___ takes me 10 minutes ___ to school by bike.",
+              "options": {"A": "It; to get", "B": "I; to get", "C": "It; get"},
+              "answer": "A",
+              "explanation": "It takes sb + 时间 + to do sth是固定句型，it是形式主语，to do是真正主语；I不能作take的主语，to get不能省略to。"
+            },
+            {
+              "question": "My father ___ 500 yuan ___ the new shirt yesterday.",
+              "options": {"A": "paid; for", "B": "spent; on", "C": "took; to buy"},
+              "answer": "A",
+              "explanation": "pay + 钱 + for sth是固定搭配，主语是人（my father），yesterday用一般过去时paid；spend的结构是spend money on sth（spent 500 yuan on the new shirt），B选项缺少on；take的主语是it，排除C。"
+            },
+            {
+              "question": "My mother bought a new book ___ me as a gift.",
+              "options": {"A": "to", "B": "for", "C": "of"},
+              "answer": "B",
+              "explanation": "buy sth for sb是固定搭配，表“给某人买某物”，for不能换成to或of。"
+            },
+            {
+              "question": "The teacher told us ___ late for school again.",
+              "options": {"A": "not to be", "B": "don't be", "C": "not be"},
+              "answer": "A",
+              "explanation": "tell sb not to do sth是固定结构，be late for是固定搭配，所以是not to be late；don’t be是祈使句否定，not be缺少to，均错误。"
+            },
+            {
+              "question": "She is good ___ playing the piano, and she is good ___ children.",
+              "options": {"A": "at; with", "B": "for; at", "C": "with; for"},
+              "answer": "A",
+              "explanation": "be good at doing sth表“擅长做某事”，be good with sb表“与某人相处得好”；be good for表“对……有好处”，不符合句意。"
+            },
+            {
+              "question": "I enjoy ___ books in my free time. It makes me happy.",
+              "options": {"A": "read", "B": "to read", "C": "reading"},
+              "answer": "C",
+              "explanation": "enjoy后接doing形式，不能接read或to read，这是中考必考易错点。"
+            },
+            {
+              "question": "He finished ___ his homework at 9 pm and then went to bed.",
+              "options": {"A": "do", "B": "doing", "C": "to do"},
+              "answer": "B",
+              "explanation": "finish后接doing形式，不能接do或to do；at 9 pm表具体时间，went用一般过去时，finished也用过去时。"
+            },
+            {
+              "question": "Would you like ___ to the park with me this weekend?",
+              "options": {"A": "go", "B": "to go", "C": "going"},
+              "answer": "B",
+              "explanation": "would like to do sth是固定搭配，to go不能换成go或going；this weekend表将来，用would like to do表委婉请求。"
+            },
+            {
+              "question": "You ___ better ___ smoking. It's bad for your health.",
+              "options": {"A": "had; give up", "B": "had; to give up", "C": "have; give up"},
+              "answer": "A",
+              "explanation": "had better后接动词原形（give up），不能加to；have better无此搭配；give up smoking表“戒烟”，是固定搭配。"
+            },
+            {
+              "question": "We will have a party ___ the evening of December 31st.",
+              "options": {"A": "in", "B": "on", "C": "at"},
+              "answer": "B",
+              "explanation": "具体某一天的晚上用on（on the evening of December 31st）；in后接大时间（in the evening），at后接具体时刻，均不符合。"
+            },
+            {
+              "question": "My grandfather usually goes for a walk ___ night in the park.",
+              "options": {"A": "in", "B": "on", "C": "at"},
+              "answer": "C",
+              "explanation": "at night是固定搭配，不能说in night或on night；usually表经常性动作，用一般现在时goes。"
+            },
+            {
+              "question": "It's very nice ___ you to help me carry the heavy box.",
+              "options": {"A": "for", "B": "of", "C": "to"},
+              "answer": "B",
+              "explanation": "nice是描述人的品质，所以用It’s + 形容词 + of sb + to do sth句型；for修饰动作，to无此搭配，均错误。"
+            },
+            {
+              "question": "I ___ my best to help my classmates when they are in trouble.",
+              "options": {"A": "try", "B": "do", "C": "make"},
+              "answer": "A",
+              "explanation": "try one’s best to do sth是固定搭配，表“尽某人最大努力做某事”；do/make无此搭配；when引导时间状语从句，主句用一般现在时try。"
+            },
+            {
+              "question": "She asked her teacher ___ help with her math problems.",
+              "options": {"A": "for", "B": "to", "C": "with"},
+              "answer": "A",
+              "explanation": "ask sb for help是固定搭配，表“向某人求助”；ask sb to do sth表“让某人做某事”，with无此搭配，均不符合。"
+            },
+            {
+              "question": "Fruit and vegetables are good ___ our health. We should eat them every day.",
+              "options": {"A": "at", "B": "for", "C": "with"},
+              "answer": "B",
+              "explanation": "be good for sth表“对某物有好处”，符合“水果蔬菜对健康好”的语境；be good at擅长，be good with相处好，均不符合。"
+            },
+            {
+              "question": "___ home, I usually do my homework first.",
+              "options": {"A": "At", "B": "In", "C": "On"},
+              "answer": "A",
+              "explanation": "at home是固定搭配，不能说in home或on home；usually表经常性动作，用一般现在时do。"
+            },
+            {
+              "question": "He ___ 2 hours on his project yesterday, but he didn't finish it.",
+              "options": {"A": "spent", "B": "paid", "C": "took"},
+              "answer": "A",
+              "explanation": "spend + 时间 + on sth是固定搭配，主语是人（he），yesterday用一般过去时spent；pay后接for，take主语是it，均不符合。"
+            },
+            {
+              "question": "I want ___ a teacher when I grow up because I like children.",
+              "options": {"A": "be", "B": "to be", "C": "being"},
+              "answer": "B",
+              "explanation": "want to do sth是固定搭配，to be不能换成be或being；when引导时间状语从句，主将从现（主句want用一般现在时，从句grow up也用一般现在时）。"
+            },
+            {
+              "question": "___ is important to learn to share with others.",
+              "options": {"A": "This", "B": "That", "C": "It"},
+              "answer": "C",
+              "explanation": "It is + 形容词 + to do sth是固定句型，it是形式主语，this/that不能作形式主语。"
+            },
+            {
+              "question": "My sister is afraid ___ dogs, so she never plays with them.",
+              "options": {"A": "of", "B": "to", "C": "with"},
+              "answer": "A",
+              "explanation": "be afraid of sth是固定搭配，表“害怕某物”；be afraid to后接动词原形（be afraid to touch dogs），with无此搭配，均不符合。"
+            },
+            {
+              "question": "Could you tell me ___ to get to the nearest hospital?",
+              "options": {"A": "how", "B": "what", "C": "when"},
+              "answer": "A",
+              "explanation": "how to get to sp是固定搭配，表“如何到达某地”；what to do表“做什么”，when to go表“什么时候去”，均不符合句意。"
+            },
+            {
+              "question": "She ___ a new pen for her brother on his birthday last year.",
+              "options": {"A": "buys", "B": "bought", "C": "will buy"},
+              "answer": "B",
+              "explanation": "buy sth for sb是固定搭配，last year用一般过去时bought；buys一般现在时，will buy将来时，均不符合。"
+            },
+            {
+              "question": "We should finish ___ the work before Friday, or we will be punished.",
+              "options": {"A": "do", "B": "to do", "C": "doing"},
+              "answer": "C",
+              "explanation": "finish后接doing形式，不能接do或to do；should后接动词原形finish，before Friday表将来，or引导条件句。"
+            },
+            {
+              "question": "It's too hot today. You had better ___ the window open.",
+              "options": {"A": "keep", "B": "to keep", "C": "keeping"},
+              "answer": "A",
+              "explanation": "had better后接动词原形keep，不能加to或接doing；keep the window open表“让窗户开着”，是固定搭配。"
+            },
+            {
+              "question": "He is good at ___ basketball, and he wants to be a basketball player.",
+              "options": {"A": "play", "B": "playing", "C": "to play"},
+              "answer": "B",
+              "explanation": "be good at后接doing形式，playing不能换成play或to play；want to be表“想要成为”，是固定搭配。"
+            },
+            {
+              "question": "I usually get up ___ 6 o'clock ___ the morning.",
+              "options": {"A": "at; in", "B": "on; in", "C": "at; on"},
+              "answer": "A",
+              "explanation": "具体时刻用at（at 6 o'clock），早上用in the morning（固定搭配）；on后接具体某一天，不符合。"
+            },
+            {
+              "question": "My mother told me ___ eat too much junk food because it's bad for health.",
+              "options": {"A": "don't", "B": "not to", "C": "not"},
+              "answer": "B",
+              "explanation": "tell sb not to do sth是固定结构，not to eat不能换成don’t或not；because引导原因状语从句，be bad for health表“对健康有害”。"
+            },
+            {
+              "question": "___ the way, do you know where the nearest supermarket is?",
+              "options": {"A": "In", "B": "On", "C": "By"},
+              "answer": "C",
+              "explanation": "by the way是固定搭配，表“顺便问一下”；in the way表“挡路”，on the way表“在路上”，均不符合。"
+            },
+            {
+              "question": "It takes her half an hour ___ English every morning.",
+              "options": {"A": "read", "B": "to read", "C": "reading"},
+              "answer": "B",
+              "explanation": "It takes sb + 时间 + to do sth是固定句型，to read不能换成read或reading；every morning表经常性动作，用一般现在时takes。"
+            },
+            {
+              "question": "She ___ 100 yuan for the book and it's worth the money.",
+              "options": {"A": "paid", "B": "spent", "C": "took"},
+              "answer": "A",
+              "explanation": "pay + 钱 + for sth是固定搭配，主语是人（she）；spend的结构是spend money on sth，take主语是it，均不符合；it’s worth the money表“值这个钱”，是固定搭配。"
+            },
+            {
+              "question": "I enjoy ___ to music when I am free. It relaxes me a lot.",
+              "options": {"A": "listen", "B": "to listen", "C": "listening"},
+              "answer": "C",
+              "explanation": "enjoy后接doing形式（listening），不能接listen或to listen；when引导时间状语从句，am free表“空闲时”，relax sb表“使某人放松”。"
+            },
+            {
+              "question": "It's kind ___ you to give me a lift to the station.",
+              "options": {"A": "for", "B": "of", "C": "with"},
+              "answer": "B",
+              "explanation": "kind是描述人的品质，用It’s + 形容词 + of sb + to do sth句型；for修饰动作，with无此搭配，均错误；give sb a lift表“捎某人一程”，是固定短语。"
+            },
+            {
+              "question": "We will have a sports meeting ___ spring, usually ___ April.",
+              "options": {"A": "in; in", "B": "on; in", "C": "in; on"},
+              "answer": "A",
+              "explanation": "季节用in（in spring），月份用in（in April）；on后接具体某一天，不符合。"
+            },
+            {
+              "question": "He spends a lot of time ___ with his family on weekends.",
+              "options": {"A": "stay", "B": "to stay", "C": "staying"},
+              "answer": "C",
+              "explanation": "spend + 时间 + (in) doing sth是固定搭配，staying不能换成stay或to stay；on weekends表“在周末”，是固定搭配。"
+            },
+            {
+              "question": "Would you mind ___ the window? It's cold outside.",
+              "options": {"A": "close", "B": "closing", "C": "to close"},
+              "answer": "B",
+              "explanation": "mind后接doing形式（closing），是固定搭配；Would you mind doing sth表“你介意做某事吗？”，是中考常考句型；outside表“外面”，cold是形容词。"
+            },
+            {
+              "question": "My father asks me ___ my bedroom every day to keep it clean.",
+              "options": {"A": "clean", "B": "to clean", "C": "cleaning"},
+              "answer": "B",
+              "explanation": "ask sb to do sth是固定搭配，to clean不能换成clean或cleaning；every day表经常性动作，keep it clean表“保持干净”，是固定搭配。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

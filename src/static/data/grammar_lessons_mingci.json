@@ -1,0 +1,549 @@
+{
+  "grammar_topics": [
+    {
+      "id": "nouns",
+      "name": "1-名词-三节课轻松掌握名词",
+      "icon": "circle",
+      "color": "#e74c3c",
+      "lessons": [
+        {
+          "id": "nouns_1",
+          "title": "1-可数名词与不可数名词",
+          "content": "### 可数名词与不可数名词的核心定义\n名词按**能否用数目计量**可分为**可数名词**和**不可数名词**，这是名词的基础分类，也是中考名词类考点的前提，直接影响冠词、数词、量词的使用，单句、语篇填空中高频考查。\n1. **可数名词**：能以数目计算，可分为单数和复数形式，指可以一个一个数的人或事物，如book（书）、student（学生）、apple（苹果）；\n2. **不可数名词**：不能以数目直接计算，无单数、复数之分，通常表示物质、抽象概念、情感等，如water（水）、money（钱）、happiness（幸福）、information（信息）。\n\n### 可数名词的核心特征\n1. 有**单数**和**复数**两种形式，单数表“一个”，复数表“两个及以上”；\n2. 单数形式前可加不定冠词a/an，复数形式前可加数词、many、some等修饰；\n3. 作主语时，单数谓语用三单形式，复数谓语用原形。\n例：a book（单数）→ two books（复数）；A student is here.（单数谓语is）→ Some students are here.（复数谓语are）。\n\n### 不可数名词的核心特征\n1. **无单复数变化**，始终用原形表示；\n2. 不可直接加不定冠词a/an，也不可直接加数词（one/two/three）修饰；\n3. 表数量时，需借助**量词+of**结构，量词可单复数变化，如a glass of water（一杯水）→ two glasses of water（两杯水）；\n4. 作主语时，谓语一律用**三单形式**；\n5. 可被some、much、a little、little等词修饰。\n例：water（不可数）→ 错：a water / two water；对：a bottle of water / some water；Water is important.（谓语is）。\n\n### 中考高频可数/不可数名词分类（必记）\n#### 高频可数名词（常见单复数变化）\n- 人物类：student, teacher, doctor, friend, family, person；\n- 事物类：book, pen, bag, desk, chair, apple, banana, tree, flower；\n- 其他类：day, week, month, year, lesson, class, school, park。\n\n#### 高频不可数名词（易混易错，重点记）\n1. **物质类**：water, milk, juice, tea, coffee, rice, bread, meat, fish（鱼肉）, paper（纸）, glass（玻璃）；\n2. **抽象类**：information, news, advice, knowledge, happiness, sadness, love, time（时间）, money, work（工作）；\n3. **自然类**：weather, snow, rain, wind, air, sand；\n4. **学科类**：math, Chinese, English, history, physics, chemistry（均为不可数）。\n\n### 易混点：既可数又不可数的名词（中考必考）\n部分名词因**词义不同**，既可作可数名词，也可作不可数名词，需根据语境判断，核心易混词如下：\n1. **fish**：不可数（鱼肉）→ Fish is delicious.；可数（鱼的条数，单复数同形）→ two fish（两条鱼）；可数（鱼的种类，复数fishes）→ two fishes（两种鱼）；\n2. **chicken**：不可数（鸡肉）→ Chicken is healthy.；可数（小鸡）→ two chickens（两只小鸡）；\n3. **paper**：不可数（纸）→ a piece of paper；可数（试卷、论文、报纸）→ a paper（一张试卷）→ two papers（两张试卷）；\n4. **glass**：不可数（玻璃）→ a piece of glass；可数（玻璃杯）→ a glass → two glasses；可数（眼镜，只有复数）→ a pair of glasses；\n5. **time**：不可数（时间）→ Time is money.；可数（次数、倍数）→ three times（三次）→ two times bigger（两倍大）；\n6. **work**：不可数（工作）→ find work；可数（作品、著作）→ a work of art（一件艺术品）→ two works（两部作品）；\n7. **room**：不可数（空间）→ There is no room here.；可数（房间）→ a room → two rooms。\n\n### 不可数名词表数量的常用量词（中考高频）\n不可数名词需通过**“量词+of”**表具体数量，量词根据名词类别选择，核心量词搭配如下：\n1. 液体类：a glass of（一杯）、a bottle of（一瓶）、a cup of（一杯）、a bowl of（一碗）；\n2. 固体/粉末类：a piece of（一片/张/块）、a bag of（一袋）、a box of（一盒）；\n3. 抽象类：a piece of（一条/则/份）→ a piece of news/advice/information/paper。",
+          "examples": [
+            {
+              "sentence": "I have a book on my desk.",
+              "translation": "我的桌子上有一本书。",
+              "analysis": "book是可数名词，单数形式，前加不定冠词a表“一个”，符合可数名词单数的用法规则。"
+            },
+            {
+              "sentence": "There are some students in the classroom.",
+              "translation": "教室里有一些学生。",
+              "analysis": "student是可数名词，复数形式students，前加some修饰，作主语时谓语用复数are，符合可数名词复数的用法。"
+            },
+            {
+              "sentence": "Water is very important for our life.",
+              "translation": "水对我们的生活非常重要。",
+              "analysis": "water是不可数名词，无单复数变化，前不加a/an，作主语时谓语用三单is，符合不可数名词的核心特征。"
+            },
+            {
+              "sentence": "I want two bottles of milk for breakfast.",
+              "translation": "我早餐想要两瓶牛奶。",
+              "analysis": "milk是不可数名词，不可直接加数词two，需借助量词bottle，量词变复数bottles，构成“数词+量词复数+of+不可数名词”结构。"
+            },
+            {
+              "sentence": "Fish is my favorite food because it’s healthy.",
+              "translation": "鱼肉是我最喜欢的食物，因为它很健康。",
+              "analysis": "fish在此处表“鱼肉”，是不可数名词，作主语时谓语用三单is，无单复数变化。"
+            },
+            {
+              "sentence": "I see two fish swimming in the river.",
+              "translation": "我看到两条鱼在河里游。",
+              "analysis": "fish在此处表“鱼的条数”，是可数名词，单复数同形，直接加数词two，无需变形。"
+            },
+            {
+              "sentence": "Can you give me a piece of advice?",
+              "translation": "你能给我一条建议吗？",
+              "analysis": "advice是不可数名词，不可直接加a，需借助量词a piece of，构成固定搭配a piece of advice表“一条建议”。"
+            },
+            {
+              "sentence": "Chicken is delicious, and I have two chickens at home.",
+              "translation": "鸡肉很美味，我家里有两只小鸡。",
+              "analysis": "第一个chicken表“鸡肉”，不可数；第二个chicken表“小鸡”，可数名词，复数形式chickens，加数词two修饰。"
+            },
+            {
+              "sentence": "There is no room for us to sit here.",
+              "translation": "这里没有我们坐的空间了。",
+              "analysis": "room在此处表“空间”，是不可数名词，前加no修饰，作主语时谓语用三单is。"
+            },
+            {
+              "sentence": "I read a piece of interesting news this morning.",
+              "translation": "我今天早上看到了一则有趣的新闻。",
+              "analysis": "news是不可数名词，不可说a news，需用a piece of news表“一则新闻”，这是中考高频易混点。"
+            }
+          ],
+          "exercises": [
+            {
+              "question": "I need ___ pen to write a letter. Can you pass me one?",
+              "options": {"A": "a", "B": "an", "C": "/"},
+              "answer": "A",
+              "explanation": "pen是可数名词单数，发音以辅音音素开头，前加不定冠词a表泛指“一支钢笔”。"
+            },
+            {
+              "question": "___ is very important for us to learn English well.",
+              "options": {"A": "Time", "B": "Times", "C": "A time"},
+              "answer": "A",
+              "explanation": "time在此处表“时间”，是不可数名词，无单复数变化，前不加a/an，作主语时谓语用三单is。"
+            },
+            {
+              "question": "My mother bought three ___ of rice in the supermarket.",
+              "options": {"A": "bag", "B": "bags", "C": "a bag"},
+              "answer": "B",
+              "explanation": "rice是不可数名词，表数量需用“量词+of”，数词three后量词bag变复数bags，构成three bags of rice。"
+            },
+            {
+              "question": "___ is a kind of healthy food. We can eat it every day.",
+              "options": {"A": "Chicken", "B": "Chickens", "C": "A chicken"},
+              "answer": "A",
+              "explanation": "此处表“鸡肉”，是不可数名词，无单复数变化，前不加a/an，作主语时谓语用三单is。"
+            },
+            {
+              "question": "There are many ___ on the tree in autumn.",
+              "options": {"A": "apple", "B": "apples", "C": "an apple"},
+              "answer": "B",
+              "explanation": "apple是可数名词，many后接可数名词复数，故变apples，符合“many+可数名词复数”的用法。"
+            },
+            {
+              "question": "Can you give me ___ information about the party?",
+              "options": {"A": "a", "B": "an", "C": "some"},
+              "answer": "C",
+              "explanation": "information是不可数名词，不可加a/an，some可修饰可数名词复数和不可数名词，此处表“一些信息”。"
+            },
+            {
+              "question": "I see three ___ swimming in the lake. They are very cute.",
+              "options": {"A": "fish", "B": "fishes", "C": "a fish"},
+              "answer": "A",
+              "explanation": "此处fish表“鱼的条数”，是可数名词，单复数同形，数词three后直接用fish，无需变形。"
+            },
+            {
+              "question": "She has two ___ of bread and a glass of milk for breakfast.",
+              "options": {"A": "piece", "B": "pieces", "C": "a piece"},
+              "answer": "B",
+              "explanation": "bread是不可数名词，表数量用“a piece of”，数词two后piece变复数pieces，构成two pieces of bread。"
+            },
+            {
+              "question": "We have no ___ to finish the work. We need to hurry up.",
+              "options": {"A": "time", "B": "times", "C": "a time"},
+              "answer": "A",
+              "explanation": "此处time表“时间”，是不可数名词，no后直接接原形，表“没有时间”。"
+            },
+            {
+              "question": "There are some ___ and a desk in my bedroom.",
+              "options": {"A": "chair", "B": "chairs", "C": "a chair"},
+              "answer": "B",
+              "explanation": "chair是可数名词，some后接可数名词复数，故变chairs，符合some的用法规则。"
+            },
+            {
+              "question": "He gave me a piece of ___ about how to learn math well.",
+              "options": {"A": "advice", "B": "advices", "C": "an advice"},
+              "answer": "A",
+              "explanation": "advice是不可数名词，无复数形式，不可加a/an，固定搭配a piece of advice表“一条建议”。"
+            },
+            {
+              "question": "___ is falling down. Let’s go home quickly.",
+              "options": {"A": "Snow", "B": "Snows", "C": "A snow"},
+              "answer": "A",
+              "explanation": "snow是不可数名词，表“雪”，无单复数变化，前不加a/an，作主语时谓语用三单is。"
+            },
+            {
+              "question": "My father bought two ___ of glass to make a window.",
+              "options": {"A": "piece", "B": "pieces", "C": "a piece"},
+              "answer": "B",
+              "explanation": "此处glass表“玻璃”，是不可数名词，数词two后量词piece变复数pieces，构成two pieces of glass。"
+            },
+            {
+              "question": "I have three ___ in my schoolbag. They are for Chinese, math and English.",
+              "options": {"A": "book", "B": "books", "C": "a book"},
+              "answer": "B",
+              "explanation": "book是可数名词，数词three后接复数形式books，表“三本书”。"
+            },
+            {
+              "question": "___ is very important. We should save it every day.",
+              "options": {"A": "Water", "B": "Waters", "C": "A water"},
+              "answer": "A",
+              "explanation": "water是不可数名词，无单复数变化，前不加a/an，作主语时谓语用三单is。"
+            },
+            {
+              "question": "There is no ___ for the new table in the living room.",
+              "options": {"A": "room", "B": "rooms", "C": "a room"},
+              "answer": "A",
+              "explanation": "此处room表“空间”，是不可数名词，no后直接接原形，表“没有空间”。"
+            },
+            {
+              "question": "She read an interesting ___ in the newspaper this morning.",
+              "options": {"A": "news", "B": "a news", "C": "piece of news"},
+              "answer": "C",
+              "explanation": "news是不可数名词，不可说an news，需用a piece of news，前有an interesting修饰，直接用piece of news。"
+            },
+            {
+              "question": "We have five ___ in the morning. They are math, Chinese and so on.",
+              "options": {"A": "lesson", "B": "lessons", "C": "a lesson"},
+              "answer": "B",
+              "explanation": "lesson是可数名词，数词five后接复数形式lessons，表“五节课”。"
+            },
+            {
+              "question": "My grandmother keeps ten ___ in her yard. They can lay eggs for us.",
+              "options": {"A": "chicken", "B": "chickens", "C": "a chicken"},
+              "answer": "B",
+              "explanation": "此处chicken表“小鸡/鸡”，是可数名词，数词ten后接复数形式chickens，表“十只鸡”。"
+            },
+            {
+              "question": "He drank two ___ of coffee at the office this afternoon.",
+              "options": {"A": "cup", "B": "cups", "C": "a cup"},
+              "answer": "B",
+              "explanation": "coffee是不可数名词，表数量用“a cup of”，数词two后cup变复数cups，构成two cups of coffee。"
+            }
+          ]
+        },
+        {
+          "id": "nouns_2",
+          "title": "2-可数名词的单复数变化",
+          "content": "### 可数名词单复数变化的核心规则\n可数名词的复数形式是中考名词类的**核心考点**，主要考查**规则变化**和**不规则变化**，单句填空、语篇填空、单项选择中高频出现，核心要求是掌握变化规律并熟记高频不规则复数形式。\n可数名词复数变化分为**规则变化**（占80%）和**不规则变化**（占20%，需单独熟记），规则变化有固定规律，不规则变化无规律，是易混易错点。\n\n### 一、可数名词复数的规则变化（5大核心规律，必记）\n#### 规则1：一般情况，直接在词尾加**-s**\n这是最基础的变化规则，绝大多数可数名词都遵循此规则，发音规则：-s在清辅音后读/s/，在浊辅音、元音后读/z/。\n例：book → books /bʊks/（清辅音/k/后读/s/）；pen → pens /penz/（浊辅音/n/后读/z/）；student → students /ˈstjuːdənts/；apple → apples /ˈæplz/。\n\n#### 规则2：以**s, x, sh, ch**结尾的名词，词尾加**-es**\n发音规则：-es一律读/ɪz/，注意区分“ch”的发音，只有/k/以外的ch（如/tʃ/）才加-es。\n例：bus → buses /ˈbʌsɪz/；box → boxes /ˈbɒksɪz/；brush → brushes /ˈbrʌʃɪz/；chair → chairs /tʃeəz/；watch → watches /ˈwɒtʃɪz/。\n\n#### 规则3：以**辅音字母+y**结尾的名词，**变y为i，再加-es**\n关键：**辅音字母+y**（y前是除a/e/i/o/u外的字母），若为**元音字母+y**（y前是a/e/i/o/u），直接加-s。\n发音规则：-ies读/ɪz/，元音字母+y后加-s读/z/。\n例：city（c是辅音）→ cities /ˈsɪtɪz/；family（l是辅音）→ families /ˈfæməlɪz/；baby → babies；boy（o是元音）→ boys /bɔɪz/；day（a是元音）→ days /deɪz/；key → keys。\n\n#### 规则4：以**o**结尾的名词，分**两类**变化\n这是规则变化中的易混点，中考高频考查，需熟记**加-es的特殊词**，其余以o结尾的名词（除外来词）一般加-s。\n1. **加-es**：以o结尾的**有生命名词**，核心记：**potato, tomato, hero, mango**（土豆、西红柿、英雄、芒果），简称“土豆西红柿英雄芒果”；\n2. **加-s**：以o结尾的**无生命名词**，如photo, piano, radio, zoo, kilo；\n**例外**：zero → zeros/zeroes（两种均可）。\n例：potato → potatoes；tomato → tomatoes；photo → photos；piano → pianos。\n\n#### 规则5：以**f/fe**结尾的名词，**变f/fe为v，再加-es**\n核心记：**半片树叶自己黄，妻子拿刀去割粮，架后窜出一只狼，小偷逃命喊爹娘**（对应：half, leaf, self, wife, knife, shelf, wolf, thief），其余以f/fe结尾的名词直接加-s。\n发音规则：-ves读/vz/。\n例：leaf → leaves /liːvz/；knife → knives /naɪvz/；wife → wives；shelf → shelves；roof（屋顶）→ roofs（直接加-s，例外）；belief → beliefs。\n\n### 二、可数名词复数的不规则变化（无规律，中考高频，逐个熟记）\n不规则变化无固定规律，是中考**重点+难点**，需单独记忆，核心高频不规则复数如下：\n1. 单复数**同形**：sheep（羊）、fish（鱼的条数）、deer（鹿）、Chinese（中国人）、Japanese（日本人）；\n   例：a sheep → ten sheep；a Chinese → two Chinese；\n2. 变**内部元音**：man → men；woman → women；policeman → policemen；policewoman → policewomen；tooth → teeth；foot → feet；mouse → mice；goose → geese；\n   例：a man → three men；a tooth → two teeth；\n3. 加**-en/ren**：child → children；ox → oxen；\n4. 外来词复数（中考低频，记核心）：photo（外来词）→ photos；piano → pianos；datum → data（数据）。\n\n### 三、复合名词的复数变化（中考基础，3类规则）\n复合名词由两个或多个名词构成，复数变化按**中心名词**变化，无中心名词则在最后一个词后加-s，核心规则：\n1. **有中心名词**：在**中心名词**后加-s，如apple tree → apple trees（中心名词tree）；book shop → book shops（中心名词shop）；girl student → girl students；\n2. **无中心名词**：在**最后一个词**后加-s，如grown-up → grown-ups（成年人）；go-between → go-betweens（中间人）；\n3. **由man/woman+名词构成**：**两个词都变复数**，如man teacher → men teachers；woman doctor → women doctors（中考高频易混点）。\n\n### 四、中考高频易混复数变化（避坑必记）\n1. people（人）：本身是复数，单数为person → a person → two people；\n2. police（警察）：本身是复数，无单数，表“一名警察”用a policeman/a policewoman；\n3. clothes（衣服）：本身是复数，无单数，表“一件衣服”用a piece of clothing；\n4. glass（眼镜）：只有复数形式，表“一副眼镜”用a pair of glasses → two pairs of glasses；\n5. sport：表“运动”时不可数，表“体育运动种类”时可数，复数sports → play sports（做运动）。",
+          "examples": [
+            {
+              "sentence": "I have two books and a pen in my schoolbag.",
+              "translation": "我的书包里有两本书和一支钢笔。",
+              "analysis": "book和pen都是一般情况的可数名词，直接加-s变复数，book→books，pen→pens，符合规则1。"
+            },
+            {
+              "sentence": "There are some buses and boxes at the station.",
+              "translation": "车站有一些公交车和箱子。",
+              "analysis": "bus以s结尾，box以x结尾，均遵循规则2，加-es变复数，bus→buses，box→boxes。"
+            },
+            {
+              "question": "My mother has two babies and they are very cute.",
+              "translation": "我妈妈有两个宝宝，他们非常可爱。",
+              "analysis": "baby以“辅音字母+y”结尾（y前是b），遵循规则3，变y为i加-es，baby→babies。"
+            },
+            {
+              "sentence": "We need some tomatoes and potatoes for dinner.",
+              "translation": "我们晚餐需要一些西红柿和土豆。",
+              "analysis": "tomato和potato都是以o结尾的有生命名词，遵循规则4，加-es变复数，tomato→tomatoes，potato→potatoes。"
+            },
+            {
+              "sentence": "She has three knives and two leaves on the desk.",
+              "translation": "她的桌子上有三把小刀和两片树叶。",
+              "analysis": "knife以fe结尾，leaf以f结尾，遵循规则5，变f/fe为v加-es，knife→knives，leaf→leaves。"
+            },
+            {
+              "sentence": "I see ten sheep and five deer on the farm.",
+              "translation": "我在农场看到十只羊和五只鹿。",
+              "analysis": "sheep和deer是单复数同形的不规则名词，直接用原形表复数，无需变形。"
+            },
+            {
+              "sentence": "There are two men teachers and three women doctors in our school.",
+              "translation": "我们学校有两名男老师和三名女医生。",
+              "analysis": "由man/woman+名词构成的复合名词，两个词都变复数，man→men，teacher→teachers；woman→women，doctor→doctors，符合复合名词变化规则3。"
+            },
+            {
+              "sentence": "He has two children and they are both students.",
+              "translation": "他有两个孩子，他们都是学生。",
+              "analysis": "child是不规则名词，复数形式为children，加-ren，需单独熟记。"
+            },
+            {
+              "sentence": "We have many apple trees in our garden.",
+              "translation": "我们的花园里有很多苹果树。",
+              "analysis": "apple tree是复合名词，中心名词是tree，只在tree后加-s，apple不变，符合复合名词变化规则1。"
+            },
+            {
+              "sentence": "She brush her teeth twice a day to keep them clean.",
+              "translation": "她每天刷两次牙来保持牙齿清洁。",
+              "analysis": "tooth是不规则名词，变内部元音，tooth→teeth，属于中考高频不规则变化，需熟记。"
+            }
+          ],
+          "exercises": [
+            {
+              "question": "There are many ___ (book) on the shelf. Please give me one.",
+              "options": {"A": "book", "B": "books", "C": "bookes"},
+              "answer": "B",
+              "explanation": "book是一般情况的可数名词，直接加-s变复数，符合规则1，故选books。"
+            },
+            {
+              "question": "My sister has three ___ (brush) for her hair. They are different colors.",
+              "options": {"A": "brush", "B": "brushes", "C": "brushs"},
+              "answer": "B",
+              "explanation": "brush以sh结尾，遵循规则2，加-es变复数，brush→brushes，故选brushes。"
+            },
+            {
+              "question": "There are many big ___ (city) in China, such as Beijing and Shanghai.",
+              "options": {"A": "city", "B": "citys", "C": "cities"},
+              "answer": "C",
+              "explanation": "city以“辅音字母+y”结尾，遵循规则3，变y为i加-es，city→cities，故选cities。"
+            },
+            {
+              "question": "We need to buy some ___ (tomato) and eggs for the salad.",
+              "options": {"A": "tomato", "B": "tomatoes", "C": "tomatos"},
+              "answer": "B",
+              "explanation": "tomato是以o结尾的有生命名词，遵循规则4，加-es变复数，tomato→tomatoes，故选B。"
+            },
+            {
+              "question": "He has two ___ (knife) in his bag. They are for cutting fruit.",
+              "options": {"A": "knife", "B": "knifes", "C": "knives"},
+              "answer": "C",
+              "explanation": "knife以fe结尾，遵循规则5，变fe为v加-es，knife→knives，故选C。"
+            },
+            {
+              "question": "I see five ___ (sheep) eating grass on the hill. They are white.",
+              "options": {"A": "sheep", "B": "sheeps", "C": "sheepes"},
+              "answer": "A",
+              "explanation": "sheep是单复数同形的不规则名词，直接用原形表复数，无需变形，故选A。"
+            },
+            {
+              "question": "There are three ___ (man) and two ___ (woman) in the room.",
+              "options": {"A": "man; woman", "B": "men; women", "C": "mans; womans"},
+              "answer": "B",
+              "explanation": "man和woman是不规则名词，变内部元音，man→men，woman→women，故选B。"
+            },
+            {
+              "question": "Our school has twenty ___ (man teacher) and thirty ___ (woman doctor).",
+              "options": {"A": "man teacher; woman doctor", "B": "men teachers; women doctors", "C": "man teachers; woman doctors"},
+              "answer": "B",
+              "explanation": "由man/woman+名词构成的复合名词，两个词都变复数，man→men，teacher→teachers；woman→women，doctor→doctors，故选B。"
+            },
+            {
+              "question": "She has two ___ (child). They are five and seven years old.",
+              "options": {"A": "child", "B": "childs", "C": "children"},
+              "answer": "C",
+              "explanation": "child是不规则名词，复数形式为children，加-ren，需单独熟记，故选C。"
+            },
+            {
+              "question": "There are many ___ (apple tree) in the countryside. They look beautiful in autumn.",
+              "options": {"A": "apple tree", "B": "apple trees", "C": "apples trees"},
+              "answer": "B",
+              "explanation": "apple tree是复合名词，中心名词是tree，只在tree后加-s，apple不变，故选B。"
+            },
+            {
+              "question": "We should brush our ___ (tooth) twice a day to keep healthy.",
+              "options": {"A": "tooth", "B": "tooths", "C": "teeth"},
+              "answer": "C",
+              "explanation": "tooth是不规则名词，变内部元音，tooth→teeth，故选C。"
+            },
+            {
+              "question": "There are some ___ (box) and bags in the corner of the room.",
+              "options": {"A": "box", "B": "boxes", "C": "boxs"},
+              "answer": "B",
+              "explanation": "box以x结尾，遵循规则2，加-es变复数，box→boxes，故选B。"
+            },
+            {
+              "question": "There are many ___ (family) living in this building. They are very friendly.",
+              "options": {"A": "family", "B": "familys", "C": "families"},
+              "answer": "C",
+              "explanation": "family以“辅音字母+y”结尾，遵循规则3，变y为i加-es，family→families，故选C。"
+            },
+            {
+              "question": "He has three ___ (photo) of his family on his desk. They are very nice.",
+              "options": {"A": "photo", "B": "photos", "C": "photoes"},
+              "answer": "B",
+              "explanation": "photo是以o结尾的无生命名词，遵循规则4，加-s变复数，photo→photos，故选B。"
+            },
+            {
+              "question": "The wind blows off some ___ (leaf) from the tree. They fall on the ground.",
+              "options": {"A": "leaf", "B": "leaves", "C": "leafs"},
+              "answer": "B",
+              "explanation": "leaf以f结尾，遵循规则5，变f为v加-es，leaf→leaves，故选B。"
+            },
+            {
+              "question": "I see six ___ (deer) running in the forest. They are very fast.",
+              "options": {"A": "deer", "B": "deers", "C": "deeres"},
+              "answer": "A",
+              "explanation": "deer是单复数同形的不规则名词，直接用原形表复数，无需变形，故选A。"
+            },
+            {
+              "question": "My feet are tired because I walk a long way. (写出foot的单数)",
+              "options": {"A": "foot", "B": "foots", "C": "feets"},
+              "answer": "A",
+              "explanation": "foot是不规则名词，复数变内部元音为feet，单数为foot，故选A。"
+            },
+            {
+              "question": "There are some ___ (policeman) on the street. They are helping people.",
+              "options": {"A": "policeman", "B": "policemans", "C": "policemen"},
+              "answer": "C",
+              "explanation": "policeman由man+名词构成，变内部元音，policeman→policemen，故选C。"
+            },
+            {
+              "question": "We have many ___ (key) in the box. We need to find the right one.",
+              "options": {"A": "key", "B": "keys", "C": "keies"},
+              "answer": "B",
+              "explanation": "key以“元音字母+y”结尾（y前是e），直接加-s变复数，key→keys，故选B。"
+            },
+            {
+              "question": "There are two ___ (zero) in the number 100. It’s a hundred.",
+              "options": {"A": "zero", "B": "zeros", "C": "zeroes"},
+              "answer": "B",
+              "explanation": "zero是以o结尾的无生命名词，加-s变复数，zeros/zeroes均可，中考常考zeros，故选B。"
+            }
+          ]
+        },
+        {
+          "id": "nouns_3",
+          "title": "3-名词的所有格",
+          "content": "### 名词所有格的核心定义\n名词所有格表示**名词之间的所属关系**，即“……的”，是中考名词类的高频考点，主要考查**有生命名词的所有格**和**无生命名词的所有格**，单句、语篇填空中常结合代词、冠词考查，核心用法是根据名词的“有生命/无生命”“单复数”选择正确的所有格形式。\n名词所有格主要分为**’s所有格**、**of所有格**和**双重所有格**三类，**’s所有格**多用于有生命名词，**of所有格**多用于无生命名词，**双重所有格**是两者的结合，中考重点考查前两类，双重所有格为基础考点。\n\n### 一、’s所有格（有生命名词的核心所有格形式，5大规则）\n#### 规则1：单数名词，直接在词尾加**’s**\n这是最基础的用法，适用于所有单数有生命名词，表“一个人的/事物的”。\n例：Tom → Tom’s（汤姆的）；student → a student’s book（一名学生的书）；girl → the girl’s bag（这个女孩的包）；my mother → my mother’s phone（我妈妈的手机）。\n\n#### 规则2：复数名词以**-s**结尾，直接在词尾加**’**\n关键：复数名词**已变-s**，只需加’，无需再加s；若复数名词**未以-s结尾**（不规则复数），仍加**’s**。\n例：students（复数，-s结尾）→ students’ books（学生们的书）；teachers → teachers’ office（老师们的办公室）；children（不规则复数，无-s）→ children’s park（儿童公园）；men → men’s room（男卫生间）。\n\n#### 规则3：表示**两人共有**的事物，在**最后一个名词**后加**’s**\n核心：“共有”，即两个名词共同拥有一个事物，只在最后一个名词变所有格；若为**各自拥有**，则**每个名词**后都加**’s**。\n例：Tom and Jim’s room（汤姆和吉姆共有的房间，一个房间）；Tom’s and Jim’s rooms（汤姆的房间和吉姆的房间，两个房间，各自拥有）；Li Ming and Li Hong’s mother（李明和李红的妈妈，同一个妈妈）。\n\n#### 规则4：以**s**结尾的单数名词，词尾加**’s**（中考基础）\n以s结尾的单数名词（如人名、专有名词），变所有格时仍加’s，不可只加’。\n例：Lucas → Lucas’s book（卢卡斯的书）；the boss → the boss’s office（老板的办公室）；Paris → Paris’s beauty（巴黎的美）。\n\n#### 规则5：表示**时间、距离、国家、城市、团体**等的名词，虽为无生命，但习惯用**’s所有格**\n这是’'s所有格的特殊用法，中考高频考查，需熟记这类特殊名词，核心类别：时间、距离、地点、团体。\n例：today → today’s newspaper（今天的报纸）；ten minutes → ten minutes’ walk（十分钟的路程）；China → China’s history（中国的历史）；the school → the school’s library（学校的图书馆）；the company → the company’s rules（公司的规定）。\n\n### 二、of所有格（无生命名词的核心所有格形式，基础规则）\nof所有格表示“……的”，适用于**无生命名词**，也是不可数名词、复数名词表所属的常用形式，结构为**“of+名词”**，放于被修饰名词后，作后置定语。\n#### 核心用法：\n1. 无生命名词：the window of the room（房间的窗户）；the cover of the book（书的封面）；the color of the pen（钢笔的颜色）；\n2. 不可数名词：the importance of water（水的重要性）；the meaning of life（生命的意义）；\n3. 复数名词（强调所属时）：the names of the students（学生们的名字）；the doors of the houses（房子的门）。\n**注意**：of所有格可与’s所有格互换（有生命名词），如Tom’s book = the book of Tom（汤姆的书），但无生命名词不可用’s所有格。\n\n### 三、双重所有格（’s所有格+of所有格，中考基础考点）\n双重所有格是**“of+名词’s所有格/名词性物主代词”**的结构，表“……中的一个/一部分”，用于修饰前面的名词，核心特征是前面可加a/an/some/any等词，不可加the。\n#### 结构：\n1. a/an/some/any + 名词 + of + 名词’s所有格；\n2. a/an/some/any + 名词 + of + 名词性物主代词。\n#### 例句：\na friend of Tom’s（汤姆的一个朋友，强调汤姆的众多朋友中的一个）；some books of my mother’s（我妈妈的一些书）；a pen of mine（我的一支钢笔，mine=my pens）；this book of Li Ming’s（李明的这本书）。\n**易混点**：a friend of Tom（汤姆的一个朋友，强调所属）≠ a friend of Tom’s（汤姆的众多朋友中的一个，强调部分）。\n\n### 四、名词所有格的省略用法（中考高频，避坑必记）\n在名词所有格后，若有**上文提到的名词**，为避免重复，可**省略后面的名词**，只保留所有格形式。\n例：This is Tom’s pen, not Jim’s (pen).（这是汤姆的钢笔，不是吉姆的。）；The teacher’s office is big, and the students’ (office) is small too.（老师的办公室很大，学生们的也很大。）；I like my mother’s cooking, not my father’s (cooking).（我喜欢妈妈做的饭，不喜欢爸爸的。）\n\n### 五、中考高频所有格搭配（固定用法，必记）\n1. ten minutes’ walk = a ten-minute walk（十分钟的路程，注意连字符后名词用单数）；\n2. today’s newspaper（今天的报纸）；yesterday’s homework（昨天的作业）；\n3. children’s park（儿童公园）；women’s hospital（妇产科医院）；\n4. the door of the room（房间的门）；the top of the mountain（山顶）；\n5. a friend of mine（我的一个朋友）；some photos of his（他的一些照片）。",
+          "examples": [
+            {
+              "sentence": "This is Tom’s schoolbag. It’s blue and white.",
+              "translation": "这是汤姆的书包，它是蓝白相间的。",
+              "analysis": "Tom是单数有生命名词，遵循’s所有格规则1，直接加’s，表“汤姆的”，修饰schoolbag。"
+            },
+            {
+              "sentence": "The students’ classroom is very clean and tidy.",
+              "translation": "学生们的教室非常干净整洁。",
+              "analysis": "students是复数名词，以-s结尾，遵循规则2，直接加’，表“学生们的”，修饰classroom。"
+            },
+            {
+              "sentence": "This is Tom and Jim’s room. They live together.",
+              "translation": "这是汤姆和吉姆共有的房间，他们住在一起。",
+              "analysis": "Tom和Jim共同拥有一个房间，属于“共有”，遵循规则3，在最后一个名词Jim后加’s，表“两人共有的”。"
+            },
+            {
+              "sentence": "These are Tom’s and Jim’s rooms. They live in different rooms.",
+              "translation": "这些是汤姆的房间和吉姆的房间，他们住在不同的房间里。",
+              "analysis": "Tom和Jim各自拥有房间，属于“各自拥有”，遵循规则3，每个名词后都加’s，表“各自的”。"
+            },
+            {
+              "sentence": "It’s only ten minutes’ walk from my home to school.",
+              "translation": "从我家到学校只有十分钟的路程。",
+              "analysis": "ten minutes是时间类名词，虽为无生命，习惯用’s所有格，复数以-s结尾，加’，构成ten minutes’ walk，符合规则5。"
+            },
+            {
+              "sentence": "The children’s park is very popular with kids in the city.",
+              "translation": "这个儿童公园在城里很受孩子们的欢迎。",
+              "analysis": "children是不规则复数名词，未以-s结尾，遵循规则2，加’s，构成children’s，表“儿童的”，修饰park。"
+            },
+            {
+              "sentence": "The window of the room is broken. We need to repair it.",
+              "translation": "房间的窗户破了，我们需要修理它。",
+              "analysis": "room是无生命名词，用of所有格，结构为“the+被修饰名词+of+名词”，表“房间的窗户”，符合of所有格的用法。"
+            },
+            {
+              "sentence": "This is a friend of mine. He is a student in No.1 Middle School.",
+              "translation": "这是我的一个朋友，他是一中的一名学生。",
+              "analysis": "本句是双重所有格，结构为“a+名词+of+名词性物主代词”，mine=my friends，表“我的众多朋友中的一个”。"
+            },
+            {
+              "sentence": "I like my mother’s cooking better than my father’s.",
+              "translation": "比起爸爸做的饭，我更喜欢妈妈做的饭。",
+              "analysis": "father’s后省略了上文提到的cooking，为避免重复，只保留所有格形式，这是名词所有格的省略用法。"
+            },
+            {
+              "sentence": "China’s history is very long and wonderful.",
+              "translation": "中国的历史非常悠久精彩。",
+              "analysis": "China是国家类名词，虽为无生命，习惯用’s所有格，直接加’s，构成China’s，表“中国的”，修饰history，符合规则5。"
+            }
+          ],
+          "exercises": [
+            {
+              "question": "This is ___ (Lily) pen. She lost it yesterday.",
+              "options": {"A": "Lily", "B": "Lilys", "C": "Lily’s"},
+              "answer": "C",
+              "explanation": "Lily是单数有生命名词，直接加’s变所有格，表“莉莉的”，修饰pen，故选C。"
+            },
+            {
+              "question": "The ___ (teacher) office is on the second floor of the building.",
+              "options": {"A": "teacher", "B": "teachers’", "C": "teacher’s"},
+              "answer": "B",
+              "explanation": "老师的办公室是多名老师共有的，teacher变复数teachers，以-s结尾，加’变所有格，故选B。"
+            },
+            {
+              "question": "This is ___ (Lucy and Lily) mother. She is a nice woman.",
+              "options": {"A": "Lucy and Lily", "B": "Lucy and Lily’s", "C": "Lucy’s and Lily’s"},
+              "answer": "B",
+              "explanation": "Lucy和Lily共有一个妈妈，属于“共有”，在最后一个名词后加’s，故选B。"
+            },
+            {
+              "question": "These are ___ (Lucy and Lily) rooms. They are very different.",
+              "options": {"A": "Lucy and Lily", "B": "Lucy and Lily’s", "C": "Lucy’s and Lily’s"},
+              "answer": "C",
+              "explanation": "Lucy和Lily各自拥有房间，属于“各自拥有”，每个名词后都加’s，故选C。"
+            },
+            {
+              "question": "It’s about twenty ___ (minute) walk from here to the bus station.",
+              "options": {"A": "minute", "B": "minutes’", "C": "minute’s"},
+              "answer": "B",
+              "explanation": "twenty后minute变复数minutes，以-s结尾，加’变所有格，表“二十分钟的”，故选B。"
+            },
+            {
+              "question": "The ___ (child) park is open from 9 a.m. to 6 p.m. every day.",
+              "options": {"A": "child", "B": "child’s", "C": "children’s"},
+              "answer": "C",
+              "explanation": "child变复数children，是不规则复数，未以-s结尾，加’s变所有格，表“儿童的”，故选C。"
+            },
+            {
+              "question": "___ (the cover of the book) is very beautiful. It has a flower on it.",
+              "options": {"A": "The book’s cover", "B": "The cover of the book", "C": "The book cover"},
+              "answer": "B",
+              "explanation": "book是无生命名词，用of所有格，表“书的封面”，结构为the cover of the book，故选B。"
+            },
+            {
+              "question": "This is a pen of ___. It’s very nice. Can I use it?",
+              "options": {"A": "me", "B": "my", "C": "mine"},
+              "answer": "C",
+              "explanation": "本句是双重所有格，结构为a+名词+of+名词性物主代词，mine=my pens，表“我的一支钢笔”，故选C。"
+            },
+            {
+              "question": "My bag is red, and ___ (Mary) is blue. They are different colors.",
+              "options": {"A": "Mary", "B": "Mary’s", "C": "Marys’"},
+              "answer": "B",
+              "explanation": "Mary’s后省略了上文提到的bag，为避免重复，只保留所有格形式，表“玛丽的包”，故选B。"
+            },
+            {
+              "question": "___ (China) culture is one of the oldest cultures in the world.",
+              "options": {"A": "China", "B": "China’s", "C": "Chinas’"},
+              "answer": "B",
+              "explanation": "China是国家类名词，习惯用’s所有格，直接加’s，表“中国的”，修饰culture，故选B。"
+            },
+            {
+              "question": "The ___ (woman) hospital is near our home. It’s very big.",
+              "options": {"A": "woman", "B": "women’s", "C": "womans’"},
+              "answer": "B",
+              "explanation": "woman变复数women，是不规则复数，未以-s结尾，加’s变所有格，表“女性的”，women’s hospital是固定搭配“妇产科医院”，故选B。"
+            },
+            {
+              "question": "This is the ___ (boss) office. He is working in it now.",
+              "options": {"A": "boss", "B": "boss’s", "C": "bosses’"},
+              "answer": "B",
+              "explanation": "boss是以s结尾的单数名词，变所有格加’s，表“老板的”，修饰office，故选B。"
+            },
+            {
+              "question": "The ___ (student) books are on the desk. Please give them to them.",
+              "options": {"A": "student", "B": "students’", "C": "student’s"},
+              "answer": "B",
+              "explanation": "student变复数students，以-s结尾，加’变所有格，表“学生们的”，修饰books，故选B。"
+            },
+            {
+              "question": "It’s a ___ (ten-minute) walk from my home to the park.",
+              "options": {"A": "ten minute", "B": "ten minutes’", "C": "ten-minute"},
+              "answer": "C",
+              "explanation": "ten-minute是复合形容词，连字符后名词用单数，修饰walk，与ten minutes’ walk同义，故选C。"
+            },
+            {
+              "question": "The ___ (top of the mountain) is very high. We can see the whole city from there.",
+              "options": {"A": "mountain’s top", "B": "top of the mountain", "C": "mountain top"},
+              "answer": "B",
+              "explanation": "mountain是无生命名词，用of所有格，表“山顶”，结构为the top of the mountain，故选B。"
+            },
+            {
+              "question": "Some ___ (photo) of his are very beautiful. He took them in Beijing.",
+              "options": {"A": "photo", "B": "photos", "C": "photoes"},
+              "answer": "B",
+              "explanation": "本句是双重所有格，some后接可数名词复数，photo变复数photos，表“他的一些照片”，故选B。"
+            },
+            {
+              "question": "This is ___ (Jack) bike. He rides it to school every day.",
+              "options": {"A": "Jack", "B": "Jacks", "C": "Jack’s"},
+              "answer": "C",
+              "explanation": "Jack是单数有生命名词，直接加’s变所有格，表“杰克的”，修饰bike，故选C。"
+            },
+            {
+              "question": "The ___ (school) library has many interesting books for students.",
+              "options": {"A": "school", "B": "school’s", "C": "schools’"},
+              "answer": "B",
+              "explanation": "school是团体类名词，虽无生命但习惯用’s所有格，单数直接加’s，表“学校的”，修饰library，故选B。"
+            },
+            {
+              "question": "Yesterday’s ___ (newspaper) has some important news about the sports meeting.",
+              "options": {"A": "newspaper", "B": "newspapers", "C": "newspaper’s"},
+              "answer": "A",
+              "explanation": "yesterday’s是所有格修饰newspaper，表“昨天的报纸”，此处指单份报纸，用单数形式newspaper，故选A。"
+            },
+            {
+              "question": "This is a good friend of ___ (Tom). He often plays with Tom after school.",
+              "options": {"A": "Tom", "B": "Tom’s", "C": "Toms’"},
+              "answer": "B",
+              "explanation": "本句是双重所有格，结构为a+名词+of+名词’s所有格，Tom’s表“汤姆的（朋友）”，强调汤姆众多朋友中的一个，故选B。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

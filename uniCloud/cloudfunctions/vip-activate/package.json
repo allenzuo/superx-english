@@ -1,0 +1,8 @@
+{
+	"name": "vip-activate",
+	"version": "1.0.0",
+	"description": "VIP激活",
+	"main": "index.js",
+	"dependencies": {},
+	"cloudfunctions": true
+}

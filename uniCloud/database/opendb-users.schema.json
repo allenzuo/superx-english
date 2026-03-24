@@ -1,0 +1,93 @@
+{
+	"bsonType": "object",
+	"required": ["openid"],
+	"permission": {
+		"read": "auth.openid != null",
+		"create": "auth.openid != null",
+		"update": "doc.openid == auth.openid",
+		"delete": "doc.openid == auth.openid"
+	},
+	"properties": {
+		"_id": {
+			"description": "ID"
+		},
+		"openid": {
+			"description": "微信openid"
+		},
+		"unionid": {
+			"description": "微信unionid"
+		},
+		"nickname": {
+			"description": "昵称",
+			"bsonType": "string"
+		},
+		"avatar": {
+			"description": "头像URL",
+			"bsonType": "string"
+		},
+		"grade": {
+			"description": "年级 1=初一 2=初二 3=初三",
+			"bsonType": "int",
+			"defaultValue": 3
+		},
+		"school": {
+			"description": "学校",
+			"bsonType": "string"
+		},
+		"exp": {
+			"description": "经验值",
+			"bsonType": "int",
+			"defaultValue": 0
+		},
+		"level": {
+			"description": "等级",
+			"bsonType": "int",
+			"defaultValue": 1
+		},
+		"vip": {
+			"description": "是否会员",
+			"bsonType": "bool",
+			"defaultValue": false
+		},
+		"vipExpire": {
+			"description": "会员到期时间",
+			"bsonType": "string"
+		},
+		"learnedWords": {
+			"description": "已学单词数",
+			"bsonType": "int",
+			"defaultValue": 0
+		},
+		"wrongQuestions": {
+			"description": "错题数",
+			"bsonType": "int",
+			"defaultValue": 0
+		},
+		"streakDays": {
+			"description": "连续学习天数",
+			"bsonType": "int",
+			"defaultValue": 0
+		},
+		"lastStudyDate": {
+			"description": "最后学习日期",
+			"bsonType": "string"
+		},
+		"aiCount": {
+			"description": "今日AI次数",
+			"bsonType": "int",
+			"defaultValue": 0
+		},
+		"aiCountDate": {
+			"description": "AI次数重置日期",
+			"bsonType": "string"
+		},
+		"createDate": {
+			"description": "创建时间",
+			"bsonType": "timestamp"
+		},
+		"updateDate": {
+			"description": "更新时间",
+			"bsonType": "timestamp"
+		}
+	}
+}

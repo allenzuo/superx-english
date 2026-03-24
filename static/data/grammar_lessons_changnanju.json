@@ -1,0 +1,782 @@
+{
+  "grammar_topics": [
+    {
+      "id": "long_difficult_sentences",
+      "name": "中考长难句（语法融合运用）- 两部分详细解析",
+      "icon": "triangle",
+      "color": "#e74c3c",
+      "lessons": [
+        {
+          "id": "long_difficult_sentences_1",
+          "title": "1-中考长难句核心解析（语法融合运用）",
+          "content": "### 长难句的核心定义\n中考长难句并非单纯“长”，而是**多种语法知识点融合**（如定语从句+状语从句、时态+非谓语动词、复合句+并列句等），通过从句嵌套、倒装、插入语、非谓语动词等形式增加理解难度，是中考阅读理解、完形填空、书面表达的核心考点，也是学生丢分重灾区。\n\n### 长难句的拆解原则（万能方法）\n#### 原则1：先找“主干”，再理“修饰”\n长难句的本质是“主干+修饰成分”，第一步先找出句子的核心主干（主谓/主谓宾/主系表），再分析定语、状语、插入语等修饰成分，拆解后难度会大幅降低。\n- 主干：句子的核心表意部分，如“I like books.”（主谓宾）、“She is happy.”（主系表）；\n- 修饰：定语（修饰名词）、状语（修饰动词/形容词/整个句子）、插入语（补充说明，可先删掉）。\n\n#### 原则2：识别“连接词”，拆分“从句”\n中考长难句中常见的连接词（引导词）是拆分从句的关键，记住以下连接词对应的从句类型：\n- 定语从句：that/which/who/whom/whose/where/when/why；\n- 状语从句：when/while/as（时间）、if/unless（条件）、because/since（原因）、though/although（让步）、so...that...（结果）；\n- 宾语从句：that/if/whether/wh-疑问词（what/who/where等）；\n- 并列句：and/but/or/so（连接两个完整句子）。\n\n#### 原则3：区分“非谓语动词”（to do/doing/done）\n非谓语动词不是句子谓语，常作定语、状语、宾语补足语，是长难句中易混淆的点，判断标准：一个句子只有一个谓语动词（时态/语态），其余动词若不是连接词引导的从句谓语，就是非谓语动词。\n\n### 中考高频长难句类型（融合语法点）\n#### 类型1：定语从句+时间状语从句（最常考）\n例：The girl who was reading a book when I passed by the library is my classmate.\n- 主干：The girl is my classmate.（主系表）；\n- 修饰1（定语从句）：who was reading a book（修饰the girl，说明“哪个女孩”）；\n- 修饰2（时间状语从句）：when I passed by the library（修饰reading a book，说明“什么时候看书”）。\n\n#### 类型2：宾语从句+条件状语从句\n例：Our teacher told us that we will get good grades if we study hard every day.\n- 主干：Our teacher told us sth.（主谓宾）；\n- 修饰1（宾语从句）：that we will get good grades...（作told的宾语，说明“告诉我们什么”）；\n- 修饰2（条件状语从句）：if we study hard every day（修饰get good grades，说明“取得好成绩的条件”）。\n\n#### 类型3：并列句+非谓语动词\n例：He finished his homework quickly and went out to play basketball with his friends.\n- 主干：He finished his homework and went out.（并列句，and连接两个谓语）；\n- 修饰1（状语）：quickly（修饰finished，说明“做作业的状态”）；\n- 修饰2（非谓语）：to play basketball...（作目的状语，说明“出去的目的”）。\n\n#### 类型4：倒装句+介词短语（易错点）\n例：On the desk lies a book that my mother bought for me yesterday.\n- 正常语序：A book lies on the desk.（倒装原因：介词短语On the desk提前，表强调）；\n- 修饰（定语从句）：that my mother bought for me yesterday（修饰a book，说明“哪本书”）。\n\n#### 类型5：插入语+比较级（易干扰）\n例：This is, in my opinion, the most interesting movie that I have ever seen.\n- 主干：This is the most interesting movie.（主系表）；\n- 修饰1（插入语）：in my opinion（补充说明，可先删掉，不影响主干）；\n- 修饰2（定语从句）：that I have ever seen（修饰movie，说明“哪部电影”）；\n- 修饰3（最高级）：the most interesting（修饰movie，表程度）。\n\n### 长难句解题技巧（中考专用）\n1. **删插入语**：遇到in my opinion、I think、of course等插入语，先删掉，简化句子；\n2. **划连接词**：用横线标出that/when/if等连接词，区分主句和从句；\n3. **找谓语动词**：一个句子/从句只有一个谓语动词（如is/was/finished/went），据此判断主干；\n4. **还原倒装**：将倒装句还原为正常语序，降低理解难度；\n5. **翻译拆分**：先翻译主干，再翻译修饰成分，最后整合通顺。\n\n### 长难句避坑指南\n1. 不要把非谓语动词（to do/doing/done）当成谓语动词；\n2. 注意定语从句的先行词（被修饰的名词），可能与引导词分离（分隔式定语从句）；\n3. 条件状语从句中，主句用将来时，从句用一般现在时（主将从现）；\n4. 并列句中，and/but/or前后的句子结构要对称；\n5. 插入语不影响句子语法结构，不要被其干扰主干判断。",
+          "examples": [
+            {
+              "sentence": "The boy who is playing football on the playground is my brother who studies in a middle school in Beijing.",
+              "translation": "那个正在操场上踢足球的男孩是我的弟弟，他在北京的一所中学上学。",
+              "analysis": "① 主干：The boy is my brother.（主系表）；② 第一个定语从句：who is playing football on the playground（修饰the boy，说明“哪个男孩”，包含现在进行时is playing，地点状语on the playground）；③ 第二个定语从句：who studies in a middle school in Beijing（修饰my brother，说明“弟弟的情况”，包含一般现在时studies，地点状语in a middle school in Beijing）；④ 融合语法：定语从句（两个）+时态（现在进行时+一般现在时）+地点状语。"
+            },
+            {
+              "sentence": "If you don't finish your homework before 8 o'clock, your mother will not let you watch TV tonight.",
+              "translation": "如果你八点前没完成作业，你妈妈今晚就不会让你看电视。",
+              "analysis": "① 主干：your mother will not let you watch TV（主谓宾宾补，let sb. do sth.结构）；② 条件状语从句：If you don't finish your homework before 8 o'clock（引导词if，遵循“主将从现”，从句一般现在时don't finish，主句一般将来时will not let）；③ 时间状语：before 8 o'clock/tonight（分别修饰finish和let）；④ 融合语法：条件状语从句+主将从现+let的固定搭配+时间状语。"
+            },
+            {
+              "sentence": "I think it is important for us to read English books every day to improve our English level.",
+              "translation": "我认为每天读英语书对我们来说很重要，目的是提高我们的英语水平。",
+              "analysis": "① 主干：I think sth.（主谓宾）；② 宾语从句：it is important for us to read English books every day（it作形式主语，真正主语是to read English books every day，符合“It is+adj.+for sb.+to do sth.”结构）；③ 非谓语状语：to improve our English level（作目的状语，说明“读英语书的目的”）；④ 融合语法：插入语（I think）+形式主语it+非谓语动词（to do）+固定句型。"
+            },
+            {
+              "sentence": "In the park where we often take a walk after dinner, there is a big tree which was planted ten years ago.",
+              "translation": "在我们晚饭后经常散步的那个公园里，有一棵十年前种下的大树。",
+              "analysis": "① 主干：there is a big tree（there be句型）；② 地点状语从句（定语从句）：where we often take a walk after dinner（修饰In the park，说明“哪个公园”，包含一般现在时take a walk，时间状语after dinner）；③ 定语从句：which was planted ten years ago（修饰a big tree，说明“树的情况”，包含一般过去时的被动语态was planted，时间状语ten years ago）；④ 融合语法：there be句型+定语从句（where/which）+被动语态+时间/地点状语。"
+            },
+            {
+              "sentence": "She not only sings well but also dances beautifully, and she wants to be a singer when she grows up.",
+              "translation": "她不仅唱歌好，而且跳舞跳得美，并且她长大后想成为一名歌手。",
+              "analysis": "① 主干：She sings well, dances beautifully and wants to be a singer.（并列句，and连接三个谓语）；② 并列结构：not only...but also...（连接sings和dances，表并列）；③ 时间状语从句：when she grows up（修饰wants to be a singer，说明“什么时候想成为歌手”，主将从现）；④ 修饰：well/beautifully（副词修饰动词sing/dance）；⑤ 融合语法：并列句（not only...but also.../and）+副词修饰动词+时间状语从句。"
+            },
+            {
+              "sentence": "Never have I seen such a wonderful film that I want to watch it again with my parents.",
+              "translation": "我从未看过这么精彩的电影，以至于我想和父母再看一遍。",
+              "analysis": "① 主干：I have never seen such a wonderful film.（正常语序，倒装后Never have I seen...，表强调）；② 结果状语从句：that I want to watch it again with my parents（such...that...结构，表“如此……以至于……”）；③ 非谓语：to watch it again（作want的宾语）；④ 融合语法：倒装句+such...that...结果状语从句+非谓语动词+介词短语（with my parents）。"
+            },
+            {
+              "sentence": "The book which I borrowed from the library yesterday is about a girl who traveled around the world alone at the age of 18.",
+              "translation": "我昨天从图书馆借的那本书是关于一个18岁独自环游世界的女孩的。",
+              "analysis": "① 主干：The book is about a girl.（主系表）；② 第一个定语从句：which I borrowed from the library yesterday（修饰The book，一般过去时borrowed，地点状语from the library，时间状语yesterday）；③ 第二个定语从句：who traveled around the world alone at the age of 18（修饰a girl，一般过去时traveled，地点状语around the world，方式状语alone，时间状语at the age of 18）；④ 融合语法：定语从句（两个）+一般过去时+多重状语（地点/时间/方式）。"
+            },
+            {
+              "sentence": "It is reported that the number of students who take part in the English competition is over 2000 this year.",
+              "translation": "据报道，今年参加英语竞赛的学生人数超过了2000人。",
+              "analysis": "① 主干：The number of students is over 2000.（主系表，the number of表“……的数量”，谓语用单数is）；② 形式主语：It is reported that...（it作形式主语，真正主语是that从句）；③ 定语从句：who take part in the English competition（修饰students，说明“哪些学生”，take part in固定搭配）；④ 时间状语：this year（修饰整个句子）；⑤ 融合语法：形式主语it+定语从句+固定搭配（the number of/take part in）+时间状语。"
+            },
+            {
+              "sentence": "Although he is very tired after a day's work, he still helps his son with his homework every evening.",
+              "translation": "尽管工作了一天后他非常累，但他每天晚上仍然帮儿子辅导作业。",
+              "analysis": "① 主干：he still helps his son with his homework（主谓宾，help sb. with sth.固定搭配）；② 让步状语从句：Although he is very tired after a day's work（引导词Although，不可与but连用，表语tired，时间状语after a day's work）；③ 时间状语：every evening（修饰helps）；④ 融合语法：让步状语从句（Although）+固定搭配（help sb. with sth.）+形容词作表语+时间状语。"
+            },
+            {
+              "sentence": "To make our city more beautiful, we should plant more trees and stop people from cutting down too many trees.",
+              "translation": "为了让我们的城市更美丽，我们应该种更多的树，并且阻止人们砍伐太多的树。",
+              "analysis": "① 主干：we should plant more trees and stop people（并列谓语plant/stop，情态动词should）；② 非谓语状语：To make our city more beautiful（作目的状语，make+宾语+宾补more beautiful）；③ 固定搭配：stop sb. from doing sth.（from cutting down too many trees，动名词作宾语）；④ 融合语法：非谓语动词（to do）+情态动词+并列谓语+固定搭配（stop...from...）+使役动词make的用法。"
+            },
+            {
+              "sentence": "The factory where my father works makes machines that are sold to many countries in Europe.",
+              "translation": "我父亲工作的那家工厂生产的机器销往欧洲多个国家。",
+              "analysis": "① 主干：The factory makes machines.（主谓宾）；② 第一个定语从句：where my father works（修饰the factory，表地点，说明“父亲在哪工作”，一般现在时works）；③ 第二个定语从句：that are sold to many countries in Europe（修饰machines，被动语态are sold，地点状语in many countries in Europe）；④ 融合语法：定语从句（where/that）+被动语态+地点状语（多层）+一般现在时。"
+            },
+            {
+              "sentence": "If we don't protect the wild animals, they will disappear from the earth one day.",
+              "translation": "如果我们不保护野生动物，它们终有一天会从地球上消失。",
+              "analysis": "① 主干：they will disappear from the earth（主谓，disappear为不及物动词）；② 条件状语从句：If we don't protect the wild animals（引导词if，主将从现，从句一般现在时don't protect）；③ 时间状语：one day（修饰disappear，表“未来某天”）；④ 融合语法：条件状语从句+主将从现+不及物动词用法+地点/时间状语。"
+            },
+            {
+              "sentence": "I find it difficult for him to finish the task in two hours because he is new to this job.",
+              "translation": "我觉得他很难在两小时内完成这项任务，因为他刚接触这份工作。",
+              "analysis": "① 主干：I find sth. difficult（主谓宾宾补）；② 形式宾语：it作形式宾语，真正宾语是to finish the task in two hours（符合find it+adj.+for sb.+to do sth.）；③ 原因状语从句：because he is new to this job（表“难完成的原因”，be new to固定搭配）；④ 融合语法：形式宾语it+非谓语动词+原因状语从句+固定搭配+时间状语。"
+            },
+            {
+              "sentence": "Under the tree sits an old man who has been collecting stamps for over 50 years.",
+              "translation": "树下坐着一位集邮超过50年的老人。",
+              "analysis": "① 主干：An old man sits under the tree.（倒装，Under the tree提前表强调）；② 定语从句：who has been collecting stamps for over 50 years（修饰an old man，现在完成进行时has been collecting，表“持续集邮50年”）；③ 时间状语：for over 50 years（修饰collecting）；④ 融合语法：倒装句+定语从句+现在完成进行时+时间状语（for+时间段）。"
+            },
+            {
+              "sentence": "She not only teaches English well but also cares about her students, which makes her popular among all the students.",
+              "translation": "她不仅英语教得好，还关心学生，这让她在所有学生中都很受欢迎。",
+              "analysis": "① 主干：She teaches English well and cares about her students.（并列句，not only...but also...连接两个谓语）；② 非限制性定语从句：which makes her popular among all the students（which指代前文整句话，表“这件事让她受欢迎”）；③ 修饰：well（副词修饰teaches），among all the students（地点状语修饰popular）；④ 融合语法：并列结构（not only...but also...）+非限制性定语从句（which）+副词修饰动词+固定搭配（care about/be popular among）。"
+            },
+            {
+              "sentence": "So excited was she that she couldn't say a word when she heard the good news.",
+              "translation": "听到这个好消息时，她激动得一句话都说不出来。",
+              "analysis": "① 主干：She was so excited that she couldn't say a word.（so...that...结果状语从句，倒装后So excited was she）；② 时间状语从句：when she heard the good news（引导词when，一般过去时heard）；③ 融合语法：so...that...倒装+时间状语从句+情态动词（couldn't）+过去时。"
+            },
+            {
+              "sentence": "The letter that I received from my pen pal yesterday is written in German which I can hardly understand.",
+              "translation": "我昨天收到的笔友来信是用我几乎看不懂的德语写的。",
+              "analysis": "① 主干：The letter is written in German.（被动语态，主系表）；② 第一个定语从句：that I received from my pen pal yesterday（修饰the letter，一般过去时received，时间状语yesterday，固定搭配receive from）；③ 第二个定语从句：which I can hardly understand（修饰German，情态动词can+副词hardly）；④ 融合语法：定语从句（两个）+被动语态+一般过去时+固定搭配+副词修饰动词。"
+            },
+            {
+              "sentence": "It is said that the park which was built last year has become one of the most popular places in our city.",
+              "translation": "据说去年建成的那个公园已经成了我市最受欢迎的地方之一。",
+              "analysis": "① 主干：The park has become one of the most popular places.（现在完成时，主系表）；② 形式主语：It is said that...（it作形式主语，真正主语是that从句）；③ 定语从句：which was built last year（修饰the park，一般过去时被动语态was built，时间状语last year）；④ 最高级：the most popular（修饰places）；⑤ 融合语法：形式主语it+定语从句+被动语态+现在完成时+最高级+介词短语（in our city）。"
+            },
+            {
+              "sentence": "Though she has lived in China for 10 years, she still can't speak Chinese very well.",
+              "translation": "尽管她在中国住了10年，但她的中文仍然说得不太好。",
+              "analysis": "① 主干：she still can't speak Chinese very well（主谓宾，情态动词can't，副词very well修饰speak）；② 让步状语从句：Though she has lived in China for 10 years（引导词Though，现在完成时has lived，地点状语in China，时间状语for 10 years）；③ 融合语法：让步状语从句+现在完成时+情态动词+副词修饰动词+时间/地点状语。"
+            },
+            {
+              "sentence": "To keep healthy, we should give up smoking and do more exercise every day.",
+              "translation": "为了保持健康，我们应该戒烟，并且每天多做运动。",
+              "analysis": "① 主干：we should give up smoking and do more exercise（并列谓语，情态动词should）；② 非谓语状语：To keep healthy（作目的状语，keep healthy固定搭配）；③ 固定搭配：give up doing sth.（smoking作give up的宾语）；④ 时间状语：every day（修饰do more exercise）；⑤ 融合语法：非谓语动词（to do）+情态动词+并列谓语+固定搭配（keep healthy/give up doing）+时间状语。"
+            }
+          ],
+          "exercises": [
+            {
+              "question": "The girl ___ is wearing a red dress and ___ is standing under the tree is my cousin who ___ in Shanghai now.",
+              "options": {"A": "who; that; studies", "B": "which; who; is studying", "C": "who; /; is studying"},
+              "answer": "C",
+              "explanation": "① 第一个空：定语从句修饰the girl（人），用who；② 第二个空：and连接两个定语从句修饰the girl，第二个定语从句的引导词who可省略；③ 第三个空：根据now可知用现在进行时is studying；④ 融合语法：多重定语从句+现在进行时+引导词省略。"
+            },
+            {
+              "question": "If it ___ tomorrow, we ___ to the park for a picnic.",
+              "options": {"A": "rains; won't go", "B": "will rain; don't go", "C": "rains; go"},
+              "answer": "A",
+              "explanation": "① 条件状语从句遵循“主将从现”，从句用一般现在时rains，主句用一般将来时won't go；② 融合语法：条件状语从句+主将从现+否定句。"
+            },
+            {
+              "question": "I find ___ important ___ English aloud every morning to improve pronunciation.",
+              "options": {"A": "it; to read", "B": "this; reading", "C": "that; read"},
+              "answer": "A",
+              "explanation": "① it作形式宾语，真正宾语是to read English aloud every morning，符合“find it+adj.+to do sth.”结构；② 非谓语to read作目的状语improve pronunciation；③ 融合语法：形式宾语it+非谓语动词+固定句型。"
+            },
+            {
+              "question": "In the classroom ___ a teacher and some students who ___ having a class now.",
+              "options": {"A": "is; are", "B": "are; is", "C": "is; is"},
+              "answer": "A",
+              "explanation": "① 倒装句，正常语序：A teacher and some students are in the classroom. 但there be/倒装句遵循“就近原则”，a teacher是单数，故用is；② 定语从句修饰some students（复数），故用are having；③ 融合语法：倒装句+就近原则+定语从句+现在进行时。"
+            },
+            {
+              "question": "She likes not only ___ books but also ___ sports in her free time.",
+              "options": {"A": "read; play", "B": "reading; playing", "C": "to read; play"},
+              "answer": "B",
+              "explanation": "① not only...but also...连接并列结构，前后形式一致，like后接doing作宾语；② 融合语法：并列结构（not only...but also...）+非谓语动词（doing）+固定搭配（like doing）。"
+            },
+            {
+              "question": "Such ___ the story that all the students in the class want to hear it again.",
+              "options": {"A": "interesting is", "B": "interesting are", "C": "interested is"},
+              "answer": "A",
+              "explanation": "① such引导倒装句，结构为“Such+adj.+be+主语+that...”，story是单数，故用is；② interesting修饰story（物），interested修饰人；③ 融合语法：such...that...结果状语从句+倒装句+形容词辨析。"
+            },
+            {
+              "question": "The pen ___ my father bought for me on my birthday ___ very well now.",
+              "options": {"A": "which; writes", "B": "who; is writing", "C": "which; is written"},
+              "answer": "A",
+              "explanation": "① 定语从句修饰the pen（物），用which；② write表“书写效果”时用主动表被动，now说明一般现在时，主语pen是单数，用writes；③ 融合语法：定语从句+主动表被动+一般现在时。"
+            },
+            {
+              "question": "It is said that the people ___ live in the village ___ a happy life every day.",
+              "options": {"A": "who; live", "B": "which; lives", "C": "who; lives"},
+              "answer": "A",
+              "explanation": "① 定语从句修饰the people（复数），用who；② 主句谓语修饰the people，复数用live，live a happy life固定搭配；③ 融合语法：形式主语it+定语从句+固定搭配+主谓一致。"
+            },
+            {
+              "question": "___ he is young, he knows a lot about Chinese history.",
+              "options": {"A": "Although; but", "B": "Although; /", "C": "Because; /"},
+              "answer": "B",
+              "explanation": "① although引导让步状语从句，不可与but连用；② 句意“尽管他年轻，但他懂很多中国历史”，表让步而非原因；③ 融合语法：让步状语从句+连词用法（although/but不可连用）。"
+            },
+            {
+              "question": "___ late for school, we should get up early and take the bus to school.",
+              "options": {"A": "To not be", "B": "Not to be", "C": "Being not"},
+              "answer": "B",
+              "explanation": "① 非谓语to do作目的状语，否定形式是not to do；② be late for school固定搭配；③ 融合语法：非谓语动词（to do）的否定形式+固定搭配。"
+            },
+            {
+              "question": "The movie ___ we watched last night is so moving that I want to watch it ___ time.",
+              "options": {"A": "that; second", "B": "which; a second", "C": "who; the second"},
+              "answer": "B",
+              "explanation": "① 定语从句修饰the movie（物），用which/that；② a second time表“再一次、又一次”，the second time表“第二次”，此处指“再看一遍”用a second time；③ 融合语法：定语从句+序数词用法（a+序数词表“再一次”）+so...that...结构。"
+            },
+            {
+              "question": "If you ___ careful enough, you ___ make mistakes in the exam.",
+              "options": {"A": "aren't; will", "B": "are; won't", "C": "aren't; won't"},
+              "answer": "A",
+              "explanation": "① 条件状语从句“主将从现”，从句一般现在时aren't careful，主句一般将来时will make；② 句意“如果你不够细心，考试中就会犯错”；③ 融合语法：条件状语从句+主将从现+形容词作表语+固定搭配（make mistakes）。"
+            },
+            {
+              "question": "I think ___ necessary for children ___ to bed before 9 o'clock every night.",
+              "options": {"A": "it; to go", "B": "that; go", "C": "this; going"},
+              "answer": "A",
+              "explanation": "① it作形式宾语，真正宾语是to go to bed before 9 o'clock every night，符合“think it+adj.+for sb.+to do sth.”；② go to bed固定搭配；③ 融合语法：插入语（I think）+形式宾语it+非谓语动词+固定搭配。"
+            },
+            {
+              "question": "On the wall ___ some photos ___ were taken by my father during the trip.",
+              "options": {"A": "hang; that", "B": "hangs; which", "C": "is hanging; who"},
+              "answer": "A",
+              "explanation": "① 倒装句，正常语序：Some photos hang on the wall. photos是复数，用hang；② 定语从句修饰photos（物），用that/which；③ 融合语法：倒装句+主谓一致+定语从句。"
+            },
+            {
+              "question": "He can ___ speak English ___ French, so he can communicate with foreigners easily.",
+              "options": {"A": "either; or", "B": "not only; but also", "C": "neither; nor"},
+              "answer": "B",
+              "explanation": "① not only...but also...表“不仅……而且……”，符合句意“他不仅会说英语还会说法语”；② either...or...表“要么……要么……”，neither...nor...表“既不……也不……”；③ 融合语法：并列结构+情态动词+固定搭配（communicate with）。"
+            },
+            {
+              "question": "So ___ that he couldn't catch up with the others in the race.",
+              "options": {"A": "fast he ran", "B": "slow he ran", "C": "slowly did he run"},
+              "answer": "C",
+              "explanation": "① so+副词引导倒装句，结构为“So+adv.+助动词+主语+谓语”；② slowly修饰ran，表“跑得慢”，符合句意“他跑得如此慢以至于在比赛中跟不上别人”；③ 融合语法：so...that...结果状语从句+倒装句+副词修饰动词。"
+            },
+            {
+              "question": "The house ___ roof was damaged in the storm ___ now being repaired by workers.",
+              "options": {"A": "whose; is", "B": "which; is", "C": "who; are"},
+              "answer": "A",
+              "explanation": "① 定语从句修饰the house，roof与house是所属关系，用whose；② 主句主语house是单数，now说明现在进行时的被动语态is being repaired；③ 融合语法：定语从句（whose表所属）+现在进行时的被动语态。"
+            },
+            {
+              "question": "It is important that we ___ protect the environment around us.",
+              "options": {"A": "should", "B": "will", "C": "are"},
+              "answer": "A",
+              "explanation": "① It is important that...从句中用should+动词原形（should可省略），表“做某事很重要”；② 融合语法：形式主语it+主语从句+情态动词should的用法。"
+            },
+            {
+              "question": "___ he has learned English for only one year, he can speak it very fluently.",
+              "options": {"A": "Since", "B": "Though", "C": "As"},
+              "answer": "B",
+              "explanation": "① though引导让步状语从句，表“尽管”，符合句意“尽管他只学了一年英语，但说得很流利”；② since/as表“因为/既然”，表原因；③ 融合语法：让步状语从句+副词修饰动词（fluently修饰speak）。"
+            },
+            {
+              "question": "___ the environment, we must stop ___ plastic bags in our daily life.",
+              "options": {"A": "Protect; use", "B": "To protect; using", "C": "Protecting; to use"},
+              "answer": "B",
+              "explanation": "① to protect作目的状语，表“为了保护环境”；② stop doing sth.表“停止做某事”，stop to do sth.表“停下来去做某事”，此处指“停止使用塑料袋”用using；③ 融合语法：非谓语动词（to do/doing）+固定搭配（stop doing）+介词短语（in our daily life）。"
+            },
+            {
+              "question": "The student ___ answers the teacher's question correctly in class ___ praised by the teacher just now.",
+              "options": {"A": "who; was", "B": "which; is", "C": "who; is"},
+              "answer": "A",
+              "explanation": "① 定语从句修饰the student（人），用who；② just now说明一般过去时，student与praise是被动关系，用was praised；③ 融合语法：定语从句+一般过去时的被动语态+时间状语（just now）。"
+            },
+            {
+              "question": "Unless you ___ hard, you ___ pass the final exam next month.",
+              "options": {"A": "study; won't", "B": "will study; won't", "C": "study; will"},
+              "answer": "A",
+              "explanation": "① unless=if not，引导条件状语从句，遵循“主将从现”，从句一般现在时study，主句一般将来时won't pass；② 句意“除非你努力学习，否则下个月的期末考试你不会通过”；③ 融合语法：条件状语从句（unless）+主将从现+时间状语（next month）。"
+            },
+            {
+              "question": "We consider ___ our duty ___ care of the old people in our community.",
+              "options": {"A": "it; to take", "B": "this; taking", "C": "that; take"},
+              "answer": "A",
+              "explanation": "① it作形式宾语，真正宾语是to take care of the old people，符合“consider it+名词+to do sth.”结构；② take care of固定搭配；③ 融合语法：形式宾语it+非谓语动词+固定搭配。"
+            },
+            {
+              "question": "Only in this way ___ we ___ our English quickly.",
+              "options": {"A": "can; improve", "B": "do; improve", "C": "will; improved"},
+              "answer": "A",
+              "explanation": "① only+介词短语引导倒装句，结构为“Only+状语+助动词+主语+谓语”；② can表“能够”，符合句意“只有用这种方式我们才能快速提高英语”；③ 融合语法：倒装句（only+状语）+情态动词+动词原形。"
+            },
+            {
+              "question": "He likes playing basketball, ___ he doesn't like playing football, ___ is his brother's favorite sport.",
+              "options": {"A": "but; which", "B": "and; that", "C": "or; who"},
+              "answer": "A",
+              "explanation": "① but连接并列句，表转折；② which引导非限制性定语从句，修饰football（物）；③ 融合语法：并列句（but）+非限制性定语从句（which）。"
+            },
+            {
+              "question": "Such ___ the weather that we have to cancel the sports meeting.",
+              "options": {"A": "bad is", "B": "bad are", "C": "badly is"},
+              "answer": "A",
+              "explanation": "① such+adj.+be+主语+that...倒装结构，weather是不可数名词，用is；② bad修饰weather（形容词），badly是副词；③ 融合语法：such...that...结果状语从句+倒装句+形容词修饰名词。"
+            },
+            {
+              "question": "The man ___ we talked about yesterday ___ to Beijing on business next week.",
+              "options": {"A": "who; will go", "B": "which; goes", "C": "who; went"},
+              "answer": "A",
+              "explanation": "① 定语从句修饰the man（人），talk about的宾语用who/whom；② next week说明一般将来时will go；③ 融合语法：定语从句+一般将来时+时间状语（next week）+固定搭配（talk about/on business）。"
+            },
+            {
+              "question": "It is known to all that the earth ___ around the sun all the time.",
+              "options": {"A": "moves", "B": "moved", "C": "is moving"},
+              "answer": "A",
+              "explanation": "① 宾语从句中，客观真理用一般现在时，earth是单数，用moves；② It is known to all that...固定句型（众所周知）；③ 融合语法：形式主语it+宾语从句+客观真理的时态用法。"
+            },
+            {
+              "question": "___ she was ill, she still went to school to take the exam yesterday.",
+              "options": {"A": "Because", "B": "If", "C": "Though"},
+              "answer": "C",
+              "explanation": "① though引导让步状语从句，表“尽管”，符合句意“尽管她生病了，但昨天还是去学校参加考试”；② because表原因，if表条件；③ 融合语法：让步状语从句+时间状语（yesterday）+不定式作目的状语（to take the exam）。"
+            },
+            {
+              "question": "___ make more money, he decided ___ a part-time job in his free time.",
+              "options": {"A": "In order to; to find", "B": "So that; find", "C": "To; finding"},
+              "answer": "A",
+              "explanation": "① in order to=to，作目的状语，表“为了赚更多钱”；② decide to do sth.固定搭配，用to find；③ 融合语法：目的状语（in order to）+非谓语动词（to do）+固定搭配（decide to do）。"
+            },
+            {
+              "question": "The little boy ___ mother is a doctor can speak three languages ___ he is only five years old.",
+              "options": {"A": "whose; though", "B": "who; because", "C": "which; although"},
+              "answer": "A",
+              "explanation": "① 定语从句修饰the little boy，mother与boy是所属关系，用whose；② though引导让步状语从句，表“尽管他只有五岁”；③ 融合语法：定语从句（whose）+让步状语从句+数词修饰年龄。"
+            },
+            {
+              "question": "If you ___ the book to the library on time, you ___ pay for it.",
+              "options": {"A": "return; won't have to", "B": "will return; don't have to", "C": "return; have to"},
+              "answer": "A",
+              "explanation": "① 条件状语从句“主将从现”，从句一般现在时return，主句一般将来时won't have to；② have to表“必须”，pay for固定搭配；③ 融合语法：条件状语从句+主将从现+固定搭配（return...to/pay for）。"
+            },
+            {
+              "question": "I feel ___ boring to wait for someone for a long time, so I avoid ___ late for appointments.",
+              "options": {"A": "it; being", "B": "this; to be", "C": "that; be"},
+              "answer": "A",
+              "explanation": "① it作形式宾语，真正宾语是to wait for someone for a long time；② avoid doing sth.固定搭配，用being late；③ 融合语法：形式宾语it+非谓语动词（to do/doing）+固定搭配（wait for/avoid doing/be late for）。"
+            },
+            {
+              "question": "Nowhere else ___ such beautiful scenery as in this small village.",
+              "options": {"A": "can you find", "B": "you can find", "C": "find you"},
+              "answer": "A",
+              "explanation": "① nowhere否定词引导倒装句，结构为“否定词+助动词+主语+谓语”；② can表“能够”，符合句意“在其他任何地方都找不到像这个小村庄一样美的风景”；③ 融合语法：倒装句（否定词nowhere）+情态动词+比较级（such...as...）。"
+            },
+            {
+              "question": "She ___ not only sing songs but also ___ play the piano since she was six years old.",
+              "options": {"A": "can; can", "B": "could; could", "C": "has been able to; can"},
+              "answer": "C",
+              "explanation": "① since引导时间状语从句，主句用现在完成时has been able to（can无完成时）；② but also后用can表现在的能力；③ 融合语法：并列结构（not only...but also...）+现在完成时+since引导的时间状语从句+情态动词用法。"
+            },
+            {
+              "question": "So tired ___ after walking for two hours that I want to have a rest immediately.",
+              "options": {"A": "I was", "B": "was I", "C": "I am"},
+              "answer": "B",
+              "explanation": "① so+形容词引导倒装句，结构为“So+adj.+助动词+主语+谓语”；② after walking for two hours说明过去时，用was I；③ 融合语法：so...that...结果状语从句+倒装句+非谓语（walking）作状语。"
+            },
+            {
+              "question": "The computer ___ I bought last year ___ broken down twice until now.",
+              "options": {"A": "that; has", "B": "which; had", "C": "who; has"},
+              "answer": "A",
+              "explanation": "① 定语从句修饰the computer（物），用that/which；② until now说明现在完成时，主语computer是单数，用has broken down；③ 融合语法：定语从句+现在完成时+时间状语（until now）+固定搭配（break down）。"
+            },
+            {
+              "question": "It is necessary for us ___ ___ hands with each other to solve the problem.",
+              "options": {"A": "to shake", "B": "shaking", "C": "shake"},
+              "answer": "A",
+              "explanation": "① 符合“It is+adj.+for sb.+to do sth.”结构，it作形式主语，真正宾语是to shake hands；② shake hands with sb.固定搭配；③ 融合语法：形式主语it+非谓语动词+固定搭配+不定式作目的状语（to solve the problem）。"
+            },
+            {
+              "question": "___ he didn't get the first prize in the competition, he was still very happy because he tried his best.",
+              "options": {"A": "Because", "B": "Though", "C": "If"},
+              "answer": "B",
+              "explanation": "① though引导让步状语从句，表“尽管他没拿到一等奖，但仍然开心”；② because引导原因状语从句，说明开心的原因；③ 融合语法：让步状语从句+原因状语从句+固定搭配（try one's best）。"
+            },
+            {
+              "question": "___ improve his listening skills, he spends half an hour ___ English news every morning.",
+              "options": {"A": "To; listening to", "B": "In order that; listen to", "C": "For; listening"},
+              "answer": "A",
+              "explanation": "① to作目的状语，表“为了提高听力”；② spend time doing sth.固定搭配，listen to news固定搭配，用listening to；③ 融合语法：目的状语（to）+非谓语动词（doing）+固定搭配（spend...doing/listen to）。"
+            },
+            {
+              "question": "The shop ___ sells school things ___ near my home since 2010.",
+              "options": {"A": "which; is", "B": "who; has been", "C": "which; has been"},
+              "answer": "C",
+              "explanation": "① 第一个空：定语从句修饰the shop（物），用which；② 第二个空：since 2010说明用现在完成时，主语shop是单数，用has been；③ 融合语法：定语从句+现在完成时+时间状语（since+时间点）。"
+            },
+            {
+              "question": "Unless we ___ water carefully, we ___ have no clean water to drink in the future.",
+              "options": {"A": "save; will", "B": "will save; won't", "C": "save; won't"},
+              "answer": "C",
+              "explanation": "① unless=if not，引导条件状语从句，遵循“主将从现”，从句一般现在时save，主句一般将来时won't have；② 句意“除非我们节约用水，否则未来我们将没有干净的水喝”；③ 融合语法：条件状语从句（unless）+主将从现+不定式作后置定语（to drink修饰water）+时间状语（in the future）。"
+            },
+            {
+              "question": "I think ___ easy ___ English words by making word cards every day.",
+              "options": {"A": "it; to remember", "B": "this; remembering", "C": "that; remember"},
+              "answer": "A",
+              "explanation": "① it作形式宾语，真正宾语是to remember English words by making word cards every day，符合“think it+adj.+to do sth.”结构；② by making word cards表方式状语；③ 融合语法：插入语（I think）+形式宾语it+非谓语动词+方式状语（by doing）+时间状语。"
+            },
+            {
+              "question": "In the river ___ a lot of fish ___ are very beautiful and colorful.",
+              "options": {"A": "swim; that", "B": "swims; which", "C": "is swimming; who"},
+              "answer": "A",
+              "explanation": "① 倒装句，正常语序：A lot of fish swim in the river. fish表“鱼的数量”时单复数同形，此处为复数，用swim；② 定语从句修饰fish（物），用that/which；③ 融合语法：倒装句+主谓一致+定语从句+形容词作表语（beautiful and colorful）。"
+            },
+            {
+              "question": "He can ___ play the guitar ___ sing songs, so he is very popular at school.",
+              "options": {"A": "neither; nor", "B": "not only; but also", "C": "either; or"},
+              "answer": "B",
+              "explanation": "① not only...but also...表“不仅……而且……”，符合句意“他不仅会弹吉他还会唱歌”；② neither...nor...表“既不……也不……”，either...or...表“要么……要么……”；③ 融合语法：并列结构+情态动词+形容词作表语（popular）+地点状语（at school）。"
+            },
+            {
+              "question": "So loudly ___ he speak that everyone in the room could hear him clearly.",
+              "options": {"A": "did", "B": "does", "C": "is"},
+              "answer": "A",
+              "explanation": "① so+副词引导倒装句，结构为“So+adv.+助动词+主语+谓语”；② could说明是过去时，助动词用did；③ 融合语法：so...that...结果状语从句+倒装句+副词修饰动词（loudly修饰speak）+过去时。"
+            },
+            {
+              "question": "The girl ___ hair is black and long won the first prize in the singing competition last week.",
+              "options": {"A": "whose; /", "B": "who; /", "C": "which; did"},
+              "answer": "A",
+              "explanation": "① 定语从句修饰the girl，hair与girl是所属关系，用whose；② last week说明一般过去时，won是谓语动词，无需额外助动词；③ 融合语法：定语从句（whose表所属）+一般过去时+时间状语（last week）+固定搭配（win the first prize）。"
+            },
+            {
+              "question": "It is important that we ___ learn from each other and help each other.",
+              "options": {"A": "will", "B": "should", "C": "are"},
+              "answer": "B",
+              "explanation": "① It is important that...从句中用should+动词原形（should可省略），表“做某事很重要”；② learn from each other和help each other为并列谓语；③ 融合语法：形式主语it+主语从句+情态动词should的用法+并列谓语+固定搭配（learn from/help each other）。"
+            },
+            {
+              "question": "___ he is very rich, he never wastes money on useless things.",
+              "options": {"A": "Though", "B": "Because", "C": "If"},
+              "answer": "A",
+              "explanation": "① though引导让步状语从句，表“尽管他很富有，但从不乱花钱”；② because表原因，if表条件，均不符合句意；③ 融合语法：让步状语从句+副词（never）修饰动词（wastes）+介词短语（on useless things）。"
+            },
+            {
+              "question": "___ make our school clean, we must stop ___ litter everywhere.",
+              "options": {"A": "To; throwing", "B": "For; to throw", "C": "Protecting; throw"},
+              "answer": "A",
+              "explanation": "① to make our school clean作目的状语，表“为了让学校干净”；② stop doing sth.表“停止做某事”，此处指“停止乱扔垃圾”，用throwing；③ 融合语法：非谓语动词（to do/doing）+固定搭配（stop doing）+地点状语（everywhere）。"
+            },
+            {
+              "question": "The teacher ___ teaches us math ___ to America for a study trip next month.",
+              "options": {"A": "who; will go", "B": "which; goes", "C": "who; went"},
+              "answer": "A",
+              "explanation": "① 定语从句修饰the teacher（人），用who；② next month说明一般将来时，用will go；③ 融合语法：定语从句+一般将来时+时间状语（next month）+固定搭配（go to...for a study trip）。"
+            },
+            {
+              "question": "If you ___ the traffic rules, you ___ be in danger when crossing the road.",
+              "options": {"A": "obey; will", "B": "don't obey; will", "C": "obey; won't"},
+              "answer": "B",
+              "explanation": "① 条件状语从句“主将从现”，从句一般现在时don't obey，主句一般将来时will be；② 句意“如果你不遵守交通规则，过马路时会处于危险中”；③ 融合语法：条件状语从句+主将从现+时间状语（when crossing the road，非谓语作状语）+固定搭配（obey the traffic rules/be in danger）。"
+            },
+            {
+              "question": "We think ___ our responsibility ___ care for the sick people in the community.",
+              "options": {"A": "it; to take", "B": "this; taking", "C": "that; take"},
+              "answer": "A",
+              "explanation": "① it作形式宾语，真正宾语是to take care of the sick people in the community，符合“think it+名词+to do sth.”结构；② take care of固定搭配；③ 融合语法：形式宾语it+非谓语动词+固定搭配+地点状语（in the community）。"
+            },
+            {
+              "question": "Only by reading more books ___ we ___ our knowledge and broaden our horizons.",
+              "options": {"A": "can; increase", "B": "do; increase", "C": "will; increased"},
+              "answer": "A",
+              "explanation": "① only+介词短语（by reading more books）引导倒装句，结构为“Only+状语+助动词+主语+谓语”；② can表“能够”，符合句意“只有多读书，我们才能增长知识、开阔视野”；③ 融合语法：倒装句（only+状语）+情态动词+并列谓语（increase/broaden）+固定搭配（broaden one's horizons）。"
+            },
+            {
+              "question": "She likes drawing pictures, ___ she doesn't like painting, ___ is her sister's favorite hobby.",
+              "options": {"A": "but; which", "B": "and; that", "C": "or; who"},
+              "answer": "A",
+              "explanation": "① but连接并列句，表转折；② which引导非限制性定语从句，修饰painting（物）；③ 融合语法：并列句（but）+非限制性定语从句（which）+名词所有格（her sister's）。"
+            },
+            {
+              "question": "Such ___ the food that all the guests wanted to taste it again.",
+              "options": {"A": "delicious is", "B": "delicious are", "C": "deliciously is"},
+              "answer": "A",
+              "explanation": "① such+adj.+be+主语+that...倒装结构，food是不可数名词，用is；② delicious修饰food（形容词），deliciously是副词，不能修饰名词；③ 融合语法：such...that...结果状语从句+倒装句+形容词修饰名词。"
+            },
+            {
+              "question": "The woman ___ we met at the airport yesterday ___ to Canada to visit her daughter tomorrow.",
+              "options": {"A": "who; will fly", "B": "which; flies", "C": "who; flew"},
+              "answer": "A",
+              "explanation": "① 定语从句修饰the woman（人），met的宾语用who/whom；② tomorrow说明一般将来时will fly；③ 融合语法：定语从句+一般将来时+时间状语（yesterday/tomorrow）+地点状语（at the airport/to Canada）。"
+            },
+            {
+              "question": "It is known to all that light ___ faster than sound in the air.",
+              "options": {"A": "travels", "B": "traveled", "C": "is traveling"},
+              "answer": "A",
+              "explanation": "① 宾语从句中，客观真理用一般现在时，light是不可数名词，用travels；② It is known to all that...固定句型；③ 融合语法：形式主语it+宾语从句+客观真理的时态用法+地点状语（in the air）。"
+            },
+            {
+              "question": "___ she failed the exam, she still kept working hard to pass it next time.",
+              "options": {"A": "Because", "B": "Though", "C": "If"},
+              "answer": "B",
+              "explanation": "① though引导让步状语从句，表“尽管她考试不及格，但仍努力学习想下次通过”；② because表原因，if表条件；③ 融合语法：让步状语从句+不定式作目的状语（to pass it next time）+副词（still）修饰动词（kept）。"
+            },
+            {
+              "question": "___ catch the early bus, he decided ___ up at 6 o'clock every morning.",
+              "options": {"A": "In order to; to get", "B": "So that; get", "C": "To; getting"},
+              "answer": "A",
+              "explanation": "① in order to=to，作目的状语，表“为了赶上早班车”；② decide to do sth.固定搭配，用to get up；③ 融合语法：目的状语（in order to）+非谓语动词（to do）+固定搭配（decide to do/get up）+时间状语（at 6 o'clock every morning）。"
+            },
+            {
+              "question": "The girl with ___ I went to the cinema last week is my best friend who ___ in the same class with me.",
+              "options": {"A": "whom; is", "B": "who; are", "C": "which; is"},
+              "answer": "A",
+              "explanation": "① 定语从句中，with后用宾格whom修饰the girl；② 第二个定语从句修饰my best friend（单数），用is；③ 融合语法：定语从句（介词+whom）+并列定语从句+介词短语（with me/in the same class）。"
+            }
+          ]
+        },
+        {
+          "id": "long_difficult_sentences_2",
+          "title": "2-中考长难句核心解析（语法融合运用）",
+          "content": "### 长难句的核心定义\n咱们先把长难句的“真面目”说清楚——中考里的长难句不是单纯句子长就叫难，而是把好几种语法揉到一块儿了，比如把定语从句和状语从句凑一起、时态和非谓语动词混着用、复合句套并列句这些。这种句子在阅读理解、完形填空、写作文的时候都常遇到，也是咱们容易丢分的地方，不过只要找对方法，拆解开来就超简单！\n\n### 长难句的拆解原则（万能方法）\n#### 原则1：先找“主干”，再理“修饰”\n长难句就像一棵大树，主干是树干（句子核心意思），修饰成分是枝叶（添细节的）。咱们先把树干揪出来，再看枝叶就行。\n- 主干：就是句子最核心的部分，比如“I love apples.”（我喜欢苹果，主谓宾）、“He is tall.”（他很高，主系表），没这些枝叶，主干也能说清事儿；\n- 修饰：比如“red apples”里的red（定语，修饰苹果，说苹果啥样）、“run quickly”里的quickly（状语，修饰跑，说咋跑的）、“in my opinion”（插入语，就是插进来的闲话，先删掉也不影响懂主干）。\n\n#### 原则2：识别“连接词”，拆分“从句”\n连接词就像句子里的“分割线”，看到它们就能把长句子拆成短句子，咱们记好这些常见的：\n- 定语从句（修饰名词，说“哪个XXX”）：that/which（指物）、who/whom/whose（指人）、where（指地方）、when（指时间）、why（指原因）；\n- 状语从句（表时间/条件/原因等）：when/while/as（当……时）、if/unless（如果/除非）、because/since（因为）、though/although（虽然）、so...that...（如此……以至于）；\n- 宾语从句（放在动词后，说“做啥/说啥”）：that/if/whether（是否）、what/who/where（啥/谁/哪儿）；\n- 并列句（两个完整句子连一起）：and（和）/but（但是）/or（或者）/so（所以）。\n\n#### 原则3：区分“非谓语动词”（to do/doing/done）\n一个句子里只能有一个“正经谓语”（带时态的动词，比如is/ate/will go），剩下的动词如果不是连接词引导的从句里的谓语，那就是非谓语，常见的是to do（去做）、doing（正在做/做过）、done（被做），它们一般是用来修饰的，不是主干里的核心动词。\n\n### 中考高频长难句类型（融合语法点）\n#### 类型1：定语从句+时间状语从句（最常考）\n例：The girl who was reading a book when I passed by the library is my classmate.\n- 大白话拆解：先找主干——“这个女孩是我同学”（The girl is my classmate.）；再看修饰：“who was reading a book”（正在看书的，修饰女孩，说哪个女孩）；“when I passed by the library”（我路过图书馆的时候，修饰“看书”，说啥时候看的）。\n- 核心：先抓“谁是我同学”，再补“啥样的女孩”“啥时候看书”。\n\n#### 类型2：宾语从句+条件状语从句\n例：Our teacher told us that we will get good grades if we study hard every day.\n- 大白话拆解：主干——“老师告诉我们一件事”（Our teacher told us sth.）；修饰1——“that we will get good grades...”（这件事是“我们能考好成绩”）；修饰2——“if we study hard every day”（如果每天努力学，修饰“考好成绩”，说考好的条件）。\n- 核心：先知道“老师说事儿”，再知道“说的啥事儿”“这事儿成的条件”。\n\n#### 类型3：并列句+非谓语动词\n例：He finished his homework quickly and went out to play basketball with his friends.\n- 大白话拆解：主干——“他做完作业，然后出去了”（He finished his homework and went out.）；修饰1——“quickly”（快地，修饰“做作业”，说做得快）；修饰2——“to play basketball”（去打篮球，修饰“出去”，说出去的目的）。\n- 核心：先看“他做了俩事：做作业、出门”，再补“咋做的作业”“出门干啥”。\n\n#### 类型4：倒装句+介词短语（易错点）\n例：On the desk lies a book that my mother bought for me yesterday.\n- 大白话拆解：正常说话应该是“A book lies on the desk.”（一本书在桌子上），为啥倒装？因为“On the desk”（在桌子上）提前了，想强调“在桌子上”有本书；再补修饰——“that my mother bought for me yesterday”（我妈昨天买的，修饰书，说哪本书）。\n- 核心：倒装不可怕，先还原成正常语序，再看修饰。\n\n#### 类型5：插入语+比较级（易干扰）\n例：This is, in my opinion, the most interesting movie that I have ever seen.\n- 大白话拆解：主干——“这是最有意思的电影”（This is the most interesting movie.）；修饰1——“in my opinion”（在我看来，就是插句话，删掉也不影响懂主干）；修饰2——“that I have ever seen”（我看过的，修饰电影，说哪部）；修饰3——“the most interesting”（最有意思的，修饰电影，说程度）。\n- 核心：先把插闲话的部分删掉，再抓主干，最后补修饰。\n\n### 长难句解题技巧（中考专用）\n1. **删插入语**：看到in my opinion、I think、of course这些“闲话”，先划掉，句子立马变简单；\n2. **划连接词**：用铅笔把that/when/if这些“分割线”标出来，一眼分清主句和从句；\n3. **找谓语动词**：一个句子/从句只有一个带时态的谓语（比如is/ate/will go），找到它就找到主干了；\n4. **还原倒装**：把倒装句变回正常说话的语序，比如“On the desk lies a book”变回“A book lies on the desk”；\n5. **翻译拆分**：先翻主干（比如“这个女孩是我同学”），再翻修饰（“正在看书的”“我路过图书馆时”），最后串通顺。\n\n### 长难句避坑指南\n1. 别把非谓语动词（to do/doing/done）当谓语！比如“He goes to play basketball”里，goes是谓语，to play不是；\n2. 定语从句的“先行词”（被修饰的名词）可能和引导词分开，比如“The book is on the desk that I bought yesterday”，that修饰的是book，不是desk；\n3. 条件状语从句里，主句用将来时（will），从句用一般现在时（比如If it rains, I won't go）；\n4. 并列句里，and/but/or前后的句子结构要对称，比如“He likes reading and likes writing”，不能说“He likes reading and write”；\n5. 插入语不影响句子语法，别被它绕晕，先删了再看主干。",
+          "examples": [
+            {
+              "sentence": "The boy who is playing football on the playground is my brother who studies in a middle school in Beijing.",
+              "translation": "那个正在操场上踢足球的男孩是我的弟弟，他在北京的一所中学上学。",
+              "analysis": "① 主干：先抓核心——“这个男孩是我弟弟”（The boy is my brother.）；② 第一个修饰（定语从句）：“who is playing football on the playground”（正在操场上踢足球的，修饰男孩，能看到现在进行时is playing，还有“在操场上”这个地点）；③ 第二个修饰（定语从句）：“who studies in a middle school in Beijing”（在北京一所中学上学的，修饰弟弟，是一般现在时studies，还有“在北京中学”这个地点）；④ 核心语法：两个定语从句+两种时态（现在进行时+一般现在时）+地点修饰。"
+            },
+            {
+              "sentence": "If you don't finish your homework before 8 o'clock, your mother will not let you watch TV tonight.",
+              "translation": "如果你八点前没完成作业，你妈妈今晚就不会让你看电视。",
+              "analysis": "① 主干：核心是“你妈妈不会让你看电视”（your mother will not let you watch TV）；② 修饰（条件状语从句）：“If you don't finish your homework before 8 o'clock”（如果你八点前没写完作业，记住“主将从现”——从句用一般现在时don't finish，主句用将来时will not let）；③ 小细节：“before 8 o'clock”（修饰“写完作业”）、“tonight”（修饰“不让看电视”）；④ 核心语法：条件状语从句+主将从现+let的固定用法（let sb. do sth.）。"
+            },
+            {
+              "sentence": "I think it is important for us to read English books every day to improve our English level.",
+              "translation": "我认为每天读英语书对我们来说很重要，目的是提高我们的英语水平。",
+              "analysis": "① 主干：核心是“我认为一件事重要”（I think sth. is important）；② 修饰1（宾语从句）：“it is important for us to read English books every day”（这里it是“假主语”，真正的主语是“每天读英语书”，就是咱们常说的“It is+adj.+for sb.+to do sth.”）；③ 修饰2（非谓语）：“to improve our English level”（去提高英语水平，修饰“读英语书”，说读的目的）；④ 核心语法：插语（I think）+假主语it+非谓语to do+固定句型。"
+            },
+            {
+              "sentence": "In the park where we often take a walk after dinner, there is a big tree which was planted ten years ago.",
+              "translation": "在我们晚饭后经常散步的那个公园里，有一棵十年前种下的大树。",
+              "analysis": "① 主干：核心是“有一棵大树”（there is a big tree）；② 修饰1（定语从句）：“where we often take a walk after dinner”（我们晚饭后常散步的，修饰公园，能看到一般现在时take a walk，还有“晚饭后”这个时间）；③ 修饰2（定语从句）：“which was planted ten years ago”（十年前被种的，修饰树，是一般过去时的被动语态was planted，还有“十年前”这个时间）；④ 核心语法：there be句型+两个定语从句+被动语态+时间/地点修饰。"
+            },
+            {
+              "sentence": "She not only sings well but also dances beautifully, and she wants to be a singer when she grows up.",
+              "translation": "她不仅唱歌好，而且跳舞跳得美，并且她长大后想成为一名歌手。",
+              "analysis": "① 主干：核心是“她唱歌好、跳舞美、想当歌手”（She sings well, dances beautifully and wants to be a singer.）；② 修饰1（并列结构）：“not only...but also...”（不仅……而且……，把唱歌和跳舞连起来）；③ 修饰2（时间状语从句）：“when she grows up”（她长大时，修饰“想当歌手”，还是“主将从现”）；④ 小细节：well/beautifully是副词，修饰唱歌/跳舞；⑤ 核心语法：并列句+副词修饰动词+时间状语从句。"
+            },
+            {
+              "sentence": "Never have I seen such a wonderful film that I want to watch it again with my parents.",
+              "translation": "我从未看过这么精彩的电影，以至于我想和父母再看一遍。",
+              "analysis": "① 主干：正常说话是“I have never seen such a wonderful film.”（我从没看过这么棒的电影），倒装是为了强调“从没”；② 修饰（结果状语从句）：“that I want to watch it again with my parents”（如此……以至于想和爸妈再看，是such...that...结构）；③ 小细节：“to watch it again”是非谓语，作want的宾语；④ 核心语法：倒装句+such...that...+非谓语+介词短语（和父母）。"
+            },
+            {
+              "sentence": "The book which I borrowed from the library yesterday is about a girl who traveled around the world alone at the age of 18.",
+              "translation": "我昨天从图书馆借的那本书是关于一个18岁独自环游世界的女孩的。",
+              "analysis": "① 主干：核心是“这本书是关于一个女孩的”（The book is about a girl.）；② 修饰1（定语从句）：“which I borrowed from the library yesterday”（我昨天从图书馆借的，修饰书，是一般过去时borrowed，还有“图书馆”地点、“昨天”时间）；③ 修饰2（定语从句）：“who traveled around the world alone at the age of 18”（18岁独自环游世界的，修饰女孩，是一般过去时traveled，还有“环游世界”地点、“独自”方式、“18岁”时间）；④ 核心语法：两个定语从句+一般过去时+多种修饰（地点/时间/方式）。"
+            },
+            {
+              "sentence": "It is reported that the number of students who take part in the English competition is over 2000 this year.",
+              "translation": "据报道，今年参加英语竞赛的学生人数超过了2000人。",
+              "analysis": "① 主干：核心是“学生的数量超过2000”（The number of students is over 2000.），注意the number of（……的数量）后面的谓语用单数is；② 修饰1（假主语）：“It is reported that...”（据报道，it是假主语，真正主语是后面的从句）；③ 修饰2（定语从句）：“who take part in the English competition”（参加英语竞赛的，修饰学生，take part in是固定搭配）；④ 小细节：“this year”修饰整句话；⑤ 核心语法：假主语it+定语从句+固定搭配+时间修饰。"
+            },
+            {
+              "sentence": "Although he is very tired after a day's work, he still helps his son with his homework every evening.",
+              "translation": "尽管工作了一天后他非常累，但他每天晚上仍然帮儿子辅导作业。",
+              "analysis": "① 主干：核心是“他仍然帮儿子辅导作业”（he still helps his son with his homework），help sb. with sth.是固定搭配；② 修饰（让步状语从句）：“Although he is very tired after a day's work”（尽管工作一天后很累，注意although和but不能一起用）；③ 小细节：“every evening”修饰“帮忙”；④ 核心语法：让步状语从句+固定搭配+形容词作表语（tired）+时间修饰。"
+            },
+            {
+              "sentence": "To make our city more beautiful, we should plant more trees and stop people from cutting down too many trees.",
+              "translation": "为了让我们的城市更美丽，我们应该种更多的树，并且阻止人们砍伐太多的树。",
+              "analysis": "① 主干：核心是“我们应该种树、阻止人们砍树”（we should plant more trees and stop people）；② 修饰1（非谓语）：“To make our city more beautiful”（为了让城市更美，是目的状语，make+宾语+宾补more beautiful）；③ 修饰2（固定搭配）：“stop sb. from doing sth.”（阻止某人做某事，这里是from cutting down too many trees）；④ 核心语法：非谓语to do+情态动词should+并列谓语+固定搭配。"
+            },
+            {
+              "sentence": "The factory where my father works makes machines that are sold to many countries in Europe.",
+              "translation": "我父亲工作的那家工厂生产的机器销往欧洲多个国家。",
+              "analysis": "① 主干：核心是“这家工厂生产机器”（The factory makes machines.）；② 修饰1（定语从句）：“where my father works”（我爸爸工作的，修饰工厂，是一般现在时works）；③ 修饰2（定语从句）：“that are sold to many countries in Europe”（被卖到欧洲多国的，修饰机器，是被动语态are sold）；④ 核心语法：两个定语从句+被动语态+地点修饰+一般现在时。"
+            },
+            {
+              "sentence": "If we don't protect the wild animals, they will disappear from the earth one day.",
+              "translation": "如果我们不保护野生动物，它们终有一天会从地球上消失。",
+              "analysis": "① 主干：核心是“它们会从地球上消失”（they will disappear from the earth），disappear是“消失”，不用加宾语；② 修饰（条件状语从句）：“If we don't protect the wild animals”（如果不保护野生动物，主将从现——从句一般现在时，主句将来时）；③ 小细节：“one day”（终有一天）修饰“消失”；④ 核心语法：条件状语从句+主将从现+不及物动词+地点/时间修饰。"
+            },
+            {
+              "sentence": "I find it difficult for him to finish the task in two hours because he is new to this job.",
+              "translation": "我觉得他很难在两小时内完成这项任务，因为他刚接触这份工作。",
+              "analysis": "① 主干：核心是“我觉得一件事很难”（I find sth. difficult）；② 修饰1（假宾语）：it是假宾语，真正宾语是“to finish the task in two hours”（两小时内完成任务），符合“find it+adj.+for sb.+to do sth.”；③ 修饰2（原因状语从句）：“because he is new to this job”（因为他刚接触这份工作，be new to是固定搭配）；④ 核心语法：假宾语it+非谓语+原因状语从句+固定搭配+时间修饰。"
+            },
+            {
+              "sentence": "Under the tree sits an old man who has been collecting stamps for over 50 years.",
+              "translation": "树下坐着一位集邮超过50年的老人。",
+              "analysis": "① 主干：正常语序是“An old man sits under the tree.”（一位老人坐在树下），倒装是为了强调“树下”；② 修饰（定语从句）：“who has been collecting stamps for over 50 years”（集邮50多年的，修饰老人，是现在完成进行时，表“一直集邮”）；③ 小细节：“for over 50 years”修饰“集邮”；④ 核心语法：倒装句+定语从句+现在完成进行时+时间修饰。"
+            },
+            {
+              "sentence": "She not only teaches English well but also cares about her students, which makes her popular among all the students.",
+              "translation": "她不仅英语教得好，还关心学生，这让她在所有学生中都很受欢迎。",
+              "analysis": "① 主干：核心是“她教英语好、关心学生”（She teaches English well and cares about her students.）；② 修饰1（并列结构）：“not only...but also...”连接“教英语”和“关心学生”；③ 修饰2（非限制性定语从句）：“which makes her popular among all the students”（这让她受欢迎，which指前面整句话）；④ 小细节：well修饰teaches，among all the students修饰popular；⑤ 核心语法：并列结构+非限制性定语从句+副词修饰动词+固定搭配。"
+            },
+            {
+              "sentence": "So excited was she that she couldn't say a word when she heard the good news.",
+              "translation": "听到这个好消息时，她激动得一句话都说不出来。",
+              "analysis": "① 主干：正常语序是“She was so excited that she couldn't say a word.”（她太激动说不出话），倒装是为了强调“激动”；② 修饰（时间状语从句）：“when she heard the good news”（她听到好消息时，是一般过去时heard）；③ 核心语法：so...that...倒装+时间状语从句+情态动词couldn't+过去时。"
+            },
+            {
+              "sentence": "The letter that I received from my pen pal yesterday is written in German which I can hardly understand.",
+              "translation": "我昨天收到的笔友来信是用我几乎看不懂的德语写的。",
+              "analysis": "① 主干：核心是“这封信是用德语写的”（The letter is written in German.），是被动语态；② 修饰1（定语从句）：“that I received from my pen pal yesterday”（我昨天收到的笔友的，修饰信，是一般过去时received，receive from是固定搭配）；③ 修饰2（定语从句）：“which I can hardly understand”（我几乎看不懂的，修饰德语，hardly是“几乎不”）；④ 核心语法：两个定语从句+被动语态+一般过去时+固定搭配+副词修饰动词。"
+            },
+            {
+              "sentence": "It is said that the park which was built last year has become one of the most popular places in our city.",
+              "translation": "据说去年建成的那个公园已经成了我市最受欢迎的地方之一。",
+              "analysis": "① 主干：核心是“这个公园成了最受欢迎的地方之一”（The park has become one of the most popular places.），是现在完成时；② 修饰1（假主语）：“It is said that...”（据说，it是假主语）；③ 修饰2（定语从句）：“which was built last year”（去年建的，修饰公园，是一般过去时被动语态）；④ 小细节：“the most popular”是最高级，修饰places；⑤ 核心语法：假主语it+定语从句+被动语态+现在完成时+最高级+地点修饰。"
+            },
+            {
+              "sentence": "Though she has lived in China for 10 years, she still can't speak Chinese very well.",
+              "translation": "尽管她在中国住了10年，但她的中文仍然说得不太好。",
+              "analysis": "① 主干：核心是“她仍然说不好中文”（she still can't speak Chinese very well），very well修饰speak；② 修饰（让步状语从句）：“Though she has lived in China for 10 years”（尽管她在中国住了10年，是现在完成时has lived）；③ 核心语法：让步状语从句+现在完成时+情态动词+副词修饰动词+时间/地点修饰。"
+            },
+            {
+              "sentence": "To keep healthy, we should give up smoking and do more exercise every day.",
+              "translation": "为了保持健康，我们应该戒烟，并且每天多做运动。",
+              "analysis": "① 主干：核心是“我们应该戒烟、多运动”（we should give up smoking and do more exercise）；② 修饰1（非谓语）：“To keep healthy”（为了保持健康，是目的状语，keep healthy是固定搭配）；③ 修饰2（固定搭配）：“give up doing sth.”（放弃做某事，这里是smoking）；④ 小细节：“every day”修饰“多运动”；⑤ 核心语法：非谓语to do+情态动词should+并列谓语+固定搭配+时间修饰。"
+            }
+          ],
+          "exercises": [
+            {
+              "question": "The girl ___ is wearing a red dress and ___ is standing under the tree is my cousin who ___ in Shanghai now.",
+              "options": {"A": "who; that; studies", "B": "which; who; is studying", "C": "who; /; is studying"},
+              "answer": "C",
+              "explanation": "① 第一个空：修饰the girl（人），定语从句用who；② 第二个空：and连接两个修饰girl的定语从句，第二个who可以省略；③ 第三个空：now（现在）说明用现在进行时is studying；④ 大白话总结：先确定修饰人的用who，再看and后的引导词能省，最后看时间用现在进行时。"
+            },
+            {
+              "question": "If it ___ tomorrow, we ___ to the park for a picnic.",
+              "options": {"A": "rains; won't go", "B": "will rain; don't go", "C": "rains; go"},
+              "answer": "A",
+              "explanation": "① 条件状语从句要“主将从现”——从句用一般现在时（rains），主句用将来时（won't go）；② 大白话总结：如果明天下雨，咱们就不去野餐了，记住“从句现在时，主句将来时”。"
+            },
+            {
+              "question": "I find ___ important ___ English aloud every morning to improve pronunciation.",
+              "options": {"A": "it; to read", "B": "this; reading", "C": "that; read"},
+              "answer": "A",
+              "explanation": "① it当假宾语，真正的宾语是to read English aloud every morning，符合“find it+adj.+to do sth.”（觉得做某事怎么样）；② 大白话总结：我觉得每天早上读英语很重要，it是“占位符”，真正要说的是“读英语”这件事。"
+            },
+            {
+              "question": "In the classroom ___ a teacher and some students who ___ having a class now.",
+              "options": {"A": "is; are", "B": "are; is", "C": "is; is"},
+              "answer": "A",
+              "explanation": "① 倒装句看“就近原则”——离得近的a teacher是单数，所以用is；② 定语从句修饰some students（复数），所以用are having；③ 大白话总结：教室里有老师和学生，先看倒装就近的是单数用is，再看学生是复数用are。"
+            },
+            {
+              "question": "She likes not only ___ books but also ___ sports in her free time.",
+              "options": {"A": "read; play", "B": "reading; playing", "C": "to read; play"},
+              "answer": "B",
+              "explanation": "① not only...but also...前后要对称，like后面接doing（喜欢做某事），所以都用reading/playing；② 大白话总结：她不仅喜欢看书还喜欢运动，like后面加doing，而且两边要一样。"
+            },
+            {
+              "question": "Such ___ the story that all the students in the class want to hear it again.",
+              "options": {"A": "interesting is", "B": "interesting are", "C": "interested is"},
+              "answer": "A",
+              "explanation": "① such倒装结构是“Such+adj.+be+主语+that...”，story是单数，所以用is；② interesting修饰物（story），interested修饰人；③ 大白话总结：这个故事太有意思了，大家都想再听，先看主语是单数用is，再分清形容物用interesting。"
+            },
+            {
+              "question": "The pen ___ my father bought for me on my birthday ___ very well now.",
+              "options": {"A": "which; writes", "B": "who; is writing", "C": "which; is written"},
+              "answer": "A",
+              "explanation": "① 定语从句修饰pen（物），用which；② write表“书写效果”时，主动表被动（比如“笔写得好”不说“被写得好”），now用一般现在时，pen单数用writes；③ 大白话总结：爸爸买的笔现在写得好，修饰物用which，笔写得好不用被动。"
+            },
+            {
+              "question": "It is said that the people ___ live in the village ___ a happy life every day.",
+              "options": {"A": "who; live", "B": "which; lives", "C": "who; lives"},
+              "answer": "A",
+              "explanation": "① 定语从句修饰people（复数），用who；② 主句谓语修饰people（复数），用live，live a happy life是“过幸福生活”；③ 大白话总结：据说村里的人每天过好日子，修饰人用who，人是复数用live。"
+            },
+            {
+              "question": "___ he is young, he knows a lot about Chinese history.",
+              "options": {"A": "Although; but", "B": "Although; /", "C": "Because; /"},
+              "answer": "B",
+              "explanation": "① although（虽然）引导让步状语从句，不能和but（但是）一起用；② 句意是“尽管他小，但懂很多历史”，不是“因为小所以懂”；③ 大白话总结：虽然和但是不能一起用，选although，后面不加but。"
+            },
+            {
+              "question": "___ late for school, we should get up early and take the bus to school.",
+              "options": {"A": "To not be", "B": "Not to be", "C": "Being not"},
+              "answer": "B",
+              "explanation": "① to do表目的，否定是not to do（别做某事）；② be late for school是“上学迟到”；③ 大白话总结：为了不上学迟到，咱们早起坐车，to do的否定是not放前面。"
+            },
+            {
+              "question": "The movie ___ we watched last night is so moving that I want to watch it ___ time.",
+              "options": {"A": "that; second", "B": "which; a second", "C": "who; the second"},
+              "answer": "B",
+              "explanation": "① 定语从句修饰movie（物），用which/that；② a second time是“再看一遍”，the second time是“第二次”，这里想再看一遍；③ 大白话总结：昨晚看的电影太感人，想再看一遍，修饰物用which，再一遍用a second time。"
+            },
+            {
+              "question": "If you ___ careful enough, you ___ make mistakes in the exam.",
+              "options": {"A": "aren't; will", "B": "are; won't", "C": "aren't; won't"},
+              "answer": "A",
+              "explanation": "① 条件状语从句“主将从现”——从句一般现在时aren't careful（不够细心），主句将来时will make（会犯错）；② 句意是“不够细心就会犯错”；③ 大白话总结：不细心考试就会错，从句现在时，主句将来时。"
+            },
+            {
+              "question": "I think ___ necessary for children ___ to bed before 9 o'clock every night.",
+              "options": {"A": "it; to go", "B": "that; go", "C": "this; going"},
+              "answer": "A",
+              "explanation": "① it当假宾语，真正宾语是to go to bed before 9 o'clock every night，符合“think it+adj.+for sb.+to do sth.”；② go to bed是“睡觉”；③ 大白话总结：我觉得孩子每晚9点前睡觉很必要，it占位，真正的是“睡觉”这件事。"
+            },
+            {
+              "question": "On the wall ___ some photos ___ were taken by my father during the trip.",
+              "options": {"A": "hang; that", "B": "hangs; which", "C": "is hanging; who"},
+              "answer": "A",
+              "explanation": "① 倒装句正常语序是“Some photos hang on the wall.”，photos复数用hang；② 定语从句修饰photos（物），用that/which；③ 大白话总结：墙上挂着爸爸旅行拍的照片，照片复数用hang，修饰物用that。"
+            },
+            {
+              "question": "He can ___ speak English ___ French, so he can communicate with foreigners easily.",
+              "options": {"A": "either; or", "B": "not only; but also", "C": "neither; nor"},
+              "answer": "B",
+              "explanation": "① not only...but also...（不仅……而且……）符合句意“会说英语还会说法语”；② either...or...（要么……要么），neither...nor...（既不……也不）都不对；③ 大白话总结：他会说英语和法语，所以选不仅……而且。"
+            },
+            {
+              "question": "So ___ that he couldn't catch up with the others in the race.",
+              "options": {"A": "fast he ran", "B": "slow he ran", "C": "slowly did he run"},
+              "answer": "C",
+              "explanation": "① so+副词倒装，结构是“So+adv.+助动词+主语+谓语”；② slowly修饰ran（跑），表“跑得慢”，所以跟不上；③ 大白话总结：他跑得太慢跟不上别人，so+副词要倒装，慢用slowly。"
+            },
+            {
+              "question": "The house ___ roof was damaged in the storm ___ now being repaired by workers.",
+              "options": {"A": "whose; is", "B": "which; is", "C": "who; are"},
+              "answer": "A",
+              "explanation": "① 定语从句修饰house，roof（屋顶）是房子的，用whose（谁的）；② house单数，now用现在进行时被动语态is being repaired；③ 大白话总结：屋顶坏了的房子正在修，表“谁的”用whose，房子单数用is。"
+            },
+            {
+              "question": "It is important that we ___ protect the environment around us.",
+              "options": {"A": "should", "B": "will", "C": "are"},
+              "answer": "A",
+              "explanation": "① It is important that...从句里用should+动词原形（should可省），表“做某事重要”；② 大白话总结：保护环境很重要，这个句型里要用should。"
+            },
+            {
+              "question": "___ he has learned English for only one year, he can speak it very fluently.",
+              "options": {"A": "Since", "B": "Though", "C": "As"},
+              "answer": "B",
+              "explanation": "① though（尽管）引导让步状语从句，表“虽然学一年，但说得溜”；② since/as（因为）表原因，不符合句意；③ 大白话总结：尽管只学一年，但说得好，选though。"
+            },
+            {
+              "question": "___ the environment, we must stop ___ plastic bags in our daily life.",
+              "options": {"A": "Protect; use", "B": "To protect; using", "C": "Protecting; to use"},
+              "answer": "B",
+              "explanation": "① to protect表目的（为了保护环境）；② stop doing sth.（停止做某事），这里是停止用塑料袋，用using；③ 大白话总结：为了环保，别用塑料袋了，表目的用to do，停止做用doing。"
+            },
+            {
+              "question": "The student ___ answers the teacher's question correctly in class ___ praised by the teacher just now.",
+              "options": {"A": "who; was", "B": "which; is", "C": "who; is"},
+              "answer": "A",
+              "explanation": "① 定语从句修饰student（人），用who；② just now（刚才）用一般过去时，student和praise（表扬）是被动关系，用was praised；③ 大白话总结：刚才答对题的学生被表扬了，修饰人用who，刚才用过去时被动。"
+            },
+            {
+              "question": "Unless you ___ hard, you ___ pass the final exam next month.",
+              "options": {"A": "study; won't", "B": "will study; won't", "C": "study; will"},
+              "answer": "A",
+              "explanation": "① unless=if not（除非），引导条件状语从句，主将从现——从句study（努力学），主句won't pass（不会过）；② 句意是“除非努力，否则考不过”；③ 大白话总结：除非努力学，不然考不过，从句现在时，主句将来时。"
+            },
+            {
+              "question": "We consider ___ our duty ___ care of the old people in our community.",
+              "options": {"A": "it; to take", "B": "this; taking", "C": "that; take"},
+              "answer": "A",
+              "explanation": "① it当假宾语，真正宾语是to take care of the old people，符合“consider it+名词+to do sth.”；② take care of是“照顾”；③ 大白话总结：我们觉得照顾社区老人是责任，it占位，真正的是“照顾老人”这件事。"
+            },
+            {
+              "question": "Only in this way ___ we ___ our English quickly.",
+              "options": {"A": "can; improve", "B": "do; improve", "C": "will; improved"},
+              "answer": "A",
+              "explanation": "① only+介词短语倒装，结构是“Only+状语+助动词+主语+谓语”；② can（能）表“只有这样才能提英语”；③ 大白话总结：只有这样才能快速提英语，only倒装用can+动词原形。"
+            },
+            {
+              "question": "He likes playing basketball, ___ he doesn't like playing football, ___ is his brother's favorite sport.",
+              "options": {"A": "but; which", "B": "and; that", "C": "or; who"},
+              "answer": "A",
+              "explanation": "① but（但是）表转折，连接并列句；② which引导非限制性定语从句，修饰football（物）；③ 大白话总结：他喜欢篮球但不喜欢足球，足球是他哥最爱，转折用but，修饰物用which。"
+            },
+            {
+              "question": "Such ___ the weather that we have to cancel the sports meeting.",
+              "options": {"A": "bad is", "B": "bad are", "C": "badly is"},
+              "answer": "A",
+              "explanation": "① such+adj.+be+主语+that...倒装，weather不可数用is；② bad（形容词）修饰weather，badly是副词；③ 大白话总结：天气太差取消运动会，天气不可数用is，形容天气用bad。"
+            },
+            {
+              "question": "The man ___ we talked about yesterday ___ to Beijing on business next week.",
+              "options": {"A": "who; will go", "B": "which; goes", "C": "who; went"},
+              "answer": "A",
+              "explanation": "① 定语从句修饰man（人），talk about的宾语用who；② next week（下周）用一般将来时will go；③ 大白话总结：昨天聊的那个人下周要去北京出差，修饰人用who，下周用将来时。"
+            },
+            {
+              "question": "It is known to all that the earth ___ around the sun all the time.",
+              "options": {"A": "moves", "B": "moved", "C": "is moving"},
+              "answer": "A",
+              "explanation": "① 客观真理用一般现在时，earth单数用moves；② It is known to all that...（众所周知）；③ 大白话总结：地球绕太阳转是真理，用一般现在时moves。"
+            },
+            {
+              "question": "___ she was ill, she still went to school to take the exam yesterday.",
+              "options": {"A": "Because", "B": "If", "C": "Though"},
+              "answer": "C",
+              "explanation": "① though（尽管）引导让步状语从句，表“尽管生病还去考试”；② because（因为）表原因，if（如果）表条件，都不对；③ 大白话总结：尽管生病了，昨天还是去考试了，选though。"
+            },
+            {
+              "question": "___ make more money, he decided ___ a part-time job in his free time.",
+              "options": {"A": "In order to; to find", "B": "So that; find", "C": "To; finding"},
+              "answer": "A",
+              "explanation": "① in order to（为了）表目的，和to一样；② decide to do sth.（决定做某事），用to find；③ 大白话总结：为了多赚钱，他决定找兼职，表目的用in order to，决定做用to do。"
+            },
+            {
+              "question": "The little boy ___ mother is a doctor can speak three languages ___ he is only five years old.",
+              "options": {"A": "whose; though", "B": "who; because", "C": "which; although"},
+              "answer": "A",
+              "explanation": "① 定语从句修饰boy，mother是男孩的，用whose（谁的）；② though（尽管）引导让步状语从句，表“尽管才5岁”；③ 大白话总结：妈妈是医生的小男孩会说三种语言，尽管他才5岁，表“谁的”用whose，尽管用though。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

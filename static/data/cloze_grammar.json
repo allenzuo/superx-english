@@ -1,0 +1,2012 @@
+[
+  {
+    "version": "1.0",
+    "type": "cloze",
+    "year": 2023,
+    "difficulty": "medium",
+    "source": "2023年上海中考模拟卷1",
+    "title": "School Library",
+    "passage": "Our school library is one of the 1)________ (big) places in our school. It is on the second floor of the teaching building and 2)________ (open) from 8 a.m. to 6 p.m. every day except weekends.\n\nThere are all kinds of books in the library, such as storybooks, science books and history books. We can borrow up to five books at a time and keep them for two weeks. If we can't finish reading them on time, we can 3)________ (return) to the library to renew (续借) them.\n\nMiss Li is the librarian (图书管理员). She is very kind and 4)________ (help). Whenever we can't find the books we need, she always helps us 5)________ (polite). She often tells us that reading can make us 6)________ (smart) and open up our eyes to the world.\n\nI go to the library every Tuesday afternoon. I usually choose books about science because I am 7)________ (interest) in space and nature. Last week, I borrowed a book about Mars (火星). I 8)________ (read) it for three days and I find it very interesting. I 9)________ (finish) it next week and share it with my classmates.\n\nThe library is a quiet and comfortable place to study. It's a good way 10)________ (spend) our free time and learn new things.",
+    "totalBlanks": 10,
+    "questions": [
+      {
+        "id": "q1",
+        "blankNumber": 1,
+        "position": "1)",
+        "options": {"A":"big","B":"bigger","C":"biggest","D":"bigly"},
+        "answer": "C",
+        "analysis": "one of + the + 形容词最高级 + 可数名词复数，表“最……之一”，big的最高级为biggest。"
+      },
+      {
+        "id": "q2",
+        "blankNumber": 2,
+        "position": "2)",
+        "options": {"A":"open","B":"opens","C":"opened","D":"is open"},
+        "answer": "D",
+        "analysis": "表示“营业/开放状态”用be open，主语it为单数，故用is open。"
+      },
+      {
+        "id": "q3",
+        "blankNumber": 3,
+        "position": "3)",
+        "options": {"A":"go","B":"goes","C":"went","D":"going"},
+        "answer": "A",
+        "analysis": "情态动词can后接动词原形go。"
+      },
+      {
+        "id": "q4",
+        "blankNumber": 4,
+        "position": "4)",
+        "options": {"A":"help","B":"helpful","C":"helped","D":"helping"},
+        "answer": "B",
+        "analysis": "and连接并列形容词，kind（友善的）和helpful（乐于助人的）均作表语。"
+      },
+      {
+        "id": "q5",
+        "blankNumber": 5,
+        "position": "5)",
+        "options": {"A":"polite","B":"politely","C":"politer","D":"politest"},
+        "answer": "B",
+        "analysis": "副词修饰动词help，polite的副词形式为politely。"
+      },
+      {
+        "id": "q6",
+        "blankNumber": 6,
+        "position": "6)",
+        "options": {"A":"smart","B":"smarter","C":"smartest","D":"smartly"},
+        "answer": "B",
+        "analysis": "隐含比较，“阅读使我们更聪明”，用比较级smarter。"
+      },
+      {
+        "id": "q7",
+        "blankNumber": 7,
+        "position": "7)",
+        "options": {"A":"interest","B":"interesting","C":"interested","D":"interests"},
+        "answer": "C",
+        "analysis": "be interested in是固定搭配，表“对……感兴趣”。"
+      },
+      {
+        "id": "q8",
+        "blankNumber": 8,
+        "position": "8)",
+        "options": {"A":"read","B":"have read","C":"am reading","D":"will read"},
+        "answer": "B",
+        "analysis": "for three days是现在完成时标志，主语I用have read。"
+      },
+      {
+        "id": "q9",
+        "blankNumber": 9,
+        "position": "9)",
+        "options": {"A":"finish","B":"finished","C":"will finish","D":"have finished"},
+        "answer": "C",
+        "analysis": "next week是将来时间，用一般将来时will finish。"
+      },
+      {
+        "id": "q10",
+        "blankNumber": 10,
+        "position": "10)",
+        "options": {"A":"spend","B":"to spend","C":"spending","D":"spent"},
+        "answer": "B",
+        "analysis": "a good way to do sth.是固定搭配，不定式作后置定语。"
+      }
+    ],
+    "tags": ["完形填空", "校园生活", "图书馆", "现在完成时"],
+    "wordCount": 185,
+    "readingTime": "5-7分钟"
+  },
+  {
+    "version": "1.0",
+    "type": "cloze",
+    "year": 2023,
+    "difficulty": "medium",
+    "source": "2023年上海中考模拟卷2",
+    "title": "Protecting Wild Animals",
+    "passage": "Wild animals are our friends. They play an important role in nature. However, many wild animals 1)________ (become) in danger now because of human activities.\n\nSome people cut down too many trees, so animals lose their homes. Others hunt (猎杀) animals for their fur or meat. This 2)________ (make) the number of wild animals smaller and smaller. For example, pandas 3)________ (live) mainly on bamboo, but bamboo forests are getting smaller. So pandas have less food to eat.\n\nIt's our duty 4)________ (protect) wild animals. First, we should stop cutting down trees and build more nature reserves (自然保护区). Second, we should tell people not 5)________ (buy) products made from wild animals. Third, we can join animal protection clubs and learn more about 6)________ (they) living habits.\n\nLast month, our class 7)________ (organize) a speech competition about protecting wild animals. I spoke about tigers and 8)________ (win) the first prize. My teacher said my speech was 9)________ (good) than others because it was full of facts.\n\nIf everyone cares about wild animals, our world 10)________ (be) more beautiful. Let's take action now to save our animal friends.",
+    "totalBlanks": 10,
+    "questions": [
+      {
+        "id": "q1",
+        "blankNumber": 1,
+        "position": "1)",
+        "options": {"A":"become","B":"are becoming","C":"became","D":"will become"},
+        "answer": "B",
+        "analysis": "now表示动作正在进行，用现在进行时are becoming。"
+      },
+      {
+        "id": "q2",
+        "blankNumber": 2,
+        "position": "2)",
+        "options": {"A":"make","B":"makes","C":"made","D":"making"},
+        "answer": "B",
+        "analysis": "主语this是单数，谓语动词用第三人称单数形式makes。"
+      },
+      {
+        "id": "q3",
+        "blankNumber": 3,
+        "position": "3)",
+        "options": {"A":"live","B":"lives","C":"lived","D":"are living"},
+        "answer": "A",
+        "analysis": "描述客观事实用一般现在时，主语pandas是复数，用live。"
+      },
+      {
+        "id": "q4",
+        "blankNumber": 4,
+        "position": "4)",
+        "options": {"A":"protect","B":"to protect","C":"protecting","D":"protected"},
+        "answer": "B",
+        "analysis": "It's one's duty to do sth.是固定句型，不定式作真正主语。"
+      },
+      {
+        "id": "q5",
+        "blankNumber": 5,
+        "position": "5)",
+        "options": {"A":"buy","B":"to buy","C":"buying","D":"bought"},
+        "answer": "B",
+        "analysis": "tell sb. not to do sth.是固定搭配，表“告诉某人不要做某事”。"
+      },
+      {
+        "id": "q6",
+        "blankNumber": 6,
+        "position": "6)",
+        "options": {"A":"they","B":"them","C":"their","D":"theirs"},
+        "answer": "C",
+        "analysis": "形容词性物主代词修饰名词living habits，用their。"
+      },
+      {
+        "id": "q7",
+        "blankNumber": 7,
+        "position": "7)",
+        "options": {"A":"organize","B":"organized","C":"organizes","D":"organizing"},
+        "answer": "B",
+        "analysis": "last month是过去时间，用一般过去式organized。"
+      },
+      {
+        "id": "q8",
+        "blankNumber": 8,
+        "position": "8)",
+        "options": {"A":"win","B":"won","C":"wins","D":"winning"},
+        "answer": "B",
+        "analysis": "and连接并列谓语，spoke是过去式，win也用过去式won。"
+      },
+      {
+        "id": "q9",
+        "blankNumber": 9,
+        "position": "9)",
+        "options": {"A":"good","B":"better","C":"best","D":"well"},
+        "answer": "B",
+        "analysis": "than是比较级标志，good的比较级为better。"
+      },
+      {
+        "id": "q10",
+        "blankNumber": 10,
+        "position": "10)",
+        "options": {"A":"is","B":"was","C":"will be","D":"has been"},
+        "answer": "C",
+        "analysis": "if引导条件状语从句，遵循“主将从现”，主句用will be。"
+      }
+    ],
+    "tags": ["完形填空", "环保", "野生动物", "条件状语从句"],
+    "wordCount": 190,
+    "readingTime": "5-7分钟"
+  },
+  {
+    "version": "1.0",
+    "type": "cloze",
+    "year": 2023,
+    "difficulty": "medium",
+    "source": "2023年上海中考模拟卷3",
+    "title": "Using Smart Phones at School",
+    "passage": "Smart phones are very popular among teenagers now. However, our school has a rule that students can't use smart phones at school. Many students 1)________ (not agree) with this rule at first.\n\nSome students think smart phones can help them 2)________ (study). For example, they can look up new words or check information quickly. But teachers say students often use phones to play games or chat with friends during class, which 3)________ (affect) their study.\n\nLast month, our school did a survey (调查) about using phones at school. Over 60% of the students said they 4)________ (spend) more than one hour a day on phones. Only 10% of them used phones 5)________ (main) for study.\n\nAfter the survey, the school held a meeting to talk about the rule. Teachers and students discussed the problem together. Finally, we decided to make a new rule: students can bring phones to school, but they must 6)________ (keep) them in their schoolbags during class. They can use them only after school or during breaks if 7)________ (necessary).\n\nSince the new rule came out, things 8)________ (change) a lot. Students pay more attention to their lessons in class. My deskmate used to play phone games every day, but now he 9)________ (read) books after class. He said he 10)________ (find) reading more interesting than playing games.",
+    "totalBlanks": 10,
+    "questions": [
+      {
+        "id": "q1",
+        "blankNumber": 1,
+        "position": "1)",
+        "options": {"A":"don't agree","B":"didn't agree","C":"won't agree","D":"haven't agreed"},
+        "answer": "B",
+        "analysis": "at first（起初）是过去时间，用一般过去时的否定形式didn't agree。"
+      },
+      {
+        "id": "q2",
+        "blankNumber": 2,
+        "position": "2)",
+        "options": {"A":"study","B":"to study","C":"studying","D":"studied"},
+        "answer": "A",
+        "analysis": "help sb. (to) do sth.是固定搭配，可省略to，用动词原形study。"
+      },
+      {
+        "id": "q3",
+        "blankNumber": 3,
+        "position": "3)",
+        "options": {"A":"affect","B":"affects","C":"affected","D":"affecting"},
+        "answer": "B",
+        "analysis": "which指代前文整件事，谓语动词用第三人称单数affects。"
+      },
+      {
+        "id": "q4",
+        "blankNumber": 4,
+        "position": "4)",
+        "options": {"A":"spend","B":"spent","C":"have spent","D":"will spend"},
+        "answer": "B",
+        "analysis": "said后接宾语从句，主句是过去时，从句也用过去式spent。"
+      },
+      {
+        "id": "q5",
+        "blankNumber": 5,
+        "position": "5)",
+        "options": {"A":"main","B":"mainly","C":"mainer","D":"mainest"},
+        "answer": "B",
+        "analysis": "副词修饰动词used，main的副词形式为mainly（主要地）。"
+      },
+      {
+        "id": "q6",
+        "blankNumber": 6,
+        "position": "6)",
+        "options": {"A":"keep","B":"kept","C":"keeping","D":"to keep"},
+        "answer": "A",
+        "analysis": "情态动词must后接动词原形keep。"
+      },
+      {
+        "id": "q7",
+        "blankNumber": 7,
+        "position": "7)",
+        "options": {"A":"necessary","B":"necessarily","C":"necessity","D":"necessities"},
+        "answer": "A",
+        "analysis": "if necessary是固定表达，表“如果有必要的话”，省略了it is。"
+      },
+      {
+        "id": "q8",
+        "blankNumber": 8,
+        "position": "8)",
+        "options": {"A":"change","B":"changed","C":"have changed","D":"will change"},
+        "answer": "C",
+        "analysis": "since（自从）是现在完成时标志，主语things用have changed。"
+      },
+      {
+        "id": "q9",
+        "blankNumber": 9,
+        "position": "9)",
+        "options": {"A":"read","B":"reads","C":"is reading","D":"has read"},
+        "answer": "B",
+        "analysis": "now表示现在的习惯，主语he是单数，用一般现在时reads。"
+      },
+      {
+        "id": "q10",
+        "blankNumber": 10,
+        "position": "10)",
+        "options": {"A":"find","B":"found","C":"finds","D":"will find"},
+        "answer": "B",
+        "analysis": "said后接宾语从句，主句是过去时，从句用过去式found。"
+      }
+    ],
+    "tags": ["完形填空", "科技", "校园规则", "宾语从句"],
+    "wordCount": 205,
+    "readingTime": "6-8分钟"
+  },
+  {
+    "version": "1.0",
+    "type": "cloze",
+    "year": 2023,
+    "difficulty": "medium",
+    "source": "2023年上海中考模拟卷4",
+    "title": "The Spring Festival",
+    "passage": "The Spring Festival is the most important festival in China. It usually comes in January or February. People start to prepare for it a few weeks 1)________ (before) it comes.\n\nCleaning the house is an important part of the preparation. People clean every corner of the house to sweep away bad luck. They also buy new clothes and lots of food. On New Year's Eve, all family members get together 2)________ (have) a big dinner. They eat dumplings, fish and other delicious food. The fish means “surplus (余)” in Chinese, which 3)________ (bring) good luck for the new year.\n\nAfter dinner, people watch the Spring Festival Gala (春晚) on TV or play cards. They stay up late to welcome the new year. At midnight, they set off fireworks (烟花) to make the night 4)________ (bright). On the first day of the new year, people wear new clothes and visit their relatives. Children get red envelopes 5)________ (fill) with money from their parents and grandparents.\n\nI love the Spring Festival because it's a time for family reunion. Last year, my family 6)________ (go) to my grandparents' home in the countryside. We 7)________ (cook) dumplings together and my grandma told me many interesting stories about the Spring Festival. I 8)________ (receive) a lot of red envelopes and I used the money 9)________ (buy) some books.\n\nThis year, we 10)________ (celebrate) the Spring Festival in Shanghai. I'm looking forward to it very much.",
+    "totalBlanks": 10,
+    "questions": [
+      {
+        "id": "q1",
+        "blankNumber": 1,
+        "position": "1)",
+        "options": {"A":"before","B":"after","C":"when","D":"as"},
+        "answer": "A",
+        "analysis": "表示“在节日到来前几周准备”，用before（在……之前）。"
+      },
+      {
+        "id": "q2",
+        "blankNumber": 2,
+        "position": "2)",
+        "options": {"A":"have","B":"to have","C":"having","D":"had"},
+        "answer": "B",
+        "analysis": "不定式作目的状语，“聚在一起的目的是吃年夜饭”，用to have。"
+      },
+      {
+        "id": "q3",
+        "blankNumber": 3,
+        "position": "3)",
+        "options": {"A":"bring","B":"brings","C":"brought","D":"will bring"},
+        "answer": "B",
+        "analysis": "which指代前文“鱼代表余”这件事，谓语动词用第三人称单数brings。"
+      },
+      {
+        "id": "q4",
+        "blankNumber": 4,
+        "position": "4)",
+        "options": {"A":"bright","B":"brighter","C":"brightest","D":"brightly"},
+        "answer": "B",
+        "analysis": "隐含比较，“放烟花让夜晚更亮”，用比较级brighter。"
+      },
+      {
+        "id": "q5",
+        "blankNumber": 5,
+        "position": "5)",
+        "options": {"A":"fill","B":"filled","C":"filling","D":"to fill"},
+        "answer": "B",
+        "analysis": "过去分词作后置定语，red envelopes filled with money表“装满钱的红包”。"
+      },
+      {
+        "id": "q6",
+        "blankNumber": 6,
+        "position": "6)",
+        "options": {"A":"go","B":"went","C":"gone","D":"will go"},
+        "answer": "B",
+        "analysis": "last year是过去时间，用一般过去式went。"
+      },
+      {
+        "id": "q7",
+        "blankNumber": 7,
+        "position": "7)",
+        "options": {"A":"cook","B":"cooked","C":"are cooking","D":"have cooked"},
+        "answer": "B",
+        "analysis": "描述过去的动作，用一般过去式cooked。"
+      },
+      {
+        "id": "q8",
+        "blankNumber": 8,
+        "position": "8)",
+        "options": {"A":"receive","B":"received","C":"receives","D":"will receive"},
+        "answer": "B",
+        "analysis": "承接前文过去的语境，用过去式received。"
+      },
+      {
+        "id": "q9",
+        "blankNumber": 9,
+        "position": "9)",
+        "options": {"A":"buy","B":"to buy","C":"buying","D":"bought"},
+        "answer": "B",
+        "analysis": "use sth. to do sth.是固定搭配，表“用某物做某事”。"
+      },
+      {
+        "id": "q10",
+        "blankNumber": 10,
+        "position": "10)",
+        "options": {"A":"celebrate","B":"celebrated","C":"will celebrate","D":"are celebrating"},
+        "answer": "C",
+        "analysis": "this year表示将来的动作，用一般将来时will celebrate。"
+      }
+    ],
+    "tags": ["完形填空", "节日", "春节", "不定式"],
+    "wordCount": 210,
+    "readingTime": "6-8分钟"
+  },
+  {
+    "version": "1.0",
+    "type": "cloze",
+    "year": 2023,
+    "difficulty": "medium",
+    "source": "2023年上海中考模拟卷5",
+    "title": "Running for Health",
+    "passage": "Running is one of the easiest and cheapest ways to keep healthy. You don't need any special equipment, just a pair of 1)________ (comfort) running shoes.\n\nI start running every morning six months ago. At first, I could only run for five minutes because I was out of breath (气喘吁吁) easily. But I didn't give up. I ran a little longer every day. Now I can run for 30 minutes without 2)________ (stop). Running makes me 3)________ (strong) and more energetic. I used to feel tired in class, but now I can concentrate better on my lessons.\n\nRunning is also a good way to relax. When I feel stressed about my study, I go for a run in the park. The fresh air and beautiful scenery make me forget all my problems. My father also likes running. He 4)________ (run) every morning for ten years. He says running helps him keep fit and he 5)________ (never be) sick in the past five years.\n\nLast week, our school held a running race. I 6)________ (take) part in the 800-meter race. I was nervous before the race, but my classmates cheered for me loudly. I tried my best and 7)________ (finish) third. I was very happy because it was my first time to get a prize in a sports competition. My PE teacher said I 8)________ (do) a good job and encouraged me 9)________ (keep) running.\n\nIf you want to keep healthy, why not try running? It's a great sport and it 10)________ (make) your life better.",
+    "totalBlanks": 10,
+    "questions": [
+      {
+        "id": "q1",
+        "blankNumber": 1,
+        "position": "1)",
+        "options": {"A":"comfort","B":"comfortable","C":"comfortably","D":"comforting"},
+        "answer": "B",
+        "analysis": "形容词修饰名词running shoes，comfortable（舒适的）符合语境。"
+      },
+      {
+        "id": "q2",
+        "blankNumber": 2,
+        "position": "2)",
+        "options": {"A":"stop","B":"to stop","C":"stopping","D":"stopped"},
+        "answer": "C",
+        "analysis": "without是介词，后接动名词stopping。"
+      },
+      {
+        "id": "q3",
+        "blankNumber": 3,
+        "position": "3)",
+        "options": {"A":"strong","B":"stronger","C":"strongest","D":"strongly"},
+        "answer": "B",
+        "analysis": "and连接并列比较级，more energetic对应stronger（更强壮的）。"
+      },
+      {
+        "id": "q4",
+        "blankNumber": 4,
+        "position": "4)",
+        "options": {"A":"runs","B":"ran","C":"has run","D":"will run"},
+        "answer": "C",
+        "analysis": "for ten years是现在完成时标志，主语he用has run。"
+      },
+      {
+        "id": "q5",
+        "blankNumber": 5,
+        "position": "5)",
+        "options": {"A":"is never","B":"was never","C":"has never been","D":"will never be"},
+        "answer": "C",
+        "analysis": "in the past five years是现在完成时标志，用has never been。"
+      },
+      {
+        "id": "q6",
+        "blankNumber": 6,
+        "position": "6)",
+        "options": {"A":"take","B":"took","C":"taken","D":"will take"},
+        "answer": "B",
+        "analysis": "last week是过去时间，用一般过去式took。"
+      },
+      {
+        "id": "q7",
+        "blankNumber": 7,
+        "position": "7)",
+        "options": {"A":"finish","B":"finished","C":"finishes","D":"finishing"},
+        "answer": "B",
+        "analysis": "and连接并列谓语，tried是过去式，finish也用过去式finished。"
+      },
+      {
+        "id": "q8",
+        "blankNumber": 8,
+        "position": "8)",
+        "options": {"A":"do","B":"did","C":"does","D":"has done"},
+        "answer": "B",
+        "analysis": "said后接宾语从句，主句是过去时，从句用过去式did。"
+      },
+      {
+        "id": "q9",
+        "blankNumber": 9,
+        "position": "9)",
+        "options": {"A":"keep","B":"to keep","C":"keeping","D":"kept"},
+        "answer": "B",
+        "analysis": "encourage sb. to do sth.是固定搭配，表“鼓励某人做某事”。"
+      },
+      {
+        "id": "q10",
+        "blankNumber": 10,
+        "position": "10)",
+        "options": {"A":"make","B":"makes","C":"made","D":"will make"},
+        "answer": "B",
+        "analysis": "描述客观事实，主语it是单数，用一般现在时makes。"
+      }
+    ],
+    "tags": ["完形填空", "运动", "健康", "现在完成时"],
+    "wordCount": 200,
+    "readingTime": "6-8分钟"
+  },
+  {
+    "version": "1.0",
+    "type": "cloze",
+    "year": 2023,
+    "difficulty": "medium",
+    "source": "2023年上海中考模拟卷6",
+    "title": "Volunteering in a Community",
+    "passage": "Volunteering is a meaningful activity. It not only helps others but also makes us feel happy. Last summer, I joined a volunteer club and 1)________ (work) in my community for two weeks.\n\nMy first job was to help clean the community park. There was a lot of trash (垃圾) on the grass and in the lake. I 2)________ (pick) up plastic bottles and paper with other volunteers. We also planted some young trees to make the park 3)________ (green). After cleaning, the park looked much 4)________ (nice) than before. The old people in the community thanked us and said we 5)________ (do) a great job.\n\nThen I helped look after the children in the community center. Their parents were busy with work, so they couldn't take care of them during the day. I played games with the children and taught them 6)________ (draw) pictures. They were very lovely and I 7)________ (become) good friends with them soon. One little girl told me she wanted to be a volunteer too when she 8)________ (grow) up.\n\nVolunteering taught me the importance of helping others. I learned to be patient and responsible. I 9)________ (volunteer) again this summer. I think everyone should spend some time 10)________ (do) volunteer work. Small actions can make a big difference to our community.",
+    "totalBlanks": 10,
+    "questions": [
+      {
+        "id": "q1",
+        "blankNumber": 1,
+        "position": "1)",
+        "options": {"A":"work","B":"worked","C":"works","D":"working"},
+        "answer": "B",
+        "analysis": "last summer是过去时间，joined和worked并列作谓语，用过去式。"
+      },
+      {
+        "id": "q2",
+        "blankNumber": 2,
+        "position": "2)",
+        "options": {"A":"pick","B":"picked","C":"picks","D":"am picking"},
+        "answer": "B",
+        "analysis": "描述过去的动作，用一般过去式picked。"
+      },
+      {
+        "id": "q3",
+        "blankNumber": 3,
+        "position": "3)",
+        "options": {"A":"green","B":"greener","C":"greenest","D":"greenly"},
+        "answer": "A",
+        "analysis": "make + 宾语 + 形容词原级作宾补，make the park green表“让公园变绿”。"
+      },
+      {
+        "id": "q4",
+        "blankNumber": 4,
+        "position": "4)",
+        "options": {"A":"nice","B":"nicer","C":"nicest","D":"nicely"},
+        "answer": "B",
+        "analysis": "than是比较级标志，nice的比较级为nicer。"
+      },
+      {
+        "id": "q5",
+        "blankNumber": 5,
+        "position": "5)",
+        "options": {"A":"do","B":"did","C":"does","D":"have done"},
+        "answer": "B",
+        "analysis": "said后接宾语从句，主句是过去时，从句用过去式did。"
+      },
+      {
+        "id": "q6",
+        "blankNumber": 6,
+        "position": "6)",
+        "options": {"A":"draw","B":"to draw","C":"drawing","D":"drew"},
+        "answer": "B",
+        "analysis": "teach sb. to do sth.是固定搭配，表“教某人做某事”。"
+      },
+      {
+        "id": "q7",
+        "blankNumber": 7,
+        "position": "7)",
+        "options": {"A":"become","B":"became","C":"becomes","D":"will become"},
+        "answer": "B",
+        "analysis": "承接前文过去的语境，用过去式became。"
+      },
+      {
+        "id": "q8",
+        "blankNumber": 8,
+        "position": "8)",
+        "options": {"A":"grow","B":"grows","C":"grew","D":"will grow"},
+        "answer": "A",
+        "analysis": "when引导时间状语从句，遵循“主将从现”，从句用一般现在时grow。"
+      },
+      {
+        "id": "q9",
+        "blankNumber": 9,
+        "position": "9)",
+        "options": {"A":"volunteer","B":"volunteered","C":"will volunteer","D":"have volunteered"},
+        "answer": "C",
+        "analysis": "this summer表示将来的动作，用一般将来时will volunteer。"
+      },
+      {
+        "id": "q10",
+        "blankNumber": 10,
+        "position": "10)",
+        "options": {"A":"do","B":"to do","C":"doing","D":"done"},
+        "answer": "C",
+        "analysis": "spend time (in) doing sth.是固定搭配，动名词作宾语。"
+      }
+    ],
+    "tags": ["完形填空", "志愿活动", "社区", "固定搭配"],
+    "wordCount": 188,
+    "readingTime": "5-7分钟"
+  },
+  {
+    "version": "1.0",
+    "type": "cloze",
+    "year": 2023,
+    "difficulty": "medium",
+    "source": "2023年上海中考模拟卷7",
+    "title": "A Trip to the Ocean Park",
+    "passage": "Last Sunday, my family and I went to the Ocean Park in Shanghai. We left home early in the morning and took the subway there. It 1)________ (take) us about 40 minutes to get to the park.\n\nWhen we arrived, there were already a lot of people at the gate. We bought tickets and went in. First, we visited the dolphin show. The dolphins were very smart and they could do many tricks (特技), such as jumping through hoops (圈) and playing balls. All the people cheered for them loudly. I 2)________ (take) many photos of the dolphins with my phone.\n\nThen we went to the aquarium (水族馆). We saw all kinds of sea animals, including sharks, sea turtles and colorful fish. The sharks were bigger than I 3)________ (think). I was a little scared at first, but soon I felt excited to see them so close. My little sister loved the sea turtles best because they looked very cute. She 4)________ (feed) them with some food under the guide's help.\n\nAt noon, we had lunch at a restaurant in the park. The food was a little expensive, but it was delicious. In the afternoon, we went to the roller coaster (过山车). It was very exciting and I 5)________ (scream) loudly when it went down. My mother didn't dare to ride it, so she waited for us at the entrance and 6)________ (drink) some coffee.\n\nWe left the park at 5 p.m. We were tired but happy. This trip was one of the 7)________ (happy) days in my life. I learned a lot about sea animals and 8)________ (enjoy) a wonderful time with my family. I 9)________ (remember) this trip forever. I hope we 10)________ (go) there again next year.",
+    "totalBlanks": 10,
+    "questions": [
+      {
+        "id": "q1",
+        "blankNumber": 1,
+        "position": "1)",
+        "options": {"A":"take","B":"took","C":"takes","D":"is taking"},
+        "answer": "B",
+        "analysis": "It takes sb. some time to do sth.句型，描述过去的动作，用took。"
+      },
+      {
+        "id": "q2",
+        "blankNumber": 2,
+        "position": "2)",
+        "options": {"A":"take","B":"took","C":"taken","D":"will take"},
+        "answer": "B",
+        "analysis": "描述过去的动作，用一般过去式took。"
+      },
+      {
+        "id": "q3",
+        "blankNumber": 3,
+        "position": "3)",
+        "options": {"A":"think","B":"thought","C":"have thought","D":"will think"},
+        "answer": "B",
+        "analysis": "“鲨鱼比我原本想的更大”，think的动作发生在过去，用thought。"
+      },
+      {
+        "id": "q4",
+        "blankNumber": 4,
+        "position": "4)",
+        "options": {"A":"feed","B":"fed","C":"feeds","D":"is feeding"},
+        "answer": "B",
+        "analysis": "描述过去的动作，用一般过去式fed（feed的过去式）。"
+      },
+      {
+        "id": "q5",
+        "blankNumber": 5,
+        "position": "5)",
+        "options": {"A":"scream","B":"screamed","C":"screams","D":"screaming"},
+        "answer": "B",
+        "analysis": "and连接并列谓语，went是过去式，scream也用过去式screamed。"
+      },
+      {
+        "id": "q6",
+        "blankNumber": 6,
+        "position": "6)",
+        "options": {"A":"drink","B":"drank","C":"drinks","D":"is drinking"},
+        "answer": "B",
+        "analysis": "and连接并列谓语，waited是过去式，drink也用过去式drank。"
+      },
+      {
+        "id": "q7",
+        "blankNumber": 7,
+        "position": "7)",
+        "options": {"A":"happy","B":"happier","C":"happiest","D":"happily"},
+        "answer": "C",
+        "analysis": "one of + the + 形容词最高级 + 可数名词复数，happy的最高级为happiest。"
+      },
+      {
+        "id": "q8",
+        "blankNumber": 8,
+        "position": "8)",
+        "options": {"A":"enjoy","B":"enjoyed","C":"enjoys","D":"will enjoy"},
+        "answer": "B",
+        "analysis": "and连接并列谓语，learned是过去式，enjoy也用过去式enjoyed。"
+      },
+      {
+        "id": "q9",
+        "blankNumber": 9,
+        "position": "9)",
+        "options": {"A":"remember","B":"remembered","C":"will remember","D":"have remembered"},
+        "answer": "C",
+        "analysis": "“会永远记得这次旅行”，用一般将来时will remember。"
+      },
+      {
+        "id": "q10",
+        "blankNumber": 10,
+        "position": "10)",
+        "options": {"A":"go","B":"went","C":"will go","D":"have gone"},
+        "answer": "C",
+        "analysis": "next year是将来时间，用一般将来时will go。"
+      }
+    ],
+    "tags": ["完形填空", "旅行", "海洋公园", "一般过去时"],
+    "wordCount": 220,
+    "readingTime": "7-9分钟"
+  },
+  {
+    "version": "1.0",
+    "type": "cloze",
+    "year": 2023,
+    "difficulty": "medium",
+    "source": "2023年上海中考模拟卷8",
+    "title": "Learning to Cook",
+    "passage": "I used to hate cooking because I thought it was boring and difficult. But last month, I decided 1)________ (learn) to cook because my parents were always busy with work and I wanted to help them.\n\nMy mother taught me how to cook tomato and egg noodles, which is my favorite food. First, she showed me how 2)________ (cut) the tomatoes into small pieces. Then, I heated some oil in a pan and fried the eggs. The eggs smelled delicious and I felt a little proud of 3)________ (I). Next, I put the tomatoes into the pan and cooked them for a few minutes. Finally, I added some water and noodles. I cooked them for about 10 minutes and added some salt and sugar. When I finished, I served the noodles to my parents. They tasted the noodles and said they were 4)________ (tasty) than the noodles in the restaurant.\n\nAfter that, I started to cook more often. I learned to cook fried rice, dumplings and other simple dishes. Every time I cooked, I made a few mistakes, but my parents never blamed (责备) me. They said practice 5)________ (make) perfect.\n\nLast week, my best friend Lily came to my home. I cooked chicken soup for her. I followed the recipe (食谱) carefully and the soup turned out well. Lily said it was the 6)________ (good) chicken soup she had ever tasted. I was very happy to hear that. Cooking makes me feel independent and it's a good way 7)________ (show) my love to my family.\n\nNow I enjoy cooking very much. I 8)________ (cook) for my family every weekend. I also want to learn more difficult dishes. I 9)________ (ask) my aunt to teach me how to cook mapo tofu next month. I believe I 10)________ (be) a good cook in the future.",
+    "totalBlanks": 10,
+    "questions": [
+      {
+        "id": "q1",
+        "blankNumber": 1,
+        "position": "1)",
+        "options": {"A":"learn","B":"to learn","C":"learning","D":"learned"},
+        "answer": "B",
+        "analysis": "decide to do sth.是固定搭配，表“决定做某事”。"
+      },
+      {
+        "id": "q2",
+        "blankNumber": 2,
+        "position": "2)",
+        "options": {"A":"cut","B":"to cut","C":"cutting","D":"cut"},
+        "answer": "B",
+        "analysis": "疑问词how+不定式作showed的宾语，用to cut。"
+      },
+      {
+        "id": "q3",
+        "blankNumber": 3,
+        "position": "3)",
+        "options": {"A":"I","B":"me","C":"my","D":"myself"},
+        "answer": "D",
+        "analysis": "feel proud of oneself是固定搭配，表“为自己感到骄傲”，用反身代词myself。"
+      },
+      {
+        "id": "q4",
+        "blankNumber": 4,
+        "position": "4)",
+        "options": {"A":"tasty","B":"tastier","C":"tastiest","D":"tastily"},
+        "answer": "B",
+        "analysis": "than是比较级标志，tasty的比较级为tastier。"
+      },
+      {
+        "id": "q5",
+        "blankNumber": 5,
+        "position": "5)",
+        "options": {"A":"make","B":"makes","C":"made","D":"will make"},
+        "answer": "B",
+        "analysis": "practice makes perfect是谚语，表“熟能生巧”，用一般现在时makes。"
+      },
+      {
+        "id": "q6",
+        "blankNumber": 6,
+        "position": "6)",
+        "options": {"A":"good","B":"better","C":"best","D":"well"},
+        "answer": "C",
+        "analysis": "she had ever tasted表示范围，用最高级best。"
+      },
+      {
+        "id": "q7",
+        "blankNumber": 7,
+        "position": "7)",
+        "options": {"A":"show","B":"to show","C":"showing","D":"showed"},
+        "answer": "B",
+        "analysis": "a good way to do sth.是固定搭配，不定式作后置定语。"
+      },
+      {
+        "id": "q8",
+        "blankNumber": 8,
+        "position": "8)",
+        "options": {"A":"cook","B":"cooked","C":"am cooking","D":"cook"},
+        "answer": "A",
+        "analysis": "every weekend表示习惯性动作，用一般现在时cook。"
+      },
+      {
+        "id": "q9",
+        "blankNumber": 9,
+        "position": "9)",
+        "options": {"A":"ask","B":"asked","C":"will ask","D":"have asked"},
+        "answer": "C",
+        "analysis": "next month是将来时间，用一般将来时will ask。"
+      },
+      {
+        "id": "q10",
+        "blankNumber": 10,
+        "position": "10)",
+        "options": {"A":"am","B":"was","C":"will be","D":"have been"},
+        "answer": "C",
+        "analysis": "in the future是将来时间，用一般将来时will be。"
+      }
+    ],
+    "tags": ["完形填空", "生活技能", "烹饪", "谚语"],
+    "wordCount": 195,
+    "readingTime": "6-8分钟"
+  },
+  {
+    "version": "1.0",
+    "type": "cloze",
+    "year": 2023,
+    "difficulty": "medium",
+    "source": "2023年上海中考模拟卷9",
+    "title": "Protecting the Earth",
+    "passage": "The earth is our home and we must protect it. However, the environment is getting worse and worse now. Air pollution, water pollution and plastic pollution are big problems that we 1)________ (face) today.\n\nAir pollution is mainly caused by cars and factories. The smoke from factories makes the air dirty, which is bad for our health. Many people get sick because of dirty air every year. To reduce air pollution, we should go to school or work by bike or on foot instead of 2)________ (drive) cars. We can also plant more trees because trees can take in harmful gases and make the air 3)________ (clean).\n\nWater pollution is another serious problem. Many rivers and lakes are polluted by waste water from factories and homes. Fish in the polluted water die and people can't drink the water. We should stop pouring waste into water and save water in our daily life. For example, we can turn off the tap when we brush our teeth and reuse the water 4)________ (wash) vegetables to clean the floor.\n\nPlastic pollution is also a big threat (威胁) to the earth. Plastic bags and bottles are everywhere. They take hundreds of years 5)________ (break) down. We should use cloth bags instead of plastic bags and recycle plastic bottles. Last month, our class 6)________ (collect) 200 plastic bottles and sold them to a recycling center. We used the money to buy some books for the school library.\n\nProtecting the earth is everyone's duty. If we all take action now, our earth 7)________ (become) better and better. I 8)________ (tell) my friends and family about the importance of protecting the environment. I also join an environmental club at school and we 9)________ (hold) activities to raise people's awareness (意识) every month. I believe that small changes can make a big difference and our earth 10)________ (be) a beautiful place to live in forever.",
+    "totalBlanks": 10,
+    "questions": [
+      {
+        "id": "q1",
+        "blankNumber": 1,
+        "position": "1)",
+        "options": {"A":"face","B":"faced","C":"will face","D":"are facing"},
+        "answer": "D",
+        "analysis": "now表示动作正在进行，用现在进行时are facing。"
+      },
+      {
+        "id": "q2",
+        "blankNumber": 2,
+        "position": "2)",
+        "options": {"A":"drive","B":"to drive","C":"driving","D":"drove"},
+        "answer": "C",
+        "analysis": "instead of是介词短语，后接动名词driving。"
+      },
+      {
+        "id": "q3",
+        "blankNumber": 3,
+        "position": "3)",
+        "options": {"A":"clean","B":"cleaner","C":"cleanest","D":"cleanly"},
+        "answer": "B",
+        "analysis": "隐含比较，“种树让空气更干净”，用比较级cleaner。"
+      },
+      {
+        "id": "q4",
+        "blankNumber": 4,
+        "position": "4)",
+        "options": {"A":"wash","B":"to wash","C":"washing","D":"washed"},
+        "answer": "B",
+        "analysis": "不定式作目的状语，reuse the water to wash vegetables表“重复用水洗菜”。"
+      },
+      {
+        "id": "q5",
+        "blankNumber": 5,
+        "position": "5)",
+        "options": {"A":"break","B":"to break","C":"breaking","D":"broke"},
+        "answer": "B",
+        "analysis": "It takes sth. some time to do sth.句型，不定式作真正主语。"
+      },
+      {
+        "id": "q6",
+        "blankNumber": 6,
+        "position": "6)",
+        "options": {"A":"collect","B":"collected","C":"collects","D":"will collect"},
+        "answer": "B",
+        "analysis": "last month是过去时间，用一般过去式collected。"
+      },
+      {
+        "id": "q7",
+        "blankNumber": 7,
+        "position": "7)",
+        "options": {"A":"become","B":"became","C":"will become","D":"has become"},
+        "answer": "C",
+        "analysis": "if引导条件状语从句，遵循“主将从现”，主句用will become。"
+      },
+      {
+        "id": "q8",
+        "blankNumber": 8,
+        "position": "8)",
+        "options": {"A":"tell","B":"told","C":"will tell","D":"have told"},
+        "answer": "D",
+        "analysis": "强调动作已完成且对现在有影响，用现在完成时have told。"
+      },
+      {
+        "id": "q9",
+        "blankNumber": 9,
+        "position": "9)",
+        "options": {"A":"hold","B":"held","C":"will hold","D":"are holding"},
+        "answer": "A",
+        "analysis": "every month表示习惯性动作，用一般现在时hold。"
+      },
+      {
+        "id": "q10",
+        "blankNumber": 10,
+        "position": "10)",
+        "options": {"A":"is","B":"was","C":"will be","D":"has been"},
+        "answer": "C",
+        "analysis": "“地球会永远是宜居的美丽地方”，用一般将来时will be。"
+      }
+    ],
+    "tags": ["完形填空", "环保", "地球保护", "现在进行时"],
+    "wordCount": 215,
+    "readingTime": "7-9分钟"
+  },
+  {
+    "version": "1.0",
+    "type": "cloze",
+    "year": 2023,
+    "difficulty": "medium",
+    "source": "2023年上海中考模拟卷10",
+    "title": "A Surprise Birthday Party",
+    "passage": "Last Friday was my 14th birthday. I thought it would be an ordinary day, but it turned out to be a big surprise. My parents and friends planned a surprise party for me and I 1)________ (not know) anything about it before that day.\n\nIn the morning, my mother told me we would go to the mall to buy a new bike. I was very happy because I had wanted a bike for a long time. We left home at 10 a.m. and spent two hours in the mall. But my mother said the bike I liked was out of stock (缺货), so we had to go home. I felt a little sad and 2)________ (not talk) much on the way home.\n\nWhen we opened the door of our house, all my friends jumped out and shouted “Happy Birthday!” to me. There were colorful balloons and a big birthday cake on the table. My best friend Lily gave me a book about space, which is my favorite subject. I 3)________ (be) so surprised that I couldn't say a word. My parents told me they 4)________ (plan) this party for a week and my friends helped them decorate (装饰) the house when I was out.\n\nWe sang the birthday song together and I made a wish before blowing out the candles. The cake was chocolate flavor, which is my favorite. We ate the cake and played many interesting games. My friend Tom told some funny jokes and we all 5)________ (laugh) loudly. I also received many other gifts, including a basketball and a new pen. I 6)________ (thank) everyone for their gifts and kindness.\n\nThe party lasted for three hours. When my friends left, I felt very happy and lucky. This was the best birthday I 7)________ (ever have). I 8)________ (learn) that my parents and friends love me very much. I 9)________ (keep) all the gifts and photos from the party as precious memories. I 10)________ (never forget) this wonderful day.",
+    "totalBlanks": 10,
+    "questions": [
+      {
+        "id": "q1",
+        "blankNumber": 1,
+        "position": "1)",
+        "options": {"A":"don't know","B":"didn't know","C":"won't know","D":"haven't known"},
+        "answer": "B",
+        "analysis": "before that day表示过去的时间，用一般过去时的否定形式didn't know。"
+      },
+      {
+        "id": "q2",
+        "blankNumber": 2,
+        "position": "2)",
+        "options": {"A":"don't talk","B":"didn't talk","C":"won't talk","D":"haven't talked"},
+        "answer": "B",
+        "analysis": "and连接并列谓语，felt是过去式，talk也用过去式的否定形式didn't talk。"
+      },
+      {
+        "id": "q3",
+        "blankNumber": 3,
+        "position": "3)",
+        "options": {"A":"am","B":"was","C":"were","D":"will be"},
+        "answer": "B",
+        "analysis": "描述过去的状态，主语I用was。"
+      },
+      {
+        "id": "q4",
+        "blankNumber": 4,
+        "position": "4)",
+        "options": {"A":"plan","B":"planned","C":"had planned","D":"will plan"},
+        "answer": "C",
+        "analysis": "“计划派对”的动作发生在told之前，用过去完成时had planned。"
+      },
+      {
+        "id": "q5",
+        "blankNumber": 5,
+        "position": "5)",
+        "options": {"A":"laugh","B":"laughed","C":"laughs","D":"laughing"},
+        "answer": "B",
+        "analysis": "and连接并列谓语，told是过去式，laugh也用过去式laughed。"
+      },
+      {
+        "id": "q6",
+        "blankNumber": 6,
+        "position": "6)",
+        "options": {"A":"thank","B":"thanked","C":"thanks","D":"will thank"},
+        "answer": "B",
+        "analysis": "描述过去的动作，用一般过去式thanked。"
+      },
+      {
+        "id": "q7",
+        "blankNumber": 7,
+        "position": "7)",
+        "answer": "C",
+        "options": {"A":"have","B":"had","C":"have ever had","D":"had ever had"},
+        "analysis": "ever是现在完成时标志，主语I用have ever had。"
+      },
+      {
+        "id": "q8",
+        "blankNumber": 8,
+        "position": "8)",
+        "options": {"A":"learn","B":"learned","C":"will learn","D":"am learning"},
+        "answer": "B",
+        "analysis": "描述过去的收获，用一般过去式learned。"
+      },
+      {
+        "id": "q9",
+        "blankNumber": 9,
+        "position": "9)",
+        "options": {"A":"keep","B":"kept","C":"will keep","D":"am keeping"},
+        "answer": "C",
+        "analysis": "“会保存礼物和照片”，用一般将来时will keep。"
+      },
+      {
+        "id": "q10",
+        "blankNumber": 10,
+        "position": "10)",
+        "options": {"A":"never forget","B":"never forgot","C":"will never forget","D":"have never forgotten"},
+        "answer": "C",
+        "analysis": "“永远不会忘记这一天”，用一般将来时will never forget。"
+      }
+    ],
+    "tags": ["完形填空", "生日", "惊喜", "过去完成时"],
+    "wordCount": 225,
+    "readingTime": "7-9分钟"
+  },
+  {
+    "version": "1.0",
+    "type": "cloze",
+    "year": 2023,
+    "difficulty": "medium",
+    "source": "2023年中考模拟",
+    "title": "A School Library",
+    "passage": "Our school library is a great place for students to read and study. It is on the 1)________ (two) floor of the teaching building. There are all kinds of books, such as storybooks, science books and history books. Every morning, it 2)________ (open) at 8 o'clock and closes at 6 p.m.\n\nStudents can borrow up to three books at a time and keep them for two weeks. We must return them 3)________ (on) time. If we lose a book, we have to pay for it. Miss Li, the librarian, is very kind. She always helps us find the books we need 4)________ (quick).\n\nLast week, I borrowed a book about Chinese history. I 5)________ (read) it every night after finishing my homework. I learned a lot of interesting facts and 6)________ (share) them with my classmates. Reading books makes me 7)________ (feel) happy and enriches my knowledge. I love our school library and I go there 8)________ (one) a week.",
+    "totalBlanks": 8,
+    "questions": [
+      {
+        "id": "q1",
+        "blankNumber": 1,
+        "position": "1)",
+        "options": {
+          "A": "two",
+          "B": "second",
+          "C": "twice",
+          "D": "two's"
+        },
+        "answer": "B",
+        "analysis": "表示楼层用序数词，two的序数词是second（第二层）。"
+      },
+      {
+        "id": "q2",
+        "blankNumber": 2,
+        "position": "2)",
+        "options": {
+          "A": "open",
+          "B": "opens",
+          "C": "opened",
+          "D": "is opening"
+        },
+        "answer": "B",
+        "analysis": "every morning表示经常性动作，主语it是第三人称单数，用opens。"
+      },
+      {
+        "id": "q3",
+        "blankNumber": 3,
+        "position": "3)",
+        "options": {
+          "A": "on",
+          "B": "in",
+          "C": "at",
+          "D": "for"
+        },
+        "answer": "A",
+        "analysis": "on time是固定搭配，意为“按时、准时”。"
+      },
+      {
+        "id": "q4",
+        "blankNumber": 4,
+        "position": "4)",
+        "options": {
+          "A": "quick",
+          "B": "quicker",
+          "C": "quickly",
+          "D": "quickest"
+        },
+        "answer": "C",
+        "analysis": "副词修饰动词help，quick的副词形式是quickly。"
+      },
+      {
+        "id": "q5",
+        "blankNumber": 5,
+        "position": "5)",
+        "options": {
+          "A": "read",
+          "B": "reads",
+          "C": "am reading",
+          "D": "will read"
+        },
+        "answer": "A",
+        "analysis": "Last week表示过去时间，read的过去式仍为read（发音不同）。"
+      },
+      {
+        "id": "q6",
+        "blankNumber": 6,
+        "position": "6)",
+        "options": {
+          "A": "share",
+          "B": "shared",
+          "C": "shares",
+          "D": "sharing"
+        },
+        "answer": "B",
+        "analysis": "and连接并列谓语，learned是过去式，share也用过去式shared。"
+      },
+      {
+        "id": "q7",
+        "blankNumber": 7,
+        "position": "7)",
+        "options": {
+          "A": "feel",
+          "B": "to feel",
+          "C": "feeling",
+          "D": "felt"
+        },
+        "answer": "A",
+        "analysis": "make sb. do sth.是固定搭配，后接动词原形feel。"
+      },
+      {
+        "id": "q8",
+        "blankNumber": 8,
+        "position": "8)",
+        "options": {
+          "A": "one",
+          "B": "once",
+          "C": "first",
+          "D": "ones"
+        },
+        "answer": "B",
+        "analysis": "once a week是固定表达，意为“一周一次”，表频率。"
+      }
+    ],
+    "tags": ["完形填空", "校园", "序数词", "时态", "固定搭配"],
+    "wordCount": 182,
+    "readingTime": "5-7分钟"
+  },
+  {
+    "version": "1.0",
+    "type": "cloze",
+    "year": 2023,
+    "difficulty": "medium",
+    "source": "2023年中考模拟",
+    "title": "Protecting Wild Animals",
+    "passage": "Wild animals are our friends. They play an important role in nature. However, many wild animals 1)________ (become) in danger now because of human activities. Some people cut down trees, so animals lose their homes. Others hunt them for food or money.\n\nWe must do something 2)________ (protect) them. First, we should make laws to stop people from 3)________ (kill) wild animals. Second, we can build more nature reserves for them to live in. Third, it's necessary 4)________ (tell) more people about the importance of protecting wild animals.\n\nI have a pet dog at home, and I love animals very much. Last month, I 5)________ (join) a club called “Animal Lovers”. We often go to the zoo to help take care of the animals there. I hope more and more people 6)________ (realize) that protecting wild animals is protecting ourselves. If everyone 7)________ (do) a little, the world will be a better place for animals.",
+    "totalBlanks": 7,
+    "questions": [
+      {
+        "id": "q1",
+        "blankNumber": 1,
+        "position": "1)",
+        "options": {
+          "A": "become",
+          "B": "are becoming",
+          "C": "became",
+          "D": "will become"
+        },
+        "answer": "B",
+        "analysis": "now表示动作正在发生，用现在进行时are becoming，强调“正处于濒危状态”。"
+      },
+      {
+        "id": "q2",
+        "blankNumber": 2,
+        "position": "2)",
+        "options": {
+          "A": "protect",
+          "B": "to protect",
+          "C": "protecting",
+          "D": "protected"
+        },
+        "answer": "B",
+        "analysis": "不定式to protect作目的状语，意为“做一些事来保护它们”。"
+      },
+      {
+        "id": "q3",
+        "blankNumber": 3,
+        "position": "3)",
+        "options": {
+          "A": "kill",
+          "B": "to kill",
+          "C": "killing",
+          "D": "killed"
+        },
+        "answer": "C",
+        "analysis": "stop sb. from doing sth.是固定搭配，from后接动名词killing。"
+      },
+      {
+        "id": "q4",
+        "blankNumber": 4,
+        "position": "4)",
+        "options": {
+          "A": "tell",
+          "B": "to tell",
+          "C": "telling",
+          "D": "told"
+        },
+        "answer": "B",
+        "analysis": "It's necessary to do sth.是固定句型，it作形式主语，不定式to tell作真正主语。"
+      },
+      {
+        "id": "q5",
+        "blankNumber": 5,
+        "position": "5)",
+        "options": {
+          "A": "join",
+          "B": "joined",
+          "C": "joins",
+          "D": "joining"
+        },
+        "answer": "B",
+        "analysis": "Last month表示过去时间，谓语动词用一般过去式joined。"
+      },
+      {
+        "id": "q6",
+        "blankNumber": 6,
+        "position": "6)",
+        "options": {
+          "A": "realize",
+          "B": "realized",
+          "C": "will realize",
+          "D": "have realized"
+        },
+        "answer": "C",
+        "analysis": "hope后接宾语从句，表将来的愿望，用一般将来时will realize。"
+      },
+      {
+        "id": "q7",
+        "blankNumber": 7,
+        "position": "7)",
+        "options": {
+          "A": "do",
+          "B": "does",
+          "C": "did",
+          "D": "will do"
+        },
+        "answer": "B",
+        "analysis": "if引导的条件状语从句，遵循“主将从现”，主语everyone是第三人称单数，用does。"
+      }
+    ],
+    "tags": ["完形填空", "自然", "野生动物保护", "非谓语动词", "状语从句"],
+    "wordCount": 215,
+    "readingTime": "6-8分钟"
+  },
+  {
+    "version": "1.0",
+    "type": "cloze",
+    "year": 2023,
+    "difficulty": "medium",
+    "source": "2023年中考模拟",
+    "title": "My First Online Class",
+    "passage": "In 2022, I had my first online class because of the COVID-19 pandemic. My teacher sent us a link 1)________ (on) WeChat, and we joined the class at 9 a.m. sharp.\n\nAt first, I was a little nervous. I didn't know how 2)________ (use) the online learning software. My mother helped me and taught me step by step. During the class, our teacher spoke slowly and clearly 3)________ (make) sure we could understand her. We could ask questions by typing in the chat box or raising our hands online. I asked my English teacher a question about grammar, and she answered me 4)________ (patient).\n\nAfter the class, I felt it was interesting. Although we couldn't meet face to face, we still 5)________ (learn) a lot. I think online classes are a new way of learning. They are convenient and can save time on traveling to school. I 6)________ (take) more online classes if I have free time in the future.",
+    "totalBlanks": 6,
+    "questions": [
+      {
+        "id": "q1",
+        "blankNumber": 1,
+        "position": "1)",
+        "options": {
+          "A": "on",
+          "B": "in",
+          "C": "at",
+          "D": "for"
+        },
+        "answer": "A",
+        "analysis": "on WeChat是固定搭配，意为“在微信上”。"
+      },
+      {
+        "id": "q2",
+        "blankNumber": 2,
+        "position": "2)",
+        "options": {
+          "A": "use",
+          "B": "to use",
+          "C": "using",
+          "D": "used"
+        },
+        "answer": "B",
+        "analysis": "疑问词how+不定式作know的宾语，用to use。"
+      },
+      {
+        "id": "q3",
+        "blankNumber": 3,
+        "position": "3)",
+        "options": {
+          "A": "make",
+          "B": "to make",
+          "C": "making",
+          "D": "made"
+        },
+        "answer": "B",
+        "analysis": "不定式to make作目的状语，意为“说得慢且清晰是为了确保我们能听懂”。"
+      },
+      {
+        "id": "q4",
+        "blankNumber": 4,
+        "position": "4)",
+        "options": {
+          "A": "patient",
+          "B": "patience",
+          "C": "patiently",
+          "D": "more patient"
+        },
+        "answer": "C",
+        "analysis": "副词修饰动词answered，patient的副词形式是patiently。"
+      },
+      {
+        "id": "q5",
+        "blankNumber": 5,
+        "position": "5)",
+        "options": {
+          "A": "learn",
+          "B": "learned",
+          "C": "are learning",
+          "D": "will learn"
+        },
+        "answer": "B",
+        "analysis": "couldn't是过去式，并列谓语learn也用过去式learned。"
+      },
+      {
+        "id": "q6",
+        "blankNumber": 6,
+        "position": "6)",
+        "options": {
+          "A": "take",
+          "B": "took",
+          "C": "will take",
+          "D": "have taken"
+        },
+        "answer": "C",
+        "analysis": "in the future表示将来时间，用一般将来时will take。"
+      }
+    ],
+    "tags": ["完形填空", "科技", "网课", "不定式", "时态"],
+    "wordCount": 208,
+    "readingTime": "6-7分钟"
+  },
+  {
+    "version": "1.0",
+    "type": "cloze",
+    "year": 2023,
+    "difficulty": "medium",
+    "source": "2023年中考模拟",
+    "title": "The Spring Festival",
+    "passage": "The Spring Festival is the most important festival in China. It usually comes in January or February. Before the festival, people are busy 1)________ (clean) their houses and buying food. My parents always buy new clothes for me and my sister.\n\nOn New Year's Eve, all family members get together to have a big dinner. We eat dumplings, which are a symbol of good luck. After dinner, we watch the Spring Festival Gala on TV and talk happily. We also give red envelopes 2)________ (to) children for good luck. I love red envelopes because I can use the money 3)________ (buy) my favorite books.\n\nOn the first day of the New Year, we wear new clothes and visit our relatives. We say “Happy New Year” to each other and get best wishes. Last year, I 4)________ (receive) a lot of red envelopes and I 5)________ (visit) my grandparents in the countryside. They 6)________ (cook) a lot of delicious food for us. I think the Spring Festival is the 7)________ (happy) time of the year.",
+    "totalBlanks": 7,
+    "questions": [
+      {
+        "id": "q1",
+        "blankNumber": 1,
+        "position": "1)",
+        "options": {
+          "A": "clean",
+          "B": "to clean",
+          "C": "cleaning",
+          "D": "cleaned"
+        },
+        "answer": "C",
+        "analysis": "be busy doing sth.是固定搭配，意为“忙于做某事”，用cleaning。"
+      },
+      {
+        "id": "q2",
+        "blankNumber": 2,
+        "position": "2)",
+        "options": {
+          "A": "to",
+          "B": "for",
+          "C": "with",
+          "D": "at"
+        },
+        "answer": "A",
+        "analysis": "give sth. to sb.是固定搭配，意为“把某物给某人”。"
+      },
+      {
+        "id": "q3",
+        "blankNumber": 3,
+        "position": "3)",
+        "options": {
+          "A": "buy",
+          "B": "to buy",
+          "C": "buying",
+          "D": "bought"
+        },
+        "answer": "B",
+        "analysis": "use sth. to do sth.是固定搭配，意为“用某物做某事”，用to buy。"
+      },
+      {
+        "id": "q4",
+        "blankNumber": 4,
+        "position": "4)",
+        "options": {
+          "A": "receive",
+          "B": "received",
+          "C": "receives",
+          "D": "will receive"
+        },
+        "answer": "B",
+        "analysis": "Last year表示过去时间，谓语动词用一般过去式received。"
+      },
+      {
+        "id": "q5",
+        "blankNumber": 5,
+        "position": "5)",
+        "options": {
+          "A": "visit",
+          "B": "visited",
+          "C": "am visiting",
+          "D": "have visited"
+        },
+        "answer": "B",
+        "analysis": "and连接并列谓语，received是过去式，visit也用过去式visited。"
+      },
+      {
+        "id": "q6",
+        "blankNumber": 6,
+        "position": "6)",
+        "options": {
+          "A": "cook",
+          "B": "cooked",
+          "C": "cooks",
+          "D": "are cooking"
+        },
+        "answer": "B",
+        "analysis": "描述去年的动作，用一般过去式cooked。"
+      },
+      {
+        "id": "q7",
+        "blankNumber": 7,
+        "position": "7)",
+        "options": {
+          "A": "happy",
+          "B": "happier",
+          "C": "happiest",
+          "D": "happily"
+        },
+        "answer": "C",
+        "analysis": "the + 最高级 + of the year，happy的最高级是happiest，表“一年中最快乐的时光”。"
+      }
+    ],
+    "tags": ["完形填空", "节日", "春节", "固定搭配", "最高级"],
+    "wordCount": 245,
+    "readingTime": "7-9分钟"
+  },
+  {
+    "version": "1.0",
+    "type": "cloze",
+    "year": 2023,
+    "difficulty": "medium",
+    "source": "2023年中考模拟",
+    "title": "Running for Health",
+    "passage": "Running is a popular sport around the world. It is cheap and easy to do. You just need a pair of comfortable sports shoes and you can run anywhere, such as in the park, on the street or even in your neighborhood.\n\nI start running every morning 1)________ (since) last month. At first, I could only run for 10 minutes. I felt tired and wanted to give up. But my father encouraged me and ran with me every day. Now I 2)________ (can) run for 30 minutes without stopping. I feel much 3)________ (healthy) than before. My mother says running makes me 4)________ (look) stronger and more energetic.\n\nRunning is good for our physical and mental health. It can help us keep fit and reduce stress. Last week, I 5)________ (take) part in a running race in our school. I ran as fast as I could and 6)________ (win) the third prize. I was very excited and proud of myself. I 7)________ (keep) running every day because I want to be a better runner. I believe that 8)________ (run) regularly will make my life better.",
+    "totalBlanks": 8,
+    "questions": [
+      {
+        "id": "q1",
+        "blankNumber": 1,
+        "position": "1)",
+        "options": {
+          "A": "since",
+          "B": "for",
+          "C": "in",
+          "D": "on"
+        },
+        "answer": "A",
+        "analysis": "since last month表示“自从上个月以来”，是现在完成时的时间标志（此处start用一般现在时表持续动作，since符合语境）。"
+      },
+      {
+        "id": "q2",
+        "blankNumber": 2,
+        "position": "2)",
+        "options": {
+          "A": "can",
+          "B": "could",
+          "C": "am able to",
+          "D": "was able to"
+        },
+        "answer": "A",
+        "analysis": "Now表示现在的能力，用can（could表过去能力）。"
+      },
+      {
+        "id": "q3",
+        "blankNumber": 3,
+        "position": "3)",
+        "options": {
+          "A": "healthy",
+          "B": "healthier",
+          "C": "healthiest",
+          "D": "healthily"
+        },
+        "answer": "B",
+        "analysis": "than是比较级标志，healthy的比较级是healthier。"
+      },
+      {
+        "id": "q4",
+        "blankNumber": 4,
+        "position": "4)",
+        "options": {
+          "A": "look",
+          "B": "to look",
+          "C": "looking",
+          "D": "looked"
+        },
+        "answer": "A",
+        "analysis": "make sb. do sth.固定搭配，后接动词原形look。"
+      },
+      {
+        "id": "q5",
+        "blankNumber": 5,
+        "position": "5)",
+        "options": {
+          "A": "take",
+          "B": "took",
+          "C": "taken",
+          "D": "takes"
+        },
+        "answer": "B",
+        "analysis": "Last week表示过去时间，用一般过去式took（take part in意为“参加”）。"
+      },
+      {
+        "id": "q6",
+        "blankNumber": 6,
+        "position": "6)",
+        "options": {
+          "A": "win",
+          "B": "won",
+          "C": "wins",
+          "D": "winning"
+        },
+        "answer": "B",
+        "analysis": "and连接并列谓语，ran是过去式，win也用过去式won。"
+      },
+      {
+        "id": "q7",
+        "blankNumber": 7,
+        "position": "7)",
+        "options": {
+          "A": "keep",
+          "B": "kept",
+          "C": "will keep",
+          "D": "am keeping"
+        },
+        "answer": "C",
+        "analysis": "because引导的原因状语从句表将来意愿，主句用一般将来时will keep。"
+      },
+      {
+        "id": "q8",
+        "blankNumber": 8,
+        "position": "8)",
+        "options": {
+          "A": "run",
+          "B": "to run",
+          "C": "running",
+          "D": "ran"
+        },
+        "answer": "C",
+        "analysis": "动名词running作主语，表“规律跑步这件事”。"
+      }
+    ],
+    "tags": ["完形填空", "运动", "健康", "比较级", "非谓语动词"],
+    "wordCount": 228,
+    "readingTime": "7-8分钟"
+  },
+  {
+    "version": "1.0",
+    "type": "cloze",
+    "year": 2023,
+    "difficulty": "medium",
+    "source": "2023年中考模拟",
+    "title": "A Trip to the Beach",
+    "passage": "Last summer vacation, I went to the beach with my family. We drove there early in the morning and it 1)________ (take) us two hours to get there. When we arrived, the sun was shining brightly and the sea was blue and beautiful.\n\nFirst, we put down our things and walked on the soft sand. I picked up some colorful shells and my little brother built a sandcastle. Then we went swimming in the sea. The water was warm and 2)________ (relax). My father taught me how to surf, but it was a little difficult. I tried many times and finally I 3)________ (can) stand on the surfboard for a few seconds.\n\nAt noon, we had a picnic on the beach. We ate sandwiches, fruits and seafood. The seafood was 4)________ (fresh) than what we buy in the city. After lunch, we played beach volleyball with some other tourists. We laughed a lot and had a great time.\n\nIn the afternoon, we watched the sunset by the sea. It was the most beautiful sunset I 5)________ (see) in my life. Before we left, I took a lot of photos 6)________ (remember) the happy moment. This trip was 7)________ (wonder) and I want to go to the beach again next summer.",
+    "totalBlanks": 7,
+    "questions": [
+      {
+        "id": "q1",
+        "blankNumber": 1,
+        "position": "1)",
+        "options": {
+          "A": "take",
+          "B": "took",
+          "C": "taken",
+          "D": "takes"
+        },
+        "answer": "B",
+        "analysis": "It takes sb. some time to do sth.句型，Last summer vacation表过去，take用过去式took。"
+      },
+      {
+        "id": "q2",
+        "blankNumber": 2,
+        "position": "2)",
+        "options": {
+          "A": "relax",
+          "B": "relaxed",
+          "C": "relaxing",
+          "D": "relaxes"
+        },
+        "answer": "C",
+        "analysis": "形容词修饰water（物），relaxing表示“令人放松的”（relaxed修饰人）。"
+      },
+      {
+        "id": "q3",
+        "blankNumber": 3,
+        "position": "3)",
+        "options": {
+          "A": "can",
+          "B": "could",
+          "C": "am able to",
+          "D": "was able to"
+        },
+        "answer": "B",
+        "analysis": "tried是过去式，“能站在冲浪板上”是过去的能力，用could。"
+      },
+      {
+        "id": "q4",
+        "blankNumber": 4,
+        "position": "4)",
+        "options": {
+          "A": "fresh",
+          "B": "fresher",
+          "C": "freshest",
+          "D": "freshly"
+        },
+        "answer": "B",
+        "analysis": "than是比较级标志，fresh的比较级是fresher。"
+      },
+      {
+        "id": "q5",
+        "blankNumber": 5,
+        "position": "5)",
+        "options": {
+          "A": "see",
+          "B": "saw",
+          "C": "have seen",
+          "D": "had seen"
+        },
+        "answer": "D",
+        "analysis": "看到最美日落发生在过去的过去（看日落是过去时，此前从未见过更美的），用过去完成时had seen。"
+      },
+      {
+        "id": "q6",
+        "blankNumber": 6,
+        "position": "6)",
+        "options": {
+          "A": "remember",
+          "B": "to remember",
+          "C": "remembering",
+          "D": "remembered"
+        },
+        "answer": "B",
+        "analysis": "不定式to remember作目的状语，意为“拍照是为了记住美好时刻”。"
+      },
+      {
+        "id": "q7",
+        "blankNumber": 7,
+        "position": "7)",
+        "options": {
+          "A": "wonder",
+          "B": "wonderful",
+          "C": "wonderfully",
+          "D": "wonders"
+        },
+        "answer": "B",
+        "analysis": "was是系动词，后接形容词作表语，wonder的形容词是wonderful。"
+      }
+    ],
+    "tags": ["完形填空", "旅行", "海滩", "时态", "比较级"],
+    "wordCount": 210,
+    "readingTime": "6-8分钟"
+  },
+  {
+    "version": "1.0",
+    "type": "cloze",
+    "year": 2023,
+    "difficulty": "medium",
+    "source": "2023年中考模拟",
+    "title": "Planting Trees on Arbor Day",
+    "passage": "March 12th is Arbor Day in China. It's a day for people to plant trees. Planting trees is good for the environment because trees can make the air 1)________ (clean) and reduce pollution.\n\nLast Arbor Day, our class went to a park to plant trees. Our teacher divided us into groups of four. Each group had to dig a hole, put a young tree into it and fill the hole with soil. At first, I didn't know how 2)________ (dig) a hole. My deskmate Tom taught me and we worked together. It was hard work but we felt happy. We 3)________ (water) the trees after planting them. Our teacher told us that trees 4)________ (need) enough water to grow well.\n\nI planted two small trees that day. I hope they 5)________ (grow) into big trees in a few years. Now I go to the park to see my trees every month. I water them if it 6)________ (not rain) for a long time. I think everyone should plant trees because it's our duty 7)________ (protect) the earth. A greener earth means a healthier life for us.",
+    "totalBlanks": 7,
+    "questions": [
+      {
+        "id": "q1",
+        "blankNumber": 1,
+        "position": "1)",
+        "options": {
+          "A": "clean",
+          "B": "cleaner",
+          "C": "cleanest",
+          "D": "cleanly"
+        },
+        "answer": "B",
+        "analysis": "make the air cleaner表示“使空气更干净”，暗含比较（种树前后），用比较级cleaner。"
+      },
+      {
+        "id": "q2",
+        "blankNumber": 2,
+        "position": "2)",
+        "options": {
+          "A": "dig",
+          "B": "to dig",
+          "C": "digging",
+          "D": "dug"
+        },
+        "answer": "B",
+        "analysis": "疑问词how+不定式作know的宾语，用to dig。"
+      },
+      {
+        "id": "q3",
+        "blankNumber": 3,
+        "position": "3)",
+        "options": {
+          "A": "water",
+          "B": "watered",
+          "C": "waters",
+          "D": "are watering"
+        },
+        "answer": "B",
+        "analysis": "Last Arbor Day表示过去时间，用一般过去式watered。"
+      },
+      {
+        "id": "q4",
+        "blankNumber": 4,
+        "position": "4)",
+        "options": {
+          "A": "need",
+          "B": "needed",
+          "C": "needs",
+          "D": "will need"
+        },
+        "answer": "A",
+        "analysis": "宾语从句描述客观事实，用一般现在时，主语trees是复数，用need。"
+      },
+      {
+        "id": "q5",
+        "blankNumber": 5,
+        "position": "5)",
+        "options": {
+          "A": "grow",
+          "B": "grew",
+          "C": "will grow",
+          "D": "have grown"
+        },
+        "answer": "C",
+        "analysis": "in a few years表示将来时间，用一般将来时will grow。"
+      },
+      {
+        "id": "q6",
+        "blankNumber": 6,
+        "position": "6)",
+        "options": {
+          "A": "not rain",
+          "B": "doesn't rain",
+          "C": "didn't rain",
+          "D": "won't rain"
+        },
+        "answer": "B",
+        "analysis": "if引导的条件状语从句，遵循“主将从现”，主语it是第三人称单数，否定式用doesn't rain。"
+      },
+      {
+        "id": "q7",
+        "blankNumber": 7,
+        "position": "7)",
+        "options": {
+          "A": "protect",
+          "B": "to protect",
+          "C": "protecting",
+          "D": "protected"
+        },
+        "answer": "B",
+        "analysis": "It's one's duty to do sth.是固定句型，it作形式主语，不定式to protect作真正主语。"
+      }
+    ],
+    "tags": ["完形填空", "环保", "植树节", "宾语从句", "条件状语从句"],
+    "wordCount": 212,
+    "readingTime": "6-8分钟"
+  },
+  {
+    "version": "1.0",
+    "type": "cloze",
+    "year": 2023,
+    "difficulty": "medium",
+    "source": "2023年中考模拟",
+    "title": "My Favorite Hobby",
+    "passage": "Everyone has a hobby. My favorite hobby is reading books. I started reading when I was five years old. My mother 1)________ (buy) me a lot of picture books and read stories to me every night.\n\nNow I read for an hour every day after school. I like reading different kinds of books, such as fairy tales, science fiction and biographies. Reading makes me 2)________ (know) more about the world. When I read, I forget my problems and feel relaxed. Last month, I read a book about Marie Curie. She is a great scientist and her story 3)________ (teach) me to work hard and never give up.\n\nI often go to the bookstore to buy new books or borrow them from the library. Last week, I 4)________ (borrow) a book about space from the library. I 5)________ (read) it for three days and I will finish it tomorrow. My best friend Lily also likes reading. We often share our favorite books and talk about them. She 6)________ (recommend) a new book to me yesterday and I want to read it this weekend.\n\nI think reading is the 7)________ (good) hobby. It not only makes me happy but also improves my writing skills. I 8)________ (keep) reading for the rest of my life.",
+    "totalBlanks": 8,
+    "questions": [
+      {
+        "id": "q1",
+        "blankNumber": 1,
+        "position": "1)",
+        "options": {
+          "A": "buy",
+          "B": "bought",
+          "C": "buys",
+          "D": "is buying"
+        },
+        "answer": "B",
+        "analysis": "when I was five years old表示过去时间，用一般过去式bought。"
+      },
+      {
+        "id": "q2",
+        "blankNumber": 2,
+        "position": "2)",
+        "options": {
+          "A": "know",
+          "B": "to know",
+          "C": "knowing",
+          "D": "knew"
+        },
+        "answer": "A",
+        "analysis": "make sb. do sth.固定搭配，后接动词原形know。"
+      },
+      {
+        "id": "q3",
+        "blankNumber": 3,
+        "position": "3)",
+        "options": {
+          "A": "teach",
+          "B": "taught",
+          "C": "teaches",
+          "D": "is teaching"
+        },
+        "answer": "C",
+        "analysis": "描述客观事实，主语her story是第三人称单数，用一般现在时teaches。"
+      },
+      {
+        "id": "q4",
+        "blankNumber": 4,
+        "position": "4)",
+        "options": {
+          "A": "borrow",
+          "B": "borrowed",
+          "C": "borrows",
+          "D": "has borrowed"
+        },
+        "answer": "B",
+        "analysis": "Last week表示过去时间，用一般过去式borrowed。"
+      },
+      {
+        "id": "q5",
+        "blankNumber": 5,
+        "position": "5)",
+        "options": {
+          "A": "read",
+          "B": "am reading",
+          "C": "have read",
+          "D": "will read"
+        },
+        "answer": "C",
+        "analysis": "for three days是现在完成时的时间标志，用have read（表动作持续到现在）。"
+      },
+      {
+        "id": "q6",
+        "blankNumber": 6,
+        "position": "6)",
+        "options": {
+          "A": "recommend",
+          "B": "recommended",
+          "C": "recommends",
+          "D": "will recommend"
+        },
+        "answer": "B",
+        "analysis": "yesterday表示过去时间，用一般过去式recommended。"
+      },
+      {
+        "id": "q7",
+        "blankNumber": 7,
+        "position": "7)",
+        "options": {
+          "A": "good",
+          "B": "better",
+          "C": "best",
+          "D": "well"
+        },
+        "answer": "C",
+        "analysis": "the + 最高级，good的最高级是best，表“最好的爱好”。"
+      },
+      {
+        "id": "q8",
+        "blankNumber": 8,
+        "position": "8)",
+        "options": {
+          "A": "keep",
+          "B": "kept",
+          "C": "will keep",
+          "D": "am keeping"
+        },
+        "answer": "C",
+        "analysis": "for the rest of my life表示将来时间，用一般将来时will keep。"
+      }
+    ],
+    "tags": ["完形填空", "爱好", "阅读", "现在完成时", "最高级"],
+    "wordCount": 230,
+    "readingTime": "7-8分钟"
+  },
+  {
+    "version": "1.0",
+    "type": "cloze",
+    "year": 2023,
+    "difficulty": "medium",
+    "source": "2023年中考模拟",
+    "title": "Helping My Mom Cook",
+    "passage": "My mom is a great cook. She makes delicious food for my family every day. Last Sunday, I decided to help her cook dinner because she was tired after work.\n\nFirst, I washed the vegetables carefully. My mom told me to cut the tomatoes into small pieces, but I cut them 1)________ (slow) because I was afraid of cutting my fingers. Then I helped her cook eggs with tomatoes, which is my favorite dish. My mom taught me how 2)________ (fry) eggs well. She said the oil must be hot enough before putting the eggs in the pan.\n\nWhile my mom was cooking soup, I set the table with bowls and chopsticks. I also put some flowers on the table to make it look nicer. When dinner was ready, my father and my brother 3)________ (come) home. They were surprised to see the food I cooked. My father said it was 4)________ (delicious) than usual. I felt very proud and happy.\n\nAfter dinner, I cleaned the dishes and the kitchen. My mom thanked me and said I 5)________ (grow) up. I think helping my parents do housework is meaningful. It can make them feel relaxed and show my love to them. I 6)________ (help) my mom cook more often in the future.",
+    "totalBlanks": 6,
+    "questions": [
+      {
+        "id": "q1",
+        "blankNumber": 1,
+        "position": "1)",
+        "options": {
+          "A": "slow",
+          "B": "slowly",
+          "C": "slower",
+          "D": "slowest"
+        },
+        "answer": "B",
+        "analysis": "副词修饰动词cut，slow的副词形式是slowly。"
+      },
+      {
+        "id": "q2",
+        "blankNumber": 2,
+        "position": "2)",
+        "options": {
+          "A": "fry",
+          "B": "to fry",
+          "C": "frying",
+          "D": "fried"
+        },
+        "answer": "B",
+        "analysis": "疑问词how+不定式作taught的宾语，用to fry。"
+      },
+      {
+        "id": "q3",
+        "blankNumber": 3,
+        "position": "3)",
+        "options": {
+          "A": "come",
+          "B": "came",
+          "C": "comes",
+          "D": "are coming"
+        },
+        "answer": "B",
+        "analysis": "描述上周日的动作，用一般过去式came。"
+      },
+      {
+        "id": "q4",
+        "blankNumber": 4,
+        "position": "4)",
+        "options": {
+          "A": "delicious",
+          "B": "more delicious",
+          "C": "most delicious",
+          "D": "deliciously"
+        },
+        "answer": "B",
+        "analysis": "than是比较级标志，delicious的比较级是more delicious。"
+      },
+      {
+        "id": "q5",
+        "blankNumber": 5,
+        "position": "5)",
+        "options": {
+          "A": "grow",
+          "B": "grew",
+          "C": "have grown",
+          "D": "had grown"
+        },
+        "answer": "C",
+        "analysis": "“长大”的动作到妈妈说的时候已经完成，用现在完成时have grown（said是过去时，此处强调对现在的影响）。"
+      },
+      {
+        "id": "q6",
+        "blankNumber": 6,
+        "position": "6)",
+        "options": {
+          "A": "help",
+          "B": "helped",
+          "C": "will help",
+          "D": "am helping"
+        },
+        "answer": "C",
+        "analysis": "in the future表示将来时间，用一般将来时will help。"
+      }
+    ],
+    "tags": ["完形填空", "家庭", "家务", "比较级", "不定式"],
+    "wordCount": 205,
+    "readingTime": "6-7分钟"
+  },
+  {
+    "version": "1.0",
+    "type": "cloze",
+    "year": 2023,
+    "difficulty": "medium",
+    "source": "2023年中考模拟",
+    "title": "A Rainy Day",
+    "passage": "Yesterday was a rainy day. I woke up early and heard the rain 1)________ (beat) against the window. I looked out and saw the streets were wet and people were walking with umbrellas.\n\nI couldn't go out to play basketball with my friends as planned, so I decided to stay at home and read a book. My mom made hot milk for me and I sat on the sofa, reading a storybook about adventures. The story was so interesting that I 2)________ (forget) the time. When I finished the book, it was already noon. I helped my mom make noodles for lunch. The hot noodles made me feel warm on the cold rainy day.\n\nIn the afternoon, the rain stopped and the sun came out. I went out to the park with my dog. The air was fresh and the grass was green. I saw some children 3)________ (play) on the swing and they laughed happily. My dog ran around and chased a butterfly. I took a walk and enjoyed the beautiful scenery. I found that a rainy day can be 4)________ (enjoy) too if you have a good mood.\n\nWhen I got home, I wrote a diary about the day. I 5)________ (learn) that life is full of small joys, even on a rainy day. I 6)________ (always remember) this special rainy day.",
+    "totalBlanks": 6,
+    "questions": [
+      {
+        "id": "q1",
+        "blankNumber": 1,
+        "position": "1)",
+        "options": {
+          "A": "beat",
+          "B": "beating",
+          "C": "to beat",
+          "D": "beaten"
+        },
+        "answer": "B",
+        "analysis": "hear sb./sth. doing sth.表示“听到某物正在做某事”，用beating（强调雨敲打窗户的动作正在进行）。"
+      },
+      {
+        "id": "q2",
+        "blankNumber": 2,
+        "position": "2)",
+        "options": {
+          "A": "forget",
+          "B": "forgot",
+          "C": "forgets",
+          "D": "have forgotten"
+        },
+        "answer": "B",
+        "analysis": "描述昨天的动作，用一般过去式forgot。"
+      },
+      {
+        "id": "q3",
+        "blankNumber": 3,
+        "position": "3)",
+        "options": {
+          "A": "play",
+          "B": "to play",
+          "C": "playing",
+          "D": "played"
+        },
+        "answer": "C",
+        "analysis": "see sb. doing sth.表示“看到某人正在做某事”，用playing（强调看到孩子们正在荡秋千）。"
+      },
+      {
+        "id": "q4",
+        "blankNumber": 4,
+        "position": "4)",
+        "options": {
+          "A": "enjoy",
+          "B": "enjoyable",
+          "C": "enjoyably",
+          "D": "enjoyed"
+        },
+        "answer": "B",
+        "analysis": "be动词后接形容词作表语，enjoy的形容词是enjoyable（令人愉快的）。"
+      },
+      {
+        "id": "q5",
+        "blankNumber": 5,
+        "position": "5)",
+        "options": {
+          "A": "learn",
+          "B": "learned",
+          "C": "learns",
+          "D": "am learning"
+        },
+        "answer": "B",
+        "analysis": "描述昨天的感悟，用一般过去式learned。"
+      },
+      {
+        "id": "q6",
+        "blankNumber": 6,
+        "position": "6)",
+        "options": {
+          "A": "always remember",
+          "B": "will always remember",
+          "C": "always remembered",
+          "D": "am always remembering"
+        },
+        "answer": "B",
+        "analysis": "表将来的意愿，用一般将来时will always remember（会永远记住这一天）。"
+      }
+    ],
+    "tags": ["完形填空", "日常", "雨天", "非谓语动词", "时态"],
+    "wordCount": 220,
+    "readingTime": "7-8分钟"
+  }
+]

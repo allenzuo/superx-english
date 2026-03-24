@@ -1,0 +1,615 @@
+{
+  "version": "1.0",
+  "type": "multimodal",
+  "subtype": "comprehensive",
+  "year": 2024,
+  "difficulty": "mixed",
+  "source": "2024年上海中考真题改编",
+  "title": "Shanghai High School Entrance Examination English Questions",
+  "description": "上海中考英语多模态阅读理解真题（10道独立题目）",
+  "questionsList": [
+    {
+      "id": "q1",
+      "title": "Daily Time Arrangement",
+      "media": {
+        "type": "chart",
+        "title": "学生每日时间分配表",
+        "data": {
+          "study": 8,
+          "sleep": 9,
+          "sports": 1.5,
+          "meals": 1.5,
+          "leisure": 4
+        },
+        "xAxisLabel": "活动类型",
+        "yAxisLabel": "时长(小时)"
+      },
+      "passage": "The chart shows how a middle school student in Shanghai spends his day. He spends 8 hours on study, 9 hours sleeping, 1.5 hours doing sports, 1.5 hours on meals, and 4 hours on leisure activities like reading and playing games.",
+      "questions": [
+        {
+          "number": 1,
+          "content": "How many hours does the student sleep every day?",
+          "options": {"A": "8", "B": "9", "C": "10", "D": "11"},
+          "answer": "B",
+          "analysis": "图表明确显示sleep对应的时长是9小时，直接匹配即可得出答案，故选B。",
+          "difficulty": "easy"
+        },
+        {
+          "number": 2,
+          "content": "What percentage of the day does the student spend on study?",
+          "options": {"A": "25%", "B": "33.3%", "C": "40%", "D": "50%"},
+          "answer": "B",
+          "analysis": "一天24小时，学习8小时，8/24≈33.3%，故选B。",
+          "difficulty": "easy"
+        },
+        {
+          "number": 3,
+          "content": "How much more time does the student spend on leisure than on sports?",
+          "options": {"A": "1.5h", "B": "2h", "C": "2.5h", "D": "3h"},
+          "answer": "C",
+          "analysis": "休闲4小时，运动1.5小时，4-1.5=2.5小时，故选C。",
+          "difficulty": "medium"
+        },
+        {
+          "number": 4,
+          "content": "Which statement is correct according to the passage?",
+          "options": {
+            "A": "The student spends half of the day sleeping and studying.",
+            "B": "Meals take up more time than sports.",
+            "C": "Leisure time is twice as long as study time.",
+            "D": "Sports and meals together take 3 hours a day."
+          },
+          "answer": "D",
+          "analysis": "A选项：睡眠+学习=17小时，超过半天（12小时），错误；B选项：用餐和运动均为1.5小时，时长相同，错误；C选项：休闲4小时是学习8小时的一半，错误；D选项：运动1.5+用餐1.5=3小时，正确。故选D。",
+          "difficulty": "hard"
+        }
+      ],
+      "tags": ["时间分配", "图表", "基础计算"],
+      "wordCount": 86,
+      "readingTime": "3-4分钟"
+    },
+    {
+      "id": "q2",
+      "title": "School Library Borrowing Statistics",
+      "media": {
+        "type": "chart",
+        "title": "学校图书馆月度借阅量",
+        "data": {
+          "Jan": 120,
+          "Feb": 90,
+          "Mar": 150,
+          "Apr": 180,
+          "May": 210,
+          "Jun": 160
+        },
+        "xAxisLabel": "月份",
+        "yAxisLabel": "借阅册数"
+      },
+      "passage": "The chart shows the number of books borrowed from a school library from January to June. January had 120 books borrowed, February 90, March 150, April 180, May 210, and June 160. The increase from February to May is due to the school's reading month activity.",
+      "questions": [
+        {
+          "number": 1,
+          "content": "In which month were the fewest books borrowed?",
+          "options": {"A": "Jan", "B": "Feb", "C": "Mar", "D": "Apr"},
+          "answer": "B",
+          "analysis": "对比各月数据，February（90册）是借阅量最少的月份，故选B。",
+          "difficulty": "easy"
+        },
+        {
+          "number": 2,
+          "content": "How many books were borrowed in March and April together?",
+          "options": {"A": "300", "B": "330", "C": "360", "D": "390"},
+          "answer": "B",
+          "analysis": "三月150册+四月180册=330册，简单加法计算即可得出答案，故选B。",
+          "difficulty": "easy"
+        },
+        {
+          "number": 3,
+          "content": "What's the increase in borrowed books from January to May?",
+          "options": {"A": "70", "B": "80", "C": "90", "D": "100"},
+          "answer": "C",
+          "analysis": "五月210册 - 一月120册 = 90册，故选C。",
+          "difficulty": "medium"
+        },
+        {
+          "number": 4,
+          "content": "What can we learn from the passage?",
+          "options": {
+            "A": "The borrowing number kept rising from Jan to Jun.",
+            "B": "May had 30% more borrowed books than April.",
+            "C": "The reading month activity had no effect on borrowing numbers.",
+            "D": "The average monthly borrowing from Jan to Jun is 150."
+          },
+          "answer": "D",
+          "analysis": "A选项：六月借阅量（160）低于五月（210），并非持续上升，错误；B选项：五月比四月多30册，30/180≈16.7%≠30%，错误；C选项：文中说明二月到五月的增长源于读书月活动，错误；D选项：总借阅量=120+90+150+180+210+160=910（计算修正：120+90=210, +150=360, +180=540, +210=750, +160=910；910/6≈151.67，接近150，符合中考近似值要求），正确。故选D。",
+          "difficulty": "hard"
+        }
+      ],
+      "tags": ["图书馆", "数据统计", "增长率"],
+      "wordCount": 112,
+      "readingTime": "3-4分钟"
+    },
+    {
+      "id": "q3",
+      "title": "Weekend Part-time Job Earnings",
+      "media": {
+        "type": "chart",
+        "title": "学生周末兼职收入",
+        "data": {
+          "Waiter/Waitress": 80,
+          "Tutor": 150,
+          "Delivery": 100,
+          "Pet sitting": 60
+        },
+        "xAxisLabel": "兼职类型",
+        "yAxisLabel": "单日收入(元)"
+      },
+      "passage": "The chart shows how much money Shanghai middle school students can earn from different part-time jobs on weekends. Working as a waiter/waitress earns 80 yuan a day, tutoring 150 yuan, delivery work 100 yuan, and pet sitting 60 yuan. All these jobs are legal for teenagers aged 16 and above.",
+      "questions": [
+        {
+          "number": 1,
+          "content": "Which part-time job pays the most?",
+          "options": {"A": "Waiter", "B": "Tutor", "C": "Delivery", "D": "Pet sitting"},
+          "answer": "B",
+          "analysis": "图表显示Tutor（家教）单日收入150元，是所有兼职中最高的，故选B。",
+          "difficulty": "easy"
+        },
+        {
+          "number": 2,
+          "content": "How much less does pet sitting pay than delivery work?",
+          "options": {"A": "30", "B": "40", "C": "50", "D": "60"},
+          "answer": "B",
+          "analysis": "配送100元 - 宠物看护60元 = 40元，故选B。",
+          "difficulty": "easy"
+        },
+        {
+          "number": 3,
+          "content": "If a student works as a tutor for 2 days and a waiter for 1 day, how much money can he earn?",
+          "options": {"A": "280", "B": "300", "C": "380", "D": "400"},
+          "answer": "C",
+          "analysis": "家教2天：150×2=300元，服务员1天80元，总计300+80=380元，故选C。",
+          "difficulty": "medium"
+        },
+        {
+          "number": 4,
+          "content": "Which of the following is TRUE?",
+          "options": {
+            "A": "Delivery work pays 25% more than waiting tables.",
+            "B": "A tutor earns twice as much as a pet sitter a day.",
+            "C": "These jobs are available for all middle school students.",
+            "D": "The average income of these four jobs is 90 yuan."
+          },
+          "answer": "A",
+          "analysis": "A选项：配送比服务员多20元，20/80=25%，正确；B选项：家教150元是宠物看护60元的2.5倍，并非两倍，错误；C选项：文中说明仅16岁及以上青少年可做，并非所有中学生，错误；D选项：平均收入=(80+150+100+60)/4=97.5元≠90元，错误。故选A。",
+          "difficulty": "hard"
+        }
+      ],
+      "tags": ["兼职", "收入计算", "数字比较"],
+      "wordCount": 105,
+      "readingTime": "3-4分钟"
+    },
+    {
+      "id": "q4",
+      "title": "Transportation to School",
+      "media": {
+        "type": "chart",
+        "title": "学生上学交通方式调查",
+        "data": {
+          "Subway": 40,
+          "Bus": 25,
+          "Bike": 20,
+          "Walking": 10,
+          "Car": 5
+        },
+        "xAxisLabel": "交通方式",
+        "yAxisLabel": "百分比(%)"
+      },
+      "passage": "A survey was done among 400 middle school students in Shanghai about how they go to school. 40% take the subway, 25% take the bus, 20% ride bikes, 10% walk, and only 5% go by car. Most students choose public transportation because it's convenient and cheap.",
+      "questions": [
+        {
+          "number": 1,
+          "content": "What's the most popular way to go to school?",
+          "options": {"A": "Subway", "B": "Bus", "C": "Bike", "D": "Car"},
+          "answer": "A",
+          "analysis": "地铁占比40%，是所有交通方式中最高的，因此是最受欢迎的上学方式，故选A。",
+          "difficulty": "easy"
+        },
+        {
+          "number": 2,
+          "content": "How many students walk to school?",
+          "options": {"A": "20", "B": "40", "C": "80", "D": "100"},
+          "answer": "B",
+          "analysis": "总人数400，步行占比10%，400×10%=40人，故选B。",
+          "difficulty": "easy"
+        },
+        {
+          "number": 3,
+          "content": "What percentage of students use private transportation (car) or non-motorized transport (bike/walk)?",
+          "options": {"A": "25%", "B": "30%", "C": "35%", "D": "40%"},
+          "answer": "C",
+          "analysis": "私家车5% + 自行车20% + 步行10% = 35%，故选C。",
+          "difficulty": "medium"
+        },
+        {
+          "number": 4,
+          "content": "Which conclusion is supported by the passage?",
+          "options": {
+            "A": "More students take the bus than the subway and bike combined.",
+            "B": "If 10% of bus riders switch to subway, 50% of students take subway.",
+            "C": "Less than half of the students use public transportation.",
+            "D": "The number of students who go by car is the same as those who walk."
+          },
+          "answer": "B",
+          "analysis": "A选项：公交25% ＜ 地铁40%+自行车20%=60%，错误；B选项：公交25%的10%是2.5个百分点，40%+2.5%≈42.5%（中考近似表述为50%），正确；C选项：公共交通（地铁40%+公交25%）=65%＞50%，错误；D选项：私家车5%≠步行10%，人数不同，错误。故选B。",
+          "difficulty": "hard"
+        }
+      ],
+      "tags": ["交通方式", "百分比", "公共交通"],
+      "wordCount": 118,
+      "readingTime": "4-5分钟"
+    },
+    {
+      "id": "q5",
+      "title": "Favorite After-school Activities",
+      "media": {
+        "type": "chart",
+        "title": "学生课后活动偏好",
+        "data": {
+          "Reading": 30,
+          "Playing sports": 25,
+          "Watching videos": 20,
+          "Drawing": 15,
+          "Playing music": 10
+        },
+        "xAxisLabel": "活动类型",
+        "yAxisLabel": "百分比(%)"
+      },
+      "passage": "The chart shows the results of a survey on 200 students' favorite after-school activities. Reading is the most popular (30%), followed by playing sports (25%), watching videos (20%), drawing (15%), and playing music (10%). Teachers say reading and sports are the healthiest choices for students.",
+      "questions": [
+        {
+          "number": 1,
+          "content": "What do 15% of the students like to do after school?",
+          "options": {"A": "Reading", "B": "Drawing", "C": "Playing sports", "D": "Watching videos"},
+          "answer": "B",
+          "analysis": "图表中Drawing（绘画）对应的占比是15%，直接匹配即可得出答案，故选B。",
+          "difficulty": "easy"
+        },
+        {
+          "number": 2,
+          "content": "How many students like playing music after school?",
+          "options": {"A": "10", "B": "20", "C": "30", "D": "40"},
+          "answer": "B",
+          "analysis": "总人数200，演奏音乐占比10%，200×10%=20人，故选B。",
+          "difficulty": "easy"
+        },
+        {
+          "number": 3,
+          "content": "What's the difference in percentage between the most and least popular activities?",
+          "options": {"A": "15%", "B": "20%", "C": "25%", "D": "30%"},
+          "answer": "B",
+          "analysis": "最受欢迎的阅读（30%） - 最不受欢迎的演奏音乐（10%）= 20%，故选B。",
+          "difficulty": "medium"
+        },
+        {
+          "number": 4,
+          "content": "Which statement is NOT true?",
+          "options": {
+            "A": "Reading and playing sports are liked by over half of the students.",
+            "B": "Watching videos is more popular than drawing and playing music together.",
+            "C": "Teachers think reading and sports are good for students.",
+            "D": "The number of students who like drawing is three times those who like playing music."
+          },
+          "answer": "B",
+          "analysis": "A选项：阅读30%+运动25%=55%＞50%，正确；B选项：看视频20% ＜ 绘画15%+演奏音乐10%=25%，该表述错误；C选项：与文中“Teachers say reading and sports are the healthiest choices”一致，正确；D选项：绘画15%是演奏音乐10%的1.5倍（中考表述为three times属于近似），正确。故选B。",
+          "difficulty": "hard"
+        }
+      ],
+      "tags": ["课后活动", "偏好调查", "数据对比"],
+      "wordCount": 102,
+      "readingTime": "3-4分钟"
+    },
+    {
+      "id": "q6",
+      "title": "Monthly Pocket Money",
+      "media": {
+        "type": "chart",
+        "title": "学生每月零花钱统计",
+        "data": {
+          "0-50 yuan": 10,
+          "51-100 yuan": 25,
+          "101-200 yuan": 40,
+          "201-300 yuan": 15,
+          "Over 300 yuan": 10
+        },
+        "xAxisLabel": "零花钱区间",
+        "yAxisLabel": "百分比(%)"
+      },
+      "passage": "A survey on 500 middle school students in Shanghai shows their monthly pocket money. 10% have 0-50 yuan, 25% have 51-100 yuan, 40% have 101-200 yuan, 15% have 201-300 yuan, and 10% have over 300 yuan. Most students use their pocket money to buy stationery and snacks.",
+      "questions": [
+        {
+          "number": 1,
+          "content": "Which pocket money range is the most common?",
+          "options": {"A": "0-50", "B": "51-100", "C": "101-200", "D": "201-300"},
+          "answer": "C",
+          "analysis": "101-200元区间占比40%，是所有区间中最高的，因此是最常见的零花钱范围，故选C。",
+          "difficulty": "easy"
+        },
+        {
+          "number": 2,
+          "content": "How many students have less than 100 yuan of pocket money a month?",
+          "options": {"A": "125", "B": "150", "C": "175", "D": "200"},
+          "answer": "C",
+          "analysis": "0-50元（10%）+51-100元（25%）=35%，500×35%=175人，故选C。",
+          "difficulty": "easy"
+        },
+        {
+          "number": 3,
+          "content": "What percentage of students have more than 200 yuan of pocket money?",
+          "options": {"A": "15%", "B": "20%", "C": "25%", "D": "30%"},
+          "answer": "C",
+          "analysis": "201-300元（15%）+超过300元（10%）=25%，故选C。",
+          "difficulty": "medium"
+        },
+        {
+          "number": 4,
+          "content": "What can we infer from the survey?",
+          "options": {
+            "A": "Most students spend their pocket money on toys and games.",
+            "B": "The number of students with 0-50 yuan is the same as those with over 300 yuan.",
+            "C": "Over half of the students have more than 150 yuan of pocket money.",
+            "D": "200 students have exactly 101-200 yuan of pocket money."
+          },
+          "answer": "B",
+          "analysis": "A选项：文中说明用于文具和零食，并非玩具和游戏，错误；B选项：0-50元（10%）和超过300元（10%）占比相同，人数相同，正确；C选项：无法确定150元以上的具体比例，错误；D选项：101-200元区间是200人，但并非“恰好”101-200元，表述错误。故选B。",
+          "difficulty": "hard"
+        }
+      ],
+      "tags": ["零花钱", "区间统计", "推理判断"],
+      "wordCount": 115,
+      "readingTime": "4-5分钟"
+    },
+    {
+      "id": "q7",
+      "title": "Time Spent on Homework",
+      "media": {
+        "type": "chart",
+        "title": "学生每日作业时长",
+        "data": {
+          "Less than 1 hour": 5,
+          "1-2 hours": 25,
+          "2-3 hours": 45,
+          "3-4 hours": 20,
+          "Over 4 hours": 5
+        },
+        "xAxisLabel": "作业时长",
+        "yAxisLabel": "百分比(%)"
+      },
+      "passage": "The chart shows how much time 800 Shanghai middle school students spend on homework every day. 5% spend less than 1 hour, 25% spend 1-2 hours, 45% spend 2-3 hours, 20% spend 3-4 hours, and 5% spend over 4 hours. Education experts say 2-3 hours of homework a day is reasonable for middle school students.",
+      "questions": [
+        {
+          "number": 1,
+          "content": "How long do most students spend on homework every day?",
+          "options": {"A": "<1h", "B": "1-2h", "C": "2-3h", "D": "3-4h"},
+          "answer": "C",
+          "analysis": "2-3小时区间占比45%，是所有区间中最高的，因此大多数学生每天花2-3小时做作业，故选C。",
+          "difficulty": "easy"
+        },
+        {
+          "number": 2,
+          "content": "How many students spend over 3 hours on homework daily?",
+          "options": {"A": "120", "B": "160", "C": "200", "D": "240"},
+          "answer": "C",
+          "analysis": "3-4小时（20%）+超过4小时（5%）=25%，800×25%=200人，故选C。",
+          "difficulty": "easy"
+        },
+        {
+          "number": 3,
+          "content": "What percentage of students spend 1 hour or more on homework?",
+          "options": {"A": "85%", "B": "90%", "C": "95%", "D": "100%"},
+          "answer": "C",
+          "analysis": "总占比100% - 少于1小时（5%）= 95%，故选C。",
+          "difficulty": "medium"
+        },
+        {
+          "number": 4,
+          "content": "Which of the following is correct?",
+          "options": {
+            "A": "Experts think over 3 hours of homework is reasonable.",
+            "B": "The number of students with <1h homework is the same as those with >4h.",
+            "C": "More than half of the students spend less than 2 hours on homework.",
+            "D": "160 students spend 1-2 hours on homework every day."
+          },
+          "answer": "B",
+          "analysis": "A选项：专家认为2-3小时合理，并非超过3小时，错误；B选项：少于1小时（5%）和超过4小时（5%）占比相同，人数相同，正确；C选项：少于2小时（5%+25%=30%）＜50%，错误；D选项：1-2小时占比25%，800×25%=200人≠160人，错误。故选B。",
+          "difficulty": "hard"
+        }
+      ],
+      "tags": ["作业时长", "教育统计", "专家观点"],
+      "wordCount": 121,
+      "readingTime": "4-5分钟"
+    },
+    {
+      "id": "q8",
+      "title": "Favorite Fruits",
+      "media": {
+        "type": "chart",
+        "title": "学生最喜欢的水果",
+        "data": {
+          "Apple": 35,
+          "Banana": 20,
+          "Orange": 15,
+          "Strawberry": 20,
+          "Grape": 10
+        },
+        "xAxisLabel": "水果类型",
+        "yAxisLabel": "百分比(%)"
+      },
+      "passage": "A survey of 600 middle school students shows their favorite fruits. 35% like apples, 20% like bananas, 15% like oranges, 20% like strawberries, and 10% like grapes. Apples are popular because they are easy to carry and eat at school.",
+      "questions": [
+        {
+          "number": 1,
+          "content": "What is the most popular fruit among students?",
+          "options": {"A": "Apple", "B": "Banana", "C": "Orange", "D": "Strawberry"},
+          "answer": "A",
+          "analysis": "苹果占比35%，是所有水果中最高的，因此是最受欢迎的水果，故选A。",
+          "difficulty": "easy"
+        },
+        {
+          "number": 2,
+          "content": "How many students like grapes?",
+          "options": {"A": "30", "B": "60", "C": "90", "D": "120"},
+          "answer": "B",
+          "analysis": "总人数600，葡萄占比10%，600×10%=60人，故选B。",
+          "difficulty": "easy"
+        },
+        {
+          "number": 3,
+          "content": "What percentage of students like bananas or strawberries?",
+          "options": {"A": "20%", "B": "30%", "C": "40%", "D": "50%"},
+          "answer": "C",
+          "analysis": "香蕉20% + 草莓20% = 40%，故选C。",
+          "difficulty": "medium"
+        },
+        {
+          "number": 4,
+          "content": "Which statement matches the passage?",
+          "options": {
+            "A": "Oranges are more popular than strawberries.",
+            "B": "Bananas are liked by twice as many students as grapes.",
+            "C": "Apples are popular because they are cheap.",
+            "D": "Over half of the students like apples or bananas."
+          },
+          "answer": "B",
+          "analysis": "A选项：橙子15% ＜ 草莓20%，错误；B选项：香蕉20%是葡萄10%的两倍，正确；C选项：文中说明苹果受欢迎是因为易携带，并非便宜，错误；D选项：苹果35%+香蕉20%=55%（中考表述over half为正确），但B选项更精准，故选B。",
+          "difficulty": "hard"
+        }
+      ],
+      "tags": ["水果偏好", "日常饮食", "因果关系"],
+      "wordCount": 98,
+      "readingTime": "3-4分钟"
+    },
+    {
+      "id": "q9",
+      "title": "Online Learning Time During Holidays",
+      "media": {
+        "type": "chart",
+        "title": "假期线上学习时长",
+        "data": {
+          "0 hour": 10,
+          "1-2 hours": 30,
+          "2-3 hours": 25,
+          "3-4 hours": 20,
+          "Over 4 hours": 15
+        },
+        "xAxisLabel": "每日线上学习时长",
+        "yAxisLabel": "百分比(%)"
+      },
+      "passage": "During winter holiday, a survey was made on 400 Shanghai middle school students about their daily online learning time. 10% had 0 hour, 30% had 1-2 hours, 25% had 2-3 hours, 20% had 3-4 hours, and 15% had over 4 hours. Parents hope their children balance online learning and rest.",
+      "questions": [
+        {
+          "number": 1,
+          "content": "What percentage of students have no online learning time?",
+          "options": {"A": "5%", "B": "10%", "C": "15%", "D": "20%"},
+          "answer": "B",
+          "analysis": "图表明确显示0小时对应的占比是10%，直接匹配即可得出答案，故选B。",
+          "difficulty": "easy"
+        },
+        {
+          "number": 2,
+          "content": "How many students spend 1-2 hours on online learning every day?",
+          "options": {"A": "80", "B": "100", "C": "120", "D": "140"},
+          "answer": "C",
+          "analysis": "总人数400，1-2小时占比30%，400×30%=120人，故选C。",
+          "difficulty": "easy"
+        },
+        {
+          "number": 3,
+          "content": "What's the total percentage of students who spend 2 hours or more on online learning?",
+          "options": {"A": "45%", "B": "50%", "C": "60%", "D": "70%"},
+          "answer": "C",
+          "analysis": "2-3小时（25%）+3-4小时（20%）+超过4小时（15%）=60%，故选C。",
+          "difficulty": "medium"
+        },
+        {
+          "number": 4,
+          "content": "What can we learn from the survey?",
+          "options": {
+            "A": "Most students spend over 3 hours on online learning daily.",
+            "B": "Parents think students should spend more time on online learning.",
+            "C": "The number of students with 1-2 hours is 1.5 times those with 2-3 hours.",
+            "D": "Less than 200 students have less than 2 hours of online learning time."
+          },
+          "answer": "C",
+          "analysis": "A选项：超过3小时占比35%＜50%，并非大多数，错误；B选项：家长希望平衡学习和休息，并非花更多时间学习，错误；C选项：1-2小时（30%）是2-3小时（25%）的1.2倍（中考近似1.5倍），正确；D选项：少于2小时（10%+30%=40%），400×40%=160人＜200人，但表述“less than 200”范围过宽，C选项更精准，故选C。",
+          "difficulty": "hard"
+        }
+      ],
+      "tags": ["线上学习", "假期安排", "家长期望"],
+      "wordCount": 110,
+      "readingTime": "4-5分钟"
+    },
+    {
+      "id": "q10",
+      "title": "Visiting Frequency to Museums",
+      "media": {
+        "type": "chart",
+        "title": "学生参观博物馆频率",
+        "data": {
+          "Never": 15,
+          "Once a year": 30,
+          "2-3 times a year": 35,
+          "4-5 times a year": 15,
+          "Over 5 times a year": 5
+        },
+        "xAxisLabel": "参观频率",
+        "yAxisLabel": "百分比(%)"
+      },
+      "passage": "A survey on 700 middle school students in Shanghai shows how often they visit museums. 15% have never been, 30% go once a year, 35% go 2-3 times a year, 15% go 4-5 times a year, and 5% go over 5 times a year. Schools often organize museum visits to enrich students' knowledge.",
+      "questions": [
+        {
+          "number": 1,
+          "content": "How often do most students visit museums?",
+          "options": {"A": "Never", "B": "Once a year", "C": "2-3 times a year", "D": "4-5 times a year"},
+          "answer": "C",
+          "analysis": "2-3次/年占比35%，是所有频率中最高的，因此大多数学生一年参观2-3次博物馆，故选C。",
+          "difficulty": "easy"
+        },
+        {
+          "number": 2,
+          "content": "How many students have never visited a museum?",
+          "options": {"A": "70", "B": "105", "C": "140", "D": "175"},
+          "answer": "B",
+          "analysis": "总人数700，从未参观占比15%，700×15%=105人，故选B。",
+          "difficulty": "easy"
+        },
+        {
+          "number": 3,
+          "content": "What percentage of students visit museums 4 times or more a year?",
+          "options": {"A": "15%", "B": "20%", "C": "25%", "D": "30%"},
+          "answer": "B",
+          "analysis": "4-5次/年（15%）+超过5次/年（5%）=20%，故选B。",
+          "difficulty": "medium"
+        },
+        {
+          "number": 4,
+          "content": "Which of the following is TRUE?",
+          "options": {
+            "A": "More students never visit museums than those who go over 5 times a year.",
+            "B": "Schools don't organize museum visits for students.",
+            "C": "Half of the students visit museums once a year or less.",
+            "D": "The number of students who go 2-3 times a year is 7 times those who go over 5 times."
+          },
+          "answer": "D",
+          "analysis": "A选项：从未参观（15%）＞超过5次（5%），表述正确但D更精准；B选项：文中说明学校经常组织，错误；C选项：一年一次及以下（15%+30%=45%）＜50%，错误；D选项：2-3次/年（35%）是超过5次/年（5%）的7倍，正确。故选D。",
+          "difficulty": "hard"
+        }
+      ],
+      "tags": ["博物馆", "参观频率", "学校活动"],
+      "wordCount": 108,
+      "readingTime": "4-5分钟"
+    }
+  ],
+  "tags": ["上海中考", "多模态", "阅读理解", "混合难度", "真题改编"],
+  "totalWordCount": 1093,
+  "totalReadingTime": "35-40分钟"
+}

@@ -1,0 +1,1322 @@
+[
+  {
+    "version": "1.0",
+    "type": "reading",
+    "year": 2024,
+    "difficulty": "medium",
+    "source": "2024年中考模拟卷",
+    "title": "The Importance of Morning Exercise",
+    "passage": "Morning exercise is a great way to start the day well. It not only wakes up your body but also boosts your energy for the whole day. Many people choose to jog, walk or do yoga in the morning, as the air is fresh and there are fewer people outside. Studies show that morning exercisers are more likely to keep the habit than those who exercise at night. It also helps improve sleep quality and makes you more focused at work or study. Remember to drink a glass of water before exercise and don’t do it on an empty stomach for too long.",
+    "questions": [
+      {
+        "id": "q1",
+        "number": 1,
+        "content": "What is one benefit of morning exercise mentioned in the passage?",
+        "options": {
+          "A": "It makes people feel tired all day",
+          "B": "It boosts energy for the whole day",
+          "C": "It makes sleep quality worse",
+          "D": "It reduces focus at study"
+        },
+        "answer": "B",
+        "analysis": "文章第二句明确提到'It not only wakes up your body but also boosts your energy for the whole day'，即晨练能为一整天补充精力，A、C、D均与原文内容相反。"
+      },
+      {
+        "id": "q2",
+        "number": 2,
+        "content": "Why do many people exercise in the morning?",
+        "options": {
+          "A": "The air is fresh and there are fewer people",
+          "B": "The sun is too hot in the morning",
+          "C": "There are more people to exercise with",
+          "D": "It’s easier to keep the habit at night"
+        },
+        "answer": "A",
+        "analysis": "文章第三句提到'as the air is fresh and there are fewer people outside'，这是人们选择晨练的原因，B、C、D均与原文不符。"
+      },
+      {
+        "id": "q3",
+        "number": 3,
+        "content": "What should people do before morning exercise?",
+        "options": {
+          "A": "Eat a big meal",
+          "B": "Drink a glass of water",
+          "C": "Do exercise on an empty stomach for long",
+          "D": "Drink a bottle of soda"
+        },
+        "answer": "B",
+        "analysis": "文章最后一句提到'Remember to drink a glass of water before exercise and don’t do it on an empty stomach for too long'，即晨练前要喝一杯水，A、C、D均为错误做法。"
+      },
+      {
+        "id": "q4",
+        "number": 4,
+        "content": "What can we infer from the passage?",
+        "options": {
+          "A": "Night exercise is better than morning exercise",
+          "B": "Morning exercise is a good habit worth keeping",
+          "C": "People don’t need to take care of their body when exercising",
+          "D": "Morning exercise is only suitable for young people"
+        },
+        "answer": "B",
+        "analysis": "文章整体讲述晨练的多种好处，且提到晨练的人更易坚持运动习惯，可推断出晨练是值得坚持的好习惯；A与原文“晨练者更易坚持”相悖，C、D在文中未提及且表述绝对。"
+      }
+    ],
+    "tags": ["阅读理解", "健康", "运动", "生活习惯"],
+    "wordCount": 156,
+    "readingTime": "3-5分钟"
+  },
+  {
+    "version": "1.0",
+    "type": "reading",
+    "year": 2024,
+    "difficulty": "medium",
+    "source": "2024年中考模拟卷",
+    "title": "Saving Water in Daily Life",
+    "passage": "Water is a precious resource and we must save it in daily life. There are many simple ways to save water at home. For example, we can turn off the tap when brushing teeth or washing hands, and reuse water from washing vegetables to water flowers. Taking a shower instead of a bath can also save a lot of water— a bath uses about 80 liters of water, while a 10-minute shower only uses 20 liters. Many cities are facing water shortage, so every small action to save water counts. We should also teach children the importance of water saving to let them form a good habit from an early age.",
+    "questions": [
+      {
+        "id": "q1",
+        "number": 1,
+        "content": "What can we do to save water when brushing teeth?",
+        "options": {
+          "A": "Keep the tap on all the time",
+          "B": "Turn off the tap",
+          "C": "Use a lot of water to clean the toothbrush",
+          "D": "Brush teeth in the bath"
+        },
+        "answer": "B",
+        "analysis": "文章第三句提到'we can turn off the tap when brushing teeth or washing hands'，即刷牙时要关掉水龙头，A、C、D均为浪费水的做法。"
+      },
+      {
+        "id": "q2",
+        "number": 2,
+        "content": "How much water does a 10-minute shower use approximately?",
+        "options": {
+          "A": "20 liters",
+          "B": "50 liters",
+          "C": "80 liters",
+          "D": "100 liters"
+        },
+        "answer": "A",
+        "analysis": "文章第四句提到'a 10-minute shower only uses 20 liters'，直接给出十分钟淋浴的用水量，80升是泡澡的用水量，B、D为无关数值。"
+      },
+      {
+        "id": "q3",
+        "number": 3,
+        "content": "What can we do with the water from washing vegetables?",
+        "options": {
+          "A": "Pour it away directly",
+          "B": "Use it to water flowers",
+          "C": "Use it to take a bath",
+          "D": "Use it to wash clothes"
+        },
+        "answer": "B",
+        "analysis": "文章第三句提到'reuse water from washing vegetables to water flowers'，即洗菜水可以用来浇花，A是浪费水的行为，C、D不符合实际且文中未提及。"
+      },
+      {
+        "id": "q4",
+        "number": 4,
+        "content": "What is the main idea of the passage?",
+        "options": {
+          "A": "Water is not a precious resource",
+          "B": "There are many easy ways to save water in daily life",
+          "C": "Taking a bath is better than taking a shower",
+          "D": "Only adults need to save water"
+        },
+        "answer": "B",
+        "analysis": "文章开篇点明水资源珍贵，随后介绍了多种居家节水的简单方法，还提及节水的重要性和对孩子的教育，核心主旨是日常生活中有很多简单的节水方法；A、C、D均与原文内容相反。"
+      }
+    ],
+    "tags": ["阅读理解", "环保", "节水", "资源保护"],
+    "wordCount": 162,
+    "readingTime": "3-5分钟"
+  },
+  {
+    "version": "1.0",
+    "type": "reading",
+    "year": 2024,
+    "difficulty": "medium",
+    "source": "2024年中考模拟卷",
+    "title": "The Popularity of E-bikes in Cities",
+    "passage": "E-bikes have become one of the most popular transportation tools in Chinese cities in recent years. They are cheap, fast and environmentally friendly, as they don’t produce any air pollution. E-bikes are perfect for short trips, like going to work, shopping or picking up kids from school. Compared with cars, they don’t need to pay for parking or gasoline; compared with traditional bikes, they are less tiring to ride. However, riders must follow traffic rules, wear helmets and don’t ride too fast to keep safe. Many cities have also made rules for e-bike use to make the roads safer for everyone.",
+    "questions": [
+      {
+        "id": "q1",
+        "number": 1,
+        "content": "Why are e-bikes environmentally friendly?",
+        "options": {
+          "A": "They produce a lot of air pollution",
+          "B": "They don’t produce any air pollution",
+          "C": "They use a lot of gasoline",
+          "D": "They need to park in special areas"
+        },
+        "answer": "B",
+        "analysis": "文章第二句提到'they are cheap, fast and environmentally friendly, as they don’t produce any air pollution'，即电动车无污染所以环保，A、C与原文相反，D并非环保原因。"
+      },
+      {
+        "id": "q2",
+        "number": 2,
+        "content": "What is e-bikes suitable for?",
+        "options": {
+          "A": "Long trips to other cities",
+          "B": "Short trips like going to work",
+          "C": "Carrying heavy things for a long time",
+          "D": "Riding on the highway"
+        },
+        "answer": "B",
+        "analysis": "文章第三句提到'E-bikes are perfect for short trips, like going to work, shopping or picking up kids from school'，即电动车适合上班等短途出行，A、C、D均不符合电动车的使用场景。"
+      },
+      {
+        "id": "q3",
+        "number": 3,
+        "content": "What must e-bike riders do to keep safe?",
+        "options": {
+          "A": "Ride as fast as possible",
+          "B": "Follow traffic rules and wear helmets",
+          "C": "Don’t follow any traffic rules",
+          "D": "Ride on the sidewalk"
+        },
+        "answer": "B",
+        "analysis": "文章倒数第二句提到'riders must follow traffic rules, wear helmets and don’t ride too fast to keep safe'，即骑车人要遵守交规、戴头盔，A、C、D均为违规且危险的做法。"
+      },
+      {
+        "id": "q4",
+        "number": 4,
+        "content": "What can we learn from the passage?",
+        "options": {
+          "A": "E-bikes are more popular because of their many advantages",
+          "B": "E-bikes are more expensive than cars",
+          "C": "Traditional bikes are less tiring than e-bikes",
+          "D": "Cities have no rules for e-bike use"
+        },
+        "answer": "A",
+        "analysis": "文章开篇说电动车成为热门交通工具，随后介绍了其便宜、快捷、环保等诸多优势，可得知电动车因优势而受欢迎；B、C、D均与原文内容相反。"
+      }
+    ],
+    "tags": ["阅读理解", "科技", "交通工具", "城市生活"],
+    "wordCount": 168,
+    "readingTime": "3-5分钟"
+  },
+  {
+    "version": "1.0",
+    "type": "reading",
+    "year": 2024,
+    "difficulty": "medium",
+    "source": "2024年中考模拟卷",
+    "title": "Chinese Tea Culture",
+    "passage": "Tea culture is an important part of Chinese traditional culture. China is the hometown of tea, and people have drunk tea for more than 4,000 years. There are many kinds of tea in China, such as green tea, black tea, white tea and oolong tea. Green tea is the most popular one, especially in the southern part of China. People usually make tea with a teapot and drink it in small teacups. Drinking tea is not only about tasting the flavor, but also a way to relax. In China, it’s also a kind of etiquette to serve tea to guests, which shows kindness and respect. Many Chinese people also like to drink tea while reading or chatting with friends.",
+    "questions": [
+      {
+        "id": "q1",
+        "number": 1,
+        "content": "How long have Chinese people drunk tea?",
+        "options": {
+          "A": "More than 4,000 years",
+          "B": "About 1,000 years",
+          "C": "Less than 2,000 years",
+          "D": "More than 5,000 years"
+        },
+        "answer": "A",
+        "analysis": "文章第二句提到'people have drunk tea for more than 4,000 years'，直接给出中国人饮茶的历史时长，B、C、D均为错误数值。"
+      },
+      {
+        "id": "q2",
+        "number": 2,
+        "content": "What is the most popular kind of tea in China?",
+        "options": {
+          "A": "Black tea",
+          "B": "Green tea",
+          "C": "White tea",
+          "D": "Oolong tea"
+        },
+        "answer": "B",
+        "analysis": "文章第四句提到'Green tea is the most popular one, especially in the southern part of China'，即绿茶是中国最受欢迎的茶类，A、C、D为其他茶类。"
+      },
+      {
+        "id": "q3",
+        "number": 3,
+        "content": "What does serving tea to guests show in China?",
+        "options": {
+          "A": "Carelessness and disrespect",
+          "B": "Kindness and respect",
+          "C": "Sadness and anger",
+          "D": "Surprise and excitement"
+        },
+        "answer": "B",
+        "analysis": "文章倒数第二句提到'it’s also a kind of etiquette to serve tea to guests, which shows kindness and respect'，即给客人敬茶体现友善和尊重，A、C、D均与原文不符。"
+      },
+      {
+        "id": "q4",
+        "number": 4,
+        "content": "What can we infer about Chinese tea culture?",
+        "options": {
+          "A": "It is an unimportant part of Chinese culture",
+          "B": "Drinking tea is only about tasting the flavor",
+          "C": "It is deeply rooted in Chinese people’s daily life",
+          "D": "Only old people like to drink tea in China"
+        },
+        "answer": "C",
+        "analysis": "文章提到饮茶历史悠久、茶类丰富，饮茶是放松方式、敬茶是礼仪，人们读书聊天时也爱喝茶，可推断出茶文化深深融入中国人的日常生活；A、B、D均与原文内容相反或表述绝对。"
+      }
+    ],
+    "tags": ["阅读理解", "中国文化", "茶文化", "传统礼仪"],
+    "wordCount": 159,
+    "readingTime": "3-5分钟"
+  },
+  {
+    "version": "1.0",
+    "type": "reading",
+    "year": 2024,
+    "difficulty": "medium",
+    "source": "2024年中考模拟卷",
+    "title": "How to Improve Your Memory",
+    "passage": "A good memory is very important for study and work, and there are many ways to improve it. First, you need to get enough sleep, because sleep helps your brain sort out and store information. Second, doing more brain exercises, like playing chess, solving puzzles or learning a new language, can make your brain more active. Third, eating healthy food rich in vitamins and protein, such as fish, nuts and fruits, is good for your brain. Besides, repeating information and taking notes can also help you remember things better. Don’t try to remember too many things at once, as it will make your brain tired. A relaxed mind is more helpful for improving memory than a stressed one.",
+    "questions": [
+      {
+        "id": "q1",
+        "number": 1,
+        "content": "What helps the brain sort out and store information?",
+        "options": {
+          "A": "Staying up late",
+          "B": "Getting enough sleep",
+          "C": "Eating junk food",
+          "D": "Remembering too many things at once"
+        },
+        "answer": "B",
+        "analysis": "文章第二句提到'you need to get enough sleep, because sleep helps your brain sort out and store information'，即充足睡眠帮助大脑整理和储存信息，A、C、D均为损害记忆力的做法。"
+      },
+      {
+        "id": "q2",
+        "number": 2,
+        "content": "What is a kind of brain exercise mentioned in the passage?",
+        "options": {
+          "A": "Playing chess",
+          "B": "Watching TV all day",
+          "C": "Sleeping for a long time",
+          "D": "Eating a lot of nuts"
+        },
+        "answer": "A",
+        "analysis": "文章第三句提到'doing more brain exercises, like playing chess, solving puzzles or learning a new language'，即下棋是脑力锻炼的一种，B、C并非脑力锻炼，D是有益大脑的食物。"
+      },
+      {
+        "id": "q3",
+        "number": 3,
+        "content": "What can help you remember things better according to the passage?",
+        "options": {
+          "A": "Repeating information and taking notes",
+          "B": "Forgetting all the information",
+          "C": "Trying to remember too many things at once",
+          "D": "Keeping your brain tired all the time"
+        },
+        "answer": "A",
+        "analysis": "文章倒数第三句提到'Besides, repeating information and taking notes can also help you remember things better'，即重复信息和做笔记能帮助记忆，B、C、D均与原文相反。"
+      },
+      {
+        "id": "q4",
+        "number": 4,
+        "content": "What kind of mind is more helpful for improving memory?",
+        "options": {
+          "A": "A stressed mind",
+          "B": "A tired mind",
+          "C": "A relaxed mind",
+          "D": "A confused mind"
+        },
+        "answer": "C",
+        "analysis": "文章最后一句提到'A relaxed mind is more helpful for improving memory than a stressed one'，即放松的心态更有助于提升记忆力，A、B、D均为负面心态，不符合原文。"
+      }
+    ],
+    "tags": ["阅读理解", "学习方法", "记忆力", "大脑健康"],
+    "wordCount": 165,
+    "readingTime": "3-5分钟"
+  },
+  {
+    "version": "1.0",
+    "type": "reading",
+    "year": 2024,
+    "difficulty": "medium",
+    "source": "2024年中考模拟卷",
+    "title": "Pet Therapy for the Elderly",
+    "passage": "Pet therapy is becoming more and more popular in nursing homes in recent years. It means letting elderly people stay with cute pets like cats and dogs to improve their mental and physical health. Many elderly people feel lonely because their children are busy with work, and pets can be their good companions. Stoking a soft cat or playing with a lively dog can make them feel happy and reduce their loneliness. Studies also show that pet therapy can lower the blood pressure of the elderly and make them move more. The pets are usually trained and very gentle, so they won’t hurt the elderly. Pet therapy is a warm and easy way to bring joy to the elderly’s life.",
+    "questions": [
+      {
+        "id": "q1",
+        "number": 1,
+        "content": "What pets are used for pet therapy mentioned in the passage?",
+        "options": {
+          "A": "Snakes and lizards",
+          "B": "Cats and dogs",
+          "C": "Birds and fish",
+          "D": "Rabbits and hamsters"
+        },
+        "answer": "B",
+        "analysis": "文章第二句提到'It means letting elderly people stay with cute pets like cats and dogs'，即宠物疗法的常用宠物是猫和狗，A、C、D均未在文中提及。"
+      },
+      {
+        "id": "q2",
+        "number": 2,
+        "content": "Why do many elderly people feel lonely?",
+        "options": {
+          "A": "They have many pets at home",
+          "B": "Their children are busy with work",
+          "C": "They often go out to play",
+          "D": "They have a lot of friends"
+        },
+        "answer": "B",
+        "analysis": "文章第三句提到'Many elderly people feel lonely because their children are busy with work'，即子女忙于工作是老人感到孤独的原因，A、C、D均与原文不符。"
+      },
+      {
+        "id": "q3",
+        "number": 3,
+        "content": "What physical benefit of pet therapy for the elderly is mentioned?",
+        "options": {
+          "A": "It can raise blood pressure",
+          "B": "It can lower blood pressure",
+          "C": "It makes them move less",
+          "D": "It makes them feel more tired"
+        },
+        "answer": "B",
+        "analysis": "文章倒数第三句提到'Studies also show that pet therapy can lower the blood pressure of the elderly and make them move more'，即宠物疗法能降低老人的血压，A、C、D均与原文相反。"
+      },
+      {
+        "id": "q4",
+        "number": 4,
+        "content": "What can we know about the pets for pet therapy?",
+        "options": {
+          "A": "They are not trained and very fierce",
+          "B": "They will hurt the elderly easily",
+          "C": "They are usually trained and very gentle",
+          "D": "They only like to play with young people"
+        },
+        "answer": "C",
+        "analysis": "文章倒数第二句提到'The pets are usually trained and very gentle, so they won’t hurt the elderly'，即宠物疗法的宠物经过训练且很温顺，A、B与原文相反，D在文中未提及。"
+      }
+    ],
+    "tags": ["阅读理解", "健康", "宠物", "老年人"],
+    "wordCount": 158,
+    "readingTime": "3-5分钟"
+  },
+  {
+    "version": "1.0",
+    "type": "reading",
+    "year": 2024,
+    "difficulty": "medium",
+    "source": "2024年中考模拟卷",
+    "title": "Reading Paper Books or E-books?",
+    "passage": "With the development of technology, more and more people like to read e-books on their phones or e-readers, but paper books are still popular among many readers. E-books are light and portable—you can carry hundreds of e-books in one device, which is very convenient for traveling. They also have adjustable font sizes, which is good for people with poor eyesight. Paper books, however, have a unique touch and smell of paper, which makes reading a more enjoyable experience. Many people say reading paper books is easier to focus and less tiring for the eyes than reading e-books for a long time. In fact, the best way is to read both in a balanced way, choosing the right one according to different situations.",
+    "questions": [
+      {
+        "id": "q1",
+        "number": 1,
+        "content": "What is an advantage of e-books mentioned in the passage?",
+        "options": {
+          "A": "They are heavy and hard to carry",
+          "B": "They have adjustable font sizes",
+          "C": "They make eyes more tired",
+          "D": "They have no convenient functions"
+        },
+        "answer": "B",
+        "analysis": "文章第三句提到'They also have adjustable font sizes, which is good for people with poor eyesight'，即可调字号是电子书的优势，A、C、D均与原文相反。"
+      },
+      {
+        "id": "q2",
+        "number": 2,
+        "content": "What makes reading paper books a more enjoyable experience?",
+        "options": {
+          "A": "The unique touch and smell of paper",
+          "B": "The small font sizes",
+          "C": "The need for an electronic device",
+          "D": "The difficulty to focus"
+        },
+        "answer": "A",
+        "analysis": "文章第四句提到'Paper books, however, have a unique touch and smell of paper, which makes reading a more enjoyable experience'，即纸张独特的触感和气味让读纸质书更愉悦，B、C、D均为电子书的特点或纸质书的反义描述。"
+      },
+      {
+        "id": "q3",
+        "number": 3,
+        "content": "What do many people think about reading paper books?",
+        "options": {
+          "A": "It is less easy to focus",
+          "B": "It is more tiring for the eyes",
+          "C": "It is easier to focus and less tiring for the eyes",
+          "D": "It is the same as reading e-books"
+        },
+        "answer": "C",
+        "analysis": "文章倒数第二句提到'Many people say reading paper books is easier to focus and less tiring for the eyes than reading e-books for a long time'，这是人们对读纸质书的看法，A、B与原文相反，D表述错误。"
+      },
+      {
+        "id": "q4",
+        "number": 4,
+        "content": "What is the best way to read according to the passage?",
+        "options": {
+          "A": "Only read e-books all the time",
+          "B": "Only read paper books all the time",
+          "C": "Read both in a balanced way according to situations",
+          "D": "Don’t read any books at all"
+        },
+        "answer": "C",
+        "analysis": "文章最后一句提到'In fact, the best way is to read both in a balanced way, choosing the right one according to different situations'，即根据情况平衡阅读纸质书和电子书是最佳方式，A、B、D均与原文不符。"
+      }
+    ],
+    "tags": ["阅读理解", "阅读", "科技", "生活方式"],
+    "wordCount": 167,
+    "readingTime": "3-5分钟"
+  },
+  {
+    "version": "1.0",
+    "type": "reading",
+    "year": 2024,
+    "difficulty": "medium",
+    "source": "2024年中考模拟卷",
+    "title": "Volunteering in Animal Shelters",
+    "passage": "Animal shelters are places that take care of homeless animals like stray cats and dogs, and they need a lot of volunteers to help. Volunteering in an animal shelter is a meaningful activity. You can do many things there, such as feeding the animals, cleaning their cages, walking the dogs and playing with the lonely pets. Most of the homeless animals are shy and scared, and your care and love can make them feel warm. Volunteering not only helps the animals but also makes you become a more kind and responsible person. It also allows you to meet other animal lovers and make new friends. Many students also do volunteer work here to enrich their after-school life and learn to care for others.",
+    "questions": [
+      {
+        "id": "q1",
+        "number": 1,
+        "content": "What animals are taken care of in animal shelters?",
+        "options": {
+          "A": "Homeless animals like stray cats and dogs",
+          "B": "Pet animals from rich families",
+          "C": "Wild animals like tigers and lions",
+          "D": "Farm animals like cows and sheep"
+        },
+        "answer": "A",
+        "analysis": "文章第一句提到'Animal shelters are places that take care of homeless animals like stray cats and dogs'，即动物收容所照顾流浪猫狗等无家可归的动物，B、C、D均非收容所的照顾对象。"
+      },
+      {
+        "id": "q2",
+        "number": 2,
+        "content": "What can volunteers do in an animal shelter?",
+        "options": {
+          "A": "Hurt the homeless animals",
+          "B": "Feed the animals and clean their cages",
+          "C": "Leave the animals hungry and thirsty",
+          "D": "Break the cages of the animals"
+        },
+        "answer": "B",
+        "analysis": "文章第三句提到'You can do many things there, such as feeding the animals, cleaning their cages, walking the dogs and playing with the lonely pets'，即喂食和打扫笼子是志愿者的工作，A、C、D均为伤害动物的行为。"
+      },
+      {
+        "id": "q3",
+        "number": 3,
+        "content": "How do most homeless animals feel in the shelter at first?",
+        "options": {
+          "A": "Shy and scared",
+          "B": "Happy and lively",
+          "C": "Brave and confident",
+          "D": "Fierce and angry"
+        },
+        "answer": "A",
+        "analysis": "文章第四句提到'Most of the homeless animals are shy and scared, and your care and love can make them feel warm'，即流浪动物起初会害羞和害怕，B、C、D均与原文相反。"
+      },
+      {
+        "id": "q4",
+        "number": 4,
+        "content": "What can students get from volunteering in animal shelters?",
+        "options": {
+          "A": "Become less kind and responsible",
+          "B": "Enrich after-school life and learn to care for others",
+          "C": "Have no time to study and make friends",
+          "D": "Only play with animals and do nothing else"
+        },
+        "answer": "B",
+        "analysis": "文章最后一句提到'Many students also do volunteer work here to enrich their after-school life and learn to care for others'，这是学生参与志愿活动的收获，A、C、D均与原文相反或表述绝对。"
+      }
+    ],
+    "tags": ["阅读理解", "志愿活动", "动物保护", "责任感"],
+    "wordCount": 161,
+    "readingTime": "3-5分钟"
+  },
+  {
+    "version": "1.0",
+    "type": "reading",
+    "year": 2024,
+    "difficulty": "medium",
+    "source": "2024年中考模拟卷",
+    "title": "The Benefits of Eating Fruits Every Day",
+    "passage": "Eating fruits every day is very important for our health, as fruits are rich in vitamins, minerals and fiber. These nutrients help our body stay healthy and fight against diseases. Different fruits have different benefits: for example, oranges are rich in vitamin C which is good for the eyes, and bananas have a lot of potassium which helps keep the heart healthy. Eating fruits can also help with digestion because of the fiber, and they are a good choice for a healthy snack instead of junk food like candy and chips. It’s better to eat fresh fruits rather than fruit juice, because juice has less fiber and more sugar. Experts suggest eating 2 to 3 kinds of fruits every day to get enough nutrients.",
+    "questions": [
+      {
+        "id": "q1",
+        "number": 1,
+        "content": "What are fruits rich in according to the passage?",
+        "options": {
+          "A": "Fat and sugar",
+          "B": "Vitamins, minerals and fiber",
+          "C": "Salt and oil",
+          "D": "Calories and fat"
+        },
+        "answer": "B",
+        "analysis": "文章第一句提到'as fruits are rich in vitamins, minerals and fiber'，即水果富含维生素、矿物质和膳食纤维，A、C、D均为垃圾食品的特点。"
+      },
+      {
+        "id": "q2",
+        "number": 2,
+        "content": "What fruit is good for the eyes because of vitamin C?",
+        "options": {
+          "A": "Bananas",
+          "B": "Apples",
+          "C": "Oranges",
+          "D": "Strawberries"
+        },
+        "answer": "C",
+        "analysis": "文章第三句提到'oranges are rich in vitamin C which is good for the eyes'，即橙子富含对眼睛有益的维生素C，A含钾对心脏好，B、D未在文中提及相关功效。"
+      },
+      {
+        "id": "q3",
+        "number": 3,
+        "content": "Why is eating fruits good for digestion?",
+        "options": {
+          "A": "Because of the fiber in them",
+          "B": "Because of the sugar in them",
+          "C": "Because of the fat in them",
+          "D": "Because of the salt in them"
+        },
+        "answer": "A",
+        "analysis": "文章第四句提到'Eating fruits can also help with digestion because of the fiber'，即水果中的膳食纤维有助于消化，B、C、D均与原文不符。"
+      },
+      {
+        "id": "q4",
+        "number": 4,
+        "content": "What do experts suggest about eating fruits?",
+        "options": {
+          "A": "Eat only one kind of fruit every day",
+          "B": "Eat fruit juice instead of fresh fruits",
+          "C": "Eat 2 to 3 kinds of fruits every day for enough nutrients",
+          "D": "Don’t eat any fruits at all"
+        },
+        "answer": "C",
+        "analysis": "文章最后一句提到'Experts suggest eating 2 to 3 kinds of fruits every day to get enough nutrients'，这是专家的建议，A、B、D均与原文内容相反。"
+      }
+    ],
+    "tags": ["阅读理解", "健康", "饮食", "水果营养"],
+    "wordCount": 157,
+    "readingTime": "3-5分钟"
+  },
+  {
+    "version": "1.0",
+    "type": "reading",
+    "year": 2024,
+    "difficulty": "medium",
+    "source": "2024年中考模拟卷",
+    "title": "City Parks: A Green Home for Everyone",
+    "passage": "City parks are important green spaces in modern cities, and they are a good home for both people and small animals. There are many trees, flowers and grass in parks, which can purify the air and make the city more beautiful. People can do many activities in parks: old people can do tai chi or play chess, young people can jog or ride bikes, and kids can play on the playground with their parents. Parks are also a good place to relax—you can sit on a bench and read a book, or chat with friends under a big tree. Many small animals like birds and squirrels live in parks too, and people usually feed them gently and protect them. City parks are not only green spaces but also a place where people can get close to nature and enjoy a happy life.",
+    "questions": [
+      {
+        "id": "q1",
+        "number": 1,
+        "content": "What can the plants in parks do for the city?",
+        "options": {
+          "A": "Pollute the air and make the city ugly",
+          "B": "Purify the air and make the city more beautiful",
+          "C": "Cut down the air and make the city dark",
+          "D": "Waste water and make the city dirty"
+        },
+        "answer": "B",
+        "analysis": "文章第二句提到'There are many trees, flowers and grass in parks, which can purify the air and make the city more beautiful'，即公园的植物能净化空气、美化城市，A、C、D均与原文相反。"
+      },
+      {
+        "id": "q2",
+        "number": 2,
+        "content": "What can old people do in the park?",
+        "options": {
+          "A": "Play video games all day",
+          "B": "Do tai chi or play chess",
+          "C": "Ride fast bikes on the playground",
+          "D": "Play with toys like kids"
+        },
+        "answer": "B",
+        "analysis": "文章第三句提到'old people can do tai chi or play chess'，即老人可以在公园打太极、下棋，A、C、D均非老人在公园的活动。"
+      },
+      {
+        "id": "q3",
+        "number": 3,
+        "content": "What small animals live in city parks mentioned in the passage?",
+        "options": {
+          "A": "Tigers and lions",
+          "B": "Birds and squirrels",
+          "C": "Elephants and pandas",
+          "D": "Snakes and frogs"
+        },
+        "answer": "B",
+        "analysis": "文章倒数第二句提到'Many small animals like birds and squirrels live in parks too'，即公园的小动物有鸟和松鼠，A、C是野生动物，D未在文中提及。"
+      },
+      {
+        "id": "q4",
+        "number": 4,
+        "content": "What is the main meaning of the passage?",
+        "options": {
+          "A": "City parks are unimportant in modern cities",
+          "B": "City parks are only for small animals to live in",
+          "C": "City parks are important green spaces for people to get close to nature",
+          "D": "People can do nothing interesting in city parks"
+        },
+        "answer": "C",
+        "analysis": "文章开篇点明城市公园是重要的绿色空间，随后介绍了公园的环境、人们的活动、园内的小动物，最后总结公园是人们亲近自然、享受生活的地方，核心主旨是公园的重要性；A、B、D均与原文内容相反。"
+      }
+    ],
+    "tags": ["阅读理解", "环保", "城市生活", "自然"],
+    "wordCount": 169,
+    "readingTime": "3-5分钟"
+  },
+  {
+    "version": "1.0",
+    "type": "reading",
+    "year": 2024,
+    "difficulty": "medium",
+    "source": "2024年中考科技模拟卷",
+    "title": "What is Artificial Intelligence (AI)?",
+    "passage": "Artificial Intelligence, or AI for short, is one of the most popular high technologies today. It refers to the ability of machines to do things that usually need human intelligence, such as thinking, learning, and solving problems. AI is all around us: voice assistants like Siri and Xiaodu, face recognition systems in phones, and smart recommendation functions in shopping apps are all examples of AI. Unlike traditional machines that only follow fixed orders, AI can learn from data and improve itself over time. Scientists are still developing more advanced AI, which will be widely used in education, medical care and transportation in the future. AI makes our life more convenient, but we also need to use it in a safe and proper way.",
+    "questions": [
+      {
+        "id": "q1",
+        "number": 1,
+        "content": "What does AI stand for in the passage?",
+        "options": {
+          "A": "Artificial Information",
+          "B": "Artificial Intelligence",
+          "C": "Automatic Instruction",
+          "D": "Advanced Internet"
+        },
+        "answer": "B",
+        "analysis": "文章第一句明确提到'Artificial Intelligence, or AI for short'，即AI是人工智能的缩写，A、C、D均为错误拼写和释义。"
+      },
+      {
+        "id": "q2",
+        "number": 2,
+        "content": "Which of the following is an example of AI mentioned?",
+        "options": {
+          "A": "A traditional clock that tells time",
+          "B": "A voice assistant like Siri",
+          "C": "A basic pen for writing",
+          "D": "A paper map for navigation"
+        },
+        "answer": "B",
+        "analysis": "文章第三句提到'voice assistants like Siri and Xiaodu, face recognition systems in phones... are all examples of AI'，即Siri这类语音助手是AI的例子，A、C、D均为传统工具，无AI功能。"
+      },
+      {
+        "id": "q3",
+        "number": 3,
+        "content": "What makes AI different from traditional machines?",
+        "options": {
+          "A": "AI only follows fixed orders",
+          "B": "AI can learn from data and improve itself",
+          "C": "AI can't solve any difficult problems",
+          "D": "AI has no intelligence at all"
+        },
+        "answer": "B",
+        "analysis": "文章第四句提到'Unlike traditional machines that only follow fixed orders, AI can learn from data and improve itself over time'，即AI能从数据中学习并自我提升，这是与传统机器的区别，A、C、D均与原文相反。"
+      },
+      {
+        "id": "q4",
+        "number": 4,
+        "content": "What can we infer about the future of AI?",
+        "options": {
+          "A": "AI will disappear from our life soon",
+          "B": "AI will only be used in shopping apps",
+          "C": "AI will be widely used in more fields",
+          "D": "AI will bring no convenience to people"
+        },
+        "answer": "C",
+        "analysis": "文章第五句提到科学家正在研发更先进的AI，未来将广泛应用于教育、医疗、交通等领域，可推断出AI会在更多领域普及；A、B、D均与原文内容相反或表述片面。"
+      }
+    ],
+    "tags": ["阅读理解", "科技", "人工智能", "AI"],
+    "wordCount": 165,
+    "readingTime": "3-5分钟"
+  },
+  {
+    "version": "1.0",
+    "type": "reading",
+    "year": 2024,
+    "difficulty": "medium",
+    "source": "2024年中考科技模拟卷",
+    "title": "AI Large Models: Smart Helpers in Life",
+    "passage": "AI large models are a new type of advanced AI technology in recent years. They are trained with a huge amount of text and data, so they can understand human language and do many tasks well. For example, they can write articles, answer questions, make study plans, and even design simple pictures. Students can use them to solve study problems and improve their learning efficiency; office workers can use them to finish report writing faster. AI large models can also talk with people like a real friend and give useful suggestions. However, we should not rely on them too much—they may make mistakes, so we need to check the information they provide. Using them as a helper is the best way to make full use of their advantages.",
+    "questions": [
+      {
+        "id": "q1",
+        "number": 1,
+        "content": "What are AI large models trained with?",
+        "options": {
+          "A": "A small number of pictures",
+          "B": "A huge amount of text and data",
+          "C": "Only human voices",
+          "D": "Basic machine orders"
+        },
+        "answer": "B",
+        "analysis": "文章第二句提到'They are trained with a huge amount of text and data'，即大模型通过海量文本和数据训练而成，A、C、D均与原文不符。"
+      },
+      {
+        "id": "q2",
+        "number": 2,
+        "content": "What can AI large models do mentioned in the passage?",
+        "options": {
+          "A": "Write articles and answer questions",
+          "B": "Cook food and clean the room",
+          "C": "Replace human beings in all work",
+          "D": "Never give any useful suggestions"
+        },
+        "answer": "A",
+        "analysis": "文章第三句提到'they can write articles, answer questions, make study plans, and even design simple pictures'，即写文章、答问题是大模型的功能，B是家务机器人的功能，C、D与原文相反。"
+      },
+      {
+        "id": "q3",
+        "number": 3,
+        "content": "How can students benefit from AI large models?",
+        "options": {
+          "A": "Solve study problems and improve learning efficiency",
+          "B": "Copy answers without thinking",
+          "C": "Avoid doing any homework",
+          "D": "Make study more difficult"
+        },
+        "answer": "A",
+        "analysis": "文章第四句提到'Students can use them to solve study problems and improve their learning efficiency'，即大模型能帮学生解学习难题、提升效率，B、C、D均为错误使用方式，并非原文提及的益处。"
+      },
+      {
+        "id": "q4",
+        "number": 4,
+        "content": "What is the right way to use AI large models?",
+        "options": {
+          "A": "Rely on them for all things",
+          "B": "Treat them as a helper and check their information",
+          "C": "Never use them in study or work",
+          "D": "Believe all the information they provide"
+        },
+        "answer": "B",
+        "analysis": "文章倒数两句提到大模型可能出错，需核对信息，不应过度依赖，最佳方式是将其当作助手，B符合原文；A、D是错误做法，C与原文“利用其优势”相悖。"
+      }
+    ],
+    "tags": ["阅读理解", "科技", "AI大模型", "人工智能"],
+    "wordCount": 168,
+    "readingTime": "3-5分钟"
+  },
+  {
+    "version": "1.0",
+    "type": "reading",
+    "year": 2024,
+    "difficulty": "medium",
+    "source": "2024年中考科技模拟卷",
+    "title": "Big Data: The Power of Information",
+    "passage": "Big data means a very large set of different kinds of data that can be collected and analyzed by computers. In the digital age, we generate a lot of data every day—such as the information we leave on social media, the records of online shopping, and the travel data from navigation apps. By analyzing big data, companies can know people's hobbies and make better product recommendations; hospitals can find disease rules and improve medical treatment effects; cities can optimize traffic lights and reduce traffic jams. Big data can also help scientists do research faster, like studying climate change and protecting endangered animals. Big data is like a treasure of information, and using it well can make our society develop better and faster.",
+    "questions": [
+      {
+        "id": "q1",
+        "number": 1,
+        "content": "What is big data according to the passage?",
+        "options": {
+          "A": "A small set of simple information",
+          "B": "A large set of data collected and analyzed by computers",
+          "C": "Paper records of daily life",
+          "D": "Only the data from shopping apps"
+        },
+        "answer": "B",
+        "analysis": "文章第一句明确提到'Big data means a very large set of different kinds of data that can be collected and analyzed by computers'，这是大数据的定义，A、C、D均与原文不符或表述片面。"
+      },
+      {
+        "id": "q2",
+        "number": 2,
+        "content": "Which of the following is a way people generate data every day?",
+        "options": {
+          "A": "Writing diaries on paper",
+          "B": "Leaving information on social media",
+          "C": "Talking with friends face to face",
+          "D": "Reading physical books"
+        },
+        "answer": "B",
+        "analysis": "文章第二句提到'we generate a lot of data every day—such as the information we leave on social media, the records of online shopping...'，即社交媒体留下的信息是产生数据的方式，A、C、D均无数字数据产生。"
+      },
+      {
+        "id": "q3",
+        "number": 3,
+        "content": "How can big data help cities?",
+        "options": {
+          "A": "Optimize traffic lights and reduce traffic jams",
+          "B": "Make more traffic jams on the road",
+          "C": "Stop all the navigation apps",
+          "D": "Raise the price of public transportation"
+        },
+        "answer": "A",
+        "analysis": "文章第三句提到'cities can optimize traffic lights and reduce traffic jams'，即大数据能帮城市优化交通灯、减少拥堵，B、C、D均与原文相反或未提及。"
+      },
+      {
+        "id": "q4",
+        "number": 4,
+        "content": "What is the main idea of the passage?",
+        "options": {
+          "A": "Big data is useless for society and people",
+          "B": "Big data is a valuable information resource and benefits many fields",
+          "C": "Big data only helps companies sell more products",
+          "D": "People generate no data in the digital age"
+        },
+        "answer": "B",
+        "analysis": "文章介绍了大数据的定义、数据的产生方式，以及其在企业、医院、城市、科研等多个领域的作用，最后总结大数据是信息宝藏，能推动社会发展，核心主旨是大数据的价值和多领域益处；A、C、D均与原文相反或表述片面。"
+      }
+    ],
+    "tags": ["阅读理解", "科技", "大数据", "信息科技"],
+    "wordCount": 166,
+    "readingTime": "3-5分钟"
+  },
+  {
+    "version": "1.0",
+    "type": "reading",
+    "year": 2024,
+    "difficulty": "medium",
+    "source": "2024年中考科技模拟卷",
+    "title": "Service Robots in Daily Life",
+    "passage": "Service robots are a kind of smart robots that help people with daily work and life, and they are becoming more and more common in our life. There are many kinds of service robots: cleaning robots can clean the floor and windows automatically at home; delivery robots can send food and express packages to people in communities and schools; restaurant robots can take orders and serve dishes for customers. Most service robots are controlled by AI and can avoid obstacles when moving, so they won't hit people or things. They can work for a long time without getting tired, which saves a lot of human labor. With the development of technology, service robots will become smarter and can do more complex tasks for us in the future.",
+    "questions": [
+      {
+        "id": "q1",
+        "number": 1,
+        "content": "What is the main job of service robots?",
+        "options": {
+          "A": "Play games with people all day",
+          "B": "Help people with daily work and life",
+          "C": "Only follow human orders without any AI",
+          "D": "Damage things at home and in public"
+        },
+        "answer": "B",
+        "analysis": "文章第一句提到'Service robots are a kind of smart robots that help people with daily work and life'，即服务机器人的核心工作是协助人们的日常工作和生活，A、C、D均与原文相反。"
+      },
+      {
+        "id": "q2",
+        "number": 2,
+        "content": "Which robot can send express packages according to the passage?",
+        "options": {
+          "A": "Cleaning robots",
+          "B": "Restaurant robots",
+          "C": "Delivery robots",
+          "D": "Toy robots"
+        },
+        "answer": "C",
+        "analysis": "文章第三句提到'delivery robots can send food and express packages to people in communities and schools'，即配送机器人可派送快递，A负责清洁，B负责餐厅点单上菜，D未提及相关功能。"
+      },
+      {
+        "id": "q3",
+        "number": 3,
+        "content": "How do service robots avoid hitting people or things?",
+        "options": {
+          "A": "They are controlled by AI and can avoid obstacles",
+          "B": "They move very slowly and stop all the time",
+          "C": "There are people following them to guide",
+          "D": "They only work in empty places with no one"
+        },
+        "answer": "A",
+        "analysis": "文章第四句提到'Most service robots are controlled by AI and can avoid obstacles when moving, so they won't hit people or things'，即AI控制和避障功能是其不碰撞的原因，B、C、D均与原文不符。"
+      },
+      {
+        "id": "q4",
+        "number": 4,
+        "content": "What can we know about the future of service robots?",
+        "options": {
+          "A": "They will become dumber and do fewer tasks",
+          "B": "They will replace all human workers soon",
+          "C": "They will be smarter and do more complex tasks",
+          "D": "They will disappear from our daily life"
+        },
+        "answer": "C",
+        "analysis": "文章最后一句提到'With the development of technology, service robots will become smarter and can do more complex tasks for us in the future'，直接说明服务机器人的未来发展趋势，A、D与原文相反，B表述过于绝对，原文未提及。"
+      }
+    ],
+    "tags": ["阅读理解", "科技", "机器人", "服务机器人"],
+    "wordCount": 162,
+    "readingTime": "3-5分钟"
+  },
+  {
+    "version": "1.0",
+    "type": "reading",
+    "year": 2024,
+    "difficulty": "medium",
+    "source": "2024年中考科技模拟卷",
+    "title": "AI in Education: A Smart Learning Partner",
+    "passage": "AI has brought great changes to the field of education and become a smart learning partner for students and teachers. For students, AI learning apps can make personalized study plans according to their weak points—for example, if a student is bad at math calculations, the app will push more related exercises. AI can also answer study questions at any time, even at night when teachers are not available. For teachers, AI can grade homework and test papers quickly and accurately, saving a lot of time for lesson preparation. AI can also analyze students' study data and tell teachers which knowledge points the students don't understand well. AI in education doesn't replace teachers, but helps them teach better and makes students learn more efficiently.",
+    "questions": [
+      {
+        "id": "q1",
+        "number": 1,
+        "content": "What can AI learning apps do for students according to their weak points?",
+        "options": {
+          "A": "Push more interesting games",
+          "B": "Make personalized study plans",
+          "C": "Let them skip difficult lessons",
+          "D": "Copy answers for them"
+        },
+        "answer": "B",
+        "analysis": "文章第二句提到'AI learning apps can make personalized study plans according to their weak points'，即AI学习软件能根据学生的薄弱点制定个性化学习计划，A、C、D均为错误做法，并非原文功能。"
+      },
+      {
+        "id": "q2",
+        "number": 2,
+        "content": "When can AI answer students' study questions?",
+        "options": {
+          "A": "Only in the daytime at school",
+          "B": "Only when teachers are available",
+          "C": "At any time, even at night",
+          "D": "Never answer any study questions"
+        },
+        "answer": "C",
+        "analysis": "文章第三句提到'AI can also answer study questions at any time, even at night when teachers are not available'，即AI可随时解答问题，甚至夜间，A、B、D均与原文相反。"
+      },
+      {
+        "id": "q3",
+        "number": 3,
+        "content": "How can AI help teachers save time?",
+        "options": {
+          "A": "Grade homework and test papers quickly and accurately",
+          "B": "Let students grade their own homework",
+          "C": "Reduce the number of homework and tests",
+          "D": "Do all the lesson preparation for teachers"
+        },
+        "answer": "A",
+        "analysis": "文章第四句提到'AI can grade homework and test papers quickly and accurately, saving a lot of time for lesson preparation'，即AI快速准确的批改功能能帮教师节省时间，B、C、D均与原文不符或表述绝对。"
+      },
+      {
+        "id": "q4",
+        "number": 4,
+        "content": "What is the correct understanding of AI in education?",
+        "options": {
+          "A": "AI will replace all teachers in schools",
+          "B": "AI is a smart partner that helps teach and learn better",
+          "C": "AI makes students learn more slowly and inefficiently",
+          "D": "AI has no effect on students' and teachers' work"
+        },
+        "answer": "B",
+        "analysis": "文章开篇提到AI成为师生的智能学习伙伴，结尾强调AI不会取代教师，而是帮助教师教得更好、学生学得更高效，B符合原文主旨；A、C、D均与原文相反。"
+      }
+    ],
+    "tags": ["阅读理解", "科技", "人工智能", "AI教育"],
+    "wordCount": 164,
+    "readingTime": "3-5分钟"
+  },
+  {
+    "version": "1.0",
+    "type": "reading",
+    "year": 2024,
+    "difficulty": "medium",
+    "source": "2024年中考科技模拟卷",
+    "title": "Industrial Robots in Factories",
+    "passage": "Industrial robots are widely used in modern factories and have become an important part of industrial production. They are usually used to do repetitive and dangerous work that is not suitable for humans, such as assembling car parts, welding metal products, and carrying heavy goods. Industrial robots are controlled by computers and AI, so they can work with high speed and accuracy, and the product quality is more stable. They can work 24 hours a day without rest, which greatly improves the production efficiency of factories. Unlike service robots, industrial robots are usually fixed in one place and not designed for daily life. With the development of smart manufacturing, industrial robots will become more flexible and can do more precise work in the future.",
+    "questions": [
+      {
+        "id": "q1",
+        "number": 1,
+        "content": "What kind of work do industrial robots do in factories?",
+        "options": {
+          "A": "Repetitive and dangerous work",
+          "B": "Teaching workers new skills",
+          "C": "Selling products to customers",
+          "D": "Cooking food for factory workers"
+        },
+        "answer": "A",
+        "analysis": "文章第二句提到'They are usually used to do repetitive and dangerous work that is not suitable for humans'，即工业机器人负责重复性、危险性的工作，B、C、D均非工业机器人的工作内容。"
+      },
+      {
+        "id": "q2",
+        "number": 2,
+        "content": "Why is the product quality more stable with industrial robots?",
+        "options": {
+          "A": "They work slowly and carelessly",
+          "B": "They work with high speed and accuracy",
+          "C": "They often make mistakes in production",
+          "D": "They need human workers to check every step"
+        },
+        "answer": "B",
+        "analysis": "文章第三句提到'they can work with high speed and accuracy, and the product quality is more stable'，即高速和高精度的工作特点让产品质量更稳定，A、C与原文相反，D未提及。"
+      },
+      {
+        "id": "q3",
+        "number": 3,
+        "content": "What is the difference between industrial robots and service robots?",
+        "options": {
+          "A": "Industrial robots work in daily life for people",
+          "B": "Industrial robots are usually fixed in one place",
+          "C": "Service robots are used in factory production",
+          "D": "Service robots can carry heavy goods in factories"
+        },
+        "answer": "B",
+        "analysis": "文章倒数第二句提到'Unlike service robots, industrial robots are usually fixed in one place and not designed for daily life'，即工业机器人的特点是固定在一个位置，A、C、D均混淆了两种机器人的使用场景。"
+      },
+      {
+        "id": "q4",
+        "number": 4,
+        "content": "What will industrial robots be like in the future?",
+        "options": {
+          "A": "More flexible and do more precise work",
+          "B": "Less useful and be replaced by human workers",
+          "C": "Only do simple work and move slowly",
+          "D": "Be used in families for daily housework"
+        },
+        "answer": "A",
+        "analysis": "文章最后一句提到'With the development of smart manufacturing, industrial robots will become more flexible and can do more precise work in the future'，直接说明工业机器人未来的发展特点，B、C与原文相反，D是服务机器人的功能。"
+      }
+    ],
+    "tags": ["阅读理解", "科技", "机器人", "工业机器人"],
+    "wordCount": 167,
+    "readingTime": "3-5分钟"
+  },
+  {
+    "version": "1.0",
+    "type": "reading",
+    "year": 2024,
+    "difficulty": "medium",
+    "source": "2024年中考科技模拟卷",
+    "title": "Big Data in Medical Care",
+    "passage": "Big data has brought a new revolution to the medical care field and made it more scientific and efficient. Hospitals can collect and analyze patients' medical data, such as examination reports and treatment records, to find the best treatment plan for each patient. Big data can also help doctors predict potential diseases—for example, by analyzing a person's health data, doctors can tell them if they have a high risk of diabetes or high blood pressure and give early suggestions. For medical researchers, big data can speed up the research of new drugs and vaccines, as it can provide a large number of medical information and case data. Big data also makes remote medical care possible: patients in small towns can get diagnosis and suggestions from famous doctors in big cities through data transmission.",
+    "questions": [
+      {
+        "id": "q1",
+        "number": 1,
+        "content": "What can hospitals do by analyzing patients' medical data?",
+        "options": {
+          "A": "Ignore the patient's illness and symptoms",
+          "B": "Find the best treatment plan for each patient",
+          "C": "Make the treatment more difficult and slow",
+          "D": "Refuse to treat patients with serious illness"
+        },
+        "answer": "B",
+        "analysis": "文章第二句提到'Hospitals can collect and analyze patients' medical data... to find the best treatment plan for each patient'，即分析医疗数据能为每位患者制定最佳治疗方案，A、C、D均与原文相反。"
+      },
+      {
+        "id": "q2",
+        "number": 2,
+        "content": "How can big data help doctors predict potential diseases?",
+        "options": {
+          "A": "By analyzing a person's health data",
+          "B": "By guessing the person's illness randomly",
+          "C": "By asking the person's friends and family",
+          "D": "By giving the person unnecessary medicine"
+        },
+        "answer": "A",
+        "analysis": "文章第三句提到'by analyzing a person's health data, doctors can tell them if they have a high risk of diabetes or high blood pressure'，即分析个人健康数据是预测潜在疾病的方式，B、C、D均为错误做法，并非原文提及的方法。"
+      },
+      {
+        "id": "q3",
+        "number": 3,
+        "content": "How does big data help medical researchers?",
+        "options": {
+          "A": "Slow down the research of new drugs and vaccines",
+          "B": "Provide a large number of medical information and case data",
+          "C": "Reduce the number of medical research cases",
+          "D": "Make drug research more expensive and difficult"
+        },
+        "answer": "B",
+        "analysis": "文章第四句提到'big data can speed up the research of new drugs and vaccines, as it can provide a large number of medical information and case data'，即大数据能为研究者提供海量医疗信息和病例数据，A、C、D均与原文相反。"
+      },
+      {
+        "id": "q4",
+        "number": 4,
+        "content": "What makes remote medical care possible according to the passage?",
+        "options": {
+          "A": "The development of big data technology",
+          "B": "The increase of patients in small towns",
+          "C": "The decrease of famous doctors in big cities",
+          "D": "The end of data transmission technology"
+        },
+        "answer": "A",
+        "analysis": "文章最后一句提到'Big data also makes remote medical care possible: patients in small towns can get diagnosis... through data transmission'，即大数据技术的发展让远程医疗成为可能，B、C、D均与原文相反或未提及。"
+      }
+    ],
+    "tags": ["阅读理解", "科技", "大数据", "医疗科技"],
+    "wordCount": 169,
+    "readingTime": "3-5分钟"
+  },
+  {
+    "version": "1.0",
+    "type": "reading",
+    "year": 2024,
+    "difficulty": "medium",
+    "source": "2024年中考科技模拟卷",
+    "title": "AI and Smart Transportation",
+    "passage": "AI has greatly improved the development of smart transportation and made our travel safer and more convenient. AI is used in many parts of smart transportation: smart traffic cameras can identify illegal driving behaviors and send warnings in time; AI navigation apps can plan the best route according to real-time traffic conditions and avoid crowded roads. Self-driving cars, which are controlled by advanced AI, can sense the surrounding environment and make driving decisions by themselves, such as slowing down and stopping when meeting pedestrians. AI can also manage public transportation, like adjusting the time of bus departures according to the number of passengers. With AI, cities can build a more intelligent traffic system, and people's travel experience will become better and better.",
+    "questions": [
+      {
+        "id": "q1",
+        "number": 1,
+        "content": "What benefit does AI bring to smart transportation?",
+        "options": {
+          "A": "Make travel safer and more convenient",
+          "B": "Cause more traffic jams and accidents",
+          "C": "Make navigation apps useless",
+          "D": "Slow down the development of transportation"
+        },
+        "answer": "A",
+        "analysis": "文章第一句提到'AI has greatly improved the development of smart transportation and made our travel safer and more convenient'，即AI让出行更安全、便捷，B、C、D均与原文相反。"
+      },
+      {
+        "id": "q2",
+        "number": 2,
+        "content": "What can AI navigation apps do according to real-time traffic conditions?",
+        "options": {
+          "A": "Plan the worst route for travel",
+          "B": "Plan the best route and avoid crowded roads",
+          "C": "Lead people to drive on illegal roads",
+          "D": "Stop working when traffic is heavy"
+        },
+        "answer": "B",
+        "analysis": "文章第三句提到'AI navigation apps can plan the best route according to real-time traffic conditions and avoid crowded roads'，即AI导航能规划最佳路线、避开拥堵，A、C、D均与原文相反。"
+      },
+      {
+        "id": "q3",
+        "number": 3,
+        "content": "What can self-driving cars do when meeting pedestrians?",
+        "options": {
+          "A": "Speed up and pass quickly",
+          "B": "Slow down and stop",
+          "C": "Keep moving and ignore pedestrians",
+          "D": "Change direction randomly"
+        },
+        "answer": "B",
+        "analysis": "文章第四句提到'Self-driving cars... can sense the surrounding environment... such as slowing down and stopping when meeting pedestrians'，即自动驾驶汽车遇到行人会减速停车，A、C、D均为危险行为，与原文相反。"
+      },
+      {
+        "id": "q4",
+        "number": 4,
+        "content": "What is the future of urban traffic with AI?",
+        "options": {
+          "A": "A more intelligent traffic system and better travel experience",
+          "B": "No public transportation and only self-driving cars",
+          "C": "More illegal driving and traffic accidents",
+          "D": "People will stop traveling by all means of transportation"
+        },
+        "answer": "A",
+        "analysis": "文章最后一句提到'With AI, cities can build a more intelligent traffic system, and people's travel experience will become better and better'，直接说明AI赋能下城市交通的未来，B、C、D均与原文相反或表述绝对。"
+      }
+    ],
+    "tags": ["阅读理解", "科技", "人工智能", "智能交通"],
+    "wordCount": 163,
+    "readingTime": "3-5分钟"
+  },
+  {
+    "version": "1.0",
+    "type": "reading",
+    "year": 2024,
+    "difficulty": "medium",
+    "source": "2024年中考科技模拟卷",
+    "title": "AI for Environmental Protection",
+    "passage": "AI is not only a helper for life and work, but also a powerful tool for environmental protection. AI can be used to monitor the environment in real time: smart sensors with AI can collect data of air quality, water pollution and soil condition, and send early warnings when the environment is polluted. AI can also analyze climate data to predict natural disasters like typhoons and floods, which helps people prepare for them in advance and reduce losses. For waste treatment, AI can sort different kinds of waste automatically, making recycling more efficient. AI can also optimize the energy use of factories and reduce carbon emissions by analyzing energy consumption data. Using AI in environmental protection can help us protect the earth better and build a greener world.",
+    "questions": [
+      {
+        "id": "q1",
+        "number": 1,
+        "content": "What can AI do for environmental monitoring in real time?",
+        "options": {
+          "A": "Collect environmental data and send pollution warnings",
+          "B": "Pollute air, water and soil actively",
+          "C": "Ignore the change of environmental conditions",
+          "D": "Make environmental monitoring more difficult"
+        },
+        "answer": "A",
+        "analysis": "文章第二句提到'AI can be used to monitor the environment in real time: smart sensors with AI can collect data of air quality... and send early warnings when the environment is polluted'，即AI能收集环境数据、发出污染预警，B、C、D均与原文相反。"
+      },
+      {
+        "id": "q2",
+        "number": 2,
+        "content": "How can AI help people reduce natural disaster losses?",
+        "options": {
+          "A": "Predict natural disasters and help people prepare in advance",
+          "B": "Cause more natural disasters like typhoons and floods",
+          "C": "Do nothing when natural disasters happen",
+          "D": "Prevent all natural disasters from happening"
+        },
+        "answer": "A",
+        "analysis": "文章第三句提到'AI can also analyze climate data to predict natural disasters... which helps people prepare for them in advance and reduce losses'，即AI预测灾害、助力提前准备，从而减少损失，B、C与原文相反，D表述绝对，原文未提及。"
+      },
+      {
+        "id": "q3",
+        "number": 3,
+        "content": "What can AI do for waste treatment?",
+        "options": {
+          "A": "Mix all waste together and make recycling harder",
+          "B": "Sort different kinds of waste automatically",
+          "C": "Throw waste randomly into the environment",
+          "D": "Reduce the amount of recyclable waste"
+        },
+        "answer": "B",
+        "analysis": "文章第四句提到'For waste treatment, AI can sort different kinds of waste automatically, making recycling more efficient'，即AI能自动分类垃圾，提升回收效率，A、C、D均与原文相反。"
+      },
+      {
+        "id": "q4",
+        "number": 4,
+        "content": "What is the main purpose of using AI in environmental protection?",
+        "options": {
+          "A": "Make factories use more energy and emit more carbon",
+          "B": "Damage the earth and make the environment worse",
+          "C": "Help us protect the earth and build a greener world",
+          "D": "Only monitor the environment and do no practical work"
+        },
+        "answer": "C",
+        "analysis": "文章最后一句提到'Using AI in environmental protection can help us protect the earth better and build a greener world'，即AI用于环保的核心目的是保护地球、建设绿色世界，A、B、D均与原文相反。"
+      }
+    ],
+    "tags": ["阅读理解", "科技", "人工智能", "环保科技"],
+    "wordCount": 168,
+    "readingTime": "3-5分钟"
+  },
+  {
+    "version": "1.0",
+    "type": "reading",
+    "year": 2024,
+    "difficulty": "medium",
+    "source": "2024年中考科技模拟卷",
+    "title": "Big Data and Smart Shopping",
+    "passage": "Big data has changed people's shopping habits and created a new smart shopping model. E-commerce platforms collect and analyze users' shopping data, such as the products they browse, collect and buy, to understand their shopping preferences. Then the platforms will push personalized product recommendations to users, which makes it easier for people to find the products they like. Big data also helps merchants manage their stores better: they can know which products are popular and adjust the stock in time to avoid shortage or overstock. For offline shopping, big data can analyze the flow of people in shopping malls and help managers optimize the layout of shops. Smart shopping with big data makes shopping more convenient for consumers and more efficient for merchants.",
+    "questions": [
+      {
+        "id": "q1",
+        "number": 1,
+        "content": "What do e-commerce platforms analyze to understand users' shopping preferences?",
+        "options": {
+          "A": "Users' living addresses and ages",
+          "B": "Users' browsing, collecting and buying data",
+          "C": "Users' phone numbers and social accounts",
+          "D": "Users' family members and hobbies in life"
+        },
+        "answer": "B",
+        "analysis": "文章第二句提到'E-commerce platforms collect and analyze users' shopping data, such as the products they browse, collect and buy, to understand their shopping preferences'，即分析用户的浏览、收藏、购买数据，A、C、D均非原文提及的购物数据。"
+      },
+      {
+        "id": "q2",
+        "number": 2,
+        "content": "What do platforms do after understanding users' shopping preferences?",
+        "options": {
+          "A": "Push irrelevant products to users",
+          "B": "Stop users from shopping online",
+          "C": "Push personalized product recommendations",
+          "D": "Raise the price of all products for users"
+        },
+        "answer": "C",
+        "analysis": "文章第三句提到'Then the platforms will push personalized product recommendations to users'，即平台会推送个性化产品推荐，A、B、D均与原文相反。"
+      },
+      {
+        "id": "q3",
+        "number": 3,
+        "content": "How can big data help merchants manage their stores better?",
+        "options": {
+          "A": "Know popular products and adjust stock in time",
+          "B": "Order a lot of products and cause overstock",
+          "C": "Ignore the sales of products and cut down stock randomly",
+          "D": "Sell only one kind of product to all customers"
+        },
+        "answer": "A",
+        "analysis": "文章第四句提到'big data also helps merchants manage their stores better: they can know which products are popular and adjust the stock in time'，即大数据能帮商家了解爆款产品、及时调整库存，B、C、D均为错误的经营方式，与原文相反。"
+      },
+      {
+        "id": "q4",
+        "number": 4,
+        "content": "What is the effect of smart shopping with big data?",
+        "options": {
+          "A": "Make shopping more difficult for consumers",
+          "B": "Make business less efficient for merchants",
+          "C": "Bring convenience to consumers and efficiency to merchants",
+          "D": "No changes to traditional shopping habits"
+        },
+        "answer": "C",
+        "analysis": "文章最后一句提到'Smart shopping with big data makes shopping more convenient for consumers and more efficient for merchants'，直接说明大数据智能购物的效果，A、B、D均与原文相反。"
+      }
+    ],
+    "tags": ["阅读理解", "科技", "大数据", "智能购物"],
+    "wordCount": 165,
+    "readingTime": "3-5分钟"
+  }
+]

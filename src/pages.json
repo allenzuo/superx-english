@@ -1,0 +1,287 @@
+{
+  "pages": [
+    {
+      "path": "pages/home/index",
+      "style": {
+        "navigationBarTitleText": "中考英语·真题吃透",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/zhongkao/index",
+      "style": {
+        "navigationBarTitleText": "决胜中考"
+      }
+    },
+    {
+      "path": "pages/words/index",
+      "style": {
+        "navigationBarTitleText": "单词本",
+        "enablePullDownRefresh": true
+      }
+    },
+    {
+      "path": "pages/wrong/index",
+      "style": {
+        "navigationBarTitleText": "错题本"
+      }
+    },
+    {
+      "path": "pages/profile/index",
+      "style": {
+        "navigationBarTitleText": "我的"
+      }
+    },
+    {
+      "path": "pages/practice/index",
+      "style": {
+        "navigationBarTitleText": "真题练习"
+      }
+    },
+    {
+      "path": "pages/practice/type",
+      "style": {
+        "navigationBarTitleText": "选择题型"
+      }
+    },
+    {
+      "path": "pages/practice/year",
+      "style": {
+        "navigationBarTitleText": "选择年份"
+      }
+    },
+    {
+      "path": "pages/grammar/index",
+      "style": {
+        "navigationBarTitleText": "语法学习"
+      }
+    },
+    {
+      "path": "pages/listening/index",
+      "style": {
+        "navigationBarTitleText": "听力练习"
+      }
+    },
+    {
+      "path": "pages/listening/type",
+      "style": {
+        "navigationBarTitleText": "听力专项"
+      }
+    },
+    {
+      "path": "pages/listening/practice",
+      "style": {
+        "navigationBarTitleText": "听力练习"
+      }
+    },
+    {
+      "path": "pages/writing/index",
+      "style": {
+        "navigationBarTitleText": "写作练习"
+      }
+    },
+    {
+      "path": "pages/settings/index",
+      "style": {
+        "navigationBarTitleText": "设置"
+      }
+    },
+    {
+      "path": "pages/words/grade",
+      "style": {
+        "navigationBarTitleText": "年级单词"
+      }
+    },
+    {
+      "path": "pages/words/detail",
+      "style": {
+        "navigationBarTitleText": "单词详情"
+      }
+    },
+    {
+      "path": "pages/reading/index",
+      "style": {
+        "navigationBarTitleText": "阅读理解"
+      }
+    },
+    {
+      "path": "pages/reading/article",
+      "style": {
+        "navigationBarTitleText": "阅读文章"
+      }
+    },
+    {
+      "path": "pages/reading/practice",
+      "style": {
+        "navigationBarTitleText": "答题"
+      }
+    },
+    {
+      "path": "pages/hundred/index",
+      "style": {
+        "navigationBarTitleText": "百日计划"
+      }
+    },
+    {
+      "path": "pages/diagnostic/index",
+      "style": {
+        "navigationBarTitleText": "AI诊断"
+      }
+    },
+    {
+      "path": "pages/diagnostic/test",
+      "style": {
+        "navigationBarTitleText": "学情诊断"
+      }
+    },
+    {
+      "path": "pages/diagnostic/result",
+      "style": {
+        "navigationBarTitleText": "诊断结果"
+      }
+    },
+    {
+      "path": "pages/knowledge/index",
+      "style": {
+        "navigationBarTitleText": "知识地图"
+      }
+    },
+    {
+      "path": "pages/exam/index",
+      "style": {
+        "navigationBarTitleText": "真题练习"
+      }
+    },
+    {
+      "path": "pages/exam/practice",
+      "style": {
+        "navigationBarTitleText": "答题"
+      }
+    },
+    {
+      "path": "pages/tags/index",
+      "style": {
+        "navigationBarTitleText": "标签"
+      }
+    },
+    {
+      "path": "pages/daily/words",
+      "style": {
+        "navigationBarTitleText": "每日单词"
+      }
+    },
+    {
+      "path": "pages/words/example",
+      "style": {
+        "navigationBarTitleText": "例句测试"
+      }
+    },
+    {
+      "path": "pages/diagnostic/word",
+      "style": {
+        "navigationBarTitleText": "单词诊断"
+      }
+    },
+    {
+      "path": "pages/grammar/detail",
+      "style": {
+        "navigationBarTitleText": "语法详情"
+      }
+    },
+    {
+      "path": "pages/debug/index",
+      "style": {
+        "navigationBarTitleText": "调试"
+      }
+    },
+    {
+      "path": "pages/chat/index",
+      "style": {
+        "navigationBarTitleText": "AI 对话"
+      }
+    },
+    {
+      "path": "pages/vip/index",
+      "style": {
+        "navigationBarTitleText": "开通会员"
+      }
+    },
+    {
+      "path": "pages/scan/question",
+      "style": {
+        "navigationBarTitleText": "AI 识题"
+      }
+    },
+    {
+      "path": "pages/scan/word",
+      "style": {
+        "navigationBarTitleText": "AI 识单词"
+      }
+    },
+    {
+      "path": "pages/report/index",
+      "style": {
+        "navigationBarTitleText": "AI 学习报告"
+      }
+    },
+    {
+      "path": "pages/scan/question-detail",
+      "style": {
+        "navigationBarTitleText": "题目详情"
+      }
+    },
+    {
+      "path": "pages/words/scanned",
+      "style": {
+        "navigationBarTitleText": "扫描生词"
+      }
+    },
+    {
+      "path": "pages/words/add",
+      "style": {
+        "navigationBarTitleText": "添加单词"
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "中考英语",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#999999",
+    "selectedColor": "#ff6b6b",
+    "borderStyle": "white",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/home/index",
+        "text": "首页",
+        "iconPath": "static/tabbar/home.png",
+        "selectedIconPath": "static/tabbar/home-active.png"
+      },
+      {
+        "pagePath": "pages/words/index",
+        "text": "单词本",
+        "iconPath": "static/tabbar/book.png",
+        "selectedIconPath": "static/tabbar/book-active.png"
+      },
+      {
+        "pagePath": "pages/wrong/index",
+        "text": "错题本",
+        "iconPath": "static/tabbar/wrong.png",
+        "selectedIconPath": "static/tabbar/wrong-active.png"
+      },
+      {
+        "pagePath": "pages/profile/index",
+        "text": "我的",
+        "iconPath": "static/tabbar/user.png",
+        "selectedIconPath": "static/tabbar/user-active.png"
+      }
+    ]
+  },
+  "easycom": {
+    "uni-(.*)": "@dcloudio/uni-ui/lib/uni-$1/uni-$1.vue"
+  }
+}

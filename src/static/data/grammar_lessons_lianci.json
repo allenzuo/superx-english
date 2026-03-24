@@ -1,0 +1,555 @@
+{
+  "grammar_topics": [
+    {
+      "id": "conjunctions",
+      "name": "7-连词-三部分内容详细解析",
+      "icon": "triangle",
+      "color": "#e74c3c",
+      "lessons": [
+        {
+          "id": "conjunctions_1",
+          "title": "1-并列连词的用法",
+          "content": "### 并列连词的核心定义\n并列连词**用于连接语法地位平等的词、短语或句子**，包括单词（名词、动词、形容词等）、短语（介词短语、动名词短语等）、分句（两个独立的简单句），是初中英语连词的基础考点，中考单选、完形、语篇填空均会高频考查。\n\n### 并列连词的分类及核心用法（中考必考）\n#### 类别1：表并列/递进关系（and, both...and..., not only...but also..., as well as）\n核心含义：“和、并且、不仅……而且……、也”，连接的前后内容为并列或递进关系，无主次之分。\n1. **and**：最基础的并列连词，可连接词、短语、句子，日常使用频率最高；\n   - 接词：I like apples and bananas.（我喜欢苹果和香蕉，连接两个名词）；\n   - 接短语：He is good at singing and dancing.（他擅长唱歌和跳舞，连接两个动名词短语）；\n   - 接句子：I get up early and I go to school on time.（我早起，并且按时上学，连接两个简单句）。\n2. **both...and...**：表“两者都”，连接两个并列成分，谓语动词用复数；\n   - 例：Both Tom and Lily are from England.（汤姆和莉莉都来自英国，连接两个主语，谓语用are）。\n3. **not only...but also...**：表“不仅……而且……”，连接两个并列成分，**有就近原则**（谓语动词与but also后的成分保持一致）；\n   - 例：Not only he but also his sister likes reading.（不仅他，他妹妹也喜欢读书，谓语likes与his sister一致）。\n4. **as well as**：表“也、和……一样”，连接两个并列成分，**谓语动词与前面的成分保持一致**（与not only...but also...相反）；\n   - 例：Tom as well as his parents likes swimming.（汤姆和他的父母都喜欢游泳，谓语likes与Tom一致）。\n\n#### 类别2：表选择关系（or, either...or..., neither...nor...）\n核心含义：“或者、要么……要么……、既不……也不……”，连接的前后内容为选择关系。\n1. **or**：基础选择连词，可表“或者”（选择）、“否则”（警告/条件）；\n   - 表选择：You can choose tea or coffee.（你可以选茶或者咖啡）；\n   - 表否则：Hurry up, or you will be late.（快点，否则你会迟到）。\n2. **either...or...**：表“要么……要么……”，连接两个并列成分，**有就近原则**；\n   - 例：Either you or I am going to the park.（要么你，要么我要去公园，谓语am与I一致）。\n3. **neither...nor...**：表“既不……也不……”，连接两个并列成分，**有就近原则**；\n   - 例：Neither my brother nor I like spicy food.（我哥哥和我都不喜欢辣的食物，谓语like与I一致）。\n\n#### 类别3：表转折关系（but, yet, while）\n核心含义：“但是、然而”，连接的前后内容语义相反、对比。\n1. **but**：最常用转折连词，表“但是”，语气较强；\n   - 例：He is young, but he is very experienced.（他很年轻，但经验丰富）。\n2. **yet**：表“然而、但是”，可与but互换，语气稍弱，常置于句中（用逗号隔开）或句末；\n   - 例：She worked hard, yet she failed the exam.（她努力学习了，然而还是没通过考试）。\n3. **while**：表“然而、而”，侧重对比两者的不同，连接的前后内容通常是并列的句子；\n   - 例：I like reading while my sister likes watching TV.（我喜欢读书，而我妹妹喜欢看电视）。\n\n#### 类别4：表因果关系（so, for）\n核心含义：“所以、因为”，连接的前后内容有因果逻辑。\n1. **so**：表“所以、因此”，强调结果，**不可与because同时使用**（易错点）；\n   - 例：It rained heavily, so we stayed at home.（雨下得很大，所以我们待在家里）；\n   - 错例：Because it rained, so we stayed home.（去掉because或so其一）。\n2. **for**：表“因为、由于”，侧重补充说明原因，不可置于句首，需用逗号与主句隔开；\n   - 例：He must be ill, for he didn’t come to school today.（他一定生病了，因为他今天没来上学）。\n\n### 并列连词的使用禁忌\n1. and/or连接多个并列成分时，最后两个成分之间加and/or，前面用逗号隔开，如：I like red, blue and green.；\n2. not only...but also...中，but also可省略also，也可换成but...as well，如：Not only he but (also) I like it.；\n3. while表转折时，前后句子时态通常一致，且侧重“对比”而非单纯“转折”；\n4. so与because不可连用，这是中考最易出错的语法点之一。",
+          "examples": [
+            {
+              "sentence": "I like playing basketball and listening to music.",
+              "translation": "我喜欢打篮球和听音乐。",
+              "analysis": "and是并列连词，连接两个动名词短语playing basketball和listening to music，表并列关系，无主次之分。"
+            },
+            {
+              "sentence": "Both my mother and my father are teachers.",
+              "translation": "我的妈妈和爸爸都是老师。",
+              "analysis": "both...and...连接两个主语my mother和my father，表“两者都”，谓语动词用复数are，符合语法规则。"
+            },
+            {
+              "sentence": "Not only the students but also their teacher likes this movie.",
+              "translation": "不仅学生们，他们的老师也喜欢这部电影。",
+              "analysis": "not only...but also...连接两个主语，谓语动词遵循“就近原则”，与but also后的their teacher保持一致，故用likes。"
+            },
+            {
+              "sentence": "You can go to the park by bus or on foot.",
+              "translation": "你可以乘公交或者步行去公园。",
+              "analysis": "or是选择连词，连接两个交通方式短语by bus和on foot，表“或者”，提供两种选择。"
+            },
+            {
+              "sentence": "Either you finish the homework now or you do it tomorrow.",
+              "translation": "要么你现在写完作业，要么你明天写。",
+              "analysis": "either...or...表“要么……要么……”，连接两个分句，提供两种选择，是中考高频考查的选择连词。"
+            },
+            {
+              "sentence": "She is very rich, yet she lives a simple life.",
+              "translation": "她很有钱，然而却过着简朴的生活。",
+              "analysis": "yet表转折，语气比but稍弱，连接两个语义相反的分句，强调“富有”与“简朴生活”的对比。"
+            },
+            {
+              "sentence": "My brother likes sports while I prefer reading.",
+              "translation": "我哥哥喜欢运动，而我更喜欢读书。",
+              "analysis": "while表转折，侧重对比两者的不同爱好，连接的两个分句时态一致（一般现在时），符合while的用法规则。"
+            },
+            {
+              "sentence": "It was late, so we had to go home quickly.",
+              "translation": "天晚了，所以我们不得不赶紧回家。",
+              "analysis": "so表因果，强调“天晚”带来的结果“赶紧回家”；注意so不可与because连用，如不可说Because it was late, so we went home。"
+            },
+            {
+              "sentence": "He didn’t pass the exam, for he didn’t study hard.",
+              "translation": "他没通过考试，因为他学习不努力。",
+              "analysis": "for表补充说明原因，解释“没通过考试”的理由，不可置于句首，且用逗号与主句隔开。"
+            },
+            {
+              "sentence": "Neither my sister nor I want to go to the party.",
+              "translation": "我妹妹和我都不想去参加派对。",
+              "analysis": "neither...nor...表“既不……也不……”，连接两个主语，谓语动词遵循“就近原则”，与I一致，故用want。"
+            }
+          ],
+          "exercises": [
+            {
+              "question": "I like playing football ___ swimming in my free time.",
+              "options": {"A": "or", "B": "and", "C": "but"},
+              "answer": "B",
+              "explanation": "football和swimming是并列的爱好，表“和”的并列关系，用and；or表选择，but表转折，均不符合语境。"
+            },
+            {
+              "question": "___ my father ___ my mother is a doctor. They are both teachers.",
+              "options": {"A": "Not only; but also", "B": "Both; and", "C": "Neither; nor"},
+              "answer": "C",
+              "explanation": "后一句表明“都是老师”，因此前一句表“既不是爸爸也不是妈妈是医生”，neither...nor...表“既不……也不……”，符合语境；both...and...后谓语用复数，与is矛盾；not only...but also...表递进，不符合。"
+            },
+            {
+              "question": "Hurry up, ___ you will miss the early bus.",
+              "options": {"A": "or", "B": "so", "C": "and"},
+              "answer": "A",
+              "explanation": "前半句“快点”，后半句“错过早班车”，or表“否则”，符合语境；so表结果，and表并列，均不符合。"
+            },
+            {
+              "question": "Not only I but also my brother ___ interested in playing chess.",
+              "options": {"A": "am", "B": "is", "C": "are"},
+              "answer": "B",
+              "explanation": "not only...but also...遵循“就近原则”，谓语动词与but also后的my brother一致，my brother是单数，故用is。"
+            },
+            {
+              "question": "She worked very hard, ___ she still didn’t get good grades.",
+              "options": {"A": "so", "B": "but", "C": "for"},
+              "answer": "B",
+              "explanation": "前半句“努力学习”，后半句“没取得好成绩”，语义转折，用but；so表结果，for表原因，均不符合。"
+            },
+            {
+              "question": "You can ___ stay at home ___ go out with me. It’s up to you.",
+              "options": {"A": "either; or", "B": "neither; nor", "C": "both; and"},
+              "answer": "A",
+              "explanation": "后一句“由你决定”，说明是两种选择，either...or...表“要么……要么……”，符合语境；neither...nor...表否定，both...and...表两者都，均不符合。"
+            },
+            {
+              "question": "Tom ___ his sister likes playing the piano. They both like drawing.",
+              "options": {"A": "as well as", "B": "with", "C": "but"},
+              "answer": "A",
+              "explanation": "as well as连接两个主语时，谓语动词与前面的Tom一致，用likes；with是介词，非连词；but表转折，不符合语境。"
+            },
+            {
+              "question": "It was raining hard, ___ we canceled the picnic.",
+              "options": {"A": "because", "B": "so", "C": "for"},
+              "answer": "B",
+              "explanation": "前半句“雨下得大”是原因，后半句“取消野餐”是结果，so表结果，符合语境；because表原因（需置于句首或前半句），for表补充原因（不可置于句首），均不符合。"
+            },
+            {
+              "question": "I like reading books ___ my brother likes playing computer games.",
+              "options": {"A": "while", "B": "and", "C": "or"},
+              "answer": "A",
+              "explanation": "前后分句对比“我”和“哥哥”的不同爱好，while表“然而、而”，侧重对比，符合语境；and表并列，or表选择，均不符合。"
+            },
+            {
+              "question": "He must be tired, ___ he has been working for 10 hours.",
+              "options": {"A": "so", "B": "but", "C": "for"},
+              "answer": "C",
+              "explanation": "后半句补充说明“他累”的原因，for表补充原因，不可置于句首，用逗号隔开，符合语境；so表结果，but表转折，均不符合。"
+            },
+            {
+              "question": "___ you ___ your friend can join us. We only need one person.",
+              "options": {"A": "Both; and", "B": "Either; or", "C": "Not only; but also"},
+              "answer": "B",
+              "explanation": "后一句“只需要一个人”，因此是“要么你要么你的朋友”，either...or...表选择，符合语境；both...and...表两者都，not only...but also...表递进，均不符合。"
+            },
+            {
+              "question": "She is young, ___ she knows a lot about history.",
+              "options": {"A": "and", "B": "yet", "C": "so"},
+              "answer": "B",
+              "explanation": "前半句“年轻”，后半句“懂很多历史”，语义转折，yet表转折（语气稍弱），符合语境；and表并列，so表结果，均不符合。"
+            },
+            {
+              "question": "Because he was ill, ___ he didn’t go to school yesterday.",
+              "options": {"A": "so", "B": "/", "C": "for"},
+              "answer": "B",
+              "explanation": "because与so不可连用，因此此处不填；for表补充原因，不可与because同时使用，故排除。"
+            },
+            {
+              "question": "Both the teacher ___ the students are going to the museum tomorrow.",
+              "options": {"A": "and", "B": "or", "C": "but"},
+              "answer": "A",
+              "explanation": "both...and...是固定搭配，表“两者都”，连接the teacher和the students，谓语用复数are，符合语法规则；or和but均不与both搭配。"
+            },
+            {
+              "question": "He doesn’t like coffee, ___ does he like tea.",
+              "options": {"A": "and", "B": "or", "C": "nor"},
+              "answer": "C",
+              "explanation": "前半句是否定句，后半句“也不喜欢茶”，nor表“也不”，与否定句连用，符合语境；and表并列，or表选择，均不符合。"
+            },
+            {
+              "question": "My sister can speak English ___ French very well.",
+              "options": {"A": "as well as", "B": "but also", "C": "so"},
+              "answer": "A",
+              "explanation": "as well as表“也、和……一样”，连接English和French，表并列；but also需与not only连用，so表结果，均不符合。"
+            },
+            {
+              "question": "You should study hard, ___ you can get good grades in the exam.",
+              "options": {"A": "or", "B": "and", "C": "but"},
+              "answer": "B",
+              "explanation": "前半句“努力学习”，后半句“取得好成绩”，是顺承的并列关系，and表“并且”，符合语境；or表否则，but表转折，均不符合。"
+            },
+            {
+              "question": "Neither my parents nor I ___ been to Beijing before.",
+              "options": {"A": "have", "B": "has", "C": "am"},
+              "answer": "A",
+              "explanation": "neither...nor...遵循“就近原则”，谓语动词与I一致，have been to是固定搭配，表“去过某地”，故用have。"
+            },
+            {
+              "question": "The movie is very interesting, ___ I want to watch it again.",
+              "options": {"A": "so", "B": "for", "C": "while"},
+              "answer": "A",
+              "explanation": "前半句“电影有趣”是原因，后半句“想再看一遍”是结果，so表结果，符合语境；for表补充原因，while表对比，均不符合。"
+            },
+            {
+              "question": "He likes playing basketball, ___ his brother likes playing football.",
+              "options": {"A": "and", "B": "while", "C": "or"},
+              "answer": "B",
+              "explanation": "前后分句对比两人不同的球类爱好，while表“而、然而”，侧重对比，符合语境；and表并列，or表选择，均不符合。"
+            }
+          ]
+        },
+        {
+          "id": "conjunctions_2",
+          "title": "2-从属连词的用法（状语从句）",
+          "content": "### 从属连词的核心定义\n从属连词**用于引导从句（状语从句、名词性从句、定语从句）**，连接“主句（核心句）”和“从句（附属句）”，从句在语法地位上依附于主句，是初中英语连词的重点考点，中考单选、完形、书面表达均会高频考查，其中状语从句的从属连词是核心。\n\n### 状语从句的从属连词分类及核心用法（中考必考）\n#### 类别1：引导时间状语从句的从属连词\n核心含义：“当……时、在……之前/之后、一……就……、直到……”，引导从句说明主句动作发生的时间。\n1. **when**：表“当……时”，从句动作可与主句动作同时/先后发生，从句动词可延续/非延续；\n   - 例：When I got home, my mother was cooking.（当我到家时，妈妈正在做饭，从句非延续动作，主句延续动作）。\n2. **while**：表“当……时”，从句动作必须是**延续性动词**，且与主句动作同时发生；\n   - 例：While my mother was cooking, I was doing my homework.（妈妈做饭时，我在写作业，两者同时延续）。\n3. **as**：表“当……时、随着”，侧重主句和从句动作同步发生，可翻译为“一边……一边……”；\n   - 例：As time goes by, we grow up.（随着时间流逝，我们长大了）。\n4. **before**：表“在……之前”；after：表“在……之后”；\n   - 例：I will finish my homework before I watch TV.（我会在看电视前写完作业）；\n   - 例：After he finished school, he became a doctor.（他毕业后当了医生）。\n5. **until/till**：表“直到……”，not...until...表“直到……才……”（中考核心）；\n   - 例：He waited until she came back.（他一直等到她回来）；\n   - 例：I didn’t go to bed until I finished my homework.（我直到写完作业才睡觉）。\n6. **as soon as**：表“一……就……”，主句用将来时，从句用一般现在时（主将从现）；\n   - 例：As soon as I get up, I will brush my teeth.（我一起床就刷牙）。\n\n#### 类别2：引导原因状语从句的从属连词\n核心含义：“因为、既然”，引导从句说明主句动作发生的原因。\n1. **because**：表“因为”，语气最强，回答why的提问，可置于句首/句中；\n   - 例：Why are you late? Because I missed the bus.（你为什么迟到？因为我错过了公交）。\n2. **since**：表“既然、由于”，语气较弱，侧重“已知的原因”，常置于句首；\n   - 例：Since you are tired, you can have a rest.（既然你累了，就可以休息一下）。\n3. **as**：表“因为、由于”，语气最弱，侧重“显而易见的原因”，常置于句首；\n   - 例：As it is raining, we can’t go out.（因为在下雨，我们不能出去）。\n**易混点**：because（直接原因）> since（已知原因）> as（显而易见的原因）；because与so不可连用。\n\n#### 类别3：引导条件状语从句的从属连词\n核心含义：“如果、除非、只要”，引导从句说明主句动作发生的条件。\n1. **if**：表“如果”，主句用将来时/情态动词，从句用一般现在时（主将从现）；\n   - 例：If it doesn’t rain tomorrow, we will go to the park.（如果明天不下雨，我们就去公园）。\n2. **unless**：表“除非、如果不”，= if...not...，同样遵循“主将从现”；\n   - 例：Unless you study hard, you won’t pass the exam.（除非你努力学习，否则你通不过考试）= If you don’t study hard, you won’t pass the exam.。\n3. **as long as**：表“只要”，侧重“条件满足就会有结果”；\n   - 例：As long as you work hard, you will succeed.（只要你努力，就会成功）。\n\n#### 类别4：引导让步状语从句的从属连词\n核心含义：“虽然、尽管、即使”，引导从句与主句语义相反，表“让步”。\n1. **though/although**：表“虽然、尽管”，两者可互换，**不可与but连用**（易错点）；\n   - 例：Though he is young, he can do many things.（虽然他年轻，但他能做很多事）= He is young, but he can do many things.。\n2. **even if/even though**：表“即使、纵然”，语气比though/although更强；\n   - 例：Even if it rains, we will still go camping.（即使下雨，我们还是要去露营）。\n3. **no matter+疑问词（what/when/where/how）**：表“无论……”；\n   - 例：No matter where you go, I will miss you.（无论你去哪里，我都会想你）。\n\n#### 类别5：引导目的状语从句的从属连词\n核心含义：“为了、以便”，引导从句说明主句动作的目的。\n1. **so that**：表“以便、为了”，从句常含can/could/may/might等情态动词；\n   - 例：He studies hard so that he can go to a good university.（他努力学习是为了能考上好大学）。\n2. **in order that**：表“为了”，与so that同义，可置于句首/句中；\n   - 例：In order that he can pass the exam, he studies every day.（为了能通过考试，他每天学习）。\n\n#### 类别6：引导结果状语从句的从属连词\n核心含义：“如此……以至于……”，引导从句说明主句动作带来的结果。\n1. **so+形容词/副词+that...**：so后接形容词/副词；\n   - 例：He is so tall that he can reach the top of the shelf.（他个子太高了，能碰到架子顶部）。\n2. **such+(a/an)+形容词+名词+that...**：such后接名词短语；\n   - 例：It is such a cold day that no one wants to go out.（天气太冷了，没人想出去）；\n   - 例：They are such interesting books that we all like them.（这些书太有趣了，我们都喜欢）。\n**易混点**：so+adj+a/an+单数名词=such+a/an+adj+单数名词，如：so interesting a book = such an interesting book。\n\n### 从属连词的核心语法规则（中考必考）\n1. **主将从现**：时间/条件状语从句中，主句用将来时/情态动词/祈使句，从句用一般现在时表将来；\n2. **不可连用**：though/although与but不可连用，because与so不可连用；\n3. **while的特殊用法**：引导时间状语从句时，从句动词必须是延续性动词（如read, write, cook），不可接非延续动词（如come, go, get）。",
+          "examples": [
+            {
+              "sentence": "While I was reading, my brother was watching TV.",
+              "translation": "我看书的时候，我哥哥在看电视。",
+              "analysis": "while引导时间状语从句，从句动词reading是延续性动词，且与主句动词watching TV同时发生，符合while的用法规则。"
+            },
+            {
+              "question": "I didn’t go to bed until my father came back last night.",
+              "translation": "昨晚我直到爸爸回来才睡觉。",
+              "analysis": "not...until...是核心结构，表“直到……才……”，until引导时间状语从句，从句用一般过去时，主句用一般过去时的否定形式。"
+            },
+            {
+              "sentence": "As soon as he arrives, we will start the meeting.",
+              "translation": "他一到，我们就开始开会。",
+              "analysis": "as soon as引导时间状语从句，遵循“主将从现”规则，主句用将来时will start，从句用一般现在时arrives表将来。"
+            },
+            {
+              "sentence": "Because he was ill, he didn’t go to school yesterday.",
+              "translation": "因为他生病了，所以他昨天没来上学。",
+              "analysis": "because引导原因状语从句，表直接原因，回答why的提问；注意不可说Because he was ill, so he didn’t go to school。"
+            },
+            {
+              "sentence": "If it snows tomorrow, we will make a snowman.",
+              "translation": "如果明天下雪，我们就堆雪人。",
+              "analysis": "if引导条件状语从句，遵循“主将从现”，主句用will make，从句用snows表将来；if表“如果”，是最常用的条件状语从句连词。"
+            },
+            {
+              "sentence": "Though he is very busy, he still exercises every day.",
+              "translation": "虽然他很忙，但他仍然每天锻炼。",
+              "analysis": "though引导让步状语从句，表“虽然”，不可与but连用；可改写为He is very busy, but he still exercises every day。"
+            },
+            {
+              "sentence": "He speaks loudly so that everyone can hear him clearly.",
+              "translation": "他说话很大声，以便每个人都能清楚地听到。",
+              "analysis": "so that引导目的状语从句，表“以便”，从句含情态动词can，说明“大声说话”的目的是“让大家听清”。"
+            },
+            {
+              "sentence": "She is so kind that everyone likes her.",
+              "translation": "她如此善良，以至于每个人都喜欢她。",
+              "analysis": "so+形容词kind+that引导结果状语从句，表“如此……以至于……”，说明“善良”带来的结果是“大家都喜欢她”。"
+            },
+            {
+              "sentence": "It is such an interesting film that we want to watch it again.",
+              "translation": "这部电影如此有趣，以至于我们想再看一遍。",
+              "analysis": "such+a/an+形容词interesting+名词film+that引导结果状语从句，符合such的用法规则；可改写为so interesting a film that...。"
+            },
+            {
+              "sentence": "Unless you finish your homework, you can’t play computer games.",
+              "translation": "除非你写完作业，否则你不能玩电脑游戏。",
+              "analysis": "unless引导条件状语从句，= if you don’t finish your homework，遵循“主将从现”（主句用can’t play，从句用finish）。"
+            }
+          ],
+          "exercises": [
+            {
+              "question": "___ I was walking to school, I saw a cat in the tree.",
+              "options": {"A": "When", "B": "Before", "C": "After"},
+              "answer": "A",
+              "explanation": "从句“走路去学校”和主句“看到树上的猫”是同时发生的动作，when表“当……时”，符合语境；before表“在……之前”，after表“在……之后”，均不符合。"
+            },
+            {
+              "question": "I will call you ___ I get to Beijing tomorrow.",
+              "options": {"A": "as soon as", "B": "until", "C": "while"},
+              "answer": "A",
+              "explanation": "“一到北京就打电话”，as soon as表“一……就……”，且遵循“主将从现”（主句will call，从句get），符合语境；until表“直到”，while引导从句需延续性动词，get是非延续动词，均不符合。"
+            },
+            {
+              "question": "___ you are hungry, you can eat some bread in the fridge.",
+              "options": {"A": "Because", "B": "Since", "C": "Though"},
+              "answer": "B",
+              "explanation": "既然你饿了，就可以吃冰箱里的面包”，since表“既然”，侧重已知原因，符合语境；because表直接原因（回答why），though表让步，均不符合。"
+            },
+            {
+              "question": "We won’t go to the zoo ___ it rains tomorrow.",
+              "options": {"A": "if", "B": "unless", "C": "as long as"},
+              "answer": "A",
+              "explanation": "“如果明天下雨，我们就不去动物园”，if表“如果”，引导条件状语从句，遵循“主将从现”，符合语境；unless表“除非”，as long as表“只要”，均不符合。"
+            },
+            {
+              "question": "___ he is very old, he can still climb mountains.",
+              "options": {"A": "Because", "B": "Though", "C": "So"},
+              "answer": "B",
+              "explanation": "前半句“年纪大”，后半句“能爬山”，语义让步，though表“虽然”，符合语境；because表原因，so表结果，均不符合；注意though不可与but连用。"
+            },
+            {
+              "question": "She studies hard ___ she can pass the final exam.",
+              "options": {"A": "so that", "B": "so", "C": "such that"},
+              "answer": "A",
+              "explanation": "“努力学习是为了通过期末考试”，so that引导目的状语从句，表“以便、为了”，从句含can，符合语境；so表结果，such that需接名词短语，均不符合。"
+            },
+            {
+              "question": "It is ___ a hot day ___ no one wants to go out.",
+              "options": {"A": "so; that", "B": "such; that", "C": "too; to"},
+              "answer": "B",
+              "explanation": "such+a/an+形容词hot+名词day+that引导结果状语从句，符合such的用法；so后接形容词/副词，不可接a hot day；too...to后接动词原形，不可接从句，均排除。"
+            },
+            {
+              "question": "You won’t get good grades ___ you study hard.",
+              "options": {"A": "if", "B": "unless", "C": "when"},
+              "answer": "B",
+              "explanation": "“除非你努力学习，否则得不到好成绩”，unless表“除非、如果不”，= if you don’t study hard，符合语境；if表“如果”，when表“当……时”，均不符合。"
+            },
+            {
+              "question": "___ I finish my homework, I can watch TV for 30 minutes.",
+              "options": {"A": "As long as", "B": "Though", "C": "Because"},
+              "answer": "A",
+              "explanation": "“只要我写完作业，就能看30分钟电视”，as long as表“只要”，引导条件状语从句，符合语境；though表让步，because表原因，均不符合。"
+            },
+            {
+              "question": "He ran ___ fast ___ he won the race easily.",
+              "options": {"A": "so; that", "B": "such; that", "C": "too; to"},
+              "answer": "A",
+              "explanation": "so+副词fast+that引导结果状语从句，表“如此快以至于轻松赢了比赛”，符合so的用法；such后接名词短语，too...to后接动词原形，均排除。"
+            },
+            {
+              "question": "I didn’t know the news ___ my teacher told me yesterday.",
+              "options": {"A": "until", "B": "when", "C": "after"},
+              "answer": "A",
+              "explanation": "not...until...表“直到……才……”，“直到老师昨天告诉我，我才知道这个消息”，符合语境；when表“当……时”，after表“在……之后”，均不符合。"
+            },
+            {
+              "question": "___ it is raining heavily, we still go to school on time.",
+              "options": {"A": "Even if", "B": "Because", "C": "If"},
+              "answer": "A",
+              "explanation": "“即使雨下得很大，我们还是按时上学”，even if表“即使”，引导让步状语从句，语气比though更强，符合语境；because表原因，if表条件，均不符合。"
+            },
+            {
+              "question": "___ you are late again, the teacher will be angry.",
+              "options": {"A": "If", "B": "Though", "C": "Since"},
+              "answer": "A",
+              "explanation": "“如果你再迟到，老师会生气”，if引导条件状语从句，遵循“主将从现”（主句will be，从句are），符合语境；though表让步，since表已知原因，均不符合。"
+            },
+            {
+              "question": "She spoke slowly ___ everyone could understand her.",
+              "options": {"A": "because", "B": "so that", "C": "such that"},
+              "answer": "B",
+              "explanation": "“说话慢是为了让每个人都能听懂”，so that引导目的状语从句，表“以便”，从句含could，符合语境；because表原因，such that需接名词短语，均排除。"
+            },
+            {
+              "question": "___ he is a child, he knows a lot about science.",
+              "options": {"A": "Although", "B": "Because", "C": "So"},
+              "answer": "A",
+              "explanation": "前半句“是孩子”，后半句“懂很多科学知识”，语义让步，although表“虽然”，符合语境；because表原因，so表结果，均不符合；注意although不可与but连用。"
+            },
+            {
+              "question": "It was ___ cold ___ we had to wear thick coats.",
+              "options": {"A": "so; that", "B": "such; that", "C": "too; to"},
+              "answer": "A",
+              "explanation": "so+形容词cold+that引导结果状语从句，表“如此冷以至于不得不穿厚外套”，符合so的用法；such后接名词短语，too...to后接动词原形，均排除。"
+            },
+            {
+              "question": "I will wait for you ___ you come back from work.",
+              "options": {"A": "as soon as", "B": "until", "C": "while"},
+              "answer": "B",
+              "explanation": "“我会等你直到你下班回来”，until表“直到……”，符合语境；as soon as表“一……就……”，while引导从句需延续性动词，come是非延续动词，均排除。"
+            },
+            {
+              "question": "___ you work hard, you will never succeed.",
+              "options": {"A": "If", "B": "As long as", "C": "Unless"},
+              "answer": "C",
+              "explanation": "“除非你努力，否则永远不会成功”，unless表“除非、如果不”，= if you don’t work hard，符合语境；if表“如果”，as long as表“只要”，均不符合。"
+            },
+            {
+              "question": "___ the sun is shining, it is still cold outside.",
+              "options": {"A": "Though", "B": "Because", "C": "As"},
+              "answer": "A",
+              "explanation": "前半句“太阳在照耀”，后半句“外面还冷”，语义让步，though表“虽然”，符合语境；because表原因，as表“因为/当……时”，均不符合。"
+            },
+            {
+              "question": "He is ___ a clever boy ___ he can solve the problem quickly.",
+              "options": {"A": "so; that", "B": "such; that", "C": "too; to"},
+              "answer": "B",
+              "explanation": "such+a/an+形容词clever+名词boy+that引导结果状语从句，符合such的用法；so后接形容词/副词，不可接a clever boy；too...to后接动词原形，不可接从句，均排除。"
+            },
+            {
+              "question": "We started early ___ we could catch the first bus.",
+              "options": {"A": "so that", "B": "so", "C": "because"},
+              "answer": "A",
+              "explanation": "“早点出发是为了赶上第一班公交”，so that引导目的状语从句，表“以便”，从句含could，符合语境；so表结果，because表原因，均不符合。"
+            }
+          ]
+        },
+        {
+          "id": "conjunctions_3",
+          "title": "3-连词的易混点与特殊用法",
+          "content": "### 连词易混点核心总结\n#### 易混点1：并列连词vs从属连词（核心区分）\n| 类别         | 语法地位                | 连接对象                  | 例句                          |\n|--------------|-------------------------|---------------------------|-------------------------------|\n| 并列连词     | 连接的成分地位平等      | 词、短语、并列分句        | I like tea and coffee.（词）|\n| 从属连词     | 连接主句和从句，从句依附主句 | 主句+从句（状语/名词性/定语） | If it rains, we will stay home.（主句+从句） |\n#### 易混点2：while的双重身份（并列连词vs从属连词）\n1. 作**并列连词**：表“而、然而”，侧重对比，连接两个并列分句；\n   - 例：I like red while she likes blue.（我喜欢红色，而她喜欢蓝色）；\n2. 作**从属连词**：表“当……时”，引导时间状语从句，从句动词需延续；\n   - 例：While I was reading, the phone rang.（我看书时，电话响了）。\n\n#### 易混点3：because/since/as/for的语气与用法差异\n| 连词   | 语气强度 | 核心用法                  | 例句                                  |\n|--------|----------|---------------------------|---------------------------------------|\n| because| 最强     | 回答why提问，直接原因     | —Why are you sad? —Because I lost my pen. |\n| since  | 中等     | 已知原因，常置于句首      | Since you know it, I won’t repeat it.  |\n| as     | 较弱     | 显而易见的原因，常置于句首 | As it is late, we should go home.     |\n| for    | 最弱     | 补充说明原因，不可置句首  | He is happy, for he passed the exam.  |\n#### 易混点4：so that（目的）vs so...that（结果）\n1. so that（目的状语从句）：表“为了、以便”，从句含情态动词（can/could/may/might）；\n   - 例：I take notes so that I can remember the key points.（记笔记是为了记住重点）；\n2. so...that（结果状语从句）：表“如此……以至于……”，从句是主句的结果，无情态动词（或情态动词表能力）；\n   - 例：The book is so difficult that I can’t understand it.（书太难了，我看不懂，can’t表能力，是结果）。\n\n#### 易混点5：though/although vs but（不可连用）\n- 正确：Though he is tired, he keeps working.；\n- 正确：He is tired, but he keeps working.；\n- 错误：Though he is tired, but he keeps working.（去掉though或but其一）。\n\n### 连词的特殊用法（中考高频）\n#### 特殊用法1：连词的省略（状语从句）\n当状语从句的主语与主句主语一致，且从句含be动词时，可省略从句的主语和be动词；\n- 原句：When he was walking in the street, he saw a friend.；\n- 省略后：When walking in the street, he saw a friend.（省略he was）；\n- 原句：If it is necessary, we will help you.；\n- 省略后：If necessary, we will help you.（省略it is）。\n\n#### 特殊用法2：并列连词的“就近/就远”原则\n| 连词               | 原则       | 例句（谓语动词）                          |\n|--------------------|------------|-------------------------------------------|\n| not only...but also... | 就近原则   | Not only she but also I am late.（am与I一致） |\n| either...or...     | 就近原则   | Either you or he is right.（is与he一致）|\n| neither...nor...   | 就近原则   | Neither the dog nor the cats are hungry.（are与cats一致） |\n| both...and...      | 就远原则（复数） | Both the boy and the girl are happy.（are，复数） |\n| as well as         | 就远原则   | Tom as well as his parents likes music.（likes与Tom一致） |\n#### 特殊用法3：连接代词/连接副词（从属连词的延伸）\n引导名词性从句（宾语/主语/表语从句）的“连词”，兼具“连接”和“代词/副词”功能，中考高频：\n1. 连接代词：what/which/who/whom/whose；\n   - 例：I don’t know what he said.（what引导宾语从句，作said的宾语）；\n2. 连接副词：when/where/why/how；\n   - 例：He asked me where I lived.（where引导宾语从句，作lived的地点状语）。\n\n#### 特殊用法4：关系代词/关系副词（定语从句）\n引导定语从句的“连词”，修饰先行词，中考高频：\n1. 关系代词：that/which/who/whom/whose；\n   - 例：The book that I bought yesterday is interesting.（that修饰先行词book）；\n2. 关系副词：when/where/why；\n   - 例：This is the park where we met last year.（where修饰先行词park）。\n\n### 连词的中考解题技巧\n1. **看连接对象**：连接词/短语→并列连词；连接主句+从句→从属连词；\n2. **看语义逻辑**：并列/递进→and/both...and...；选择→or/either...or...；转折→but/while；因果→so/because；时间→when/while/until；条件→if/unless；让步→though/although；\n3. **看语法规则**：时间/条件从句→主将从现；though/although不可与but连用；because不可与so连用；while引导时间从句→延续性动词；\n4. **看固定结构**：not...until...、so...that...、such...that...、the+比较级...the+比较级...（虽为比较级，但含连词the）。",
+          "examples": [
+            {
+              "sentence": "While she is good at math, her brother is good at English.",
+              "translation": "她擅长数学，而她哥哥擅长英语。",
+              "analysis": "while作并列连词，表“而、然而”，对比两人的不同特长，连接两个并列分句，而非引导从句。"
+            },
+            {
+              "sentence": "When (he is) free, he often helps his mother with housework.",
+              "translation": "当他有空时，他经常帮妈妈做家务。",
+              "analysis": "时间状语从句的主语he与主句主语一致，且从句含be动词is，因此省略he is，这是连词的省略用法，符合中考高频考点。"
+            },
+            {
+              "sentence": "I don’t know what he wants to buy.",
+              "translation": "我不知道他想买什么。",
+              "analysis": "what是连接代词，引导宾语从句，兼具“连接”和“buy的宾语”功能，属于从属连词的延伸用法，是中考名词性从句的核心考点。"
+            },
+            {
+              "sentence": "The girl who is wearing a red dress is my sister.",
+              "translation": "穿红裙子的那个女孩是我妹妹。",
+              "analysis": "who是关系代词，引导定语从句，修饰先行词the girl，属于定语从句的核心连词，中考常考。"
+            },
+            {
+              "sentence": "As it was getting dark, we decided to camp there.",
+              "translation": "因为天快黑了，我们决定在那里露营。",
+              "analysis": "as引导原因状语从句，语气较弱，表“显而易见的原因”，置于句首，符合as的用法规则，需与because/since区分。"
+            },
+            {
+              "sentence": "He got up early so that he could catch the train, but he still missed it.",
+              "translation": "他早起是为了赶上火车，但还是错过了。",
+              "analysis": "so that引导目的状语从句，表“为了”，从句含could；but是并列连词，表转折，连接两个并列分句，体现并列连词与从属连词的混合使用。"
+            },
+            {
+              "sentence": "Either you or I am responsible for the mistake.",
+              "translation": "要么你，要么我要为这个错误负责。",
+              "analysis": "either...or...遵循“就近原则”，谓语动词am与I一致，这是并列连词的“就近原则”考点，中考单选常考。"
+            },
+            {
+              "sentence": "Tom as well as his classmates is going to the zoo this weekend.",
+              "translation": "汤姆和他的同学这周末要去动物园。",
+              "analysis": "as well as遵循“就远原则”，谓语动词is与Tom一致，而非classmates，这是易混考点，需重点记忆。"
+            },
+            {
+              "sentence": "This is the place where we had a good time last summer.",
+              "translation": "这是我们去年夏天玩得开心的地方。",
+              "analysis": "where是关系副词，引导定语从句，修饰先行词the place，作从句的地点状语，是定语从句的高频考点。"
+            },
+            {
+              "sentence": "Though (he was) tired, he continued to finish his work.",
+              "translation": "虽然很累，但他继续完成工作。",
+              "analysis": "though引导让步状语从句，从句主语he与主句主语一致，且含be动词was，省略he was，符合连词的省略用法，中考常考此类省略结构。"
+            }
+          ],
+          "exercises": [
+            {
+              "question": "___ my mother ___ my father likes pop music. They both like classical music.",
+              "options": {"A": "Either; or", "B": "Neither; nor", "C": "Both; and"},
+              "answer": "B",
+              "explanation": "后一句表明“都喜欢古典音乐”，因此前一句表“都不喜欢流行音乐”，neither...nor...表“既不……也不……”，遵循“就近原则”，likes与my father一致，符合语境；either...or...表选择，both...and...后谓语用复数，均排除。"
+            },
+            {
+              "question": "___ he is very rich, he lives a simple life.",
+              "options": {"A": "Because", "B": "Though", "C": "So"},
+              "answer": "B",
+              "explanation": "前半句“富有”，后半句“简朴生活”，语义让步，though表“虽然”，符合语境；because表原因，so表结果，均不符合；注意though不可与but连用。"
+            },
+            {
+              "question": "I study hard ___ I can enter a good high school.",
+              "options": {"A": "so that", "B": "so...that", "C": "such...that"},
+              "answer": "A",
+              "explanation": "“努力学习是为了进入好高中”，so that引导目的状语从句，表“以便”，从句含can，符合语境；so...that和such...that引导结果状语从句，均不符合。"
+            },
+            {
+              "question": "___ you are free, why not go shopping with me?",
+              "options": {"A": "Because", "B": "Since", "C": "Though"},
+              "answer": "B",
+              "explanation": "“既然你有空，为什么不和我去购物？”，since表“既然”，侧重已知原因，置于句首，符合语境；because表直接原因，though表让步，均不符合。"
+            },
+            {
+              "question": "She is ___ a lovely girl ___ everyone loves her.",
+              "options": {"A": "so; that", "B": "such; that", "C": "too; to"},
+              "answer": "B",
+              "explanation": "such+a/an+形容词lovely+名词girl+that引导结果状语从句，符合such的用法；so后接形容词/副词，不可接a lovely girl；too...to后接动词原形，不可接从句，均排除。"
+            },
+            {
+              "question": "___ in the park, I saw a beautiful bird.",
+              "options": {"A": "While walk", "B": "While walking", "C": "While walked"},
+              "answer": "B",
+              "explanation": "while引导时间状语从句，从句主语与主句主语一致（I），且含be动词（was），省略I was后，walk用现在分词walking，符合连词的省略用法；walk是原形，walked是过去式，均不符合。"
+            },
+            {
+              "question": "I don’t know ___ he will come to the party or not.",
+              "options": {"A": "if", "B": "whether", "C": "that"},
+              "answer": "B",
+              "explanation": "whether可与or not连用，表“是否”，引导宾语从句，符合语境；if不可与or not直接连用（需说if he will come or not），that无“是否”含义，均排除；whether是连接副词，属于从属连词延伸用法。"
+            },
+            {
+              "question": "Tom ___ his friends is going to the cinema tonight.",
+              "options": {"A": "as well as", "B": "and", "C": "or"},
+              "answer": "A",
+              "explanation": "as well as遵循“就远原则”，谓语动词is与Tom一致，符合语境；and连接主语后谓语用复数，or表选择，均不符合。"
+            },
+            {
+              "question": "This is the book ___ I bought yesterday.",
+              "options": {"A": "who", "B": "which", "C": "where"},
+              "answer": "B",
+              "explanation": "which是关系代词，引导定语从句，修饰先行词the book（物），作从句的宾语，符合语境；who修饰人，where修饰地点，均排除。"
+            },
+            {
+              "question": "Hurry up, ___ you will miss the train.",
+              "options": {"A": "or", "B": "and", "C": "but"},
+              "answer": "A",
+              "explanation": "or表“否则”，连接两个并列分句，表警告，符合语境；and表并列，but表转折，均不符合。"
+            },
+            {
+              "question": "___ it rains tomorrow, we will cancel the sports meeting.",
+              "options": {"A": "If", "B": "Unless", "C": "As long as"},
+              "answer": "A",
+              "explanation": "if引导条件状语从句，表“如果”，遵循“主将从现”，符合语境；unless表“除非”，as long as表“只要”，均不符合。"
+            },
+            {
+              "question": "He didn’t go to bed ___ he finished all his homework.",
+              "options": {"A": "until", "B": "when", "C": "after"},
+              "answer": "A",
+              "explanation": "not...until...表“直到……才……”，“直到写完所有作业才睡觉”，符合语境；when表“当……时”，after表“在……之后”，均不符合。"
+            },
+            {
+              "question": "___ she is young, she knows a lot about Chinese history.",
+              "options": {"A": "Because", "B": "Though", "C": "Since"},
+              "answer": "B",
+              "explanation": "前半句“年轻”，后半句“懂很多中国历史”，语义让步，though表“虽然”，符合语境；because表原因，since表已知原因，均不符合。"
+            },
+            {
+              "question": "The movie was ___ moving ___ many people cried.",
+              "options": {"A": "so; that", "B": "such; that", "C": "too; to"},
+              "answer": "A",
+              "explanation": "so+形容词moving+that引导结果状语从句，表“如此感人以至于很多人哭了”，符合so的用法；such后接名词短语，too...to后接动词原形，均排除。"
+            },
+            {
+              "question": "I like playing basketball ___ my brother likes playing football.",
+              "options": {"A": "when", "B": "while", "C": "because"},
+              "answer": "B",
+              "explanation": "while作并列连词，表“而、然而”，对比两人的不同爱好，符合语境；when表“当……时”，because表原因，均不符合。"
+            },
+            {
+              "question": "___ you work hard, you will get good grades.",
+              "options": {"A": "As long as", "B": "Though", "C": "Unless"},
+              "answer": "A",
+              "explanation": "as long as表“只要”，引导条件状语从句，表“只要努力就会有好成绩”，符合语境；though表让步，unless表“除非”，均不符合。"
+            },
+            {
+              "question": "He is late for school ___ he missed the early bus.",
+              "options": {"A": "so", "B": "because", "C": "for"},
+              "answer": "B",
+              "explanation": "because表直接原因，回答“为什么迟到”，符合语境；so表结果，for表补充原因（不可置句首），均不符合。"
+            },
+            {
+              "question": "Not only the students but also their teacher ___ the film.",
+              "options": {"A": "like", "B": "likes", "C": "liked"},
+              "answer": "B",
+              "explanation": "not only...but also...遵循“就近原则”，谓语动词likes与their teacher一致，符合语法规则；like是复数形式，liked是过去式，均排除。"
+            },
+            {
+              "question": "___ necessary, we will give you a hand.",
+              "options": {"A": "If", "B": "If is", "C": "If it is"},
+              "answer": "A",
+              "explanation": "if引导条件状语从句，从句主语it（指代情况）与主句主语we不一致，但从句含be动词is，省略it is后，直接用If necessary，符合连词的省略用法；if is语法错误，if it is未省略，均排除。"
+            },
+            {
+              "question": "This is the school ___ I studied three years ago.",
+              "options": {"A": "where", "B": "which", "C": "who"},
+              "answer": "A",
+              "explanation": "where是关系副词，引导定语从句，修饰先行词the school，作从句的地点状语，符合语境；which修饰物（作主语/宾语），who修饰人，均排除。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

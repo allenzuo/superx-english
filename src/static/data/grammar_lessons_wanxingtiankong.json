@@ -1,0 +1,885 @@
+{
+  "grammar_topics": [
+    {
+      "id": "cloze_context_connection",
+      "name": "中考完形填空-3大类型全解析",
+      "icon": "square",
+      "color": "#3498db",
+      "lessons": [
+        {
+          "id": "cloze_context_connection_1",
+          "title": "1-中考完形填空核心解析（上下文关联意识）",
+          "content": "### 完形填空上下文关联的核心定义\n中考完形填空并非单纯考查单词、语法的孤立掌握，而是**通过上下文语境的逻辑关联**（如因果、转折、递进、指代、复现）来选择答案，很多学生丢分的核心原因是只盯着单个空格所在句，忽略了前后文（甚至跨段落）的线索，而上下文关联正是完形填空解题的“黄金法则”。\n\n### 上下文关联的拆解原则（万能方法）\n#### 原则1：先“串文脉”，再“填空格”\n完形填空的文章是完整的语篇，第一步先快速通读全文（30秒内），把握文章主旨（故事类/说明类/议论类）、人物、时间、情节走向，再回头逐个填空格，避免“只见树木不见森林”。\n- 文脉：文章的逻辑主线（如“男孩迷路→好心人帮助→找到家人”的故事线）；\n- 线索：藏在前后句/前后段的关键词、逻辑词、指代词（it/this/that/they等）。\n\n#### 原则2：识别“逻辑词”，找“关联方向”\n上下文的逻辑关系是关联的核心，记住这些逻辑词对应的关联类型，答案往往藏在逻辑背后：\n- 因果关系：because/since/so/therefore/as a result（前后句有“原因-结果”对应）；\n- 转折关系：but/however/yet/although/though（前后内容“相反/对比”）；\n- 递进关系：besides/also/furthermore/moreover（前后内容“补充/加深”）；\n- 指代关系：it/this/that/they/one（指代前文出现的名词/句子，空格答案需匹配指代内容）；\n- 复现关系：原词复现/同义复现/反义复现（空格答案在前后文以相同/相似/相反形式出现）。\n\n#### 原则3：跨段找线索，不局限“相邻句”\n难题的线索往往不在空格所在句的前后1-2句，而是跨段落（如第一段提“妈妈的旧围巾”，第三段空格填“scarf”），需记住：**整篇文章的所有信息都是解题线索**，尤其是故事类完形，情节的铺垫、转折、结局会跨段给出答案提示。\n\n### 中考完形填空上下文关联高频类型\n#### 类型1：原词复现（最直接，跨句/跨段）\n例：（Para1）When I was a child, my grandma always made me a sweet ______ every weekend. （Para3）I still remember the taste of that ______—it was full of love.\n- 线索：Para3的“that ______”指代Para1的“sweet ______”，前后原词复现，答案为“cake”；\n- 核心：空格答案是前文已出现的原词，需跨段找到复现点。\n\n#### 类型2：同义复现（近义词替换）\n例：（句1）The little girl was very ______ when she saw her lost dog. （句3）Her happy smile made everyone around her feel warm.\n- 线索：句3的“happy”是句1空格的同义复现，答案为“glad/excited”；\n- 核心：空格答案与上下文的关键词是近义词，需识别同义替换。\n\n#### 类型3：反义复现（反义词对应）\n例：（句1）Before the training, he was weak and ______. （句4）After months of hard practice, he became strong and confident.\n- 线索：句4的“confident”（自信的）是句1空格的反义，答案为“shy/nervous”；\n- 核心：通过前后对比的反义关系锁定答案。\n\n#### 类型4：逻辑关联（因果/转折/递进）\n例：（句1）He forgot to take his umbrella, ______ he got wet in the heavy rain. （句2）He had to go home early because of the cold.\n- 线索：句1前后是因果关系，“忘带伞”导致“淋雨”，答案为“so/therefore”；\n- 核心：通过逻辑词判断上下文关系，匹配对应连接词/形容词/动词。\n\n#### 类型5：指代关联（it/this/that/they）\n例：（Para2）She bought a new book about space and read ______ every night. （Para4）______ taught her a lot about the solar system and she even won a science competition.\n- 线索：Para4的“______”指代Para2的“a new book”，单数用“It”；Para2的“______”也指代这本书，用“it”；\n- 核心：找准指代对象的单复数/属性，匹配代词/名词。\n\n### 完形填空上下文关联解题技巧（中考专用）\n1. **通读先标关键词**：通读全文时，用铅笔标出人名、时间、地点、逻辑词、重复出现的名词，这些是后续找线索的“锚点”；\n2. **空格先留空，不硬填**：遇到没线索的空格，先跳过，继续读后文，往往后文会给出前文空格的线索；\n3. **锁定指代对象**：看到it/this/that/they等代词，立刻往前找对应的名词/句子，答案必须匹配指代内容；\n4. **逻辑词当“路标”**：看到but/so/although等词，立刻判断前后文的逻辑方向（相反/因果/让步），排除不符合逻辑的选项；\n5. **跨段核对线索**：难题重点看空格的前一段/后一段，尤其是故事类完形的“伏笔-呼应”情节（如开头提“爸爸的手表坏了”，结尾空格填“repair”）。\n\n### 上下文关联避坑指南\n1. 不要只看空格所在句，哪怕花10秒多读前后3句，也比孤立看一句强；\n2. 注意“同义复现”不是原词，比如前文是“happy”，空格可能是“pleased”，不要只找原词而忽略近义词；\n3. 代词指代要注意单复数（it指代单数/不可数，they指代复数），避免“单复混用”；\n4. 逻辑词前后的内容方向要一致（如because后接原因，so后接结果），不要因果颠倒；\n5. 跨段线索容易被忽略，做完后要回头核对“前文伏笔”和“后文答案”是否匹配。",
+          "examples": [
+            {
+              "sentence": "（Para1）Last summer, I went to a small village with my parents. The air there was fresh and the people were very f______. We stayed in a small house near a river, and every morning I could hear the birds singing. （Para3）When we left the village, the s______ villagers gave us a lot of fresh fruit and vegetables. I felt so warm and didn't want to leave.",
+              "translation": "（第一段）去年夏天，我和父母去了一个小村庄。那里的空气很清新，人们非常______。我们住在河边的一间小房子里，每天早上我都能听到鸟儿唱歌。（第三段）当我们离开村庄时，______村民们给了我们很多新鲜的水果和蔬菜。我感到很温暖，不想离开。",
+              "analysis": "① 核心关联：两个空格均需通过上下文关联判断，Para1空格描述村民的性格，Para3的“felt so warm”（感到温暖）是关键线索，说明村民“友好的”；② 第一个空格答案：friendly（Para3的“warm”提示村民性格友好，同义复现）；③ 第二个空格答案：same（指代Para1提到的“the people”，即同一批村民，指代关联+跨段线索）；④ 融合技巧：跨段同义复现+指代关联，需联系Para1和Para3的情感线索（warm）锁定答案。"
+            },
+            {
+              "sentence": "（Para1）Tom loved playing basketball, but he was always afraid of making mistakes. Every time he missed a shot, he would feel u______ and stop playing for a long time. （Para2）One day, his coach talked to him: “Mistakes are part of learning. Don't be a______ to try new things, even if you fail.” （Para4）After that, Tom changed. He no longer felt w______ when he made mistakes, and he even tried new moves in the game.",
+              "translation": "（第一段）汤姆喜欢打篮球，但他总是害怕犯错。每次投篮失误，他都会感到______，并长时间停止打球。（第二段）有一天，他的教练对他说：“错误是学习的一部分。不要______去尝试新事物，即使你失败了。”（第四段）从那以后，汤姆变了。他不再因为犯错而感到______，甚至在比赛中尝试了新的动作。",
+              "analysis": "① 核心关联：三个空格均围绕“害怕犯错”的核心线索，通过反义/同义复现+逻辑关联判断；② 第一个空格答案：upset（Para1的“afraid of making mistakes”提示失误后情绪低落，因果关联）；③ 第二个空格答案：afraid（教练的话呼应Para1的“afraid of making mistakes”，原词复现，逻辑递进）；④ 第三个空格答案：worried（Para1的“upset”和Para2的“afraid”同义复现，且“no longer”提示情绪变化但核心是“担忧”，反义复现的反向运用）；⑤ 融合技巧：因果逻辑+原词/同义复现+跨段线索，需联系Para1-2-4的“害怕-鼓励-改变”情节线。"
+            },
+            {
+              "sentence": "（Para1）A library is a place where people can read books and get knowledge. It is a quiet place, and everyone should keep q______ there. （Para3）Last week, I went to the city library to study for my exam. I was surprised to see some people talking loudly, which made it hard for me to keep c______ and focus on my books. （Para5）I hope everyone can follow the rules and keep the library s______, so that everyone can enjoy reading there.",
+              "translation": "（第一段）图书馆是人们可以读书和获取知识的地方。这是一个安静的地方，每个人都应该在那里保持______。（第三段）上周，我去市图书馆备考。我惊讶地看到一些人大声说话，这让我很难保持______并专注于我的书。（第五段）我希望每个人都能遵守规则，保持图书馆______，这样每个人都能在那里享受阅读。",
+              "analysis": "① 核心关联：三个空格均围绕“图书馆安静”的核心线索，通过原词复现+逻辑关联判断；② 第一个空格答案：quiet（Para1的“quiet place”原词复现，定义关联）；③ 第二个空格答案：calm（Para1的“quiet”同义复现，“hard to keep ______”呼应“talking loudly”，因果关联）；④ 第三个空格答案：silent（Para1的“quiet”和Para3的“calm”同义复现，跨段线索，且“follow the rules”提示保持安静，逻辑递进）；⑤ 融合技巧：原词/同义复现+因果逻辑+跨段线索，需紧扣“图书馆安静”的核心主旨。"
+            },
+            {
+              "sentence": "（Para1）When I was in primary school, I had a best friend named Lily. We did everything together: we walked to school together, shared our lunch together, and even helped each other with o______ homework. （Para4）Years later, I met Lily again at a high school reunion. We talked about the old days, and she still remembered how we used to help each other with o______ homework when we were kids. （Para6）I realized that true friendship is about sharing, and those small moments of helping each other with s______ daily things are the most precious.",
+              "translation": "（第一段）当我上小学时，我有一个叫莉莉的最好的朋友。我们一起做所有的事情：一起步行上学，一起分享午餐，甚至互相帮助做______作业。（第四段）多年后，我在高中同学聚会上又见到了莉莉。我们聊起了过去的日子，她还记得我们小时候是如何互相帮助做______作业的。（第六段）我意识到真正的友谊是关于分享的，那些互相帮助做______日常小事的瞬间是最珍贵的。",
+              "analysis": "① 核心关联：三个空格均围绕“互相帮助做作业”的核心线索，通过指代关联+同义复现判断；② 第一个空格答案：our（指代“I and Lily”，复数所有格，指代关联）；③ 第二个空格答案：our（Para1的“our homework”原词复现，跨段指代关联）；④ 第三个空格答案：small（Para1的“everything together”“shared our lunch”等细节提示是“小事”，同义复现，且“daily things”呼应“homework”，逻辑递进）；⑤ 融合技巧：指代关联+原词复现+同义复现，需锁定“我和莉莉”的指代对象及“日常小事”的核心线索。"
+            },
+            {
+              "sentence": "（Para1）In winter, the weather is very cold, and many animals hibernate to keep w______. They sleep for a long time and don't need to eat much food. （Para3）My favorite animal is the bear. I learned from a book that bears hibernate in caves to keep s______ from the cold. They build a soft bed with leaves and sleep until spring comes. （Para5）Scientists say that hibernation is a way for animals to keep a______ when there is no enough food in winter.",
+              "translation": "（第一段）冬天天气很冷，许多动物冬眠来保持______。它们睡很长时间，不需要吃太多食物。（第三段）我最喜欢的动物是熊。我从一本书中了解到，熊在洞穴里冬眠以______寒冷。它们用树叶铺一张柔软的床，一直睡到春天到来。（第五段）科学家说，冬眠是动物在冬天没有足够食物时______的一种方式。",
+              "analysis": "① 核心关联：三个空格均围绕“冬眠保暖/生存”的核心线索，通过因果逻辑+同义复现判断；② 第一个空格答案：warm（Para1的“weather is very cold”提示冬眠是为了保暖，因果关联）；③ 第二个空格答案：safe（Para3的“in caves”和“keep ______ from the cold”呼应，“远离寒冷”即“安全”，同义复现）；④ 第三个空格答案：alive（Para1的“don't need to eat much food”和“no enough food”提示冬眠是为了“存活”，因果关联+跨段线索）；⑤ 融合技巧：因果逻辑+同义复现+跨段线索，需紧扣“冬眠的目的”这一核心。"
+            },
+            {
+              "sentence": "（Para1）Reading is a great hobby. It can open up a whole new world to us and make us k______. We can learn about different cultures, history, and people from all over the world through books. （Para4）My mother always says that reading makes her r______ and helps her forget about the stress of work. She reads for at least an hour every day. （Para7）After reading a lot of books, I found that reading not only makes me w______ but also improves my writing skills and communication ability.",
+              "translation": "（第一段）阅读是一项很棒的爱好。它能为我们打开一个全新的世界，让我们______。我们可以通过书籍了解不同的文化、历史和来自世界各地的人们。（第四段）我妈妈总是说，阅读让她______，并帮助她忘记工作的压力。她每天至少读一小时书。（第七段）读了很多书之后，我发现阅读不仅让我______，还提高了我的写作能力和沟通能力。",
+              "analysis": "① 核心关联：三个空格均围绕“阅读的好处”的核心线索，通过同义复现+逻辑递进判断；② 第一个空格答案：knowledgeable（Para1的“learn about different cultures, history”提示阅读让人“有知识的”，因果关联）；③ 第二个空格答案：relaxed（Para4的“forget about the stress”提示阅读让人“放松的”，因果关联，且是阅读的另一好处，逻辑递进）；④ 第三个空格答案：wise（Para1的“knowledgeable”和Para4的“relaxed”进阶，阅读让人“明智的”，同义复现+逻辑递进，跨段线索）；⑤ 融合技巧：因果逻辑+同义复现+逻辑递进，需联系全文“阅读的多重好处”的主旨。"
+            },
+            {
+              "sentence": "（Para1）A good teacher can change a student's life. My math teacher, Mr. Wang, is such a person. He is patient and kind, and he always takes time to explain d______ problems to us carefully. （Para4）Once, I failed a math exam and felt very sad. Mr. Wang talked to me after class and explained s______ difficult problems in the exam one by one. He told me not to give up and keep trying. （Para6）Thanks to Mr. Wang, I finally understood all the t______ math problems and got good grades in the final exam. I will never forget his help.",
+              "translation": "（第一段）一位好老师可以改变一个学生的一生。我的数学老师王老师就是这样的人。他耐心又善良，总是花时间仔细地给我们讲解______问题。（第四段）有一次，我数学考试不及格，感到非常难过。王老师课后和我聊天，把考试中的______难题一个一个地讲解给我听。他告诉我不要放弃，继续努力。（第六段）多亏了王老师，我终于弄懂了所有______数学题，并在期末考试中取得了好成绩。我永远不会忘记他的帮助。",
+              "analysis": "① 核心关联：三个空格均围绕“数学难题”的核心线索，通过指代关联+同义复现判断；② 第一个空格答案：difficult（Para4的“difficult problems in the exam”原词复现，铺垫线索）；③ 第二个空格答案：same（指代“我考试中做错的”难题，指代关联+跨句线索）；④ 第三个空格答案：tough（Para1的“difficult”和Para4的“difficult”同义复现，“tough”=“difficult”，进阶难度）；⑤ 融合技巧：原词/同义复现+指代关联+跨段线索，需锁定“数学难题”的核心线索及“王老师讲解难题”的情节线。"
+            },
+            {
+              "sentence": "（Para1）Traveling is a wonderful experience. It allows us to see new places, meet new people, and learn about different c______. Every trip I take teaches me something new and makes me grow as a person. （Para5）Last summer, I traveled to Japan with my family. We visited Tokyo, Kyoto, and Osaka, and learned a lot about Japanese c______, such as tea ceremony, cherry blossoms, and traditional food. （Para8）After the trip, I realized that traveling is not just about seeing beautiful places, but also about understanding and respecting different c______ around the world.",
+              "translation": "（第一段）旅行是一种美妙的体验。它让我们看到新的地方，结识新的人，了解不同的______。每次旅行都教会我新的东西，让我成长。（第五段）去年夏天，我和家人去了日本旅行。我们参观了东京、京都和大阪，了解了很多关于日本的______，比如茶道、樱花和传统食物。（第八段）旅行结束后，我意识到旅行不仅仅是看美丽的地方，更是了解和尊重世界各地不同的______。",
+              "analysis": "① 核心关联：三个空格均围绕“不同文化”的核心线索，通过原词复现+逻辑递进判断；② 第一个空格答案：cultures（Para5的“Japanese ______”和Para8的“different ______”铺垫，核心线索）；③ 第二个空格答案：culture（Para1的“cultures”单复数变化，原词复现，指代日本的单一文化）；④ 第三个空格答案：customs（Para1的“cultures”和Para5的“culture”同义复现，“customs”=“文化/习俗”，进阶难度，跨段线索）；⑤ 融合技巧：原词复现+单复数变化+同义复现，需紧扣“旅行了解不同文化”的主旨。"
+            },
+            {
+              "sentence": "（Para1）Water is very important for life. All living things need water to l______. Without water, plants will die, and animals and humans cannot survive. （Para4）In many poor countries, people don't have enough clean water to d______. They have to walk miles to get water from rivers or wells, and the water is often not safe to drink. （Para7）We should save water in our daily life, because every drop of water is precious and helps living things to s______.",
+              "translation": "（第一段）水对生命至关重要。所有生物都需要水来______。没有水，植物会死亡，动物和人类无法生存。（第四段）在许多贫穷的国家，人们没有足够的干净水来______。他们不得不走几英里的路从河里或井里取水，而且这些水往往不安全饮用。（第七段）我们应该在日常生活中节约用水，因为每一滴水都是宝贵的，帮助生物______。",
+              "analysis": "① 核心关联：三个空格均围绕“水对生存的重要性”的核心线索，通过同义复现+因果逻辑判断；② 第一个空格答案：live（Para1的“cannot survive”同义复现，“survive”=“live”，因果关联）；③ 第二个空格答案：drink（Para4的“the water is often not safe to drink”原词复现，因果关联，“没有干净水”→“无法饮用”）；④ 第三个空格答案：survive（Para1的“cannot survive”原词复现，跨段线索，呼应“水的重要性”主旨）；⑤ 融合技巧：原词/同义复现+因果逻辑+跨段线索，需紧扣“水与生存”的核心。"
+            },
+            {
+              "sentence": "（Para1）Music is a universal language. It can express our feelings and make us feel different emotions: happy, sad, excited, or l______. No matter where you are in the world, music can touch your heart. （Para4）When I feel lonely, I listen to soft music, and it makes me feel less a______. When I am happy, I listen to lively music, and it makes me even more excited. （Para6）My favorite singer is Taylor Swift. Her songs can express the s______ emotions that I feel, and I always feel understood when I listen to her music.",
+              "translation": "（第一段）音乐是一种通用的语言。它能表达我们的情感，让我们感受到不同的情绪：快乐、悲伤、兴奋或______。无论你在世界的哪个角落，音乐都能触动你的心。（第四段）当我感到孤独时，我听轻柔的音乐，它让我感觉不那么______。当我开心时，我听欢快的音乐，它让我更加兴奋。（第六段）我最喜欢的歌手是泰勒·斯威夫特。她的歌能表达我感受到的______情绪，我听她的歌时总是感到被理解。",
+              "analysis": "① 核心关联：三个空格均围绕“音乐与情绪”的核心线索，通过同义复现+反义复现判断；② 第一个空格答案：lonely（Para4的“feel lonely”原词复现，铺垫线索）；③ 第二个空格答案：alone（Para4的“lonely”同义复现，“alone”=“lonely”，反义复现的反向运用“less ______”）；④ 第三个空格答案：same（指代“我感受到的”情绪，与泰勒的歌表达的情绪一致，指代关联+跨段线索）；⑤ 融合技巧：原词/同义复现+指代关联+反义复现，需紧扣“音乐表达情绪”的主旨。"
+            },
+            {
+              "sentence": "（Para1）Sports are good for our health. They can make our bodies strong and help us stay h______. Playing sports also teaches us teamwork and perseverance. （Para4）I play basketball every afternoon with my friends. It makes me stay f______ and energetic, and I have made a lot of friends through playing basketball. （Para7）Doctors say that doing sports for at least 30 minutes a day can help us stay w______ and reduce the risk of getting sick.",
+              "translation": "（第一段）运动对我们的健康有益。它们能使我们的身体强壮，帮助我们保持______。运动还教会我们团队合作和毅力。（第四段）我每天下午和朋友们打篮球。它让我保持______和精力充沛，而且我通过打篮球交了很多朋友。（第七段）医生说每天至少运动30分钟可以帮助我们保持______，降低生病的风险。",
+              "analysis": "① 核心关联：三个空格均围绕“运动保持健康”的核心线索，通过同义复现+因果逻辑判断；② 第一个空格答案：healthy（Para1的“good for our health”原词复现，因果关联）；③ 第二个空格答案：fit（Para1的“healthy”同义复现，“fit”=“healthy”，进阶难度）；④ 第三个空格答案：well（Para1的“healthy”和Para4的“fit”同义复现，“well”=“健康的”，跨段线索，因果关联“降低生病风险”）；⑤ 融合技巧：原词/同义复现+因果逻辑+跨段线索，需紧扣“运动与健康”的核心。"
+            },
+            {
+              "sentence": "（Para1）Time is a precious thing. Once it is gone, it can never come back. We should use our time w______ and not waste it on unimportant things. （Para4）My grandfather always tells me to use my time p______ to study and learn new things. He says that time is more valuable than money. （Para7）After I started high school, I realized that I need to use my time e______ to balance study and rest, so that I can do well in my exams and stay healthy.",
+              "translation": "（第一段）时间是宝贵的东西。一旦失去，就再也回不来了。我们应该______利用时间，不要把它浪费在不重要的事情上。（第四段）我的爷爷总是告诉我要______利用时间去学习和学习新东西。他说时间比金钱更宝贵。（第七段）上高中后，我意识到我需要______利用时间来平衡学习和休息，这样我才能在考试中取得好成绩并保持健康。",
+              "analysis": "① 核心关联：三个空格均围绕“合理利用时间”的核心线索，通过同义复现+逻辑递进判断；② 第一个空格答案：wisely（Para1的“not waste it”提示“明智地”利用时间，因果关联）；③ 第二个空格答案：properly（Para1的“wisely”同义复现，“properly”=“wisely”，逻辑递进）；④ 第三个空格答案：effectively（Para1的“wisely”和Para4的“properly”同义复现，“effectively”=“高效地”，进阶难度，跨段线索，“平衡学习和休息”提示高效）；⑤ 融合技巧：同义复现+逻辑递进+跨段线索，需紧扣“珍惜时间”的主旨。"
+            },
+            {
+              "sentence": "（Para1）Friendship is one of the most important things in life. A true friend will always be there for you when you are in t______, and will share your happiness when you are happy. （Para4）When I lost my wallet last month, I was in a lot of d______. My best friend, Amy, helped me look for it and even lent me some money to get through the week. （Para7）I learned that a true friend is someone who will help you when you are in n______, and will never leave you alone.",
+              "translation": "（第一段）友谊是生命中最重要的事情之一。一个真正的朋友会在你遇到______时永远在你身边，会在你开心时分享你的快乐。（第四段）上个月我丢了钱包，我陷入了很大的______。我最好的朋友艾米帮我找钱包，甚至借给我一些钱让我度过那一周。（第七段）我明白了，真正的朋友是在你遇到______时会帮助你，永远不会丢下你一个人的人。",
+              "analysis": "① 核心关联：三个空格均围绕“遇到困难”的核心线索，通过原词复现+同义复现判断；② 第一个空格答案：trouble（Para4的“in a lot of ______”铺垫，核心线索）；③ 第二个空格答案：difficulty（Para1的“trouble”同义复现，“difficulty”=“trouble”，因果关联“丢钱包→陷入困难”）；④ 第三个空格答案：need（Para1的“trouble”和Para4的“difficulty”同义复现，“in need”=“in trouble”，进阶难度，跨段线索）；⑤ 融合技巧：原词/同义复现+因果逻辑+跨段线索，需紧扣“友谊在困难时的重要性”的主旨。"
+            },
+            {
+              "sentence": "（Para1）Food is necessary for our body. We need to eat different kinds of food to get enough n______, such as protein, vitamins, and minerals. （Para4）My mom always cooks balanced meals for us. She says that we need to get enough n______ from vegetables, fruits, meat, and grains to stay healthy. （Para7）Doctors advise us to eat a variety of food every day to get all the necessary n______, and to avoid eating too much junk food.",
+              "translation": "（第一段）食物对我们的身体是必需的。我们需要吃不同种类的食物来获取足够的______，比如蛋白质、维生素和矿物质。（第四段）我妈妈总是为我们做均衡的饭菜。她说我们需要从蔬菜、水果、肉类和谷物中获取足够的______来保持健康。（第七段）医生建议我们每天吃各种各样的食物来获取所有必需的______，并避免吃太多垃圾食品。",
+              "analysis": "① 核心关联：三个空格均围绕“食物获取营养”的核心线索，通过原词复现+同义复现判断；② 第一个空格答案：nutrients（Para1的“protein, vitamins, and minerals”提示是“营养物质”，定义关联）；③ 第二个空格答案：nutrition（Para1的“nutrients”同义复现，“nutrition”=“营养”，不可数形式）；④ 第三个空格答案：nutritional（Para1的“nutrients”和Para4的“nutrition”词性变化，“nutritional”=“营养的”，修饰“必需的”，跨段线索）；⑤ 融合技巧：原词/同义复现+词性变化+定义关联，需紧扣“食物与营养”的核心。"
+            },
+            {
+              "sentence": "（Para1）Technology has changed our life a lot. It makes our life easier and more c______. We can use phones to communicate with people far away, and use computers to work or study at home. （Para4）With the development of technology, online shopping has become more and more p______. We can buy almost everything we need without going out. （Para7）I think technology will continue to make our life more e______ and convenient in the future, but we should also use it wisely.",
+              "translation": "（第一段）科技极大地改变了我们的生活。它使我们的生活更容易、更______。我们可以用手机和远方的人交流，用电脑在家工作或学习。（第四段）随着科技的发展，网上购物变得越来越______。我们几乎可以不用出门就买到所有需要的东西。（第七段）我认为科技在未来会继续让我们的生活更______、更方便，但我们也应该明智地使用它。",
+              "analysis": "① 核心关联：三个空格均围绕“科技让生活便利”的核心线索，通过同义复现+逻辑递进判断；② 第一个空格答案：convenient（Para1的“easier”和Para7的“convenient”原词复现，定义关联）；③ 第二个空格答案：popular（Para4的“buy almost everything without going out”提示网购“受欢迎”，因果关联，逻辑递进）；④ 第三个空格答案：efficient（Para1的“convenient”和Para4的“popular”同义复现，“efficient”=“高效的”，进阶难度，跨段线索）；⑤ 融合技巧：原词/同义复现+因果逻辑+逻辑递进，需紧扣“科技改变生活”的主旨。"
+            },
+            {
+              "sentence": "（Para1）Dreams are important for everyone. They give us hope and motivation to keep m______ towards our goals. Without dreams, life will be boring and meaningless. （Para4）My dream is to become a scientist. I keep w______ hard at school to learn more knowledge and make my dream come true. （Para7）I believe that as long as we keep s______ for our dreams, we will eventually achieve them, no matter how difficult it is.",
+              "translation": "（第一段）梦想对每个人都很重要。它们给我们希望和动力，让我们朝着目标继续______。没有梦想，生活将是枯燥和毫无意义的。（第四段）我的梦想是成为一名科学家。我在学校继续______努力学习更多的知识，让我的梦想成真。（第七段）我相信，只要我们为梦想继续______，无论有多困难，我们最终都会实现它们。",
+              "analysis": "① 核心关联：三个空格均围绕“为梦想努力”的核心线索，通过同义复现+逻辑递进判断；② 第一个空格答案：moving（Para1的“towards our goals”提示“前进”，因果关联）；③ 第二个空格答案：working（Para1的“moving”同义复现，“working hard”=“朝着目标前进”，逻辑递进）；④ 第三个空格答案：striving（Para1的“moving”和Para4的“working”同义复现，“striving”=“努力/奋斗”，进阶难度，跨段线索）；⑤ 融合技巧：同义复现+逻辑递进+因果关联，需紧扣“为梦想奋斗”的主旨。"
+            },
+            {
+              "sentence": "（Para1）Nature is beautiful and full of surprises. We can see mountains, rivers, forests, and animals in nature, and all of these make our world more c______. （Para4）Last weekend, I went camping in the mountains with my family. We saw beautiful flowers, heard birds singing, and breathed fresh air. The experience made me realize how a______ nature is. （Para7）We should protect nature and keep it p______, so that future generations can also enjoy its beauty.",
+              "translation": "（第一段）大自然是美丽的，充满了惊喜。我们可以在大自然中看到山脉、河流、森林和动物，所有这些都让我们的世界更______。（第四段）上周末，我和家人去山里露营。我们看到了美丽的花朵，听到了鸟儿唱歌，呼吸了新鲜空气。这次经历让我意识到大自然是多么______。（第七段）我们应该保护自然，保持它的______，这样子孙后代也能享受它的美丽。",
+              "analysis": "① 核心关联：三个空格均围绕“大自然的美丽”的核心线索，通过同义复现+逻辑递进判断；② 第一个空格答案：colorful（Para1的“beautiful and full of surprises”提示“多彩的”，因果关联）；③ 第二个空格答案：amazing（Para1的“colorful”同义复现，“amazing”=“令人惊叹的”，逻辑递进，露营经历的感受）；④ 第三个空格答案：pristine（Para1的“colorful”和Para4的“amazing”同义复现，“pristine”=“原始的/纯净的”，进阶难度，跨段线索，“保护自然”提示保持纯净）；⑤ 融合技巧：同义复现+逻辑递进+因果关联，需紧扣“大自然的美丽与保护”的主旨。"
+            },
+            {
+              "sentence": "（Para1）Learning a foreign language is a challenge, but it is also very rewarding. It can help us communicate with people from other countries and learn about their c______. （Para4）I have been learning English for five years. I can now talk to foreign teachers and read English books, which helps me learn about Western c______. （Para7）I plan to learn French next year, because I want to learn about French c______ and travel to France one day.",
+              "translation": "（第一段）学习一门外语是一种挑战，但也非常有意义。它能帮助我们与其他国家的人交流，了解他们的______。（第四段）我已经学了五年英语了。我现在可以和外教交谈，读英语书，这帮助我了解西方______。（第七段）我计划明年学法语，因为我想了解法国______，并有一天去法国旅行。",
+              "analysis": "① 核心关联：三个空格均围绕“学习外语了解文化”的核心线索，通过原词复现+同义复现判断；② 第一个空格答案：cultures（Para4的“Western ______”和Para7的“French ______”铺垫，核心线索）；③ 第二个空格答案：culture（Para1的“cultures”单复数变化，原词复现，指代西方单一文化）；④ 第三个空格答案：customs（Para1的“cultures”和Para4的“culture”同义复现，“customs”=“文化/习俗”，进阶难度，跨段线索）；⑤ 融合技巧：原词复现+单复数变化+同义复现，需紧扣“学习外语了解文化”的主旨。"
+            },
+            {
+              "sentence": "（Para1）Happiness is a feeling that everyone wants to have. It can come from small things in life, such as spending time with family, eating your favorite food, or achieving a small g______. （Para4）Last week, I got an A in my English test. It was a small a______, but it made me very happy. I shared the news with my parents, and they were proud of me. （Para7）I realize that happiness is not about big success, but about enjoying the small m______ in life and being grateful for what you have.",
+              "translation": "（第一段）幸福是每个人都想拥有的感觉。它可以来自生活中的小事，比如和家人共度时光，吃你最喜欢的食物，或者实现一个小的______。（第四段）上周，我的英语考试得了A。这是一个小的______，但它让我非常开心。我把这个消息告诉了父母，他们为我感到骄傲。（第七段）我意识到，幸福不在于巨大的成功，而在于享受生活中的小______，并对所拥有的一切心存感激。",
+              "analysis": "① 核心关联：三个空格均围绕“小成就带来幸福”的核心线索，通过原词复现+同义复现判断；② 第一个空格答案：goal（Para4的“got an A in my English test”提示“小目标”，因果关联）；③ 第二个空格答案：achievement（Para1的“goal”同义复现，“achievement”=“成就”，因果关联“得A→小成就”）；④ 第三个空格答案：moments（Para1的“small things”和Para4的“small achievement”同义复现，“moments”=“瞬间/小事”，进阶难度，跨段线索）；⑤ 融合技巧：原词/同义复现+因果逻辑+跨段线索，需紧扣“小成就带来幸福”的主旨。"
+            },
+            {
+              "sentence": "（Para1）Books are our best friends. They can teach us knowledge, open our minds, and help us solve p______. Whenever we have a problem, we can find answers in books. （Para4）When I was confused about how to make friends, I read a book about communication. It helped me solve my t______ and I made a lot of new friends soon. （Para7）I love reading because books can always help me solve d______ in life and make me a better person.",
+              "translation": "（第一段）书是我们最好的朋友。它们能教我们知识，开阔我们的视野，帮助我们解决______。每当我们有问题时，我们都能在书中找到答案。（第四段）当我对如何交朋友感到困惑时，我读了一本关于沟通的书。它帮助我解决了我的______，我很快交了很多新朋友。（第七段）我喜欢读书，因为书总能帮助我解决生活中的______，让我成为一个更好的人。",
+              "analysis": "① 核心关联：三个空格均围绕“书帮助解决问题”的核心线索，通过原词复现+同义复现判断；② 第一个空格答案：problems（Para1的“have a problem”原词复现，定义关联）；③ 第二个空格答案：trouble（Para1的“problems”同义复现，“trouble”=“problem”，因果关联“困惑→问题”）；④ 第三个空格答案：difficulties（Para1的“problems”和Para4的“trouble”同义复现，“difficulties”=“困难/问题”，进阶难度，跨段线索）；⑤ 融合技巧：原词/同义复现+因果逻辑+跨段线索，需紧扣“书帮助解决问题”的主旨。"
+            }
+          ],
+          "exercises": [
+            {
+              "question": "（Para1）When I first moved to a new school, I felt very ______ because I didn't know anyone. I sat alone at lunch and didn't talk to anyone. （Para3）One day, a girl named Lucy came to me and said, “Hi, I'm Lucy. Do you want to sit with me?” I was happy and said yes. After that, Lucy and I became good friends, and I no longer felt ______ at school. （Para5）Now, I have many friends and I am glad that Lucy helped me when I was ______. \n1. A. lonely B. happy C. excited\n2. A. afraid B. alone C. angry\n3. A. in danger B. in need C. in trouble",
+              "options": {"A": "1.A; 2.B; 3.C", "B": "1.B; 2.A; 3.A", "C": "1.C; 2.C; 3.B"},
+              "answer": "A",
+              "explanation": "① 第1空：Para1的“didn't know anyone”“sat alone”提示“孤独的”，lonely（情感上孤独）符合，上下文因果关联；② 第2空：Para3的“became good friends”提示“不再孤单”，alone（客观上独自一人）符合，同义复现（lonely→alone）；③ 第3空：Para1-3的“孤独→交朋友”线索，in trouble（处于困境中）符合，跨段线索（孤独是一种困境）；④ 融合技巧：因果关联+同义复现+跨段线索，需联系全文“转学孤独→交朋友摆脱孤独”的情节线。"
+            },
+            {
+              "question": "（Para1）Summer vacation is my favorite time of the year. I can do many things I like, such as reading books, traveling, or playing with my friends. It is a ______ time to relax and have fun. （Para4）Last summer, I went to the beach with my family. We swam in the sea, built sandcastles, and watched the sunset. It was a ______ experience that I will never forget. （Para6）This year, I plan to learn to swim and visit my grandparents in the countryside. I am sure it will be another ______ summer vacation. \n1. A. busy B. perfect C. boring\n2. A. wonderful B. terrible C. common\n3. A. sad B. memorable C. short",
+              "options": {"A": "1.B; 2.A; 3.B", "B": "1.A; 2.C; 3.A", "C": "1.C; 2.B; 3.C"},
+              "answer": "A",
+              "explanation": "① 第1空：Para1的“do many things I like”“relax and have fun”提示“完美的”，perfect符合，因果关联；② 第2空：Para4的“swam in the sea...watched the sunset”提示“美好的”，wonderful与perfect同义复现，逻辑递进；③ 第3空：Para1的“favorite time”、Para4的“never forget”提示“难忘的”，memorable与wonderful/perfect同义复现，跨段线索；④ 融合技巧：因果关联+同义复现+逻辑递进，需紧扣“暑假愉快”的核心主旨。"
+            },
+            {
+              "question": "（Para1）Reading is an important skill that everyone needs. It helps us get information, learn new things, and understand the world better. We should read ______ every day to improve our reading ability. （Para4）My teacher told me that reading ______ books, such as storybooks, science books, and history books, can make us more knowledgeable. （Para7）I now read for at least an hour every day, and I choose ______ books according to my interest. It has greatly improved my reading skills and vocabulary. \n1. A. little B. a lot C. a few\n2. A. different kinds of B. the same kind of C. only one kind of\n3. A. boring B. interesting C. difficult",
+              "options": {"A": "1.B; 2.A; 3.B", "B": "1.A; 2.C; 3.A", "C": "1.C; 2.B; 3.C"},
+              "answer": "A",
+              "explanation": "① 第1空：Para1的“improve our reading ability”提示“多阅读”，a lot符合，因果关联；② 第2空：Para4的“storybooks, science books, and history books”提示“不同种类的”，different kinds of符合，举例关联+同义复现（a lot→different kinds）；③ 第3空：Para7的“according to my interest”提示“有趣的”，interesting符合，因果关联+跨段线索；④ 融合技巧：因果关联+举例关联+同义复现，需紧扣“阅读提升能力”的核心。"
+            },
+            {
+              "question": "（Para1）Water is essential for life. All living things, including humans, animals, and plants, need water to ______. Without water, nothing can survive on Earth. （Para4）In many parts of the world, people face water shortages. They have to save every drop of water to ______ and take care of their families. （Para7）We should all learn to save water in our daily life, such as turning off the tap when brushing teeth, to ensure that we have enough water to ______. \n1. A. grow B. live C. play\n2. A. survive B. travel C. work\n3. A. waste B. use C. share",
+              "options": {"A": "1.B; 2.A; 3.B", "B": "1.A; 2.C; 3.A", "C": "1.C; 2.B; 3.C"},
+              "answer": "A",
+              "explanation": "① 第1空：Para1的“nothing can survive”提示“生存/生活”，live符合，同义复现（survive→live）；② 第2空：Para4的“water shortages”“save every drop”提示“生存”，survive与live同义复现，因果关联；③ 第3空：Para7的“save water”“enough water”提示“使用”，use符合，因果关联+跨段线索；④ 融合技巧：同义复现+因果关联+跨段线索，需紧扣“水对生存的重要性”的核心。"
+            },
+            {
+              "question": "（Para1）Sports can help us stay healthy and strong. Playing sports regularly can improve our physical fitness and reduce the risk of getting ______. （Para4）I play badminton every weekend with my father. I used to get ______ easily, but now I rarely get sick because of playing sports. （Para7）Doctors say that doing sports for 30 minutes a day can keep us away from ______ and make us more energetic. \n1. A. hungry B. sick C. tired\n2. A. colds B. prizes C. friends\n3. A. health B. illness C. happiness",
+              "options": {"A": "1.B; 2.A; 3.B", "B": "1.A; 2.C; 3.A", "C": "1.C; 2.B; 3.C"},
+              "answer": "A",
+              "explanation": "① 第1空：Para1的“stay healthy”“reduce the risk”提示“生病”，sick符合，因果关联；② 第2空：Para4的“rarely get sick”提示“感冒”，colds是sick的具体表现，同义复现+举例关联；③ 第3空：Para7的“keep us away from”“energetic”提示“疾病”，illness与sick/colds同义复现，跨段线索；④ 融合技巧：同义复现+因果关联+举例关联，需紧扣“运动保持健康”的核心。"
+            },
+            {
+              "question": "（Para1）Time is a valuable resource that we cannot get back once it is lost. We should use our time ______ and focus on things that are important to us. （Para4）My father always tells me to use my time ______ to study for exams instead of playing video games all day. （Para7）After I started making a to-do list every morning, I learned to use my time ______ and finish my homework on time every day. \n1. A. wisely B. carelessly C. slowly\n2. A. badly B. properly C. quickly\n3. A. effectively B. happily C. loudly",
+              "options": {"A": "1.A; 2.B; 3.A", "B": "1.B; 2.C; 3.B", "C": "1.C; 2.A; 3.C"},
+              "answer": "A",
+              "explanation": "① 第1空：Para1的“valuable resource”“focus on important things”提示“明智地”，wisely符合，因果关联；② 第2空：Para4的“study for exams instead of playing games”提示“适当地”，properly与wisely同义复现，逻辑递进；③ 第3空：Para7的“make a to-do list”“finish homework on time”提示“高效地”，effectively与wisely/properly同义复现，跨段线索；④ 融合技巧：同义复现+因果关联+逻辑递进，需紧扣“珍惜时间”的核心。"
+            },
+            {
+              "question": "（Para1）Friendship is built on trust and understanding. A true friend will listen to you when you are sad and share your joy when you are happy. They will never ______ you when you need them. （Para4）When I failed my math exam, I was afraid to tell my parents, but my friend Lisa ______ me and helped me analyze my mistakes. （Para7）I know that no matter what happens, my true friends will always ______ by my side and support me. \n1. A. leave B. help C. call\n2. A. laughed at B. encouraged C. ignored\n3. A. stand B. run C. jump",
+              "options": {"A": "1.A; 2.B; 3.A", "B": "1.B; 2.C; 3.B", "C": "1.C; 2.A; 3.C"},
+              "answer": "A",
+              "explanation": "① 第1空：Para1的“true friend will listen to you”“share your joy”提示“不离开”，leave符合，反义关联（listen/share→not leave）；② 第2空：Para4的“helped me analyze my mistakes”提示“鼓励”，encouraged符合，因果关联+同义复现（help→encourage）；③ 第3空：Para7的“support me”提示“站在我身边”，stand by my side与support同义复现，跨段线索；④ 融合技巧：反义关联+因果关联+同义复现，需紧扣“友谊基于信任与支持”的核心。"
+            },
+            {
+              "question": "（Para1）Technology has made our life more convenient than ever before. We can use smartphones to pay for things, chat with friends, and even work ______ from home. （Para4）During the pandemic, many people worked ______ using video conferencing tools like Zoom. It allowed them to work without going to the office. （Para7）In the future, technology will continue to make our life more ______, with self-driving cars and smart homes becoming more common. \n1. A. easily B. hardly C. sadly\n2. A. online B. outdoors C. alone\n3. A. difficult B. convenient C. expensive",
+              "options": {"A": "1.A; 2.A; 3.B", "B": "1.B; 2.C; 3.A", "C": "1.C; 2.B; 3.C"},
+              "answer": "A",
+              "explanation": "① 第1空：Para1的“more convenient”提示“容易地”，easily符合，因果关联（convenient→easily）；② 第2空：Para4的“video conferencing tools”“without going to the office”提示“在线”，online符合，举例关联+同义复现（easily→online）；③ 第3空：Para7的“self-driving cars and smart homes”提示“更方便”，convenient与前文的convenient原词复现，跨段线索；④ 融合技巧：因果关联+举例关联+原词复现，需紧扣“科技让生活便利”的核心。"
+            },
+            {
+              "question": "（Para1）Dreams give us direction and motivation in life. Everyone should have a dream and work hard to ______ it. （Para4）My dream is to become a doctor. I study hard every day and take extra classes to ______ my dream of helping sick people. （Para7）I know that achieving a dream is not easy, but I will keep working hard to ______ my dream no matter how many difficulties I face. \n1. A. forget B. achieve C. change\n2. A. realize B. break C. lose\n3. A. give up B. hold on to C. show off",
+              "options": {"A": "1.B; 2.A; 3.B", "B": "1.A; 2.C; 3.A", "C": "1.C; 2.B; 3.C"},
+              "answer": "A",
+              "explanation": "① 第1空：Para1的“work hard”提示“实现”，achieve符合，因果关联；② 第2空：Para4的“study hard”“extra classes”提示“实现”，realize与achieve同义复现，逻辑递进；③ 第3空：Para7的“no matter how many difficulties”提示“坚持”，hold on to与achieve/realize同义复现（坚持才能实现），跨段线索；④ 融合技巧：因果关联+同义复现+逻辑递进，需紧扣“为梦想努力”的核心。"
+            },
+            {
+              "question": "（Para1）Nature provides us with everything we need, such as clean air, fresh water, and food. We should protect nature to keep it ______ and beautiful. （Para4）Last month, I joined a volunteer activity to plant trees in the park. We planted over 100 trees to make the park more ______ and provide a better home for birds. （Para7）We must stop polluting the environment and protect natural resources to keep nature ______ for future generations. \n1. A. dirty B. healthy C. noisy\n2. A. green B. gray C. dark\n3. A. damaged B. safe C. polluted",
+              "options": {"A": "1.B; 2.A; 3.B", "B": "1.A; 2.C; 3.A", "C": "1.C; 2.B; 3.C"},
+              "answer": "A",
+              "explanation": "① 第1空：Para1的“clean air, fresh water”提示“健康的”，healthy符合，因果关联；② 第2空：Para4的“plant trees”提示“绿色的”，green符合，举例关联+同义复现（healthy→green）；③ 第3空：Para7的“stop polluting”“protect natural resources”提示“安全的”，safe与healthy/green同义复现，跨段线索；④ 融合技巧：因果关联+举例关联+同义复现，需紧扣“保护自然”的核心。"
+            },
+            {
+              "question": "（Para1）Learning a foreign language requires patience and practice. You cannot become fluent in a language overnight; you need to practice ______ every day. （Para4）I practice speaking English with my pen pal every day. At first, I could only say a few words, but now I can have a ______ conversation with her. （Para7）To improve my English, I also listen to English songs and watch English movies ______ to learn new words and expressions. \n1. A. a little B. a lot C. nothing\n2. A. simple B. difficult C. long\n3. A. regularly B. never C. seldom",
+              "options": {"A": "1.B; 2.A; 3.A", "B": "1.A; 2.C; 3.B", "C": "1.C; 2.B; 3.C"},
+              "answer": "A",
+              "explanation": "① 第1空：Para1的“patience and practice”“cannot become fluent overnight”提示“大量练习”，a lot符合，因果关联；② 第2空：Para4的“At first, I could only say a few words”提示“简单的对话”，simple符合，对比关联+逻辑递进；③ 第3空：Para7的“improve my English”“learn new words”提示“定期地”，regularly与every day同义复现，跨段线索；④ 融合技巧：因果关联+对比关联+同义复现，需紧扣“学习外语需要练习”的核心。"
+            },
+            {
+              "question": "（Para1）Happiness is not about having a lot of money or expensive things. It comes from small ______ in life, like a hug from your family or a smile from a friend. （Para4）Yesterday, my little sister made a drawing for me. It was a simple drawing, but it brought me a lot of ______. （Para7）I now realize that happiness is all around us, and we just need to notice the small ______ that make us happy. \n1. A. moments B. problems C. worries\n2. A. sadness B. happiness C. anger\n3. A. things B. failures C. jobs",
+              "options": {"A": "1.A; 2.B; 3.A", "B": "1.B; 2.C; 3.B", "C": "1.C; 2.A; 3.C"},
+              "answer": "A",
+              "explanation": "① 第1空：Para1的“a hug...a smile”提示“瞬间”，moments符合，举例关联；② 第2空：Para4的“simple drawing but brought me...”提示“快乐”，happiness与前文的Happiness原词复现，因果关联；③ 第3空：Para7的“small moments”“a hug...a smile”提示“小事”，things与moments同义复现，跨段线索；④ 融合技巧：举例关联+原词复现+同义复现，需紧扣“幸福来自小事”的核心。"
+            },
+            {
+              "question": "（Para1）Books are a great source of knowledge. They can answer our questions and help us understand the world better. When we have a ______, we can find answers in books. （Para4）When I was curious about space, I read a lot of books about astronomy. They answered all my ______ about the solar system and stars. （Para7）I love reading because books can always solve my ______ and make me more knowledgeable. \n1. A. question B. gift C. plan\n2. A. doubts B. hobbies C. memories\n3. A. joys B. puzzles C. hopes",
+              "options": {"A": "1.A; 2.A; 3.B", "B": "1.B; 2.C; 3.A", "C": "1.C; 2.B; 3.C"},
+              "answer": "A",
+              "explanation": "① 第1空：Para1的“answer our questions”提示“问题”，question符合，原词复现；② 第2空：Para4的“curious about space”“answered all my”提示“疑问”，doubts与question同义复现，因果关联；③ 第3空：Para7的“solve my”“make me more knowledgeable”提示“困惑”，puzzles与question/doubts同义复现，跨段线索；④ 融合技巧：原词复现+因果关联+同义复现，需紧扣“书能解答问题”的核心。"
+            },
+            {
+              "question": "（Para1）Exercise is good for both our body and mind. It can reduce stress and make us feel ______ and relaxed. （Para4）After a long day at school, I always do some light exercise like yoga. It helps me forget about school stress and feel ______. （Para7）Doctors recommend doing exercise every day to keep our mind ______ and improve our mental health. \n1. A. anxious B. calm C. nervous\n2. A. peaceful B. stressed C. tired\n3. A. active B. lazy C. dull",
+              "options": {"A": "1.B; 2.A; 3.A", "B": "1.A; 2.C; 3.B", "C": "1.C; 2.B; 3.C"},
+              "answer": "A",
+              "explanation": "① 第1空：Para1的“reduce stress”“relaxed”提示“平静的”，calm符合，同义复现（relaxed→calm）；② 第2空：Para4的“forget about school stress”提示“平和的”，peaceful与calm/relaxed同义复现，因果关联；③ 第3空：Para7的“improve our mental health”提示“活跃的”，active与calm/peaceful同义复现（身心放松→思维活跃），跨段线索；④ 融合技巧：同义复现+因果关联+逻辑递进，需紧扣“运动有益身心”的核心。"
+            },
+            {
+              "question": "（Para1）Traveling allows us to experience different cultures and meet new people. It broadens our horizons and makes us more ______. （Para4）Last year, I traveled to Thailand with my family. I tried Thai food, learned a few Thai words, and met friendly local people. The trip made me more ______ about different cultures. （Para7）I plan to travel to more countries in the future to learn more about the world and become more ______. \n1. A. narrow-minded B. open-minded C. closed-minded\n2. A. curious B. bored C. scared\n3. A. ignorant B. wise C. selfish",
+              "options": {"A": "1.B; 2.A; 3.B", "B": "1.A; 2.C; 3.A", "C": "1.C; 2.B; 3.C"},
+              "answer": "A",
+              "explanation": "① 第1空：Para1的“broadens our horizons”提示“思想开放的”，open-minded符合，因果关联；② 第2空：Para4的“tried Thai food, learned Thai words”提示“好奇的”，curious符合，因果关联+逻辑递进；③ 第3空：Para7的“learn more about the world”提示“明智的”，wise与open-minded/curious同义复现，跨段线索；④ 融合技巧：因果关联+逻辑递进+同义复现，需紧扣“旅行开阔视野”的核心。"
+            },
+            {
+              "question": "（Para1）A good diet is important for our health. We should eat a ______ of food, including vegetables, fruits, meat, and grains, to get all the nutrients we need. （Para4）My mom cooks a ______ meal every day, with different vegetables and proteins to ensure we get enough nutrition. （Para7）Nutritionists say that eating a ______ diet can prevent many diseases and keep us healthy. \n1. A. variety B. little C. lot\n2. A. balanced B. spicy C. sweet\n3. A. single B. diverse C. simple",
+              "options": {"A": "1.A; 2.A; 3.B", "B": "1.B; 2.C; 3.A", "C": "1.C; 2.B; 3.C"},
+              "answer": "A",
+              "explanation": "① 第1空：Para1的“including vegetables, fruits, meat, and grains”提示“种类繁多”，variety（a variety of）符合，举例关联；② 第2空：Para4的“different vegetables and proteins”提示“均衡的”，balanced与a variety of同义复现，因果关联；③ 第3空：Para7的“prevent many diseases”“keep us healthy”提示“多样化的”，diverse与variety/balanced同义复现，跨段线索；④ 融合技巧：举例关联+同义复现+因果关联，需紧扣“均衡饮食有益健康”的核心。"
+            },
+            {
+              "question": "（Para1）Music can express emotions that words cannot. It can make us cry, laugh, or feel inspired. When I feel sad, I listen to soft music to make myself feel ______. （Para4）When I won the singing competition, I listened to upbeat music to celebrate my success and feel ______. （Para7）No matter what mood I am in, there is always a kind of music that can make me feel ______ and understood. \n1. A. worse B. better C. angrier\n2. A. proud B. sad C. lonely\n3. A. heard B. forgotten C. ignored",
+              "options": {"A": "1.B; 2.A; 3.A", "B": "1.A; 2.C; 3.B", "C": "1.C; 2.B; 3.C"},
+              "answer": "A",
+              "explanation": "① 第1空：Para1的“feel sad”“listen to soft music”提示“变好”，better符合，反义关联（sad→better）；② 第2空：Para4的“won the singing competition”“celebrate my success”提示“自豪的”，proud符合，因果关联；③ 第3空：Para7的“understood”提示“被倾听”，heard与understood同义复现，跨段线索；④ 融合技巧：反义关联+因果关联+同义复现，需紧扣“音乐表达情感”的核心。"
+            },
+            {
+              "question": "（Para1）Education is the key to success. It gives us the knowledge and skills we need to ______ in life. （Para4）My parents always tell me that getting a good education can help me ______ my goals and have a better future. （Para7）I study hard every day because I know that education is the only way to ______ my dreams and make them come true. \n1. A. succeed B. fail C. play\n2. A. miss B. achieve C. change\n3. A. give up B. reach C. lose",
+              "options": {"A": "1.A; 2.B; 3.B", "B": "1.B; 2.C; 3.A", "C": "1.C; 2.A; 3.C"},
+              "answer": "A",
+              "explanation": "① 第1空：Para1的“Education is the key to success”提示“成功”，succeed符合，原词复现；② 第2空：Para4的“good education”“better future”提示“实现”，achieve与succeed同义复现，因果关联；③ 第3空：Para7的“make them come true”提示“实现/达成”，reach与achieve/succeed同义复现，跨段线索；④ 融合技巧：原词复现+因果关联+同义复现，需紧扣“教育是成功的关键”的核心。"
+            },
+            {
+              "question": "（Para1）Animals are our friends and play an important role in nature. We should protect animals and their ______ to ensure they can live safely. （Para4）Many wild animals are in danger because their ______ are being destroyed by human activities like deforestation. （Para7）We must take action to protect animal ______ and stop hunting wild animals to keep the ecosystem balanced. \n1. A. food B. habitats C. toys\n2. A. homes B. food C. water\n3. A. environments B. enemies C. friends",
+              "options": {"A": "1.B; 2.A; 3.A", "B": "1.A; 2.C; 3.B", "C": "1.C; 2.B; 3.C"},
+              "answer": "A",
+              "explanation": "① 第1空：Para1的“live safely”提示“栖息地”，habitats符合，因果关联；② 第2空：Para4的“deforestation”“in danger”提示“家园”，homes与habitats同义复现，举例关联（砍伐森林→破坏家园）；③ 第3空：Para7的“ecosystem balanced”提示“生存环境”，environments与habitats/homes同义复现，跨段线索；④ 融合技巧：因果关联+举例关联+同义复现，需紧扣“保护动物栖息地”的核心。"
+            }
+          ]
+        },
+        {
+          "id": "cloze_logical_words_2",
+          "title": "2-中考完形填空核心解析（逻辑关系词敏感度）",
+          "content": "### 逻辑关系词的核心定义\n中考完形填空中的逻辑关系词是**连接上下文、体现句子/段落间逻辑的关键词汇**（如转折、因果、让步、并列、递进等），完形填空80%的空都围绕逻辑关系词出题，抓住这些词就能快速锁定答案，是完形填空提分的核心技巧。\n\n### 中考高频逻辑关系类型及标志词（必背）\n#### 类型1：转折关系（前后语义相反）\n核心逻辑：前文说A，后文说与A相反的B，重点在“反”。\n高频标志词：but（但是）、however（然而）、yet（然而）、while（然而）、instead（反而）、on the contrary（相反）。\n- 例句：He studied hard, __but__ he still failed the exam.（他努力学习，但还是没通过考试）\n- 解题关键：看到这些词，立刻找前后语义相反的线索。\n\n#### 类型2：因果关系（前因后果/前果后因）\n核心逻辑：前后句存在“原因→结果”或“结果→原因”的联系。\n高频标志词：\n- 表原因：because（因为）、since（既然/因为）、as（因为）、for（因为，补充说明）、because of（因为，接短语）；\n- 表结果：so（所以）、therefore（因此）、thus（因此）、as a result（结果）、so that（以至于）。\n- 例句：It rained heavily, __so__ we canceled the picnic.（雨下得大，所以我们取消了野餐）\n- 解题关键：先判断“谁是因、谁是果”，再匹配对应标志词。\n\n#### 类型3：让步关系（虽然…但是…，前后语义相反但语气更弱）\n核心逻辑：承认前文事实，但后文仍有相反的情况，重点在“让步”。\n高频标志词：although（虽然）、though（虽然）、even though/even if（即使）、in spite of（尽管，接短语）。\n- 例句：__Although__ he is young, he knows a lot.（虽然他小，但懂得多）\n- 解题关键：although/though不能和but连用，看到前者就排除后者，反之亦然。\n\n#### 类型4：并列/递进关系（前后语义相近/更进一层）\n核心逻辑：前后内容是并列、顺承或程度加深。\n高频标志词：\n- 并列：and（和）、or（或者）、also（也）、as well as（也）、both...and...（两者都）；\n- 递进：besides（此外）、what's more（而且）、even（甚至）、not only...but also...（不仅…而且…）。\n- 例句：She not only sings well, __but also__ dances beautifully.（她不仅唱歌好，还跳舞美）\n- 解题关键：找前后语义同类、同向的线索。\n\n#### 类型5：条件关系（满足条件→产生结果）\n核心逻辑：前文是条件，后文是该条件下的结果。\n高频标志词：if（如果）、unless（除非=if not）、as long as（只要）、on condition that（只要）。\n- 例句：__Unless__ you work hard, you won't succeed.（除非努力，否则不会成功）\n- 解题关键：遵循“主将从现”，且注意unless的否定逻辑。\n\n### 完形填空逻辑关系词解题技巧（中考专用）\n1. **先划逻辑词**：拿到完形填空，先圈出所有已知的逻辑关系词（but/because/although等），判断上下文逻辑；\n2. **语义匹配法**：空前后读2遍，确定是“反义（转折/让步）”“因果”“并列”还是“条件”，再匹配选项中的逻辑词；\n3. **排除法**：先排除与上下文逻辑不符的词（如前后语义相反，就排除so/because等因果词）；\n4. **固定搭配避坑**：记住“although/though不与but连用”“not only...but also...并列结构一致”等固定规则；\n5. **语境验证**：选完后，把答案代入原文，读整句话/整段，验证逻辑是否通顺。\n\n### 逻辑关系词避坑指南\n1. however是副词，常放句中（前后加逗号）或句首（后加逗号），but是连词，直接连接两个句子，不可混用；\n2. because表直接原因，since/as表“显而易见的原因”，for是并列连词，只能放句中补充原因；\n3. unless=if not，解题时可替换成if not验证逻辑（如Unless you go=If you don't go）；\n4. while表转折时，侧重“对比”（前后两种情况对比），but侧重“单纯转折”；\n5. 递进关系中，even的语气比what's more更强，解题时注意程度差异。",
+          "examples": [
+            {
+              "sentence": "I wanted to buy a new book, b____ I didn't have enough money with me, s____ I decided to borrow one from the library instead of buying it.",
+              "translation": "我想买一本新书，但是我身上没带足够的钱，所以我决定从图书馆借一本而不是买。",
+              "analysis": "① 第一个空：前半句“想买书”，后半句“没带钱”，语义相反，用转折词but；② 第二个空：“没带钱”是“借书”的原因，表结果用so；③ 逻辑类型：转折+因果；④ 解题关键：先判断前后语义关系，再匹配对应逻辑词。"
+            },
+            {
+              "sentence": "A____ the task is very difficult, all the students are trying their best to finish it on time, w____ none of them has given up so far.",
+              "translation": "尽管这项任务很难，但所有学生都在尽力按时完成，而且到目前为止没有人放弃。",
+              "analysis": "① 第一个空：“任务难”和“尽力完成”语义相反，表让步用Although；② 第二个空：“尽力完成”和“没人放弃”是递进关系，用what's more；③ 逻辑类型：让步+递进；④ 解题关键：Although不与but连用，且递进词体现语义更进一层。"
+            },
+            {
+              "sentence": "You can pass the exam easily i____ you review all the key points carefully every day, o____ you will regret it when the result comes out.",
+              "translation": "如果你每天认真复习所有重点，就能轻松通过考试，否则成绩出来时你会后悔的。",
+              "analysis": "① 第一个空：“认真复习”是“通过考试”的条件，用if；② 第二个空：前后是“满足条件→好结果”和“不满足→坏结果”的对比，用or；③ 逻辑类型：条件+并列（选择）；④ 解题关键：if引导条件状语从句，遵循主将从现，or表“否则”体现反向逻辑。"
+            },
+            {
+              "sentence": "She has lived in China for five years, h____ she still can't speak Chinese fluently, b____ she has never practiced it with local people.",
+              "translation": "她在中国住了五年，但她仍然不能流利地说中文，因为她从未和当地人练习过。",
+              "analysis": "① 第一个空：“住五年”和“不会说中文”语义相反，用however（放句中，前后加逗号）；② 第二个空：“不会说”的原因是“没练习”，表原因用because；③ 逻辑类型：转折+因果；④ 解题关键：however的位置（句中需加逗号），区分but和however的用法。"
+            },
+            {
+              "sentence": "T____ he is a famous scientist, he is very modest and always ready to learn from others, t____ he can make great progress all the time.",
+              "translation": "虽然他是一位著名的科学家，但他非常谦虚，总是愿意向别人学习，因此他总能取得很大的进步。",
+              "analysis": "① 第一个空：“著名科学家”和“谦虚”语义相反，表让步用Though；② 第二个空：“谦虚好学”是“进步”的原因，表结果用therefore；③ 逻辑类型：让步+因果；④ 解题关键：though可放句首/句中，therefore是副词，需用逗号与句子隔开。"
+            },
+            {
+              "sentence": "We can go hiking this weekend a____ the weather is fine, but i____ it rains heavily, we will have to stay at home and watch movies.",
+              "translation": "只要天气好，我们这个周末就可以去远足，但如果下大雨，我们就得待在家里看电影。",
+              "analysis": "① 第一个空：“天气好”是“去远足”的条件，且语气更肯定，用as long as；② 第二个空：“下大雨”是“待在家”的条件，用if；③ 逻辑类型：条件+转折+条件；④ 解题关键：as long as比if的条件语气更强，but连接前后两种相反的条件结果。"
+            },
+            {
+              "sentence": "The little girl likes drawing, s____ she spends most of her free time on it, e____ she has won many prizes in painting competitions.",
+              "translation": "这个小女孩喜欢画画，所以她把大部分空闲时间都花在画画上，甚至她在绘画比赛中赢得了很多奖项。",
+              "analysis": "① 第一个空：“喜欢画画”是“花时间”的原因，表结果用so；② 第二个空：“花时间”和“获奖”是递进关系，且程度更深，用even；③ 逻辑类型：因果+递进；④ 解题关键：even体现“出乎意料的递进”，比what's more语气更强。"
+            },
+            {
+              "sentence": "I didn't go to bed until 12 o'clock last night, s____ I felt very sleepy in class this morning, a____ my teacher asked me to stand up to keep awake.",
+              "translation": "我昨晚直到12点才睡觉，所以今天早上上课很困，因此老师让我站起来保持清醒。",
+              "analysis": "① 第一个空：“熬夜”是“犯困”的原因，表结果用so；② 第二个空：“犯困”是“被要求站着”的原因，表结果用as a result；③ 逻辑类型：因果+因果；④ 解题关键：so是连词直接连接句子，as a result是短语，需用逗号隔开。"
+            },
+            {
+              "sentence": "E____ he failed the math exam twice, he didn't lose heart, i____ he asked his teacher for help and practiced more exercises every day.",
+              "translation": "尽管他数学考试两次不及格，但他没有灰心，反而他向老师求助，每天做更多的练习题。",
+              "analysis": "① 第一个空：“两次不及格”和“不灰心”语义相反，表让步用Even though；② 第二个空：“不灰心”和“求助练习”是反向的积极行为，用instead；③ 逻辑类型：让步+转折；④ 解题关键：even though比although语气更强，instead表“反而”体现反向逻辑。"
+            },
+            {
+              "sentence": "Reading is good for our mind, b____ it can help us gain knowledge, b____ it can also improve our writing skills and communication ability.",
+              "translation": "阅读对我们的大脑有益，因为它能帮助我们获取知识，而且它还能提高我们的写作能力和沟通能力。",
+              "analysis": "① 第一个空：“有益”的原因是“获取知识”，表原因用because；② 第二个空：“获取知识”和“提高能力”是递进关系，用not only...but also...中的but also（此处省略not only，前文已提阅读的好处）；③ 逻辑类型：因果+递进；④ 解题关键：because表直接原因，递进词体现阅读的多重好处。"
+            },
+            {
+              "sentence": "You must finish your homework first, t____ you can watch TV for half an hour, o____ you can play computer games for a short time.",
+              "translation": "你必须先完成作业，然后你可以看半小时电视，或者你可以玩一小会儿电脑游戏。",
+              "analysis": "① 第一个空：“完成作业”和“看电视”是顺承关系，用then（并列/顺承）；② 第二个空：“看电视”和“玩游戏”是选择关系，用or；③ 逻辑类型：顺承+并列（选择）；④ 解题关键：then体现动作的先后顺序，or表选择需匹配上下文的“二选一”逻辑。"
+            },
+            {
+              "sentence": "The old man has no children, s____ he lives alone in the small village, b____ many kind neighbors often help him with his daily life.",
+              "translation": "这位老人没有孩子，所以他独自住在小村庄里，但许多善良的邻居经常帮他打理日常生活。",
+              "analysis": "① 第一个空：“没孩子”是“独居”的原因，表结果用so；② 第二个空：“独居”和“邻居帮忙”语义相反，用but；③ 逻辑类型：因果+转折；④ 解题关键：先因后果，再转折体现“独居但不孤单”的逻辑。"
+            },
+            {
+              "sentence": "I____ you don't understand the meaning of the word, you can look it up in the dictionary, o____ you can ask your teacher or classmates for help.",
+              "translation": "如果你不理解这个单词的意思，你可以查字典，或者你可以向老师或同学求助。",
+              "analysis": "① 第一个空：“不理解”是“查字典”的条件，用if；② 第二个空：“查字典”和“求助”是选择关系，用or；③ 逻辑类型：条件+并列（选择）；④ 解题关键：if引导条件从句，or表两种解决办法的选择。"
+            },
+            {
+              "sentence": "He is good at playing the piano, s____ he practices it for two hours every day, e____ he has performed in many big concerts around the country.",
+              "translation": "他擅长弹钢琴，因为他每天练习两小时，甚至他还在全国许多大型音乐会中演出过。",
+              "analysis": "① 第一个空：“擅长”的原因是“每天练习”，表原因用since；② 第二个空：“每天练习”和“全国演出”是递进关系，用even；③ 逻辑类型：因果+递进；④ 解题关键：since表“显而易见的原因”，even体现“超出预期的递进”。"
+            },
+            {
+              "sentence": "A____ the traffic was very heavy, we arrived at the airport on time, f____ we took the subway instead of driving a car.",
+              "translation": "尽管交通非常拥堵，但我们还是准时到达了机场，因为我们坐了地铁而不是开车。",
+              "analysis": "① 第一个空：“交通拥堵”和“准时到达”语义相反，表让步用Although；② 第二个空：“准时到达”的原因是“坐地铁”，表原因用for（补充说明原因，放句中）；③ 逻辑类型：让步+因果；④ 解题关键：for作为因果连词，只能放句中补充原因，不能放句首。"
+            },
+            {
+              "sentence": "Learning a foreign language is not easy, b____ it requires a lot of time and effort, b____ if you stick to it, you will make great progress sooner or later.",
+              "translation": "学习一门外语并不容易，因为它需要大量的时间和精力，但如果你坚持下去，你迟早会取得很大的进步。",
+              "analysis": "① 第一个空：“不容易”的原因是“耗时间精力”，表原因用because；② 第二个空：“不容易”和“坚持就进步”语义相反，用but；③ 逻辑类型：因果+转折+条件；④ 解题关键：先解释原因，再转折体现“困难但有希望”的逻辑。"
+            },
+            {
+              "sentence": "The park is very beautiful in spring, a____ there are many kinds of flowers blooming everywhere, t____ it is a popular place for people to take photos and have picnics.",
+              "translation": "这个公园春天很美，因为到处都盛开着各种各样的花，所以它是人们拍照和野餐的热门地方。",
+              "analysis": "① 第一个空：“美”的原因是“花开”，表原因用as；② 第二个空：“美”是“热门”的原因，表结果用thus；③ 逻辑类型：因果+因果；④ 解题关键：as表原因语气比because弱，thus是副词，需用逗号隔开。"
+            },
+            {
+              "sentence": "A____ you have any problems with your study, please tell me at any time, b____ I will try my best to help you solve them.",
+              "translation": "只要你在学习上有任何问题，请随时告诉我，而且我会尽力帮你解决。",
+              "analysis": "① 第一个空：“有问题”是“告诉我”的条件，且语气肯定，用as long as；② 第二个空：“告诉我”和“帮忙解决”是递进关系，用besides；③ 逻辑类型：条件+递进；④ 解题关键：as long as表“只要”，比if更强调条件的必要性，besides表“此外”体现递进。"
+            },
+            {
+              "sentence": "She forgot to bring her umbrella this morning, s____ she got wet in the rain on her way to school, a____ she had a bad cold and had to ask for a day off.",
+              "translation": "她今天早上忘了带伞，所以她上学路上淋雨了，结果她得了重感冒，不得不请假一天。",
+              "analysis": "① 第一个空：“忘带伞”是“淋雨”的原因，表结果用so；② 第二个空：“淋雨”是“感冒请假”的结果，用as a result；③ 逻辑类型：因果+因果；④ 解题关键：so直接连接句子，as a result需用逗号隔开，体现“连锁反应”的因果逻辑。"
+            },
+            {
+              "sentence": "T____ he is only ten years old, he can cook simple meals by himself, e____ he can even clean the house and wash his own clothes.",
+              "translation": "虽然他只有十岁，但他能自己做简单的饭菜，甚至他还能打扫房子、洗自己的衣服。",
+              "analysis": "① 第一个空：“十岁”和“会做饭”语义相反，表让步用Though；② 第二个空：“做饭”和“打扫洗衣”是递进关系，用even；③ 逻辑类型：让步+递进；④ 解题关键：though可放句首，even体现“超出年龄的能力”的递进。"
+            }
+          ],
+          "exercises": [
+            {
+              "question": "I had planned to go to the cinema with my friends last night, ___ I had to stay at home to look after my sick mother, ___ I missed the interesting movie I was looking forward to.",
+              "options": {"A": "but; so", "B": "and; because", "C": "however; but"},
+              "answer": "A",
+              "explanation": "① 第一个空：前半句“计划看电影”，后半句“留家照顾妈妈”，语义相反，用转折连词but（however是副词，需加逗号，此处无逗号，排除C）；② 第二个空：“留家”是“错过电影”的原因，表结果用so；③ 逻辑类型：转折+因果；④ 避坑点：区分but（连词）和however（副词）的用法，且so表结果匹配“留家→错过电影”的逻辑。"
+            },
+            {
+              "question": "___ the COVID-19 pandemic is still spreading in some countries, people all over the world are working together to fight against it, ___ we believe it will be controlled soon.",
+              "options": {"A": "Because; so", "B": "Although; and", "C": "Though; so"},
+              "answer": "B",
+              "explanation": "① 第一个空：“疫情传播”和“全球抗疫”语义相反，表让步用Although/Though（because表原因，不符合逻辑，排除A）；② 第二个空：“全球抗疫”和“相信会控制”是顺承/并列关系，用and；③ 逻辑类型：让步+并列；④ 避坑点：although/though不能和so连用（排除C），and体现“抗疫→有信心”的顺承逻辑。"
+            },
+            {
+              "question": "You will not be allowed to enter the exam room ___ you show your student ID card, ___ the teacher has the right to ask you to leave immediately.",
+              "options": {"A": "if; and", "B": "unless; or", "C": "as long as; but"},
+              "answer": "B",
+              "explanation": "① 第一个空：“不让进”的条件是“不出示学生证”，unless=if not，符合逻辑（if表“如果出示”，as long as表“只要出示”，均与句意相反，排除A/C）；② 第二个空：“不让进”和“被要求离开”是选择/反向结果，用or（否则）；③ 逻辑类型：条件+并列（选择）；④ 避坑点：unless的否定逻辑，or表“否则”匹配上下文的警告语气。"
+            },
+            {
+              "question": "The little boy is very shy, ___ he never speaks in public, ___ he can sing and dance very well when he is with his family.",
+              "options": {"A": "so; but", "B": "because; and", "C": "and; however"},
+              "answer": "A",
+              "explanation": "① 第一个空：“害羞”是“不在公共场合说话”的原因，表结果用so；② 第二个空：“不说话”和“和家人相处时能唱能跳”语义相反，用but（however是副词，需加逗号，此处无逗号，排除C）；③ 逻辑类型：因果+转折；④ 避坑点：区分but（连词）和however（副词）的位置，so表“害羞→不说话”的因果逻辑。"
+            },
+            {
+              "question": "___ he has made great progress in his English study, he still keeps reading English novels every day, ___ he wants to improve his reading speed and comprehension.",
+              "options": {"A": "Even though; because", "B": "Because; so", "C": "If; though"},
+              "answer": "A",
+              "explanation": "① 第一个空：“进步大”和“仍坚持读小说”语义相反，表让步用Even though（because表原因，if表条件，均不符合，排除B/C）；② 第二个空：“坚持读”的原因是“想提高速度和理解能力”，表原因用because；③ 逻辑类型：让步+因果；④ 避坑点：even though比though语气更强，体现“尽管进步仍努力”的逻辑，且because表直接原因。"
+            },
+            {
+              "question": "It was raining heavily outside, ___ we had to cancel the sports meeting, ___ all the students were very disappointed about it.",
+              "options": {"A": "but; so", "B": "so; and", "C": "because; but"},
+              "answer": "B",
+              "explanation": "① 第一个空：“大雨”是“取消运动会”的原因，表结果用so（but表转折，because表原因，均不符合，排除A/C）；② 第二个空：“取消运动会”和“学生失望”是顺承关系，用and；③ 逻辑类型：因果+并列；④ 避坑点：so表“大雨→取消运动会”的因果，and体现“取消→失望”的顺承。"
+            },
+            {
+              "question": "___ you practice speaking English every day, your oral English will not improve quickly, ___ it is a language that needs constant practice.",
+              "options": {"A": "Unless; because", "B": "If; so", "C": "As long as; for"},
+              "answer": "A",
+              "explanation": "① 第一个空：“口语进步慢”的条件是“不每天练习”，unless=if not，符合逻辑（if表“如果练习”，as long as表“只要练习”，均与句意相反，排除B/C）；② 第二个空：“需要持续练习”是“不练习就进步慢”的原因，表原因用because；③ 逻辑类型：条件+因果；④ 避坑点：unless的否定逻辑，because表“进步慢”的核心原因。"
+            },
+            {
+              "question": "She is not good at math, ___ she is very hard-working, ___ she asks the teacher for help every time she has a problem.",
+              "options": {"A": "but; and", "B": "so; but", "C": "because; so"},
+              "answer": "A",
+              "explanation": "① 第一个空：“数学不好”和“努力”语义相反，用but（so表结果，because表原因，均不符合，排除B/C）；② 第二个空：“努力”和“求助老师”是顺承关系，用and；③ 逻辑类型：转折+并列；④ 避坑点：because和so不能连用（排除C），but体现“基础差但努力”的转折，and体现“努力→求助”的顺承。"
+            },
+            {
+              "question": "The book is very interesting, ___ I have read it three times, ___ I want to recommend it to all my classmates.",
+              "options": {"A": "because; so", "B": "so; and", "C": "though; but"},
+              "answer": "B",
+              "explanation": "① 第一个空：“有趣”是“读三遍”的原因，表结果用so（because表原因，though表让步，均不符合，排除A/C）；② 第二个空：“读三遍”和“推荐同学”是顺承关系，用and；③ 逻辑类型：因果+并列；④ 避坑点：because和so不能连用（排除A），though和but不能连用（排除C），so体现“有趣→反复读”的因果。"
+            },
+            {
+              "question": "___ the trip was very tiring, we all had a good time, ___ we saw many beautiful scenery and made new friends during the trip.",
+              "options": {"A": "Although; because", "B": "Because; so", "C": "If; and"},
+              "answer": "A",
+              "explanation": "① 第一个空：“累”和“玩得开心”语义相反，表让步用Although（because表原因，if表条件，均不符合，排除B/C）；② 第二个空：“看美景、交朋友”是“玩得开心”的原因，表原因用because；③ 逻辑类型：让步+因果；④ 避坑点：although表“累但开心”的转折，because解释“开心”的具体原因。"
+            },
+            {
+              "question": "He didn't prepare for the exam at all, ___ he failed it again, ___ he realized that he should study hard from then on.",
+              "options": {"A": "but; so", "B": "so; and", "C": "because; but"},
+              "answer": "B",
+              "explanation": "① 第一个空：“没准备”是“不及格”的原因，表结果用so（but表转折，because表原因，均不符合，排除A/C）；② 第二个空：“不及格”和“意识到要努力”是顺承关系，用and；③ 逻辑类型：因果+并列；④ 避坑点：so体现“没准备→不及格”的因果，and体现“不及格→醒悟”的顺承。"
+            },
+            {
+              "question": "___ you want to get good grades in the final exam, you should make a detailed study plan, ___ you should stick to it strictly every day.",
+              "options": {"A": "If; and", "B": "Unless; but", "C": "Though; so"},
+              "answer": "A",
+              "explanation": "① 第一个空：“想考好”是“制定计划”的条件，用If（unless表“不想考好”，though表让步，均不符合，排除B/C）；② 第二个空：“制定计划”和“严格执行”是并列/顺承关系，用and；③ 逻辑类型：条件+并列；④ 避坑点：if引导条件从句，and体现“制定计划→执行计划”的递进顺承。"
+            },
+            {
+              "question": "The computer is very expensive, ___ it works very well, ___ many people still can't afford to buy it.",
+              "options": {"A": "and; but", "B": "but; so", "C": "because; and"},
+              "answer": "A",
+              "explanation": "① 第一个空：“贵”和“好用”是并列关系，用and（but表转折，because表原因，均不符合，排除B/C）；② 第二个空：“好用”和“买不起”语义相反，用but；③ 逻辑类型：并列+转折；④ 避坑点：and体现“贵但好用”的并列，but体现“好用但买不起”的转折。"
+            },
+            {
+              "question": "___ he is a new student in our class, he has made many friends quickly, ___ he is very friendly and helpful to everyone.",
+              "options": {"A": "Though; because", "B": "Because; so", "C": "If; though"},
+              "answer": "A",
+              "explanation": "① 第一个空：“新生”和“快速交朋友”语义相反，表让步用Though（because表原因，if表条件，均不符合，排除B/C）；② 第二个空：“友好乐于助人”是“快速交朋友”的原因，表原因用because；③ 逻辑类型：让步+因果；④ 避坑点：though表“新生但受欢迎”的转折，because解释“受欢迎”的原因。"
+            },
+            {
+              "question": "We should save water every day, ___ water is very important to human beings, ___ there is less and less fresh water on the earth.",
+              "options": {"A": "but; so", "B": "because; and", "C": "so; because"},
+              "answer": "B",
+              "explanation": "① 第一个空：“重要”是“节约用水”的原因，表原因用because（but表转折，so表结果，均不符合，排除A/C）；② 第二个空：“重要”和“淡水减少”是并列关系，用and；③ 逻辑类型：因果+并列；④ 避坑点：because解释“节约用水”的核心原因，and体现“重要+短缺”的双重原因。"
+            },
+            {
+              "question": "The movie was so boring that many people left the cinema early, ___ I stayed until the end, ___ I wanted to know the final result of the story.",
+              "options": {"A": "but; because", "B": "so; and", "C": "and; so"},
+              "answer": "A",
+              "explanation": "① 第一个空：“很多人提前走”和“我看到最后”语义相反，用but（so表结果，and表并列，均不符合，排除B/C）；② 第二个空：“想知道结局”是“看到最后”的原因，表原因用because；③ 逻辑类型：转折+因果；④ 避坑点：but体现“别人走我留”的转折，because解释“留下”的原因。"
+            },
+            {
+              "question": "___ you finish your homework before 7 o'clock, you can play outside for an hour, ___ you have to continue doing your homework until 9 o'clock.",
+              "options": {"A": "If; or", "B": "Unless; and", "C": "As long as; but"},
+              "answer": "A",
+              "explanation": "① 第一个空：“7点前完成作业”是“出去玩”的条件，用If（unless表“完不成”，as long as表“只要完成”，但后半句是反向结果，排除B/C）；② 第二个空：“出去玩”和“继续写作业”是选择关系，用or（否则）；③ 逻辑类型：条件+并列（选择）；④ 避坑点：if引导条件从句，or表“否则”体现“完成→玩，完不成→继续写”的逻辑。"
+            },
+            {
+              "question": "She likes to listen to music when she is sad, ___ music can make her feel relaxed, ___ it can also help her forget the unhappy things.",
+              "options": {"A": "because; and", "B": "so; but", "C": "but; because"},
+              "answer": "A",
+              "explanation": "① 第一个空：“放松”是“难过时听音乐”的原因，表原因用because（so表结果，but表转折，均不符合，排除B/C）；② 第二个空：“放松”和“忘记不开心”是并列/递进关系，用and；③ 逻辑类型：因果+并列；④ 避坑点：because解释“听音乐”的原因，and体现音乐的双重作用。"
+            },
+            {
+              "question": "The road was covered with snow, ___ it was very slippery, ___ many cars got stuck on the road this morning.",
+              "options": {"A": "and; so", "B": "but; because", "C": "so; and"},
+              "answer": "A",
+              "explanation": "① 第一个空：“积雪”和“滑”是并列关系，用and（but表转折，so表结果，均不符合，排除B/C）；② 第二个空：“滑”是“车被困”的原因，表结果用so；③ 逻辑类型：并列+因果；④ 避坑点：and体现“积雪→滑”的并列，so体现“滑→车被困”的因果。"
+            },
+            {
+              "question": "___ he has a lot of work to do every day, he still finds time to exercise for half an hour, ___ exercise is good for his health.",
+              "options": {"A": "Because; so", "B": "Though; because", "C": "If; and"},
+              "answer": "B",
+              "explanation": "① 第一个空：“工作多”和“抽时间锻炼”语义相反，表让步用Though（because表原因，if表条件，均不符合，排除A/C）；② 第二个空：“有益健康”是“锻炼”的原因，表原因用because；③ 逻辑类型：让步+因果；④ 避坑点：though表“忙但锻炼”的转折，because解释“锻炼”的原因。"
+            },
+            {
+              "question": "I lost my wallet on my way to school this morning, ___ I had no money to buy breakfast, ___ one of my classmates lent me some money to help me out.",
+              "options": {"A": "so; but", "B": "but; so", "C": "because; and"},
+              "answer": "A",
+              "explanation": "① 第一个空：“丢钱包”是“没钱买早饭”的原因，表结果用so（but表转折，because表原因，均不符合，排除B/C）；② 第二个空：“没钱买早饭”和“同学借钱”语义相反，用but；③ 逻辑类型：因果+转折；④ 避坑点：so体现“丢钱包→没钱”的因果，but体现“没钱但得到帮助”的转折。"
+            },
+            {
+              "question": "___ you don't keep the promise you made to your parents, they will be very disappointed, ___ you should think carefully before you make a promise.",
+              "options": {"A": "If; so", "B": "Unless; and", "C": "Though; but"},
+              "answer": "A",
+              "explanation": "① 第一个空：“不遵守承诺”是“父母失望”的条件，用If（unless表“遵守承诺”，though表让步，均不符合，排除B/C）；② 第二个空：“父母失望”是“承诺前要深思”的原因，表结果用so；③ 逻辑类型：条件+因果；④ 避坑点：if引导条件从句，so体现“不遵守承诺→失望→要深思”的逻辑。"
+            },
+            {
+              "question": "The little girl can play several musical instruments, ___ she is only six years old, ___ she started learning to play the piano when she was three.",
+              "options": {"A": "and; because", "B": "but; and", "C": "though; because"},
+              "answer": "C",
+              "explanation": "① 第一个空：“会多种乐器”和“六岁”语义相反，表让步用though（and表并列，but表转折但语气弱，排除A/B）；② 第二个空：“三岁学钢琴”是“会多种乐器”的原因，表原因用because；③ 逻辑类型：让步+因果；④ 避坑点：though体现“年龄小但能力强”的转折，because解释“能力强”的原因。"
+            },
+            {
+              "question": "We need to plant more trees in our city, ___ trees can absorb carbon dioxide, ___ they can also make the air fresher and cleaner.",
+              "options": {"A": "because; and", "B": "so; but", "C": "but; because"},
+              "answer": "A",
+              "explanation": "① 第一个空：“吸收二氧化碳”是“种树”的原因，表原因用because（so表结果，but表转折，均不符合，排除B/C）；② 第二个空：“吸收二氧化碳”和“净化空气”是并列关系，用and；③ 逻辑类型：因果+并列；④ 避坑点：because解释“种树”的环保原因，and体现树木的双重环保作用。"
+            },
+            {
+              "question": "The exam was much harder than we expected, ___ most of the students didn't pass it, ___ our teacher decided to give us a second chance to take it.",
+              "options": {"A": "but; so", "B": "so; and", "C": "because; but"},
+              "answer": "B",
+              "explanation": "① 第一个空：“考试难”是“没通过”的原因，表结果用so（but表转折，because表原因，均不符合，排除A/C）；② 第二个空：“没通过”和“给第二次机会”是顺承关系，用and；③ 逻辑类型：因果+并列；④ 避坑点：so体现“难→没通过”的因果，and体现“没通过→给机会”的顺承。"
+            },
+            {
+              "question": "___ it was very hot yesterday, we still went to the park to have a picnic, ___ we brought a lot of water and ice cream to keep cool.",
+              "options": {"A": "Although; because", "B": "Because; so", "C": "If; and"},
+              "answer": "A",
+              "explanation": "① 第一个空：“热”和“去野餐”语义相反，表让步用Although（because表原因，if表条件，均不符合，排除B/C）；② 第二个空：“带水和冰淇淋”是“去野餐”的原因（防暑），表原因用because；③ 逻辑类型：让步+因果；④ 避坑点：although表“热但去野餐”的转折，because解释“去野餐”的防暑准备。"
+            },
+            {
+              "question": "He is always late for school, ___ he never gets up early in the morning, ___ his parents have talked to him many times but it doesn't work.",
+              "options": {"A": "because; and", "B": "so; but", "C": "but; because"},
+              "answer": "A",
+              "explanation": "① 第一个空：“不起早”是“迟到”的原因，表原因用because（so表结果，but表转折，均不符合，排除B/C）；② 第二个空：“不起早”和“父母谈话没用”是顺承关系，用and；③ 逻辑类型：因果+并列；④ 避坑点：because解释“迟到”的核心原因，and体现“迟到→父母干预但无效”的顺承。"
+            },
+            {
+              "question": "___ you read more English articles, your reading ability will improve a lot, ___ you can also learn many new words and expressions at the same time.",
+              "options": {"A": "If; and", "B": "Unless; so", "C": "Though; but"},
+              "answer": "A",
+              "explanation": "① 第一个空：“多读文章”是“阅读能力提升”的条件，用If（unless表“不读”，though表让步，均不符合，排除B/C）；② 第二个空：“能力提升”和“学新单词”是并列/递进关系，用and；③ 逻辑类型：条件+并列；④ 避坑点：if引导条件从句，and体现“多读→能力+词汇”的双重收获。"
+            },
+            {
+              "question": "The park is a good place to relax on weekends, ___ it is quiet and beautiful, ___ it is close to our neighborhood so it's convenient to go there.",
+              "options": {"A": "and; because", "B": "because; and", "C": "but; so"},
+              "answer": "B",
+              "explanation": "① 第一个空：“安静美丽”是“放松的好地方”的原因，表原因用because（and表并列，but表转折，均不符合，排除A/C）；② 第二个空：“安静美丽”和“近便”是并列关系，用and；③ 逻辑类型：因果+并列；④ 避坑点：because解释“公园适合放松”的首要原因，and补充次要原因（近便）。"
+            },
+            {
+              "question": "I didn't buy that dress in the shop yesterday, ___ it was too expensive, ___ I didn't like its color very much.",
+              "options": {"A": "because; and", "B": "so; but", "C": "but; because"},
+              "answer": "A",
+              "explanation": "① 第一个空：“贵”是“没买”的原因，表原因用because（so表结果，but表转折，均不符合，排除B/C）；② 第二个空：“贵”和“不喜欢颜色”是并列的原因，用and；③ 逻辑类型：因果+并列；④ 避坑点：because解释“没买”的主要原因，and补充次要原因（颜色）。"
+            },
+            {
+              "question": "___ the teacher explained the grammar rule very carefully, some students still didn't understand it, ___ the teacher had to explain it again for them.",
+              "options": {"A": "Because; so", "B": "Though; so", "C": "Although; and"},
+              "answer": "B",
+              "explanation": "① 第一个空：“仔细讲解”和“没听懂”语义相反，表让步用Though/Although（because表原因，不符合，排除A）；② 第二个空：“没听懂”是“再讲一遍”的原因，表结果用so；③ 逻辑类型：让步+因果；④ 避坑点：although/though可与so连用（区别于but），so体现“没听懂→再讲解”的因果逻辑。"
+            },
+            {
+              "question": "The cat likes to sleep in the sun, ___ it is warm and comfortable, ___ it can also keep away from the cold in winter.",
+              "options": {"A": "because; and", "B": "so; but", "C": "and; because"},
+              "answer": "A",
+              "explanation": "① 第一个空：“温暖舒适”是“猫喜欢晒太阳”的原因，表原因用because（so表结果，and表并列，均不符合，排除B/C）；② 第二个空：“温暖”和“避寒”是并列关系，用and；③ 逻辑类型：因果+并列；④ 避坑点：because解释“猫晒太阳”的核心原因，and补充冬季避寒的原因。"
+            },
+            {
+              "question": "You should take an umbrella with you when you go out, ___ the weather forecast says it will rain this afternoon, ___ it often rains suddenly in summer.",
+              "options": {"A": "because; and", "B": "so; but", "C": "but; because"},
+              "answer": "A",
+              "explanation": "① 第一个空：“天气预报说下雨”是“带伞”的原因，表原因用because（so表结果，but表转折，均不符合，排除B/C）；② 第二个空：“天气预报”和“夏天多雨”是并列的原因，用and；③ 逻辑类型：因果+并列；④ 避坑点：because解释“带伞”的直接原因，and补充夏季多雨的背景原因。"
+            },
+            {
+              "question": "___ he failed in the competition, he didn't feel sad at all, ___ he thought he had learned a lot from the experience.",
+              "options": {"A": "Though; because", "B": "Because; so", "C": "If; and"},
+              "answer": "A",
+              "explanation": "① 第一个空：“失败”和“不难过”语义相反，表让步用Though（because表原因，if表条件，均不符合，排除B/C）；② 第二个空：“学到东西”是“不难过”的原因，表原因用because；③ 逻辑类型：让步+因果；④ 避坑点：though表“失败但不难过”的转折，because解释“不难过”的积极心态原因。"
+            },
+            {
+              "question": "The library is open from 8 a.m. to 6 p.m. every day, ___ it is closed on weekends, ___ we can't borrow books on Saturday and Sunday.",
+              "options": {"A": "but; so", "B": "and; but", "C": "so; because"},
+              "answer": "A",
+              "explanation": "① 第一个空：“每天开放”和“周末闭馆”语义相反，用but（and表并列，so表结果，均不符合，排除B/C）；② 第二个空：“周末闭馆”是“不能借书”的原因，表结果用so；③ 逻辑类型：转折+因果；④ 避坑点：but体现“日常开放但周末闭馆”的转折，so体现“闭馆→不能借书”的因果。"
+            },
+            {
+              "question": "___ you want to learn to swim well, you should practice every day, ___ you should ask a professional coach to teach you skills.",
+              "options": {"A": "If; and", "B": "Unless; so", "C": "Though; but"},
+              "answer": "A",
+              "explanation": "① 第一个空：“想学好游泳”是“每天练习”的条件，用If（unless表“不想学好”，though表让步，均不符合，排除B/C）；② 第二个空：“每天练习”和“找教练”是并列的学习方法，用and；③ 逻辑类型：条件+并列；④ 避坑点：if引导条件从句，and体现“练习+找教练”的双重学习方法。"
+            },
+            {
+              "question": "The mobile phone is very useful in our daily life, ___ we can use it to communicate with others, ___ we can also use it to shop, study and play games.",
+              "options": {"A": "because; and", "B": "so; but", "C": "but; because"},
+              "answer": "A",
+              "explanation": "① 第一个空：“能沟通”是“手机有用”的原因，表原因用because（so表结果，but表转折，均不符合，排除B/C）；② 第二个空：“沟通”和“购物、学习、玩游戏”是并列的功能，用and；③ 逻辑类型：因果+并列；④ 避坑点：because解释“手机有用”的核心功能，and补充其他功能。"
+            },
+            {
+              "question": "He ran as fast as he could to catch the bus, ___ he still missed it, ___ the bus left two minutes earlier than usual.",
+              "options": {"A": "but; because", "B": "so; and", "C": "and; so"},
+              "answer": "A",
+              "explanation": "① 第一个空：“拼命跑”和“没赶上”语义相反，用but（so表结果，and表并列，均不符合，排除B/C）；② 第二个空：“早发车两分钟”是“没赶上”的原因，表原因用because；③ 逻辑类型：转折+因果；④ 避坑点：but体现“努力但没赶上”的转折，because解释“没赶上”的客观原因。"
+            }
+          ]
+        },
+        {
+          "id": "cloze_vocabulary_repetition_3",
+          "title": "3-中考完形填空核心解析（词汇复现意识）",
+          "content": "### 词汇复现的核心定义\n中考完形填空中的“词汇复现”不是简单的单词重复，而是**命题人通过原词、同义词/近义词、上下义词等形式，在文章不同位置重复出现核心词汇**，以此搭建上下文逻辑关联，是完形填空解题的“黄金技巧”——找到复现词汇，就能快速锁定答案，也是学生提分的关键突破口。\n\n### 词汇复现的三大类型（万能识别方法）\n#### 类型1：原词复现（最直观）\n原词复现是指同一个单词（原形/变形，如名词单复数、动词时态变化）在文章中重复出现，直接提示答案。\n- 特点：看得见、找得到，只要定位上下文就能匹配；\n- 例子：前文出现“happy”，后文空格处语境一致，选项中出现“happy”即为答案；\n- 注意：需关注词性变形，如前文“child”，后文可能复现“children”。\n\n#### 类型2：同义词/近义词复现（最常考）\n同义词/近义词复现是指意思相同或相近的不同单词复现，是完形填空的核心考点，需要积累常见近义词对。\n- 核心近义词对（中考高频）：\n  ✅ 高兴：happy → glad / pleased / delighted\n  ✅ 悲伤：sad → upset / unhappy / sorrowful\n  ✅ 重要：important → vital / essential / significant\n  ✅ 困难：difficult → hard / tough / challenging\n  ✅ 喜欢：like → love / enjoy / be fond of\n  ✅ 帮助：help → assist / aid / support\n  ✅ 成功：succeed → achieve success / make it\n  ✅ 改变：change → alter / transform / vary\n- 技巧：先理解空格语境，再找上下文意思相近的词，匹配选项。\n\n#### 类型3：上下义词复现（易错点）\n上下义词复现是指“大类词+小类词”的复现，上文出现大类词（如food），下文出现小类词（如bread/rice）；或上文小类词，下文大类词。\n- 高频上下义词对：\n  ✅ 大类：transport（交通）→ 小类：bus / train / bike / plane\n  ✅ 大类：fruit（水果）→ 小类：apple / banana / orange / grape\n  ✅ 大类：emotion（情绪）→ 小类：joy / anger / fear / sadness\n  ✅ 大类：furniture（家具）→ 小类：table / chair / bed / sofa\n- 注意：需判断“大类-小类”逻辑，避免只看表面单词。\n\n### 词汇复现解题步骤（中考专用）\n1. **读首句，定主旨**：完形填空首句通常不设空，先读首句把握文章主题，预判核心词汇；\n2. **划语境，找线索**：分析空格前后的句意，圈出核心关键词（如情绪、动作、事物）；\n3. **扫上下文，找复现**：向前/向后扫读3-5句话，找原词、同义词/近义词、上下义词；\n4. **匹配选项，验逻辑**：将复现词汇与选项对比，排除无关项，验证逻辑是否通顺；\n5. **查变形，防陷阱**：注意单词变形（时态、单复数、词性），避免因忽略变形选错。\n\n### 词汇复现避坑指南\n1. 不要只盯空格所在句，复现词汇可能在距离空格较远的上下文；\n2. 近义词复现需注意语境匹配，如“hard”表“困难”时对应“difficult”，表“努力”时对应“work hard”；\n3. 上下义词复现要区分“大类-小类”，如前文提“animal”，后文空格不能选“book”（无关类）；\n4. 原词复现可能有词性变化，如前文“teach”，后文可能复现“teacher/taught”；\n5. 多个复现线索时，优先匹配与主旨相关的词汇。\n\n### 中考高频完形填空词汇复现场景\n#### 场景1：情感类复现（最常考）\n前文：“When I failed the exam, I felt so sad and didn't want to talk to anyone.”\n空格：“My mother noticed my ___ and sat down to comfort me.”\n复现：sad → upset（近义词），答案选upset。\n\n#### 场景2：动作类复现\n前文：“He always helps his classmates with their homework after school.”\n空格：“His kindness and ___ make him popular in the class.”\n复现：helps → support（近义词），答案选support。\n\n#### 场景3：事物类原词复现\n前文：“The old man has a small garden with many beautiful flowers.”\n空格：“Every morning, he waters the ___ and talks to them gently.”\n复现：flowers（原词），答案选flowers。\n\n#### 场景4：上下义词复现\n前文：“We need to buy some fruit for the party tomorrow.”\n空格：“Let's get some ___ and bananas from the supermarket.”\n复现：fruit（大类）→ apple（小类），答案选apple。\n\n#### 场景5：抽象概念复现\n前文：“Success is not easy to get, but it comes to those who work hard.”\n空格：“After years of hard work, she finally achieved her ___ and became a doctor.”\n复现：Success → success（原词）/ achievement（近义词），答案选success。",
+          "examples": [
+            {
+              "sentence": "When I first came to the new school, I felt lonely and afraid. I didn't know anyone and thought I would never make friends. But my teacher, Ms. Li, noticed my u____ and tried her best to help me. She introduced me to other students and encouraged me to join the school club. Soon, I made many friends and the t____ feeling disappeared completely.",
+              "translation": "当我第一次来到这所新学校时，我感到孤独又害怕。我不认识任何人，觉得自己永远交不到朋友。但我的老师李老师注意到了我的这种情绪，并尽全力帮助我。她把我介绍给其他同学，鼓励我加入学校社团。很快，我交到了很多朋友，这种糟糕的感觉彻底消失了。",
+              "analysis": "① 第一个空格：前文核心词“lonely and afraid”（孤独且害怕），属于“负面情绪”，空格处需填近义词复现，如“unhappiness”/“sadness”/“fear”；② 第二个空格：前文“lonely and afraid”是负面感觉，空格处需填近义词复现，如“terrible”/“unpleasant”；③ 复现类型：近义词复现（lonely/afraid → unhappiness/terrible）；④ 解题关键：先圈出前文负面情绪关键词，再匹配选项中近义词。"
+            },
+            {
+              "sentence": "In our daily life, we use different kinds of transport to go out. Some people take the s____ to work because it's fast and convenient. Others ride a b____ to school because it's cheap and good for health. No matter what kind of t____ we choose, we should follow the traffic rules.",
+              "translation": "在我们的日常生活中，我们使用不同种类的交通工具出行。有些人乘地铁上班，因为它快捷又方便。另一些人骑自行车上学，因为它便宜又有益健康。无论我们选择哪种交通工具，都应该遵守交通规则。",
+              "analysis": "① 第一个空格：前文“transport”（交通，大类词），空格处需填小类词，如“subway”/“train”/“bus”；② 第二个空格：前文“transport”，空格处需填小类词，如“bike”/“bicycle”；③ 第三个空格：前文“different kinds of transport”（原词复现），空格处填“transport”；④ 复现类型：上下义词复现（transport → subway/bike）+ 原词复现（transport）；⑤ 解题关键：区分“大类-小类”逻辑，匹配对应范畴的词汇。"
+            },
+            {
+              "sentence": "Reading is a good habit that can make us wise. When I was a child, my mother often read s____ to me before bedtime. Now, I still keep the habit of reading b____ every day. I believe that r____ can open up a whole new world for us.",
+              "translation": "阅读是一种能让我们变得明智的好习惯。当我还是个孩子的时候，妈妈经常在睡前给我读故事。现在，我仍然保持每天读书的习惯。我相信阅读能为我们打开一个全新的世界。",
+              "analysis": "① 第一个空格：前文“Reading”（阅读，大类），空格处填小类词，如“stories”/“books”；② 第二个空格：前文“Reading”，空格处填原词变形/近义词，如“books”/“novels”；③ 第三个空格：前文“Reading”（原词复现），空格处填“reading”；④ 复现类型：上下义词复现（Reading → stories/books）+ 原词复现（Reading）；⑤ 解题关键：把握“阅读”核心主题，匹配相关小类词/原词。"
+            },
+            {
+              "sentence": "It's important to keep healthy. We should eat more vegetables and fruit, and do exercise every day. If we don't take care of our health, we may feel s____ and have to go to see a d____. Taking care of our health is the most i____ thing in our life.",
+              "translation": "保持健康很重要。我们应该多吃蔬菜和水果，每天锻炼身体。如果我们不照顾好自己的健康，可能会感到不舒服，不得不去看医生。照顾好我们的健康是生活中最重要的事。",
+              "analysis": "① 第一个空格：前文“keep healthy”（保持健康），反向复现（不健康），填近义词“sick”/“unwell”/“ill”；② 第二个空格：前文“don't take care of our health”，对应小类词“doctor”/“doctor's”；③ 第三个空格：前文“important”（原词复现），填“important”/近义词“vital”；④ 复现类型：反义词复现（healthy → sick）+ 上下义词复现（health → doctor）+ 原词/近义词复现（important → vital）；⑤ 解题关键：反向推导“健康”的对立面，匹配对应词汇。"
+            },
+            {
+              "sentence": "When I lost my way in the forest, I felt scared and hopeless. I walked for hours but couldn't find the way out. Just when I was about to give up, I heard a f____ voice calling my name. It was my father! His w____ words made me calm down, and he helped me find the way home. That day, I learned that hope is the most powerful p____ in difficult times.",
+              "translation": "当我在森林里迷路时，我感到害怕又绝望。我走了几个小时，却找不到出路。就在我快要放弃的时候，我听到一个熟悉的声音喊我的名字。是爸爸！他温暖的话语让我平静下来，他帮我找到了回家的路。那天，我明白了希望是困境中最强大的力量。",
+              "analysis": "① 第一个空格：后文“it was my father”，空格处填近义词“familiar”/“warm”；② 第二个空格：前文“scared and hopeless”，反向复现，填近义词“comforting”/“warm”/“encouraging”；③ 第三个空格：前文“hope”（原词复现），填“power”/“hope”；④ 复现类型：近义词复现（father → familiar/warm；scared → comforting）+ 原词复现（hope）；⑤ 解题关键：结合后文线索，匹配情感类近义词。"
+            },
+            {
+              "sentence": "The environment is very important to us. We should protect the e____ around us. We can plant more trees, save water and stop polluting the e____. Everyone's small action can make a big difference to the e____.",
+              "translation": "环境对我们非常重要。我们应该保护我们周围的环境。我们可以多种树、节约用水、停止污染环境。每个人的小小行动都能对环境产生很大的影响。",
+              "analysis": "① 第一个空格：前文“environment”（原词复现），填“environment”；② 第二个空格：前文“environment”，填近义词“earth”/“nature”/“environment”；③ 第三个空格：前文“environment”（原词复现），填“environment”；④ 复现类型：原词复现+近义词复现（environment → earth/nature）；⑤ 解题关键：锁定“环境”核心词，匹配原词/近义词。"
+            },
+            {
+              "sentence": "Learning a foreign language is a long journey. At first, I found it difficult to remember new words and speak English fluently. But I didn't give up. I practiced speaking E____ every day and read English a____ for half an hour. After one year of hard work, I finally became good at E____.",
+              "translation": "学习一门外语是一段漫长的旅程。起初，我发现记新单词和流利地说英语很难。但我没有放弃。我每天练习说英语，读英语文章半小时。经过一年的努力，我终于擅长英语了。",
+              "analysis": "① 第一个空格：前文“speak English”（原词复现），填“English”；② 第二个空格：前文“Learning a foreign language（English）”，填小类词“articles”/“books”/“stories”；③ 第三个空格：前文“English”（原词复现），填“English”/“speaking English”；④ 复现类型：原词复现（English）+ 上下义词复现（English → articles/books）；⑤ 解题关键：抓住“学习英语”核心主题，匹配原词/相关小类词。"
+            },
+            {
+              "sentence": "Friendship is one of the most precious things in life. A true friend will always be there for you when you are in trouble. When I failed the exam, my best friend Lily didn't laugh at me. Instead, she gave me a lot of e____ and told me to keep trying. Her s____ made me feel warm and I knew I had a true f____.",
+              "translation": "友谊是人生中最珍贵的东西之一。真正的朋友会在你遇到困难时永远陪伴你。当我考试不及格时，我最好的朋友莉莉没有嘲笑我。相反，她给了我很多鼓励，告诉我要继续努力。她的支持让我感到温暖，我知道我有一个真正的朋友。",
+              "analysis": "① 第一个空格：后文“told me to keep trying”，填近义词“encouragement”/“support”/“help”；② 第二个空格：前文“encouragement/support”（近义词复现），填“kindness”/“support”/“care”；③ 第三个空格：前文“Friendship”/“best friend”（原词复现），填“friend”；④ 复现类型：近义词复现（encouragement → support）+ 原词复现（friend）；⑤ 解题关键：结合“友谊”主题，匹配情感支持类近义词。"
+            },
+            {
+              "sentence": "Traveling can broaden our horizons. Last summer, I traveled to a small village in the mountains. The a____ there was fresh and the m____ were green. I met many friendly people and tasted delicious local f____. This t____ experience made me love nature more.",
+              "translation": "旅行能开阔我们的视野。去年夏天，我去了山里的一个小村庄旅行。那里的空气很清新，山是绿色的。我遇到了很多友好的人，品尝了美味的当地食物。这次旅行经历让我更爱大自然了。",
+              "analysis": "① 第一个空格：后文“love nature”，填小类词“air”/“environment”；② 第二个空格：前文“small village in the mountains”，填小类词“mountains”/“trees”；③ 第三个空格：“tasted”对应小类词“food”/“dishes”；④ 第四个空格：前文“Traveling”（原词复现），填“travel”/“traveling”；⑤ 复现类型：上下义词复现（nature → air/mountains；taste → food）+ 原词复现（Traveling）；⑥ 解题关键：根据动作/场景匹配对应小类词。"
+            },
+            {
+              "sentence": "Time is precious and we should make good use of it. When we are young, we often waste t____ playing computer games or watching TV. But as we grow up, we realize that t____ is the most valuable thing we have. We should spend our t____ wisely to learn new things and achieve our dreams.",
+              "translation": "时间是宝贵的，我们应该好好利用它。年轻时，我们经常浪费时间玩电脑游戏或看电视。但随着长大，我们意识到时间是我们拥有的最宝贵的东西。我们应该明智地利用时间学习新东西，实现梦想。",
+              "analysis": "① 第一个空格：前文“Time”（原词复现），填“time”；② 第二个空格：前文“Time”（原词复现），填“time”；③ 第三个空格：前文“Time”（原词复现），填“time”；④ 复现类型：原词复现（time）；⑤ 解题关键：锁定“时间”核心词，直接匹配原词（注意：看似简单，实则考查是否能识别重复主题词）。"
+            },
+            {
+              "sentence": "Music is a universal language that can touch people's hearts. When I feel stressed, I listen to soft m____ to relax myself. My favorite t____ is classical music, because it makes me calm and peaceful. Sometimes, I even play the p____ to express my feelings. Music has become an important part of my life.",
+              "translation": "音乐是一种能触动人心的通用语言。当我感到压力大时，我会听轻柔的音乐放松自己。我最喜欢的音乐类型是古典音乐，因为它让我平静祥和。有时，我甚至弹钢琴来表达我的感受。音乐已经成为我生活中重要的一部分。",
+              "analysis": "① 第一个空格：前文“Music”（原词复现），填“music”；② 第二个空格：前文“Music”，填近义词“type of music”/“kind of music”；③ 第三个空格：前文“Music”，填小类词“piano”/“guitar”/“violin”；④ 复现类型：原词复现（music）+ 近义词复现（music → type of music）+ 上下义词复现（music → piano）；⑤ 解题关键：结合“音乐”主题，区分“原词-近义词-小类词”。"
+            },
+            {
+              "sentence": "Education is the key to success. Every child has the right to get a good e____. At school, we learn knowledge and skills that can help us in the future. A good e____ can change a person's life. We should value our e____ and study hard to make our dreams come true.",
+              "translation": "教育是成功的关键。每个孩子都有接受良好教育的权利。在学校，我们学习能帮助我们未来的知识和技能。良好的教育能改变一个人的人生。我们应该珍惜我们的教育机会，努力学习实现梦想。",
+              "analysis": "① 第一个空格：前文“Education”（原词复现），填“education”；② 第二个空格：前文“Education”（原词复现），填“education”；③ 第三个空格：前文“Education”，填近义词“educational opportunities”/“schooling”；④ 复现类型：原词复现（education）+ 近义词复现（education → educational opportunities）；⑤ 解题关键：识别“教育”核心主题，匹配原词/近义词。"
+            },
+            {
+              "sentence": "Animals are our friends and we should protect them. Many wild a____ are in danger because of human activities, such as cutting down forests and hunting. We should stop hurting these a____ and create a safe home for them. Protecting wild a____ is protecting ourselves.",
+              "translation": "动物是我们的朋友，我们应该保护它们。许多野生动物因为人类活动（如砍伐森林和捕猎）而处于危险之中。我们应该停止伤害这些动物，为它们创造一个安全的家园。保护野生动物就是保护我们自己。",
+              "analysis": "① 第一个空格：前文“Animals”，填上下义词“animals”/“creatures”（wild animals固定搭配）；② 第二个空格：前文“wild animals”（原词复现），填“animals”；③ 第三个空格：前文“wild animals”（原词复现），填“animals”；④ 复现类型：原词复现（animals）+ 上下义词复现（Animals → wild animals）；⑤ 解题关键：锁定“动物”核心词，注意“wild animals”固定搭配。"
+            },
+            {
+              "sentence": "Happiness is around us if we know how to find it. When we help others, we will feel a sense of h____. When we spend time with our family, we feel warm and h____. Small things in life can bring us great h____.",
+              "translation": "如果我们知道如何寻找，幸福就在我们身边。当我们帮助别人时，我们会感到一种幸福感。当我们和家人共度时光时，我们感到温暖又快乐。生活中的小事能给我们带来巨大的幸福。",
+              "analysis": "① 第一个空格：前文“Happiness”，填近义词“happiness”/“joy”/“pleasure”；② 第二个空格：前文“Happiness”，填近义词“happy”/“joyful”/“content”；③ 第三个空格：前文“Happiness”（原词复现），填“happiness”/“joy”；④ 复现类型：近义词复现（Happiness → joy/happy）+ 原词复现（Happiness）；⑤ 解题关键：区分“happiness（名词）”和“happy（形容词）”的词性变形，匹配对应形式。"
+            },
+            {
+              "sentence": "Technology is changing our life quickly. With the development of t____, we can communicate with people far away easily through mobile phones and computers. New t____ makes our work more efficient and our life more convenient. We should learn to use t____ properly to improve our life.",
+              "translation": "科技正在快速改变我们的生活。随着科技的发展，我们可以通过手机和电脑轻松与远方的人交流。新的科技让我们的工作更高效，生活更便捷。我们应该学会正确使用科技来改善生活。",
+              "analysis": "① 第一个空格：前文“Technology”（原词复现），填“technology”；② 第二个空格：前文“Technology”（原词复现），填“technology”/“technologies”；③ 第三个空格：前文“Technology”（原词复现），填“technology”；④ 复现类型：原词复现（technology）+ 单复数变形（technology → technologies）；⑤ 解题关键：注意名词单复数变形，匹配上下文语法。"
+            },
+            {
+              "sentence": "Sports are good for our physical and mental health. I like playing b____ because it can make me strong and energetic. Every weekend, I play b____ with my friends in the park. Doing s____ regularly can help us keep fit and reduce stress.",
+              "translation": "运动对我们的身心健康有益。我喜欢打篮球，因为它能让我强壮又有活力。每个周末，我都和朋友在公园打篮球。定期做运动能帮助我们保持健康，减轻压力。",
+              "analysis": "① 第一个空格：前文“Sports”，填小类词“basketball”/“football”/“tennis”；② 第二个空格：前文“basketball”（原词复现），填“basketball”；③ 第三个空格：前文“Sports”（原词复现），填“sports”/“exercise”；④ 复现类型：上下义词复现（Sports → basketball）+ 原词复现（basketball/sports）；⑤ 解题关键：根据“play”搭配，匹配具体运动项目，再回指原词。"
+            },
+            {
+              "sentence": "Dreams are what make us keep moving forward. When I was a child, my d____ was to be a scientist. I worked hard to achieve my d____. Even though I faced many difficulties, I never gave up my d____. Finally, I got into a famous university and was closer to my d____.",
+              "translation": "梦想是让我们不断前进的动力。小时候，我的梦想是成为一名科学家。我努力工作去实现我的梦想。尽管我面临很多困难，我从未放弃我的梦想。最后，我考上了一所名牌大学，离我的梦想更近了。",
+              "analysis": "① 第一个空格：前文“Dreams”（原词复现），填“dream”；② 第二个空格：前文“dream”（原词复现），填“dream”；③ 第三个空格：前文“dream”（原词复现），填“dream”；④ 第四个空格：前文“dream”（原词复现），填“dream”；⑤ 复现类型：原词复现（dream）；⑥ 解题关键：识别重复出现的核心词，注意单复数（前文Dreams是复数，空格处根据语境用单数dream）。"
+            },
+            {
+              "sentence": "Food is necessary for our life. We need to eat different kinds of f____ to get enough nutrition. For breakfast, I usually have milk and bread, which are simple but nutritious f____. Eating healthy f____ can help us stay away from illness.",
+              "translation": "食物是我们生活的必需品。我们需要吃不同种类的食物来获取足够的营养。早餐我通常喝牛奶、吃面包，这些都是简单但有营养的食物。吃健康的食物能帮助我们远离疾病。",
+              "analysis": "① 第一个空格：前文“Food”（原词复现），填“food”；② 第二个空格：前文“milk and bread”（小类词），填大类词“food”；③ 第三个空格：前文“Food”（原词复现），填“food”；④ 复现类型：原词复现（food）+ 上下义词复现（milk/bread → food）；⑤ 解题关键：区分“大类-小类”，注意“food”不可数的用法。"
+            },
+            {
+              "sentence": "Courage is the ability to face fear and difficulty. When I had to give a speech in front of the whole school, I lacked c____ and wanted to run away. But my teacher encouraged me to find my c____ and try my best. With her help, I found the c____ to stand on the stage and finished the speech successfully.",
+              "translation": "勇气是面对恐惧和困难的能力。当我不得不在全校面前演讲时，我缺乏勇气，想要逃跑。但我的老师鼓励我找到勇气，尽力而为。在她的帮助下，我找到了站在舞台上的勇气，并成功完成了演讲。",
+              "analysis": "① 第一个空格：前文“Courage”（原词复现），填“courage”；② 第二个空格：前文“Courage”（原词复现），填“courage”；③ 第三个空格：前文“Courage”（原词复现），填“courage”；④ 复现类型：原词复现（courage）；⑤ 解题关键：锁定“勇气”核心词，注意“courage”不可数的用法。"
+            },
+            {
+              "sentence": "Books are our best teachers. Reading b____ can help us learn about the world and gain knowledge. My favorite b____ are history books, because they tell me stories of the past. I believe that b____ can make us wise and enrichen our life.",
+              "translation": "书籍是我们最好的老师。读书能帮助我们了解世界，获取知识。我最喜欢的书是历史书，因为它们告诉我过去的故事。我相信书籍能让我们变得明智，丰富我们的生活。",
+              "analysis": "① 第一个空格：前文“Books”，填上下义词“books”/“reading”；② 第二个空格：前文“Books”（原词复现），填“books”；③ 第三个空格：前文“Books”（原词复现），填“books”；④ 复现类型：原词复现（books）+ 上下义词复现（Books → reading）；⑤ 解题关键：结合“读书”场景，匹配“books”原词/相关表达。"
+            }
+          ],
+          "exercises": [
+            {
+              "question": "When I moved to a new city, I felt very lonely. I missed my old friends and the familiar ___ of my hometown. Every day after school, I would walk alone in the park, feeling ___ and empty. One day, I met a girl who was also new here. She noticed my ___ and talked to me kindly. Soon, we became good friends and my ___ feeling disappeared. Now, I love this city and have many happy memories here.",
+              "options": {"A": "smell; sad; unhappiness; terrible", "B": "sound; angry; joy; bad", "C": "taste; excited; sadness; happy"},
+              "answer": "A",
+              "explanation": "① 第一个空：前文“hometown”（家乡），“familiar smell”（熟悉的味道）符合语境，原词复现逻辑（家乡的味道是核心线索）；② 第二个空：前文“lonely”（孤独），近义词复现“sad”（悲伤的），排除angry（生气）/excited（兴奋）；③ 第三个空：前文“lonely/sad”，近义词复现“unhappiness”（不开心），排除joy（快乐）；④ 第四个空：前文“lonely/sad/empty”，近义词复现“terrible”（糟糕的），排除happy（快乐的）；⑤ 复现类型：近义词复现（lonely → sad/unhappiness/terrible）+ 上下义词复现（hometown → smell）。"
+            },
+            {
+              "question": "In modern society, ___ plays an important role in our daily life. We use ___ to shop online, pay bills and communicate with others. With the development of ___, our life becomes more convenient. However, we should use ___ properly to avoid being cheated online.",
+              "options": {"A": "technology; them; science; it", "B": "technology; it; technology; it", "C": "science; it; technology; them"},
+              "answer": "B",
+              "explanation": "① 第一个空：后文“shop online, pay bills”（网购、付账单）是科技带来的便利，原词复现“technology”（科技），排除science（科学）；② 第二个空：指代前文“technology”（不可数），用“it”，排除them；③ 第三个空：前文“technology”原词复现；④ 第四个空：指代“technology”，用“it”；⑤ 复现类型：原词复现（technology）+ 代词指代复现（it）。"
+            },
+            {
+              "question": "Eating healthy ___ is important for our body. We should eat more fresh ___ and vegetables, and less junk ___. For breakfast, I usually have a glass of milk and some whole-grain ___, which are rich in nutrition. Keeping a balanced diet can help us stay healthy.",
+              "options": {"A": "food; fruit; food; bread", "B": "fruit; food; fruit; rice", "C": "vegetable; food; vegetable; cake"},
+              "answer": "A",
+              "explanation": "① 第一个空：后文“balanced diet”（均衡饮食），原词复现“food”（食物），排除fruit/vegetable（单一类别，不符合“饮食”大类）；② 第二个空：前文“healthy food”，上下义词复现“fruit”（水果，食物的小类）；③ 第三个空：前文“food”原词复现，“junk food”（垃圾食品）固定搭配；④ 第四个空：前文“healthy food/breakfast”，上下义词复现“bread”（面包，早餐的小类），排除cake（蛋糕，非健康食品）；⑤ 复现类型：原词复现（food）+ 上下义词复现（food → fruit/bread）。"
+            },
+            {
+              "question": "Friendship is a precious gift in life. A true friend will offer ___ when you are in trouble. When I lost my wallet, my best friend gave me ___ and helped me find it. His ___ made me realize that a true ___ is someone who cares about you unconditionally.",
+              "options": {"A": "money; support; kindness; friend", "B": "help; money; care; friendship", "C": "support; help; love; friend"},
+              "answer": "C",
+              "explanation": "① 第一个空：前文“Friendship”（友谊），近义词复现“support”（支持）/help（帮助），排除money（金钱，片面）；② 第二个空：前文“support/help”，近义词复现“help”，排除money（金钱不是核心，友谊的核心是帮助）；③ 第三个空：前文“help/support”，近义词复现“love”（关爱），符合友谊的情感；④ 第四个空：前文“Friendship/a true friend”，原词复现“friend”，排除friendship（友谊，词性不符）；⑤ 复现类型：近义词复现（Friendship → support/help/love）+ 原词复现（friend）。"
+            },
+            {
+              "question": "To protect the environment, we should reduce the use of plastic ___. We can use cloth ___ instead of plastic ones when shopping. Also, we should recycle waste ___ to reduce pollution. Protecting the earth is our duty, and small actions can make a big difference to our ___.",
+              "options": {"A": "bags; bags; things; world", "B": "bottles; boxes; plastic; earth", "C": "products; bags; plastic; earth"},
+              "answer": "C",
+              "explanation": "① 第一个空：前文“environment”（环境），“plastic products”（塑料制品）是大类，涵盖bags/bottles，更符合语境；② 第二个空：“cloth bags”（布袋）固定搭配，对应前文“plastic bags”（塑料袋），近义词复现（bags）；③ 第三个空：前文“plastic products”，原词复现“plastic”（塑料）；④ 第四个空：前文“protect the environment/earth”，原词复现“earth”（地球），排除world（世界，范围过大）；⑤ 复现类型：上下义词复现（plastic products → bags）+ 原词复现（plastic/earth）。"
+            },
+            {
+              "question": "Time is the most valuable thing we have. We should not waste ___ on meaningless things. When we are young, we often take ___ for granted, but as we grow up, we realize that ___ waits for no one. We should make full use of every minute of ___ to achieve our goals.",
+              "options": {"A": "time; it; time; time", "B": "money; time; money; it", "C": "energy; it; energy; time"},
+              "answer": "A",
+              "explanation": "① 第一个空：前文“Time”（时间），原词复现“time”，排除money/energy；② 第二个空：指代前文“time”，用“it”；③ 第三个空：前文“Time”原词复现，“time waits for no one”（时不我待）固定表达；④ 第四个空：前文“time/every minute”，原词复现“time”；⑤ 复现类型：原词复现（time）+ 代词指代复现（it）。"
+            },
+            {
+              "question": "Music can bring ___ to our life. When I feel stressed, I listen to soft ___ to relax. My favorite kind of ___ is folk music, which is full of local culture. Playing a musical ___ like the guitar can also make me feel happy and relaxed.",
+              "options": {"A": "sadness; sound; music; tool", "B": "happiness; music; music; instrument", "C": "anger; song; song; toy"},
+              "answer": "B",
+              "explanation": "① 第一个空：后文“relax/happy”，近义词复现“happiness”（快乐），排除sadness/anger；② 第二个空：前文“Music”，原词复现“music”，排除sound/song（片面）；③ 第三个空：前文“Music”原词复现；④ 第四个空：前文“Music”，上下义词复现“instrument”（乐器），“musical instrument”（乐器）固定搭配，排除tool/toy；⑤ 复现类型：近义词复现（happy → happiness）+ 原词复现（music）+ 上下义词复现（Music → instrument）。"
+            },
+            {
+              "question": "Traveling is a great way to relax and learn. Last year, I traveled to a coastal city. The ___ there was blue and clear, and the ___ were soft and white. I tried many kinds of local ___ and met friendly people. This ___ experience made me want to travel more in the future.",
+              "options": {"A": "sea; sand; food; travel", "B": "river; stone; fruit; trip", "C": "lake; grass; drink; journey"},
+              "answer": "A",
+              "explanation": "① 第一个空：前文“coastal city”（沿海城市），上下义词复现“sea”（大海），排除river/lake（河流/湖泊，非沿海特征）；② 第二个空：前文“coastal city/sea”，上下义词复现“sand”（沙子），排除stone/grass；③ 第三个空：“tried”（尝试）对应“local food”（当地食物），上下义词复现；④ 第四个空：前文“Traveling”，原词复现“travel”，trip/journey虽为近义词，但“travel experience”（旅行经历）更常用；⑤ 复现类型：上下义词复现（coastal city → sea/sand/food）+ 原词复现（Traveling → travel）。"
+            },
+            {
+              "question": "Education is the foundation of success. Every child should have the chance to get a good ___. At ___, we learn knowledge and develop skills. A good ___ background can help us find a good job in the future. We should value our ___ and never stop learning.",
+              "options": {"A": "education; school; educational; study", "B": "school; education; school; education", "C": "study; school; study; school"},
+              "answer": "A",
+              "explanation": "① 第一个空：前文“Education”，原词复现“education”，排除school/study（片面）；② 第二个空：前文“get a good education”，上下义词复现“school”（学校，教育的场所）；③ 第三个空：前文“Education”，词性变形复现“educational”（教育的，形容词），“educational background”（教育背景）固定搭配；④ 第四个空：前文“Education/learn knowledge”，近义词复现“study”（学习）；⑤ 复现类型：原词复现（education）+ 上下义词复现（education → school）+ 词性变形复现（education → educational）+ 近义词复现（education → study）。"
+            },
+            {
+              "question": "Animals are an important part of nature. Many wild ___ are facing the danger of extinction. We should take action to protect these ___. Building nature reserves is a good way to provide a safe home for wild ___. Protecting ___ is protecting the balance of nature.",
+              "options": {"A": "plants; animals; creatures; them", "B": "animals; animals; animals; them", "C": "birds; birds; animals; it"},
+              "answer": "B",
+              "explanation": "① 第一个空：前文“Animals”，原词复现“animals”，排除plants/birds（单一类别）；② 第二个空：前文“wild animals”，原词复现“animals”；③ 第三个空：前文“wild animals”，原词复现“animals”；④ 第四个空：指代前文“wild animals”（复数），用“them”，排除it；⑤ 复现类型：原词复现（animals）+ 代词指代复现（them）。"
+            },
+            {
+              "question": "Happiness is a feeling that everyone wants to have. When we help others, we feel a sense of ___. Spending time with family makes us feel warm and ___. Even small things like eating a delicious meal can bring us great ___. We should cherish every moment of ___ in life.",
+              "options": {"A": "joy; happy; happiness; joy", "B": "sadness; sad; joy; happiness", "C": "anger; happy; sadness; joy"},
+              "answer": "A",
+              "explanation": "① 第一个空：前文“Happiness”，近义词复现“joy”（快乐），排除sadness/anger；② 第二个空：前文“Happiness/joy”，近义词复现“happy”（快乐的），排除sad；③ 第三个空：前文“Happiness/joy/happy”，原词复现“happiness”，排除sadness；④ 第四个空：前文“Happiness/joy/happiness”，近义词复现“joy”；⑤ 复现类型：近义词复现（Happiness → joy/happy/joy）+ 原词复现（Happiness → happiness）。"
+            },
+            {
+              "question": "Sports can improve our physical health. I like playing ___ because it can make me strong. Every morning, I run for 30 minutes and play ___ with my brother. Doing ___ every day can help us keep fit. My favorite ___ is swimming, which is good for the heart.",
+              "options": {"A": "football; basketball; sports; sport", "B": "the piano; football; exercise; game", "C": "chess; tennis; sports; activity"},
+              "answer": "A",
+              "explanation": "① 第一个空：前文“Sports”，上下义词复现“football”（足球，运动项目），排除piano/chess（非运动）；② 第二个空：前文“Sports/football”，上下义词复现“basketball”（篮球，运动项目）；③ 第三个空：前文“Sports/football/basketball”，原词复现“sports”，“doing sports”（做运动）固定搭配；④ 第四个空：前文“Sports/football/basketball”，近义词复现“sport”（运动），排除game/activity（片面）；⑤ 复现类型：上下义词复现（Sports → football/basketball）+ 原词复现（sports）+ 近义词复现（Sports → sport）。"
+            },
+            {
+              "question": "Dreams give us motivation to move forward. My biggest ___ is to become a doctor. I study hard every day to realize my ___. Even when I fail exams, I never give up my ___. I believe that with hard work, my ___ will come true one day.",
+              "options": {"A": "hope; dream; wish; hope", "B": "dream; dream; dream; dream", "C": "goal; goal; hope; goal"},
+              "answer": "B",
+              "explanation": "① 第一个空：前文“Dreams”，原词复现“dream”，排除hope/goal（近义词，但核心词是dream）；② 第二个空：前文“dream”，原词复现；③ 第三个空：前文“dream”，原词复现；④ 第四个空：前文“dream”，原词复现；⑤ 复现类型：原词复现（dream）（考查对核心主题词的识别，虽简单但易因忽略复现逻辑选错）。"
+            },
+            {
+              "question": "Books are a treasure of knowledge. Reading ___ can expand our horizons. I have a lot of ___ at home, including storybooks, science books and history ___. My favorite ___ is “To Kill a Mockingbird”, which teaches me a lot about life.",
+              "options": {"A": "books; books; books; book", "B": "newspapers; books; magazines; story", "C": "novels; newspapers; books; novel"},
+              "answer": "A",
+              "explanation": "① 第一个空：前文“Books”，原词复现“books”，排除newspapers/novels（片面）；② 第二个空：前文“Books/reading books”，原词复现“books”；③ 第三个空：前文“books/storybooks/science books”，原词复现“books”；④ 第四个空：前文“Books/books/storybooks”，原词复现“book”（单数，指代某一本书）；⑤ 复现类型：原词复现（books/book）（考查单复数变形复现）。"
+            },
+            {
+              "question": "Courage is needed to face challenges. When I had to climb the mountain, I lacked ___ and wanted to give up. But my father encouraged me to find my ___ and keep going. With his encouragement, I found the ___ to reach the top. This experience taught me that ___ is the key to overcoming difficulties.",
+              "options": {"A": "bravery; courage; strength; brave", "B": "courage; courage; courage; courage", "C": "confidence; brave; courage; confidence"},
+              "answer": "B",
+              "explanation": "① 第一个空：前文“Courage”，原词复现“courage”，排除bravery/confidence（近义词，核心词是courage）；② 第二个空：前文“courage”，原词复现；③ 第三个空：前文“courage”，原词复现；④ 第四个空：前文“courage”，原词复现；⑤ 复现类型：原词复现（courage）（考查对抽象名词复现的识别，注意courage不可数）。"
+            },
+            {
+              "question": "Weather affects our daily life. In summer, the ___ is hot and we often feel thirsty. We need to drink more water and stay in cool ___. When the ___ turns cold in winter, we should wear warm clothes and keep our ___ warm. Paying attention to the ___ can help us plan our activities better.",
+              "options": {"A": "climate; places; weather; body; weather", "B": "weather; rooms; climate; home; climate", "C": "temperature; houses; temperature; hands; temperature"},
+              "answer": "A",
+              "explanation": "① 第一个空：前文“Weather”，近义词复现“climate”（气候），排除temperature（温度，片面）；② 第二个空：前文“hot”，上下义词复现“places”（地方），“cool places”（凉爽的地方）符合语境；③ 第三个空：前文“Weather/climate”，原词复现“weather”；④ 第四个空：前文“wear warm clothes”，上下义词复现“body”（身体），排除home/hands（片面）；⑤ 第五个空：前文“Weather/climate/weather”，原词复现“weather”；⑥ 复现类型：近义词复现（Weather → climate）+ 原词复现（weather）+ 上下义词复现（hot → places；warm clothes → body）。"
+            },
+            {
+              "question": "Family is the warmest place in the world. My ___ always supports me when I am in trouble. We have dinner together every evening and share our feelings with each other. The love from my ___ makes me feel happy and secure. I cherish every moment I spend with my ___, and I know that my ___ is my strongest backing.",
+              "options": {"A": "family; parents; family; family", "B": "parents; family; parents; parents", "C": "friends; family; friends; family"},
+              "answer": "A",
+              "explanation": "① 第一个空：前文“Family”，原词复现“family”，排除friends（非家人）；② 第二个空：前文“family”，上下义词复现“parents”（父母，家人的小类）；③ 第三个空：前文“Family/parents”，原词复现“family”；④ 第四个空：前文“Family/parents/family”，原词复现“family”；⑤ 复现类型：原词复现（family）+ 上下义词复现（family → parents）。"
+            },
+            {
+              "question": "Water is essential for life. We need ___ to drink, cook and clean. Without enough ___, plants and animals cannot survive. We should save ___ every day to protect our earth. Using ___ wisely is everyone's responsibility.",
+              "options": {"A": "water; water; water; it", "B": "milk; water; juice; it", "C": "tea; juice; water; them"},
+              "answer": "A",
+              "explanation": "① 第一个空：前文“Water”，原词复现“water”，排除milk/tea；② 第二个空：前文“water”，原词复现；③ 第三个空：前文“water”，原词复现；④ 第四个空：指代前文“water”（不可数），用“it”，排除them；⑤ 复现类型：原词复现（water）+ 代词指代复现（it）。"
+            },
+            {
+              "question": "Stress is a common problem in modern life. When I feel ___, I usually listen to music or talk to my friends. These ways can help me reduce ___ and feel relaxed. Learning to manage ___ is important for our mental health. If we can control our ___, we can live a happier life.",
+              "options": {"A": "nervous; stress; pressure; emotions", "B": "relaxed; pressure; stress; feelings", "C": "happy; tension; joy; mood"},
+              "answer": "A",
+              "explanation": "① 第一个空：前文“Stress”，近义词复现“nervous”（紧张的），排除relaxed/happy；② 第二个空：前文“Stress/nervous”，近义词复现“stress”（压力），排除tension（虽为近义词，但核心词是stress）；③ 第三个空：前文“Stress/stress”，近义词复现“pressure”（压力）；④ 第四个空：前文“Stress/stress/pressure”，近义词复现“emotions”（情绪），“control emotions”（控制情绪）对应压力管理；⑤ 复现类型：近义词复现（Stress → nervous/stress/pressure/emotions）。"
+            },
+            {
+              "question": "Art is a way to express feelings. I like drawing ___ because it can show my inner thoughts. My favorite ___ form is painting, which uses colors and lines to create beauty. Visiting art ___ is my hobby, and I can learn a lot from famous ___.",
+              "options": {"A": "pictures; art; museums; works", "B": "photos; music; galleries; paintings", "C": "sketches; art; exhibitions; artists"},
+              "answer": "A",
+              "explanation": "① 第一个空：前文“Art/drawing”，上下义词复现“pictures”（图画，绘画的成果），排除photos/sketches（片面）；② 第二个空：前文“Art”，原词复现“art”，排除music（非美术）；③ 第三个空：前文“Art/painting”，上下义词复现“museums”（博物馆，艺术场所），“art museums”（艺术博物馆）固定搭配；④ 第四个空：前文“Art/painting/pictures”，上下义词复现“works”（作品，艺术作品），排除paintings/artists（片面）；⑤ 复现类型：原词复现（art）+ 上下义词复现（Art → pictures/museums/works）。"
+            },
+            {
+              "question": "Traffic safety is everyone's responsibility. We should follow the ___ rules when walking or driving. Crossing the road at the ___ light is dangerous, and we must wait for the green ___. Drivers should drive slowly and pay attention to the ___ signs on the road. Obeying ___ rules can prevent accidents.",
+              "options": {"A": "traffic; red; light; traffic; traffic", "B": "road; green; signal; road; road", "C": "safety; yellow; light; safety; safety"},
+              "answer": "A",
+              "explanation": "① 第一个空：前文“Traffic safety”，原词复现“traffic”，“traffic rules”（交通规则）固定搭配；② 第二个空：后文“dangerous/wait for green”，反义词复现“red”（红灯），排除green/yellow；③ 第三个空：前文“red light”，原词复现“light”，“green light”（绿灯）固定搭配；④ 第四个空：前文“traffic rules”，原词复现“traffic”，“traffic signs”（交通标志）固定搭配；⑤ 第五个空：前文“traffic rules”，原词复现“traffic”；⑥ 复现类型：原词复现（traffic/light）+ 反义词复现（green → red）。"
+            },
+            {
+              "question": "Sleep is important for our health. We need enough ___ to let our body rest. Adults should get 7-8 hours of ___ every night, while children need more ___. Poor ___ can lead to tiredness and poor concentration. Getting enough ___ is the key to staying healthy.",
+              "options": {"A": "rest; sleep; sleep; sleep; rest", "B": "sleep; sleep; sleep; sleep; sleep", "C": "energy; rest; sleep; rest; energy"},
+              "answer": "B",
+              "explanation": "① 第一个空：前文“Sleep”，原词复现“sleep”，排除rest/energy；② 第二个空：前文“sleep”，原词复现；③ 第三个空：前文“sleep”，原词复现；④ 第四个空：前文“sleep”，原词复现；⑤ 第五个空：前文“sleep”，原词复现；⑥ 复现类型：原词复现（sleep）（考查对核心主题词的持续识别，易因过度联想近义词而选错）。"
+            },
+            {
+              "question": "Language is a tool for communication. English is an international ___ that is used all over the world. Learning a foreign ___ can help us communicate with people from different countries. I practice speaking ___ every day to improve my oral ___. Mastering a foreign ___ can open up more opportunities for us.",
+              "options": {"A": "language; language; English; English; language", "B": "tongue; language; it; skill; tongue", "C": "skill; tongue; English; language; skill"},
+              "answer": "A",
+              "explanation": "① 第一个空：前文“Language”，原词复现“language”，排除tongue/skill；② 第二个空：前文“language/English”，原词复现“language”；③ 第三个空：前文“English”，原词复现“English”；④ 第四个空：前文“speaking English”，原词复现“English”，“oral English”（英语口语）固定搭配；⑤ 第五个空：前文“Language/language/English”，原词复现“language”；⑥ 复现类型：原词复现（language/English）+ 固定搭配复现（oral English）。"
+            },
+            {
+              "question": "Money is a necessary part of life, but it is not everything. We need ___ to buy food, clothes and houses. However, we should not chase ___ blindly. True happiness does not come from how much ___ we have, but from the love and friendship around us. Using ___ wisely can make our life better, but we should not let ___ control our life.",
+              "options": {"A": "money; wealth; money; it; it", "B": "wealth; money; wealth; them; them", "C": "cash; cash; money; it; money"},
+              "answer": "A",
+              "explanation": "① 第一个空：前文“Money”，原词复现“money”，排除wealth/cash（近义词，核心词是money）；② 第二个空：前文“money”，近义词复现“wealth”（财富）；③ 第三个空：前文“money/wealth”，原词复现“money”；④ 第四个空：指代前文“money”（不可数），用“it”，排除them；⑤ 第五个空：指代前文“money”，用“it”；⑥ 复现类型：原词复现（money）+ 近义词复现（money → wealth）+ 代词指代复现（it）。"
+            },
+            {
+              "question": "Nature is full of beauty. We can enjoy the beauty of ___ by walking in the forest, climbing mountains or sitting by the lake. The fresh air, green trees and colorful flowers are all part of ___. Protecting ___ is protecting our home. We should respect ___ and live in harmony with ___.",
+              "options": {"A": "nature; nature; nature; it; it", "B": "the world; earth; nature; them; them", "C": "environment; nature; earth; it; nature"},
+              "answer": "A",
+              "explanation": "① 第一个空：前文“Nature”，原词复现“nature”，排除world/environment；② 第二个空：前文“nature/fresh air/green trees”，原词复现“nature”；③ 第三个空：前文“nature”，原词复现；④ 第四个空：指代前文“nature”（不可数），用“it”，排除them；⑤ 第五个空：指代前文“nature”，用“it”；⑥ 复现类型：原词复现（nature）+ 代词指代复现（it）。"
+            },
+            {
+              "question": "Memory is a precious gift. We keep happy ___ in our mind and cherish them forever. When I look at old photos, I recall the sweet ___ of my childhood. Sharing my happy ___ with my family makes me feel warm. These beautiful ___ are the most valuable part of my life.",
+              "options": {"A": "memories; memories; memories; memories", "B": "moments; times; memories; moments", "C": "experiences; memories; moments; experiences"},
+              "answer": "A",
+              "explanation": "① 第一个空：前文“Memory”，词性变形复现“memories”（记忆，复数），排除moments/experiences；② 第二个空：前文“memories/childhood”，原词复现“memories”；③ 第三个空：前文“memories”，原词复现；④ 第四个空：前文“memories”，原词复现；⑤ 复现类型：词性变形复现（Memory → memories）+ 原词复现（memories）。"
+            },
+            {
+              "question": "Patience is the key to success. Learning a new skill requires ___ and hard work. When I learn to play the piano, I need to practice every day with ___. Even when I make mistakes, I keep practicing with ___. I believe that with enough ___, I can play the piano well one day.",
+              "options": {"A": "patience; patience; patience; patience", "B": "effort; patience; effort; effort", "C": "time; effort; patience; time"},
+              "answer": "A",
+              "explanation": "① 第一个空：前文“Patience”，原词复现“patience”，排除effort/time；② 第二个空：前文“patience”，原词复现；③ 第三个空：前文“patience”，原词复现；④ 第四个空：前文“patience”，原词复现；⑤ 复现类型：原词复现（patience）（考查对抽象名词复现的识别，易因忽略主题词而选effort/time）。"
+            },
+            {
+              "question": "Holiday is a time to relax and enjoy life. During the summer ___, I usually travel with my family. We visit different places and experience different cultures during the ___. My favorite ___ is the Spring Festival, when all family members get together. Spending time with family during ___ is the happiest thing for me.",
+              "options": {"A": "holiday; vacation; festival; holidays", "B": "vacation; holiday; holiday; festival", "C": "festival; festival; vacation; holidays"},
+              "answer": "A",
+              "explanation": "① 第一个空：前文“Holiday”，近义词复现“holiday”/“vacation”，“summer holiday”（暑假）固定搭配；② 第二个空：前文“summer holiday/travel”，近义词复现“vacation”（假期）；③ 第三个空：后文“Spring Festival”，近义词复现“festival”（节日，假期的小类）；④ 第四个空：前文“Holiday/holiday/vacation/festival”，原词复现“holidays”（复数）；⑤ 复现类型：近义词复现（Holiday → holiday/vacation/festival）+ 原词复现（holidays）+ 上下义词复现（holiday → festival）。"
+            },
+            {
+              "question": "Health is more important than wealth. Keeping ___ is the most important thing in life. We should do exercise every day to maintain ___. Eating healthy food and getting enough sleep are good for our ___. If we lose our ___, we will lose everything, so we should value our ___ above all.",
+              "options": {"A": "fit; health; health; health; health", "B": "healthy; fit; health; fitness; health", "C": "health; healthy; fit; health; fitness"},
+              "answer": "B",
+              "explanation": "① 第一个空：前文“Health”，词性变形复现“healthy”（健康的，形容词），“keeping healthy”（保持健康）固定搭配；② 第二个空：前文“healthy”，近义词复现“fit”（健康的），“maintain fit”（保持健康）；③ 第三个空：前文“Health/healthy/fit”，原词复现“health”（名词）；④ 第四个空：前文“health”，近义词复现“fitness”（健康状况）；⑤ 第五个空：前文“Health/healthy/fit/health/fitness”，原词复现“health”；⑥ 复现类型：词性变形复现（Health → healthy）+ 近义词复现（Health → fit/fitness）+ 原词复现（health）。"
+            },
+            {
+              "question": "Internet has changed the way we live and work. We use the ___ to search for information, watch videos and chat with friends. Working on the ___ has become common, and many people work from home via the ___. However, we should not spend too much time on the ___ to avoid eye problems.",
+              "options": {"A": "computer; internet; internet; screen", "B": "internet; internet; internet; internet", "C": "phone; computer; internet; phone"},
+              "answer": "B",
+              "explanation": "① 第一个空：前文“Internet”，原词复现“internet”，排除computer/phone（工具，非核心）；② 第二个空：前文“internet”，原词复现；③ 第三个空：前文“internet”，原词复现；④ 第四个空：前文“internet”，原词复现；⑤ 复现类型：原词复现（internet）（考查对核心主题词的识别，易因混淆“工具（computer/phone）”和“核心（internet）”而选错）。"
+            },
+            {
+              "question": "Kindness is a virtue that everyone should have. Being ___ to others can make the world a better place. When we show ___ to people in need, we can make them feel warm and loved. Small acts of ___ can bring great joy to others. We should always keep a ___ heart and help others as much as possible.",
+              "options": {"A": "kind; kindness; kindness; kind", "B": "friendly; love; kindness; warm", "C": "polite; care; love; kind"},
+              "answer": "A",
+              "explanation": "① 第一个空：前文“Kindness”，词性变形复现“kind”（善良的，形容词），“being kind to others”（对他人善良）固定搭配；② 第二个空：前文“Kindness/kind”，原词复现“kindness”（名词）；③ 第三个空：前文“kindness”，原词复现；④ 第四个空：前文“Kindness/kind/kindness/kindness”，词性变形复现“kind”（形容词），“kind heart”（善良的心）；⑤ 复现类型：词性变形复现（Kindness → kind）+ 原词复现（kindness）。"
+            },
+            {
+              "question": "Success is the result of hard work and persistence. Achieving ___ requires effort and dedication. When I finally achieved my ___, I felt proud and happy. My ___ is to become a successful writer, and I will keep working hard to reach my ___. I believe that everyone can achieve their ___ with hard work.",
+              "options": {"A": "goal; goal; dream; success; dreams", "B": "success; goal; dream; goal; goals", "C": "success; success; goal; goal; success"},
+              "answer": "C",
+              "explanation": "① 第一个空：前文“Success”，原词复现“success”，排除goal；② 第二个空：前文“success”，原词复现；③ 第三个空：前文“success/achieve success”，近义词复现“goal”（目标）；④ 第四个空：前文“goal”，原词复现；⑤ 第五个空：前文“Success/success/goal/goal”，原词复现“success”；⑥ 复现类型：原词复现（success/goal）+ 近义词复现（success → goal）。"
+            },
+            {
+              "question": "Noise can affect our mood and health. Too much ___ can make us feel stressed and anxious. We should avoid making loud ___ in public places to respect others. Living in a quiet environment without much ___ is good for our mental health. Reducing ___ pollution can improve our quality of life.",
+              "options": {"A": "sound; noise; noise; noise", "B": "noise; noise; noise; noise", "C": "voice; sound; noise; sound"},
+              "answer": "B",
+              "explanation": "① 第一个空：前文“Noise”，原词复现“noise”，排除sound/voice（sound泛指声音，voice指嗓音，核心词是noise）；② 第二个空：前文“noise”，原词复现，“loud noise”（噪音）固定搭配；③ 第三个空：前文“noise”，原词复现；④ 第四个空：前文“noise”，原词复现，“noise pollution”（噪音污染）固定搭配；⑤ 复现类型：原词复现（noise）+ 固定搭配复现（loud noise/noise pollution）。"
+            },
+            {
+              "question": "Age is just a number, and what matters is the attitude towards life. When I was young, I thought that ___ was a barrier to doing what I liked. But now I realize that ___ does not limit our dreams. My grandmother is 70 years old, but her ___ does not stop her from learning new things. I believe that no matter what ___ we are, we can chase our dreams as long as we have passion.",
+              "options": {"A": "age; age; age; age", "B": "time; age; time; time", "C": "year; year; age; year"},
+              "answer": "A",
+              "explanation": "① 第一个空：前文“Age”，原词复现“age”，排除time/year；② 第二个空：前文“age”，原词复现；③ 第三个空：前文“70 years old/age”，原词复现；④ 第四个空：前文“age/age/age”，原词复现；⑤ 复现类型：原词复现（age）（考查对核心主题词的识别，易因混淆time/year而选错）。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

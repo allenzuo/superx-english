@@ -1,0 +1,552 @@
+{
+  "grammar_topics": [
+    {
+      "id": "complex_sentences",
+      "name": "12-复合句-三大类详细解析",
+      "icon": "square",
+      "color": "#9b59b6",
+      "lessons": [
+        {
+          "id": "complex_sentences_1",
+          "title": "1-宾语从句的用法",
+          "content": "### 宾语从句的核心定义\n宾语从句是**复合句**的核心类型之一，指在句子中作及物动词、介词或某些形容词后的宾语的从句，由“主句+引导词+从句”构成，是初中英语复合句的基础考点，中考单选、完形、语篇填空均高频考查。\n\n### 宾语从句的引导词选择（中考必考）\n引导词的选择核心依据是“从句的性质（陈述句/一般疑问句/特殊疑问句）”，具体分类：\n1. **that**：引导**陈述句**作宾语的从句，无实际含义，只起连接作用，口语/非正式文体中可省略；\n   例：I know (that) he is a student.（我知道他是一名学生）；\n2. **if/whether**：引导**一般疑问句**作宾语的从句，表“是否”，不可省略；\n   区别：whether可与or not连用（whether...or not），if不可；whether可置于介词后，if不可；\n   例：He asks if/whether I like English.（他问我是否喜欢英语）；I don’t care about whether he comes or not.（我不在乎他是否来）；\n3. **特殊疑问词（what/who/which/when/where/why/how）**：引导**特殊疑问句**作宾语的从句，保留疑问词本身含义，不可省略；\n   例：She wants to know where he lives.（她想知道他住在哪里）；He asked how I made the cake.（他问我怎么做的蛋糕）。\n\n### 宾语从句的语序（核心易错点）\n无论原疑问句是何种语序，宾语从句必须用**陈述语序（主语+谓语）**，这是中考最易丢分的点：\n- 错误：He asked where did she go.（助动词did提前，疑问语序）；\n- 正确：He asked where she went.（主语she在前，谓语went在后，陈述语序）；\n- 特殊：What’s wrong?/What’s the matter?作从句时，语序不变（本身已是陈述语序），如：I want to know what’s wrong with you.。\n\n### 宾语从句的时态呼应（中考核心考点）\n从句时态需与主句时态保持逻辑一致，具体规则：\n1. **主句为一般现在时/一般将来时**：从句可根据实际情况用任意时态；\n   例：I know he is reading a book now.（现在进行时）；I will ask if he finished his homework yesterday.（一般过去时）；\n2. **主句为一般过去时**：从句需用“过去的某种时态”（一般过去时/过去进行时/过去完成时/过去将来时）；\n   例：He said (that) he was happy.（一般过去时）；She asked if I had seen the movie.（过去完成时）；\n3. **从句表客观真理/自然规律**：无论主句时态，从句一律用一般现在时；\n   例：The teacher told us (that) the earth goes around the sun.（地球绕太阳转是客观真理，用一般现在时）。\n\n### 宾语从句的特殊用法\n1. **否定转移**：主句主语为第一人称（I/we），谓语为think/believe/suppose/guess等时，否定词not转移至主句，从句仍为肯定；\n   例：I don’t think (that) he is right.（我认为他不对，而非“我认为他不对”）；\n2. **it作形式宾语**：当宾语从句后有补足语时，用it作形式宾语，将从句后置，结构：主语+谓语+it+补足语+that从句；\n   例：I find it important that we learn English well.（我发现学好英语很重要，it代替that从句作形式宾语）。\n\n### 宾语从句的使用禁忌\n1. 引导词if/whether不可与that混用，如：错→I don’t know that if he will come.；对→I don’t know if he will come.；\n2. 从句不可用疑问语序，尤其特殊疑问词引导的从句，需牢记“主语在前，谓语在后”；\n3. 时态呼应中，客观真理不可随主句时态变，如：错→He said the earth went around the sun.；对→He said the earth goes around the sun.。",
+          "examples": [
+            {
+              "sentence": "I think that she will pass the exam.",
+              "translation": "我认为她会通过这次考试。",
+              "analysis": "从句是陈述句，用that引导，that无实际含义可省略；主句为一般现在时，从句根据语境用一般将来时，符合时态呼应规则。"
+            },
+            {
+              "sentence": "He asked me whether I had been to Beijing or not.",
+              "translation": "他问我是否去过北京。",
+              "analysis": "从句是一般疑问句，且有or not，只能用whether引导；主句为一般过去时，从句用过去完成时（had been），符合“主过从过”规则。"
+            },
+            {
+              "sentence": "Could you tell me where the nearest hospital is?",
+              "translation": "你能告诉我最近的医院在哪里吗？",
+              "analysis": "从句是特殊疑问句，用where引导；从句用陈述语序（the nearest hospital is），而非“is the nearest hospital”，这是核心易错点。"
+            },
+            {
+              "sentence": "The scientist told us that water boils at 100℃.",
+              "translation": "这位科学家告诉我们水在100摄氏度时沸腾。",
+              "analysis": "从句表客观真理（水的沸点），尽管主句为一般过去时（told），从句仍用一般现在时（boils），符合时态特殊规则。"
+            },
+            {
+              "sentence": "I don’t believe that he lied to me.",
+              "translation": "我相信他没有对我说谎。",
+              "analysis": "主句主语是第一人称I，谓语为believe，否定词not转移至主句，从句仍为肯定，属于“否定转移”特殊用法。"
+            },
+            {
+              "sentence": "She wants to know what we are going to do tomorrow.",
+              "translation": "她想知道我们明天打算做什么。",
+              "analysis": "从句是特殊疑问句，用what引导；主句为一般现在时，从句用将来进行时（are going to do），符合“主现从任意”规则。"
+            },
+            {
+              "sentence": "He said that he was watching TV at 8 last night.",
+              "translation": "他说他昨晚8点正在看电视。",
+              "analysis": "主句为一般过去时（said），从句用过去进行时（was watching），体现“主过从过”，且从句用陈述语序，符合要求。"
+            },
+            {
+              "sentence": "We find it necessary that we practice speaking English every day.",
+              "translation": "我们发现每天练习说英语是有必要的。",
+              "analysis": "it作形式宾语，代替后面的that从句，necessary是宾语补足语，属于“it作形式宾语”的特殊结构，避免句子头重脚轻。"
+            },
+            {
+              "sentence": "I don’t know if he will come to the party this evening.",
+              "translation": "我不知道他今晚是否会来参加派对。",
+              "analysis": "从句是一般疑问句，无or not，用if引导即可；主句为一般现在时，从句用一般将来时，时态呼应正确。"
+            },
+            {
+              "sentence": "She asked me what was wrong with my phone.",
+              "translation": "她问我的手机出了什么问题。",
+              "analysis": "What’s wrong?作从句时，语序无需调整（本身是陈述语序）；主句为一般过去时，从句用was，符合“主过从过”规则。"
+            }
+          ],
+          "exercises": [
+            {
+              "question": "I don’t know ___ he will come to the meeting tomorrow.",
+              "options": {"A": "that", "B": "if", "C": "what"},
+              "answer": "B",
+              "explanation": "从句是一般疑问句（他明天是否来开会），表“是否”用if引导；that引导陈述句，what引导特殊疑问句（需有具体疑问含义），均不符合。"
+            },
+            {
+              "question": "He told me ___ he had finished his homework.",
+              "options": {"A": "that", "B": "if", "C": "where"},
+              "answer": "A",
+              "explanation": "从句是陈述句（他完成了作业），用that引导，that无实际含义可省略；主句为一般过去时，从句用过去完成时，符合时态呼应规则。"
+            },
+            {
+              "question": "Could you tell me ___ the post office is?",
+              "options": {"A": "when", "B": "where", "C": "how many"},
+              "answer": "B",
+              "explanation": "从句是特殊疑问句，询问“邮局在哪里”，用where引导；when表时间，how many表数量，均不符合语境。"
+            },
+            {
+              "question": "I think ___ he is wrong, but I’m not sure.",
+              "options": {"A": "that", "B": "if", "C": "why"},
+              "answer": "A",
+              "explanation": "从句是陈述句（他错了），用that引导；think后接陈述句宾语从句，that可省略，符合引导词选择规则。"
+            },
+            {
+              "question": "She asked me ___ I had seen the film before.",
+              "options": {"A": "that", "B": "whether", "C": "what"},
+              "answer": "B",
+              "explanation": "从句是一般疑问句（我是否看过这部电影），用whether引导；主句为一般过去时，从句用过去完成时，符合“主过从过”。"
+            },
+            {
+              "question": "The teacher told us ___ the moon goes around the earth.",
+              "options": {"A": "that", "B": "if", "C": "when"},
+              "answer": "A",
+              "explanation": "从句是客观真理（月球绕地球转），用that引导；尽管主句为一般过去时（told），从句仍用一般现在时，符合时态特殊规则。"
+            },
+            {
+              "question": "I don’t know ___ he did yesterday afternoon.",
+              "options": {"A": "that", "B": "what", "C": "where"},
+              "answer": "B",
+              "explanation": "从句是特殊疑问句，did后缺宾语，用what引导（他昨天下午做了什么）；where表地点，无法作did的宾语，不符合。"
+            },
+            {
+              "question": "He asked me ___ I could help him with his English.",
+              "options": {"A": "that", "B": "if", "C": "which"},
+              "answer": "B",
+              "explanation": "从句是一般疑问句（我是否能帮他学英语），用if引导；主句为一般过去时，从句用could（can的过去式），符合时态呼应。"
+            },
+            {
+              "question": "We find ___ important to learn English well.",
+              "options": {"A": "that", "B": "it", "C": "this"},
+              "answer": "B",
+              "explanation": "it作形式宾语，代替后面的“to learn English well”（等效于that从句），important是宾语补足语，属于“it作形式宾语”的固定结构。"
+            },
+            {
+              "question": "She said ___ she was going to visit her grandparents next week.",
+              "options": {"A": "that", "B": "if", "C": "how"},
+              "answer": "A",
+              "explanation": "从句是陈述句（她下周要去看望祖父母），用that引导；主句为一般过去时，从句用was going to（过去将来时），符合“主过从过”。"
+            },
+            {
+              "question": "I don’t think ___ he will win the game.",
+              "translation": "",
+              "options": {"A": "that", "B": "if", "C": "why"},
+              "answer": "A",
+              "explanation": "主句主语是第一人称I，谓语为think，否定转移至主句，从句用that引导陈述句，符合“否定转移”用法。"
+            },
+            {
+              "question": "Could you tell me ___ you arrived here this morning?",
+              "options": {"A": "how", "B": "that", "C": "if"},
+              "answer": "A",
+              "explanation": "从句是特殊疑问句，询问“你今早如何到达这里”，用how引导（表方式）；that引导陈述句，if表是否，均不符合。"
+            },
+            {
+              "question": "He told us ___ he had been to Shanghai twice.",
+              "options": {"A": "that", "B": "whether", "C": "when"},
+              "answer": "A",
+              "explanation": "从句是陈述句（他去过上海两次），用that引导；主句为一般过去时，从句用过去完成时，时态呼应正确。"
+            },
+            {
+              "question": "I want to know ___ the sports meeting will be held.",
+              "options": {"A": "that", "B": "when", "C": "what"},
+              "answer": "B",
+              "explanation": "从句是特殊疑问句，询问“运动会何时举办”，用when引导；what不可作held的状语，不符合语境。"
+            },
+            {
+              "question": "She asked me ___ book was mine.",
+              "options": {"A": "that", "B": "which", "C": "if"},
+              "answer": "B",
+              "explanation": "从句是特殊疑问句，询问“哪本书是我的”，用which引导（表“哪一个”）；if表是否，不符合语境。"
+            },
+            {
+              "question": "The doctor said ___ drinking more water is good for health.",
+              "options": {"A": "that", "B": "if", "C": "where"},
+              "answer": "A",
+              "explanation": "从句是陈述句（多喝水有益健康），用that引导；尽管主句为一般过去时（said），从句表客观事实，用一般现在时，符合规则。"
+            },
+            {
+              "question": "I don’t care about ___ he likes me or not.",
+              "options": {"A": "that", "B": "if", "C": "whether"},
+              "answer": "C",
+              "explanation": "从句有or not，表“是否”只能用whether引导；if不可与or not连用，这是if和whether的核心区别。"
+            },
+            {
+              "question": "He asked me ___ I was doing at 9 last night.",
+              "options": {"A": "that", "B": "what", "C": "when"},
+              "answer": "B",
+              "explanation": "从句是特殊疑问句，was doing后缺宾语，用what引导（我昨晚9点在做什么）；when表时间，无法作doing的宾语，不符合。"
+            },
+            {
+              "question": "We believe ___ our team will win the match.",
+              "options": {"A": "that", "B": "if", "C": "how"},
+              "answer": "A",
+              "explanation": "从句是陈述句（我们队会赢比赛），用that引导；believe后接陈述句宾语从句，that可省略，符合用法。"
+            },
+            {
+              "question": "She told me ___ she would not go to the park because of the rain.",
+              "options": {"A": "that", "B": "if", "C": "where"},
+              "answer": "A",
+              "explanation": "从句是陈述句（她因下雨不去公园），用that引导；主句为一般过去时，从句用would（will的过去式），符合“主过从过”。"
+            }
+          ]
+        },
+        {
+          "id": "complex_sentences_2",
+          "title": "2-定语从句的用法",
+          "content": "### 定语从句的核心定义\n定语从句是修饰**名词/代词（先行词）** 的从句，相当于“形容词”的作用，由“先行词+关系词+从句”构成，是初中英语复合句的重点难点，中考单选、完形、阅读理解均高频考查，尤其关系词选择是核心考点。\n\n### 定语从句的核心构成（中考必考）\n1. **先行词**：被定语从句修饰的名词/代词，决定关系词的选择；\n   例：The girl who is singing is my sister.（先行词：the girl）；\n2. **关系词**：连接主句和从句的词，分“关系代词（who/whom/whose/which/that）”和“关系副词（when/where/why）”，需在从句中作成分。\n\n### 关系代词的选择（核心考点，按先行词分类）\n关系代词需根据“先行词的属性（人/物）”和“在从句中的成分（主语/宾语/定语）”选择：\n| 关系代词 | 先行词 | 在从句中作的成分 | 示例 |\n|----------|--------|------------------|------|\n| who      | 人     | 主语/宾语        | The boy who is tall is my brother.（主语）；I know the girl who you met yesterday.（宾语，可省略） |\n| whom     | 人     | 宾语（正式文体） | This is the man whom we talked about.（宾语，可省略，可用who/that替代） |\n| whose    | 人/物  | 定语（表“……的”） | The girl whose hair is black is Lucy.（人的定语）；The house whose window is broken is old.（物的定语） |\n| which    | 物     | 主语/宾语        | The book which is on the desk is mine.（主语）；I like the pen which you gave me.（宾语，可省略） |\n| that     | 人/物  | 主语/宾语        | The teacher that teaches us math is nice.（人，主语）；The bike that I bought is red.（物，宾语，可省略） |\n\n### 关系副词的选择（按先行词分类）\n关系副词修饰表示“时间/地点/原因”的先行词，在从句中作状语，不可省略：\n| 关系副词 | 先行词       | 在从句中作的成分 | 示例 |\n|----------|--------------|------------------|------|\n| when     | 时间（time/day/year等） | 时间状语         | I remember the day when we met first.（先行词day，时间状语） |\n| where    | 地点（place/school/city等） | 地点状语         | This is the park where we had a picnic.（先行词park，地点状语） |\n| why      | reason       | 原因状语         | Tell me the reason why you are late.（先行词reason，原因状语） |\n\n### 定语从句的核心规则（中考易错点）\n#### 规则1：关系词的省略\n- 关系代词作**宾语**时（who/whom/which/that），可省略；\n- 关系代词作**主语**、关系副词（when/where/why）、whose不可省略；\n  例：The book (that) I bought is new.（that作宾语，省略）；The book that is new is mine.（that作主语，不可省略）。\n\n#### 规则2：只能用that的情况（中考高频）\n1. 先行词为all/everything/nothing/something/anything等不定代词时；\n   例：All that he said is true.；\n2. 先行词被the only/the very/the same/the last修饰时；\n   例：This is the only book that I need.；\n3. 先行词被序数词（first/second）、形容词最高级（best/worst）修饰时；\n   例：This is the first gift that my mother gave me.；\n4. 先行词既有人又有物时；\n   例：I remember the people and the things that I saw in the village.；\n5. 主句以who/which开头时（避免重复）；\n   例：Who is the girl that is standing there?。\n\n#### 规则3：只能用which的情况\n1. 非限制性定语从句（用逗号与主句隔开）中；\n   例：The book, which I bought yesterday, is very interesting.；\n2. 关系代词前有介词时；\n   例：This is the room in which I live.（=This is the room where I live.）。\n\n#### 规则4：非限制性定语从句\n- 用逗号与主句隔开，不可用that，关系词不可省略；\n- 修饰整个主句时，用which；\n  例：He won the game, which made us happy.（which指代“他赢比赛”这件事）。\n\n### 定语从句的易混点（中考必考）\n1. **关系代词vs关系副词**：判断核心是“从句是否缺主语/宾语”，缺则用关系代词，不缺则用关系副词；\n   例：This is the place where we live.（live后缺状语，用where）；This is the place that we visited.（visited后缺宾语，用that）；\n2. **whose的替换**：whose+名词 = the+名词+of which（物）/the+名词+of whom（人）；\n   例：The house whose window is broken = The house the window of which is broken.。",
+          "examples": [
+            {
+              "sentence": "The girl who is reading a book is my sister.",
+              "translation": "正在看书的那个女孩是我的妹妹。",
+              "analysis": "先行词the girl（人），关系代词who在从句中作主语，不可省略；定语从句修饰the girl，明确具体是哪个女孩。"
+            },
+            {
+              "sentence": "I like the pen that my father gave me on my birthday.",
+              "translation": "我喜欢爸爸在我生日时送给我的那支钢笔。",
+              "analysis": "先行词the pen（物），关系代词that在从句中作gave的宾语，可省略；符合“关系代词作宾语可省略”的规则。"
+            },
+            {
+              "sentence": "This is the city where I was born.",
+              "translation": "这是我出生的那个城市。",
+              "analysis": "先行词the city（地点），关系副词where在从句中作地点状语（I was born in the city），不可省略；从句不缺主语/宾语，用关系副词。"
+            },
+            {
+              "sentence": "The boy whose mother is a doctor is my classmate.",
+              "translation": "妈妈是医生的那个男孩是我的同学。",
+              "analysis": "先行词the boy（人），关系代词whose在从句中作定语（修饰mother），表“……的”，不可省略；whose是唯一能作定语的关系代词。"
+            },
+            {
+              "sentence": "All that you need to do is to study hard.",
+              "translation": "你需要做的所有事就是努力学习。",
+              "explanation": "",
+              "analysis": "先行词all（不定代词），只能用that引导，不可用which；that在从句中作do的宾语，可省略。"
+            },
+            {
+              "sentence": "He failed the exam, which made his parents angry.",
+              "translation": "他考试不及格，这让他的父母很生气。",
+              "analysis": "非限制性定语从句，用逗号隔开，关系代词which指代前面整个主句（他考试不及格），不可用that。"
+            },
+            {
+              "sentence": "This is the only park that we can visit on weekends.",
+              "translation": "这是我们周末唯一能去的公园。",
+              "analysis": "先行词the park被the only修饰，只能用that引导，不可用which；that在从句中作visit的宾语，可省略。"
+            },
+            {
+              "sentence": "I don’t know the reason why he was late for school.",
+              "translation": "我不知道他上学迟到的原因。",
+              "analysis": "先行词the reason，关系副词why在从句中作原因状语（he was late for school for the reason），不可省略。"
+            },
+            {
+              "sentence": "The man whom we talked to just now is our teacher.",
+              "translation": "我们刚才交谈的那个男人是我们的老师。",
+              "analysis": "先行词the man（人），关系代词whom在从句中作to的宾语，正式文体用whom，口语中可用who/that替代，也可省略。"
+            },
+            {
+              "sentence": "I remember the day when we went to the beach together.",
+              "translation": "我记得我们一起去海边的那一天。",
+              "analysis": "先行词the day（时间），关系副词when在从句中作时间状语（we went to the beach on the day），不可省略；从句不缺主语/宾语，用关系副词。"
+            }
+          ],
+          "exercises": [
+            {
+              "question": "The girl ___ is wearing a red dress is my cousin.",
+              "options": {"A": "who", "B": "which", "C": "whom"},
+              "answer": "A",
+              "explanation": "先行词the girl（人），关系代词在从句中作主语，用who；which修饰物，whom作宾语，均不符合。"
+            },
+            {
+              "question": "This is the book ___ I bought yesterday.",
+              "options": {"A": "who", "B": "that", "C": "where"},
+              "answer": "B",
+              "explanation": "先行词the book（物），关系代词在从句中作bought的宾语，用that（可省略）；who修饰人，where作地点状语，均不符合。"
+            },
+            {
+              "question": "The park ___ we had a picnic last week is very beautiful.",
+              "options": {"A": "which", "B": "where", "C": "that"},
+              "answer": "B",
+              "explanation": "先行词the park（地点），从句不缺主语/宾语（we had a picnic in the park），关系副词where作地点状语；which/that作主语/宾语，不符合。"
+            },
+            {
+              "question": "All ___ she said is true.",
+              "options": {"A": "that", "B": "which", "C": "who"},
+              "answer": "A",
+              "explanation": "先行词all（不定代词），只能用that引导，不可用which；who修饰人，不符合。"
+            },
+            {
+              "question": "The boy ___ father is a worker is my friend.",
+              "options": {"A": "who", "B": "whose", "C": "whom"},
+              "answer": "B",
+              "explanation": "先行词the boy（人），关系代词在从句中作定语（修饰father），表“……的”，用whose；who作主语/宾语，whom作宾语，均不符合。"
+            },
+            {
+              "question": "He told me the reason ___ he didn’t come to the party.",
+              "options": {"A": "why", "B": "that", "C": "which"},
+              "answer": "A",
+              "explanation": "先行词the reason，关系副词why在从句中作原因状语；that/which作主语/宾语，不符合。"
+            },
+            {
+              "question": "This is the only gift ___ my mother gave me.",
+              "options": {"A": "which", "B": "that", "C": "who"},
+              "answer": "B",
+              "explanation": "先行词the gift被the only修饰，只能用that引导，不可用which；who修饰人，不符合。"
+            },
+            {
+              "question": "I know the man ___ you met at the station yesterday.",
+              "options": {"A": "who", "B": "where", "C": "when"},
+              "answer": "A",
+              "explanation": "先行词the man（人），关系代词在从句中作met的宾语，用who（可省略，也可用whom/that）；where/when是关系副词，不符合。"
+            },
+            {
+              "question": "The book, ___ is written by Lu Xun, is very popular.",
+              "options": {"A": "that", "B": "which", "C": "who"},
+              "answer": "B",
+              "explanation": "非限制性定语从句，用逗号隔开，先行词the book（物），用which引导，不可用that；who修饰人，不符合。"
+            },
+            {
+              "question": "I remember the year ___ I started to learn English.",
+              "options": {"A": "when", "B": "which", "C": "that"},
+              "answer": "A",
+              "explanation": "先行词the year（时间），从句不缺主语/宾语（I started to learn English in the year），关系副词when作时间状语；which/that作主语/宾语，不符合。"
+            },
+            {
+              "question": "Who is the girl ___ is talking to our teacher?",
+              "options": {"A": "who", "B": "that", "C": "which"},
+              "answer": "B",
+              "explanation": "主句以who开头，为避免重复，定语从句用that引导；who重复，which修饰物，均不符合。"
+            },
+            {
+              "question": "The house ___ window is broken needs to be repaired.",
+              "options": {"A": "whose", "B": "which", "C": "where"},
+              "answer": "A",
+              "explanation": "先行词the house（物），关系代词在从句中作定语（修饰window），表“……的”，用whose；which作主语/宾语，where作地点状语，均不符合。"
+            },
+            {
+              "question": "This is the first film ___ I have seen this year.",
+              "options": {"A": "which", "B": "that", "C": "who"},
+              "answer": "B",
+              "explanation": "先行词the film被序数词first修饰，只能用that引导，不可用which；who修饰人，不符合。"
+            },
+            {
+              "question": "I like the city ___ there are many parks.",
+              "options": {"A": "where", "B": "that", "C": "which"},
+              "answer": "A",
+              "explanation": "先行词the city（地点），从句不缺主语/宾语（there are many parks in the city），关系副词where作地点状语；that/which作主语/宾语，不符合。"
+            },
+            {
+              "question": "The people and the things ___ we saw in the village are unforgettable.",
+              "options": {"A": "which", "B": "that", "C": "who"},
+              "answer": "B",
+              "explanation": "先行词既有人（the people）又有物（the things），只能用that引导；which修饰物，who修饰人，均不符合。"
+            },
+            {
+              "question": "The man to ___ we talked just now is a famous writer.",
+              "options": {"A": "whom", "B": "who", "C": "that"},
+              "answer": "A",
+              "explanation": "关系代词前有介词to，先行词the man（人），用whom；who不可置于介词后，that也不可置于介词后（非限制性除外），不符合。"
+            },
+            {
+              "question": "She has a friend ___ father is a policeman.",
+              "options": {"A": "who", "B": "whose", "C": "whom"},
+              "answer": "B",
+              "explanation": "先行词a friend（人），关系代词在从句中作定语（修饰father），表“……的”，用whose；who作主语/宾语，whom作宾语，均不符合。"
+            },
+            {
+              "question": "The bike ___ is red is mine.",
+              "options": {"A": "which", "B": "where", "C": "when"},
+              "answer": "A",
+              "explanation": "先行词the bike（物），关系代词在从句中作主语，用which（也可用that）；where/when是关系副词，不符合。"
+            },
+            {
+              "question": "He won the competition, ___ made his parents very proud.",
+              "options": {"A": "that", "B": "which", "C": "who"},
+              "answer": "B",
+              "explanation": "非限制性定语从句，which指代前面整个主句（他赢得比赛），不可用that；who修饰人，不符合。"
+            },
+            {
+              "question": "This is the place ___ I visited last year.",
+              "options": {"A": "where", "B": "that", "C": "when"},
+              "answer": "B",
+              "explanation": "先行词the place，从句中visited后缺宾语（I visited the place），用that（也可用which，可省略）；where作地点状语，when作时间状语，均不符合。"
+            }
+          ]
+        },
+        {
+          "id": "complex_sentences_3",
+          "title": "3-状语从句的用法",
+          "content": "### 状语从句的核心定义\n状语从句是在句子中作**状语**的从句，修饰主句的动词、形容词、副词或整个主句，表“时间/地点/原因/条件/让步/目的/结果/比较/方式”等，由“引导词+从句”构成，是初中英语复合句的高频考点，中考各类题型均会考查。\n\n### 状语从句的分类及引导词（中考必考，按功能分类）\n#### 1. 时间状语从句\n表“主句动作发生的时间”，核心引导词及用法：\n| 引导词 | 含义 | 示例 | 特殊规则 |\n|--------|------|------|----------|\n| when   | 当……时 | I was reading a book when he came in. | 从句动作可与主句动作同时/先后发生 |\n| while  | 当……时/然而 | While she was cooking, I was watching TV. | 从句动作必须是延续性的（进行时） |\n| as     | 当……时/随着 | As time goes by, we grow up. | 强调主句和从句动作同时发生，伴随进行 |\n| until/till | 直到…… | He waited until she came back. | not...until表“直到……才”，如：He didn’t leave until she came back. |\n| as soon as | 一……就 | As soon as I get up, I brush my teeth. | 主句用一般将来时，从句用一般现在时（主将从现） |\n| before | 在……之前 | I will finish my homework before I watch TV. | 时态呼应：主现从任意/主将从现 |\n| after  | 在……之后 | After he finished his homework, he played games. | 时态呼应：主过从过/主现从现 |\n\n#### 2. 原因状语从句\n表“主句动作发生的原因”，核心引导词及用法：\n| 引导词 | 含义 | 示例 | 区别 |\n|--------|------|------|------|\n| because | 因为 | He didn’t go to school because he was ill. | 表直接原因，可回答why提问，语气最强 |\n| since  | 既然/因为 | Since you are tired, you can have a rest. | 表已知的、显而易见的原因，语气较弱 |\n| as     | 由于/因为 | As it is raining, we have to stay at home. | 表附带的、轻微的原因，语气最弱 |\n| for    | 因为（补充说明） | He must be ill, for he is absent today. | 并列连词，不可置于句首，补充说明原因 |\n\n#### 3. 条件状语从句\n表“主句动作发生的条件”，核心引导词及用法：\n| 引导词 | 含义 | 示例 | 特殊规则 |\n|--------|------|------|----------|\n| if     | 如果 | If it rains tomorrow, we will stay at home. | 主将从现：主句一般将来时，从句一般现在时 |\n| unless | 除非/如果不 | Unless you work hard, you won’t pass the exam. | =if...not，如：Unless you hurry up, you’ll be late. = If you don’t hurry up, you’ll be late. |\n| as long as | 只要 | As long as you study hard, you will succeed. | 主将从现，表“充分条件” |\n\n#### 4. 让步状语从句\n表“主句动作与从句情况相反/让步”，核心引导词及用法：\n| 引导词 | 含义 | 示例 | 特殊规则 |\n|--------|------|------|----------|\n| though/although | 虽然/尽管 | Though he is young, he knows a lot. | 不可与but连用（如：错→Though he is young, but he knows a lot.） |\n| even if/even though | 即使/尽管 | Even if it rains, we will go camping. | 语气比though/although强，表“假设的让步” |\n| no matter+疑问词（what/who/when/where/how） | 无论…… | No matter where you go, I will miss you. | =疑问词+ever（如：wherever=no matter where） |\n\n#### 5. 目的状语从句\n表“主句动作的目的”，核心引导词及用法：\n| 引导词 | 含义 | 示例 | 特殊规则 |\n|--------|------|------|----------|\n| so that | 以便/为了 | He studies hard so that he can pass the exam. | 从句常含can/could/may/might等情态动词 |\n| in order that | 为了 | She gets up early in order that she can catch the early bus. | 可置于句首，so that不可置于句首 |\n\n#### 6. 结果状语从句\n表“主句动作带来的结果”，核心引导词及用法：\n| 引导词 | 含义 | 示例 | 结构 |\n|--------|------|------|------|\n| so...that | 如此……以至于 | He is so tall that he can reach the apple on the tree. | so+形容词/副词+that从句 |\n| such...that | 如此……以至于 | It is such a cold day that we stay at home. | such+（a/an）+形容词+名词+that从句 |\n| so that | 结果/以至于 | He didn’t study hard, so that he failed the exam. | 表“意料之外的结果”，无需情态动词 |\n\n#### 7. 地点状语从句\n表“主句动作发生的地点”，核心引导词及用法：\n| 引导词 | 含义 | 示例 | 区别 |\n|--------|------|------|------|\n| where  | 在……地方 | Where there is a will, there is a way. | 修饰动作发生的具体地点 |\n| wherever | 无论哪里 | Wherever you go, I will follow you. | 表“任意地点”，=no matter where |\n\n#### 8. 比较状语从句\n表“主句与从句的比较关系”，核心引导词及用法：\n| 引导词 | 含义 | 示例 | 结构 |\n|--------|------|------|------|\n| than   | 比 | He is taller than I (am). | 主句用比较级，从句可省略与主句重复的部分 |\n| as...as | 和……一样 | She runs as fast as Tom (does). | 中间用形容词/副词原级，否定：not as/so...as |\n| the+比较级，the+比较级 | 越……越 | The harder you work, the better grades you get. | 固定句式，从句在前主句在后 |\n\n#### 9. 方式状语从句\n表“主句动作的方式”，核心引导词及用法：\n| 引导词 | 含义 | 示例 | 说明 |\n|--------|------|------|------|\n| as     | 像……一样 | Do as I tell you. | 表“按照……方式” |\n| as if/as though | 好像/仿佛 | He talks as if he knew everything. | 从句可用虚拟语气（与事实不符） |\n\n### 状语从句的核心规则（中考易错点）\n#### 规则1：时态呼应（主将从现）\n时间/条件状语从句中，主句用“一般将来时/情态动词/祈使句”，从句用“一般现在时”表将来：\n- 例：If he comes (一般现在时), I will tell you (一般将来时).；\n- 例：As soon as you finish your homework (一般现在时), you can watch TV (情态动词).。\n\n#### 规则2：though/although与but不可连用\n中文“虽然……但是……”，英文只能用though/although（从句）或but（主句）其一：\n- 错→Though he is tired, but he keeps working.；\n- 对→Though he is tired, he keeps working. / He is tired, but he keeps working.。\n\n#### 规则3：so...that与such...that的转换\n- so+形容词+a/an+单数可数名词+that = such+a/an+形容词+单数可数名词+that；\n  例：He is so clever a boy that everyone likes him. = He is such a clever boy that everyone likes him.；\n- so+形容词/副词+that（无名词）；such+形容词+复数/不可数名词+that；\n  例：It is so cold that we stay at home. = It is such cold weather that we stay at home.。\n\n#### 规则4：状语从句的省略\n当从句主语与主句主语一致，且从句含be动词时，可省略从句主语和be动词：\n- 例：When (he is) walking in the street, he saw a friend.；\n- 例：Though (she is) young, she can speak three languages.。",
+          "examples": [
+            {
+              "sentence": "As soon as I finish my homework, I will play basketball with you.",
+              "translation": "我一完成作业，就和你一起打篮球。",
+              "analysis": "时间状语从句，引导词as soon as（一……就）；主句用一般将来时（will play），从句用一般现在时（finish），符合“主将从现”规则。"
+            },
+            {
+              "sentence": "He didn’t go to school because he had a bad cold.",
+              "translation": "他因为重感冒没去上学。",
+              "analysis": "原因状语从句，引导词because（因为），表直接原因，可回答why提问（Why didn’t he go to school? - Because he had a bad cold.）。"
+            },
+            {
+              "question": "",
+              "sentence": "If it doesn’t rain tomorrow, we will go to the park.",
+              "translation": "如果明天不下雨，我们就去公园。",
+              "analysis": "条件状语从句，引导词if（如果）；主句用一般将来时（will go），从句用一般现在时（doesn’t rain），符合“主将从现”规则。"
+            },
+            {
+              "sentence": "Though he is very busy, he still spends time with his family.",
+              "translation": "尽管他很忙，但他仍然花时间陪家人。",
+              "analysis": "让步状语从句，引导词though（虽然）；不可与but连用，这是核心易错点，主句用still表“仍然”替代but的含义。"
+            },
+            {
+              "sentence": "She studies hard so that she can enter a good high school.",
+              "translation": "她努力学习是为了能考上一所好高中。",
+              "analysis": "目的状语从句，引导词so that（以便）；从句含情态动词can，表“努力学习”的目的是“考上好高中”。"
+            },
+            {
+              "sentence": "He is so young that he can’t go to school alone.",
+              "translation": "他太小了，不能独自去上学。",
+              "analysis": "结果状语从句，引导词so...that（如此……以至于）；so+形容词（young）+that从句，表“年轻”带来的结果是“不能独自上学”。"
+            },
+            {
+              "sentence": "Where there is water, there is life.",
+              "translation": "有水的地方就有生命。",
+              "analysis": "地点状语从句，引导词where（在……地方）；修饰“生命存在”的地点是“有水的地方”，是经典谚语。"
+            },
+            {
+              "sentence": "She sings as beautifully as her sister does.",
+              "translation": "她唱歌和她姐姐一样好听。",
+              "analysis": "比较状语从句，引导词as...as（和……一样）；中间用副词原级（beautifully），从句省略重复的sings，用does替代。"
+            },
+            {
+              "sentence": "Do as your teacher tells you to do.",
+              "translation": "按照老师告诉你的去做。",
+              "analysis": "方式状语从句，引导词as（像……一样）；表“按照老师要求的方式”去做，从句省略重复的部分（to do）。"
+            },
+            {
+              "sentence": "The more you practice speaking English, the more fluent you will be.",
+              "translation": "你练习说英语越多，就会越流利。",
+              "analysis": "比较状语从句，“the+比较级，the+比较级”结构；主句用一般将来时（will be），从句用一般现在时（practice），符合时态规则。"
+            }
+          ],
+          "exercises": [
+            {
+              "question": "I will call you ___ I get to Beijing tomorrow.",
+              "options": {"A": "as soon as", "B": "because", "C": "though"},
+              "answer": "A",
+              "explanation": "表“一到北京就打电话”，用as soon as（一……就）引导时间状语从句；because表原因，though表让步，均不符合语境。"
+            },
+            {
+              "question": "He didn’t come to the party ___ he was ill.",
+              "options": {"A": "if", "B": "because", "C": "though"},
+              "answer": "B",
+              "explanation": "表“生病是没参加派对的直接原因”，用because引导原因状语从句；if表条件，though表让步，均不符合。"
+            },
+            {
+              "question": "___ it rains, we will stay at home and watch movies.",
+              "options": {"A": "If", "B": "Though", "C": "As"},
+              "answer": "A",
+              "explanation": "表“如果下雨就待在家”，用if引导条件状语从句；主句用一般将来时，从句用一般现在时（rains），符合“主将从现”。"
+            },
+            {
+              "question": "___ he is very rich, he lives a simple life.",
+              "options": {"A": "Because", "B": "Though", "C": "If"},
+              "answer": "B",
+              "explanation": "表“尽管富有但生活简朴”，用though引导让步状语从句；不可与but连用，主句用simple life体现让步含义。"
+            },
+            {
+              "question": "She gets up early ___ she can catch the early bus.",
+              "options": {"A": "so that", "B": "so...that", "C": "because"},
+              "answer": "A",
+              "explanation": "表“早起的目的是赶早班车”，用so that引导目的状语从句；so...that表结果，because表原因，均不符合。"
+            },
+            {
+              "question": "It is ___ a hot day ___ we want to swim in the pool.",
+              "options": {"A": "so; that", "B": "such; that", "C": "too; to"},
+              "answer": "B",
+              "explanation": "such+a/an+形容词（hot）+名词（day）+that从句，表“天太热以至于想游泳”；so+形容词+that（无名词），too...to后接动词原形，均不符合。"
+            },
+            {
+              "question": "___ there is a will, there is a way.",
+              "options": {"A": "Where", "B": "When", "C": "Why"},
+              "answer": "A",
+              "explanation": "地点状语从句，引导词where（在……地方），这是经典谚语“有志者事竟成”；when表时间，why表原因，均不符合。"
+            },
+            {
+              "question": "Tom runs ___ fast ___ Jim does.",
+              "options": {"A": "as; as", "B": "faster; than", "C": "so; that"},
+              "answer": "A",
+              "explanation": "比较状语从句，as...as中间用副词原级（fast），表“汤姆和吉姆跑得一样快”；faster than表比较级，so...that表结果，均不符合。"
+            },
+            {
+              "question": "___ you work harder, ___ grades you will get.",
+              "options": {"A": "The more; the better", "B": "More; better", "C": "The more; better"},
+              "answer": "A",
+              "explanation": "“the+比较级，the+比较级”固定结构，表“越努力成绩越好”；缺少the不符合规则。"
+            },
+            {
+              "question": "Do ___ I tell you, or you will make a mistake.",
+              "options": {"A": "as", "B": "like", "C": "though"},
+              "answer": "A",
+              "explanation": "方式状语从句，引导词as（按照……方式），表“按我告诉你的做”；like是介词，不可引导从句，though表让步，均不符合。"
+            },
+            {
+              "question": "He didn’t go to bed ___ he finished his homework last night.",
+              "options": {"A": "until", "B": "when", "C": "as"},
+              "answer": "A",
+              "explanation": "not...until表“直到完成作业才睡觉”，引导时间状语从句；when表“当……时”，as表“随着”，均不符合。"
+            },
+            {
+              "question": "___ you don’t hurry up, you will be late for school.",
+              "options": {"A": "Unless", "B": "If", "C": "As long as"},
+              "answer": "B",
+              "explanation": "条件状语从句，if表“如果不快点就会迟到”；unless=if...not（若用unless需改为Unless you hurry up），as long as表“只要”，均不符合。"
+            },
+            {
+              "question": "___ he is only 6 years old, he can play the piano very well.",
+              "options": {"A": "Although", "B": "Because", "C": "If"},
+              "answer": "A",
+              "explanation": "让步状语从句，although表“尽管只有6岁但钢琴弹得好”；不可与but连用，这是核心考点。"
+            },
+            {
+              "question": "She speaks English ___ fluently ___ a native speaker.",
+              "options": {"A": "so; as", "B": "as; as", "C": "such; as"},
+              "answer": "B",
+              "explanation": "比较状语从句，as...as中间用副词原级（fluently），表“和母语者说得一样流利”；so...as用于否定句，such后接名词，均不符合。"
+            },
+            {
+              "question": "I will go to the library ___ I have free time this afternoon.",
+              "options": {"A": "if", "B": "because", "C": "though"},
+              "answer": "A",
+              "explanation": "条件状语从句，if表“如果下午有空就去图书馆”；主句用一般将来时，从句用一般现在时（have），符合“主将从现”。"
+            },
+            {
+              "question": "He ran ___ fast ___ he won the first prize in the race.",
+              "options": {"A": "so; that", "B": "such; that", "C": "as; as"},
+              "answer": "A",
+              "explanation": "so+副词（fast）+that从句，表“跑得太快以至于赢得第一名”；such后接名词，as...as表比较，均不符合。"
+            },
+            {
+              "question": "___ I was reading a book, my sister was watching TV.",
+              "options": {"A": "When", "B": "While", "C": "As soon as"},
+              "answer": "B",
+              "explanation": "时间状语从句，while引导延续性动作（reading/watching TV），表“同时进行”；when可接短暂性/延续性动作，as soon as表“一……就”，此处while更贴合。"
+            },
+            {
+              "question": "___ you are right, I still don’t agree with you.",
+              "options": {"A": "Though", "B": "Because", "C": "If"},
+              "answer": "A",
+              "explanation": "让步状语从句，though表“尽管你是对的但我仍不同意”；不可与but连用，主句用still表转折。"
+            },
+            {
+              "question": "We study hard ___ we can get good grades in the exam.",
+              "options": {"A": "in order that", "B": "so that", "C": "both A and B"},
+              "answer": "C",
+              "explanation": "in order that和so that均可引导目的状语从句，表“努力学习的目的是考高分”；in order that可置于句首，so that不可，此处两者均可。"
+            },
+            {
+              "question": "Wherever you go, I will miss you.（改写同义句）___ ___ where you go, I will miss you.",
+              "options": {"A": "No matter", "B": "Even if", "C": "As long as"},
+              "answer": "A",
+              "explanation": "wherever=no matter where，表“无论你去哪里我都会想你”；even if表“即使”，as long as表“只要”，均不符合。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

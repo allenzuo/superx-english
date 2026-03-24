@@ -1,0 +1,9823 @@
+{
+  "grades": [
+    "三年级",
+    "四年级",
+    "五年级",
+    "六年级",
+    "七年级",
+    "八年级",
+    "九年级"
+  ],
+  "mappings": [
+    {
+      "word": "book",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "pen",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "pencil",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "pencil-case",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "rubber",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "ruler",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "bag",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "desk",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "chair",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "door",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "window",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "blackboard",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "whiteboard",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "teacher",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "student",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "boy",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "girl",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "I",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "you",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "he",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "she",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "it",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "we",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "they",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "my",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "your",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "his",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "her",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "its",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "our",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "their",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "this",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "that",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "these",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "those",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "is",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "am",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "are",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "yes",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "no",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "not",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "good",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "morning",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "afternoon",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "evening",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "night",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "hi",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "hello",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "thank",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "thanks",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "thank you",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "sorry",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "excuse me",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "please",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "goodbye",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "bye",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "see",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "look",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "read",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "write",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "draw",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "sing",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "dance",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "jump",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "run",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "swim",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "eat",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "drink",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "sleep",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "play",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "one",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "two",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "three",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "four",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "five",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "six",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "seven",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "eight",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "nine",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "ten",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "red",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "blue",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "yellow",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "green",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "black",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "white",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "orange",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "pink",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "purple",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "brown",
+      "grade": "三年级",
+      "semester": "上册"
+    },
+    {
+      "word": "cat",
+      "grade": "三年级",
+      "semester": "下册"
+    },
+    {
+      "word": "dog",
+      "grade": "三年级",
+      "semester": "下册"
+    },
+    {
+      "word": "bird",
+      "grade": "三年级",
+      "semester": "下册"
+    },
+    {
+      "word": "fish",
+      "grade": "三年级",
+      "semester": "下册"
+    },
+    {
+      "word": "rabbit",
+      "grade": "三年级",
+      "semester": "下册"
+    },
+    {
+      "word": "mouse",
+      "grade": "三年级",
+      "semester": "下册"
+    },
+    {
+      "word": "tiger",
+      "grade": "三年级",
+      "semester": "下册"
+    },
+    {
+      "word": "lion",
+      "grade": "三年级",
+      "semester": "下册"
+    },
+    {
+      "word": "panda",
+      "grade": "三年级",
+      "semester": "下册"
+    },
+    {
+      "word": "bear",
+      "grade": "三年级",
+      "semester": "下册"
+    },
+    {
+      "word": "elephant",
+      "grade": "三年级",
+      "semester": "下册"
+    },
+    {
+      "word": "monkey",
+      "grade": "三年级",
+      "semester": "下册"
+    },
+    {
+      "word": "snake",
+      "grade": "三年级",
+      "semester": "下册"
+    },
+    {
+      "word": "duck",
+      "grade": "三年级",
+      "semester": "下册"
+    },
+    {
+      "word": "chicken",
+      "grade": "三年级",
+      "semester": "下册"
+    },
+    {
+      "word": "hen",
+      "grade": "三年级",
+      "semester": "下册"
+    },
+    {
+      "word": "rooster",
+      "grade": "三年级",
+      "semester": "下册"
+    },
+    {
+      "word": "cow",
+      "grade": "三年级",
+      "semester": "下册"
+    },
+    {
+      "word": "horse",
+      "grade": "三年级",
+      "semester": "下册"
+    },
+    {
+      "word": "sheep",
+      "grade": "三年级",
+      "semester": "下册"
+    },
+    {
+      "word": "pig",
+      "grade": "三年级",
+      "semester": "下册"
+    },
+    {
+      "word": "fruit",
+      "grade": "三年级",
+      "semester": "下册"
+    },
+    {
+      "word": "apple",
+      "grade": "三年级",
+      "semester": "下册"
+    },
+    {
+      "word": "pear",
+      "grade": "三年级",
+      "semester": "下册"
+    },
+    {
+      "word": "banana",
+      "grade": "三年级",
+      "semester": "下册"
+    },
+    {
+      "word": "orange",
+      "grade": "三年级",
+      "semester": "下册"
+    },
+    {
+      "word": "grape",
+      "grade": "三年级",
+      "semester": "下册"
+    },
+    {
+      "word": "peach",
+      "grade": "三年级",
+      "semester": "下册"
+    },
+    {
+      "word": "mango",
+      "grade": "三年级",
+      "semester": "下册"
+    },
+    {
+      "word": "watermelon",
+      "grade": "三年级",
+      "semester": "下册"
+    },
+    {
+      "word": "strawberry",
+      "grade": "三年级",
+      "semester": "下册"
+    },
+    {
+      "word": "food",
+      "grade": "三年级",
+      "semester": "下册"
+    },
+    {
+      "word": "rice",
+      "grade": "三年级",
+      "semester": "下册"
+    },
+    {
+      "word": "noodles",
+      "grade": "三年级",
+      "semester": "下册"
+    },
+    {
+      "word": "bread",
+      "grade": "三年级",
+      "semester": "下册"
+    },
+    {
+      "word": "cake",
+      "grade": "三年级",
+      "semester": "下册"
+    },
+    {
+      "word": "egg",
+      "grade": "三年级",
+      "semester": "下册"
+    },
+    {
+      "word": "milk",
+      "grade": "三年级",
+      "semester": "下册"
+    },
+    {
+      "word": "juice",
+      "grade": "三年级",
+      "semester": "下册"
+    },
+    {
+      "word": "water",
+      "grade": "三年级",
+      "semester": "下册"
+    },
+    {
+      "word": "cola",
+      "grade": "三年级",
+      "semester": "下册"
+    },
+    {
+      "word": "fish",
+      "grade": "三年级",
+      "semester": "下册"
+    },
+    {
+      "word": "meat",
+      "grade": "三年级",
+      "semester": "下册"
+    },
+    {
+      "word": "chicken",
+      "grade": "三年级",
+      "semester": "下册"
+    },
+    {
+      "word": "vegetable",
+      "grade": "三年级",
+      "semester": "下册"
+    },
+    {
+      "word": "tomato",
+      "grade": "三年级",
+      "semester": "下册"
+    },
+    {
+      "word": "potato",
+      "grade": "三年级",
+      "semester": "下册"
+    },
+    {
+      "word": "carrot",
+      "grade": "三年级",
+      "semester": "下册"
+    },
+    {
+      "word": "cabbage",
+      "grade": "三年级",
+      "semester": "下册"
+    },
+    {
+      "word": "desk",
+      "grade": "三年级",
+      "semester": "下册"
+    },
+    {
+      "word": "table",
+      "grade": "三年级",
+      "semester": "下册"
+    },
+    {
+      "word": "sofa",
+      "grade": "三年级",
+      "semester": "下册"
+    },
+    {
+      "word": "bed",
+      "grade": "三年级",
+      "semester": "下册"
+    },
+    {
+      "word": "chair",
+      "grade": "三年级",
+      "semester": "下册"
+    },
+    {
+      "word": "box",
+      "grade": "三年级",
+      "semester": "下册"
+    },
+    {
+      "word": "bag",
+      "grade": "三年级",
+      "semester": "下册"
+    },
+    {
+      "word": "ball",
+      "grade": "三年级",
+      "semester": "下册"
+    },
+    {
+      "word": "kite",
+      "grade": "三年级",
+      "semester": "下册"
+    },
+    {
+      "word": "bike",
+      "grade": "三年级",
+      "semester": "下册"
+    },
+    {
+      "word": "toy",
+      "grade": "三年级",
+      "semester": "下册"
+    },
+    {
+      "word": "car",
+      "grade": "三年级",
+      "semester": "下册"
+    },
+    {
+      "word": "bus",
+      "grade": "三年级",
+      "semester": "下册"
+    },
+    {
+      "word": "train",
+      "grade": "三年级",
+      "semester": "下册"
+    },
+    {
+      "word": "plane",
+      "grade": "三年级",
+      "semester": "下册"
+    },
+    {
+      "word": "ship",
+      "grade": "三年级",
+      "semester": "下册"
+    },
+    {
+      "word": "school",
+      "grade": "四年级",
+      "semester": "上册"
+    },
+    {
+      "word": "classroom",
+      "grade": "四年级",
+      "semester": "上册"
+    },
+    {
+      "word": "library",
+      "grade": "四年级",
+      "semester": "上册"
+    },
+    {
+      "word": "playground",
+      "grade": "四年级",
+      "semester": "上册"
+    },
+    {
+      "word": "toilet",
+      "grade": "四年级",
+      "semester": "上册"
+    },
+    {
+      "word": "office",
+      "grade": "四年级",
+      "semester": "上册"
+    },
+    {
+      "word": "art room",
+      "grade": "四年级",
+      "semester": "上册"
+    },
+    {
+      "word": "music room",
+      "grade": "四年级",
+      "semester": "上册"
+    },
+    {
+      "word": "computer room",
+      "grade": "四年级",
+      "semester": "上册"
+    },
+    {
+      "word": "gym",
+      "grade": "四年级",
+      "semester": "上册"
+    },
+    {
+      "word": "bookstore",
+      "grade": "四年级",
+      "semester": "上册"
+    },
+    {
+      "word": "park",
+      "grade": "四年级",
+      "semester": "上册"
+    },
+    {
+      "word": "zoo",
+      "grade": "四年级",
+      "semester": "上册"
+    },
+    {
+      "word": "supermarket",
+      "grade": "四年级",
+      "semester": "上册"
+    },
+    {
+      "word": "hospital",
+      "grade": "四年级",
+      "semester": "上册"
+    },
+    {
+      "word": "cinema",
+      "grade": "四年级",
+      "semester": "上册"
+    },
+    {
+      "word": "theatre",
+      "grade": "四年级",
+      "semester": "上册"
+    },
+    {
+      "word": "bank",
+      "grade": "四年级",
+      "semester": "上册"
+    },
+    {
+      "word": "restaurant",
+      "grade": "四年级",
+      "semester": "上册"
+    },
+    {
+      "word": "home",
+      "grade": "四年级",
+      "semester": "上册"
+    },
+    {
+      "word": "bedroom",
+      "grade": "四年级",
+      "semester": "上册"
+    },
+    {
+      "word": "living room",
+      "grade": "四年级",
+      "semester": "上册"
+    },
+    {
+      "word": "kitchen",
+      "grade": "四年级",
+      "semester": "上册"
+    },
+    {
+      "word": "bathroom",
+      "grade": "四年级",
+      "semester": "上册"
+    },
+    {
+      "word": "study",
+      "grade": "四年级",
+      "semester": "上册"
+    },
+    {
+      "word": "garden",
+      "grade": "四年级",
+      "semester": "上册"
+    },
+    {
+      "word": "family",
+      "grade": "四年级",
+      "semester": "上册"
+    },
+    {
+      "word": "father",
+      "grade": "四年级",
+      "semester": "上册"
+    },
+    {
+      "word": "mother",
+      "grade": "四年级",
+      "semester": "上册"
+    },
+    {
+      "word": "brother",
+      "grade": "四年级",
+      "semester": "上册"
+    },
+    {
+      "word": "sister",
+      "grade": "四年级",
+      "semester": "上册"
+    },
+    {
+      "word": "grandfather",
+      "grade": "四年级",
+      "semester": "上册"
+    },
+    {
+      "word": "grandmother",
+      "grade": "四年级",
+      "semester": "上册"
+    },
+    {
+      "word": "uncle",
+      "grade": "四年级",
+      "semester": "上册"
+    },
+    {
+      "word": "aunt",
+      "grade": "四年级",
+      "semester": "上册"
+    },
+    {
+      "word": "cousin",
+      "grade": "四年级",
+      "semester": "上册"
+    },
+    {
+      "word": "friend",
+      "grade": "四年级",
+      "semester": "上册"
+    },
+    {
+      "word": "happy",
+      "grade": "四年级",
+      "semester": "上册"
+    },
+    {
+      "word": "sad",
+      "grade": "四年级",
+      "semester": "上册"
+    },
+    {
+      "word": "tired",
+      "grade": "四年级",
+      "semester": "上册"
+    },
+    {
+      "word": "hungry",
+      "grade": "四年级",
+      "semester": "上册"
+    },
+    {
+      "word": "thirsty",
+      "grade": "四年级",
+      "semester": "上册"
+    },
+    {
+      "word": "full",
+      "grade": "四年级",
+      "semester": "上册"
+    },
+    {
+      "word": "ill",
+      "grade": "四年级",
+      "semester": "上册"
+    },
+    {
+      "word": "hot",
+      "grade": "四年级",
+      "semester": "上册"
+    },
+    {
+      "word": "cold",
+      "grade": "四年级",
+      "semester": "上册"
+    },
+    {
+      "word": "warm",
+      "grade": "四年级",
+      "semester": "上册"
+    },
+    {
+      "word": "cool",
+      "grade": "四年级",
+      "semester": "上册"
+    },
+    {
+      "word": "new",
+      "grade": "四年级",
+      "semester": "上册"
+    },
+    {
+      "word": "old",
+      "grade": "四年级",
+      "semester": "上册"
+    },
+    {
+      "word": "big",
+      "grade": "四年级",
+      "semester": "上册"
+    },
+    {
+      "word": "small",
+      "grade": "四年级",
+      "semester": "上册"
+    },
+    {
+      "word": "tall",
+      "grade": "四年级",
+      "semester": "上册"
+    },
+    {
+      "word": "short",
+      "grade": "四年级",
+      "semester": "上册"
+    },
+    {
+      "word": "long",
+      "grade": "四年级",
+      "semester": "上册"
+    },
+    {
+      "word": "short",
+      "grade": "四年级",
+      "semester": "上册"
+    },
+    {
+      "word": "fat",
+      "grade": "四年级",
+      "semester": "上册"
+    },
+    {
+      "word": "thin",
+      "grade": "四年级",
+      "semester": "上册"
+    },
+    {
+      "word": "nice",
+      "grade": "四年级",
+      "semester": "上册"
+    },
+    {
+      "word": "beautiful",
+      "grade": "四年级",
+      "semester": "上册"
+    },
+    {
+      "word": "ugly",
+      "grade": "四年级",
+      "semester": "上册"
+    },
+    {
+      "word": "good",
+      "grade": "四年级",
+      "semester": "上册"
+    },
+    {
+      "word": "bad",
+      "grade": "四年级",
+      "semester": "上册"
+    },
+    {
+      "word": "fast",
+      "grade": "四年级",
+      "semester": "上册"
+    },
+    {
+      "word": "slow",
+      "grade": "四年级",
+      "semester": "上册"
+    },
+    {
+      "word": "early",
+      "grade": "四年级",
+      "semester": "上册"
+    },
+    {
+      "word": "late",
+      "grade": "四年级",
+      "semester": "上册"
+    },
+    {
+      "word": "time",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "clock",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "watch",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "o'clock",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "hour",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "minute",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "second",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "today",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "tomorrow",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "yesterday",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "week",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "Monday",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "Tuesday",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "Wednesday",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "Thursday",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "Friday",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "Saturday",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "Sunday",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "weekend",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "month",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "January",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "February",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "March",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "April",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "May",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "June",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "July",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "August",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "September",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "October",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "November",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "December",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "year",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "spring",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "summer",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "autumn",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "winter",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "season",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "weather",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "sunny",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "rainy",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "cloudy",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "windy",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "snowy",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "foggy",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "fine",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "rain",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "snow",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "wind",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "cloud",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "sun",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "moon",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "star",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "sky",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "river",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "lake",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "sea",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "mountain",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "hill",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "tree",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "flower",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "grass",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "leaf",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "root",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "branch",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "seed",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "plant",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "grow",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "fly",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "jump",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "run",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "walk",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "swim",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "skate",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "ski",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "ride",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "drive",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "play",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "sport",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "basketball",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "football",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "table tennis",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "badminton",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "volleyball",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "tennis",
+      "grade": "四年级",
+      "semester": "下册"
+    },
+    {
+      "word": "job",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "teacher",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "doctor",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "nurse",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "driver",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "farmer",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "cook",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "policeman",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "policewoman",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "fireman",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "postman",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "shop assistant",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "engineer",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "worker",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "scientist",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "artist",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "musician",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "actor",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "actress",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "writer",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "reporter",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "pilot",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "astronaut",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "hobby",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "read",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "write",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "draw",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "sing",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "dance",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "play",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "swim",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "skate",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "cycle",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "collect",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "take photos",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "listen to music",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "watch TV",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "play computer games",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "go shopping",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "go fishing",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "go hiking",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "go camping",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "travel",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "trip",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "journey",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "holiday",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "vacation",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "party",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "birthday",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "festival",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "Spring Festival",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "New Year",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "Christmas",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "Mid-Autumn Festival",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "Dragon Boat Festival",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "food",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "dish",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "meal",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "breakfast",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "lunch",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "dinner",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "supper",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "snack",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "cook",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "make",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "bake",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "fry",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "boil",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "steam",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "wash",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "clean",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "sweep",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "mop",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "tidy",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "arrange",
+      "grade": "五年级",
+      "semester": "下册"
+    },
+    {
+      "word": "relationship",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "family",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "all",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "flat",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "same",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "block",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "estate",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "grade",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "photograph",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "age",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "young",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "old",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "short",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "small",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "also",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "only",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "than",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "shoe",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "always",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "sometimes",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "never",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "puppy",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "housing estate",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "both",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "different",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "together",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "after",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "cage",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "heavy",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "heavier",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "thinner",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "height",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "each other",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "share",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "weekend",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "sweet",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "crisp",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "skate",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "cycle",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "dress up",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "just",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "like",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "fourteenth",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "floor",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "discuss",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "ocean",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "environment",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "kilogramme",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "promise",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "pollute",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "pollution",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "naughty",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "holiday",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "picnic",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "fountain",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "swimming pool",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "playground",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "bird aviary",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "area",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "pond",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "pitch",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "visit",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "tomorrow",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "dragon",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "bay",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "station",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "square",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "underground",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "space",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "museum",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "star",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "ferry",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "quickly",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "quietly",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "loudly",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "nut",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "slowly",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "soft",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "everywhere",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "shopkeeper",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "dear",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "enough",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "weather",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "cloudy",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "sunny",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "album",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "island",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "sandcastle",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "barbecue",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "plan",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "collect",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "fireman",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "fire-engine",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "put out",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "job",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "astronaut",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "spacecraft",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "pilot",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "aeroplane",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "grow",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "make",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "shop assistant",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "sell",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "relative",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "family tree",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "granddaughter",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "grandson",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "member",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "classmate",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "shop",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "go shopping",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "else",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "badminton",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "go cycling",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "almost",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "other",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "friendly",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "helpful",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "kind",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "lie",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "yet",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "just",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "already",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "Earth",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "look after",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "land",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "keep",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "pick up",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "into",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "rubbish bin",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "leave",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "reuse",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "spend",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "seaside",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "lucky",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "market",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "activity",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "kite",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "trip",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "cost",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "shall",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "secretary",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "bank",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "clerk",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "policewoman",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "dentist",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "postman",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "person",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "teach",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "interview",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "find out",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "if",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "finish",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "programme",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "entrance",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "choir",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "noticeboard",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "parent",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "arrive",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "first",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "classroom",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "next",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "project",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "craft",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "club",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "mushroom",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "beef",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "onion",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "cheese",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "pastry",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "oven",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "side",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "below",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "another",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "secondly",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "base",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "firstly",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "tin",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "slice",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "green pepper",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "cherry",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "ham",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "ingredient",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "funny",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "suggestion",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "should",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "before",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "quiz",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "habit",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "porridge",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "stay fit",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "countryside",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "exercise",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "unhealthy",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "fresh",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "plenty of",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "a little",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "yogurt",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "salt",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "pyramid",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "diet",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "eating healthy",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "salty",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "prepare",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "spread",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "delicious",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "tasty",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "bitter",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "sour",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "chilli",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "snack",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "lemon",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "spicy",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "cola",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "fun",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "hamburger",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "bake",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "packet",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "dumpling",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "frozen",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "section",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "stall",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "wing",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "boil",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "bacon",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "fry",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "prawn",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "steam",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "seafood",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "noodle",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "garlic",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "cabbage",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "menu",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "chase",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "in the middle",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "upstairs",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "exit",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "centre",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "on the right",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "on the left",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "escalator",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "lift",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "mean",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "loud",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "enter",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "wait for",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "rule",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "temple",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "kindergarten",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "department store",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "light rail",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "when",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "a lot of",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "a few",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "board",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "advertisement",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "hotel",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "half an hour",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "hour",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "minute",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "about",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "travel",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "yesterday",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "invitation",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "ground",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "finally",
+      "grade": "六年级",
+      "semester": "上册"
+    },
+    {
+      "word": "different",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "notice",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "swan",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "partner",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "slim",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "fat",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "curly",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "straight",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "T-shirt",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "jeans",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "size",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "shape",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "skin",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "special",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "number",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "than",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "fair",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "talent",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "program",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "hall",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "butterfly",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "violin",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "host",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "sound",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "excite",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "exciting",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "anything",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "someone",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "drum",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "voice",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "person",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "hobby",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "personality",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "ability",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "easy-going",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "accept",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "peacock",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "wise",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "nightingale",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "without",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "doubt",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "laugh",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "smile",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "feather",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "colourful",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "future",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "pat",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "skill",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "unique",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "mean",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "noticeboard",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "wood",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "rule",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "underground",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "lean",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "litter",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "gap",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "else",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "escalator",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "station",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "announcement",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "passenger",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "lift",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "platform",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "line",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "rush",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "smoke",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "seat",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "anyone",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "leave",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "rubbish",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "glove",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "broken",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "container",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "ready",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "follow",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "stay",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "grow",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "important",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "hurray",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "model",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "pay",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "attention",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "dream",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "outing",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "gate",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "festival",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "across",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "culture",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "luck",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "porridge",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "lucky",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "click",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "eve",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "tradition",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "country",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "wealth",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "hope",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "pass",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "midnight",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "international",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "event",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "square",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "symphony",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "theatre",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "firework",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "concert",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "prince",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "check",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "information",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "since",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "performance",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "really",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "musical",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "perform",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "invite",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "celebrate",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "calendar",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "reunion",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "full",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "post",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "mostly",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "tonight",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "harvest",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "traditional",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "nut",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "sugar",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "experience",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "meal",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "count",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "search",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "airport",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "location",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "capital",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "wet",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "foggy",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "north",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "quite",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "temperature",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "drop",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "degree",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "celsius",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "dry",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "south",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "still",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "wind",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "cloud",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "fog",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "skate",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "picnic",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "sunshine",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "hate",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "extreme",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "news",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "heat",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "wave",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "heatwave",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "hit",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "several",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "break",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "record",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "area",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "runway",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "action",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "pupil",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "uniform",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "indoors",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "leaf",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "fact",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "average",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "increase",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "cool",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "cause",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "worse",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "soon",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "regards",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "neighbourhood",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "build",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "reduce",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "reuse",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "recycle",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "bottle",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "repair",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "article",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "sort",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "cloth",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "pick",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "plastic",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "waste",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "electricity",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "tap",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "brush",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "tooth",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "bin",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "save",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "mix",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "reusable",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "store",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "even",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "huge",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "government",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "encourage",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "public",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "transport",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "environmental",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "electric",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "building",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "low",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "energy",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "low-energy",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "however",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "alone",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "planet",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "mankind",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "daily",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "changer",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "scientist",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "change",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "publish",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "theory",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "invent",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "inexpensive",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "bulb",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "discover",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "general",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "video",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "smart",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "inventor",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "real",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "power",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "die",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "successful",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "invention",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "saver",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "medicine",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "spend",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "sick",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "penicillin",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "soldier",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "lose",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "admire",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "herb",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "pardon",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "pain",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "beg",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "storyteller",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "poem",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "act",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "poor",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "tragedy",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "create",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "character",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "stage",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "million",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "mark",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "level",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "until",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "weigh",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "weight",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "stamp",
+      "grade": "六年级",
+      "semester": "下册"
+    },
+    {
+      "word": "greet",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "friendly",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "introduce",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "yourself",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "name",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "age",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "class",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "grade",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "student",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "meet",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "nice",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "glad",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "too",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "from",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "come",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "country",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "hobby",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "read",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "play",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "sport",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "music",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "listen",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "invite",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "expensive",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "talk to",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "brochure",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "agent",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "soon",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "raise",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "national",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "brick",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "stone",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "mountain",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "ancient",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "history",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "interest",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "holiday",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "wonderful",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "another",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "family",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "grandparent",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "grandfather",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "grandmother",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "parent",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "father",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "mother",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "uncle",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "aunt",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "cousin",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "brother",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "sister",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "son",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "daughter",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "kid",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "child",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "adult",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "man",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "woman",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "people",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "relative",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "family tree",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "happy",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "love",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "care",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "help",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "kind",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "warm",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "close",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "together",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "gather",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "dinner",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "meal",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "celebrate",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "gift",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "present",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "card",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "wish",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "bless",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "memory",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "miss",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "live",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "stay",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "with",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "together",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "separate",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "far",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "near",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "visit",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "call",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "phone",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "message",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "email",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "chat",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "communicate",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "understand",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "share",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "support",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "cheer",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "encourage",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "brave",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "strong",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "brave",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "calm",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "patient",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "honest",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "trust",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "truth",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "honest",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "kindness",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "generous",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "humorous",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "funny",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "smart",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "clever",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "bright",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "stupid",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "foolish",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "silly",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "lazy",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "hard-working",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "diligent",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "careful",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "careless",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "polite",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "impolite",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "rude",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "shy",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "outgoing",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "quiet",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "noisy",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "active",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "lazy",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "healthy",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "fit",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "ill",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "sick",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "tired",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "bored",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "excited",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "sad",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "happy",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "glad",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "pleased",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "angry",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "mad",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "worried",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "nervous",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "scared",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "afraid",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "frightened",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "surprised",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "amazed",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "proud",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "ashamed",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "sorry",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "regret",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "thankful",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "grateful",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "lucky",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "unlucky",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "fortunate",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "unfortunate",
+      "grade": "七年级",
+      "semester": "上册"
+    },
+    {
+      "word": "spring",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "summer",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "autumn",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "winter",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "season",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "weather",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "sunny",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "rainy",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "cloudy",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "windy",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "snowy",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "foggy",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "hot",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "cold",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "warm",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "cool",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "dry",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "wet",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "temperature",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "degree",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "celsius",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "freeze",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "frost",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "hail",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "thunder",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "lightning",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "storm",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "typhoon",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "hurricane",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "rainbow",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "wind",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "breeze",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "gale",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "shower",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "downpour",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "drizzle",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "snow",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "ice",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "icicle",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "skate",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "ski",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "swim",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "camp",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "hike",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "picnic",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "travel",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "trip",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "journey",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "vacation",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "holiday",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "outdoor",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "indoor",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "activity",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "hobby",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "sport",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "exercise",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "run",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "jump",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "climb",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "walk",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "jog",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "cycle",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "ride",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "drive",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "fly",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "sail",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "row",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "boat",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "ship",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "plane",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "train",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "bus",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "car",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "bike",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "bicycle",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "subway",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "underground",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "taxi",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "tram",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "ferry",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "transport",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "traffic",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "road",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "street",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "avenue",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "lane",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "highway",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "motorway",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "bridge",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "tunnel",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "crossing",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "zebra crossing",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "traffic light",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "stop",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "go",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "wait",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "slow",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "fast",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "quick",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "hurry",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "late",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "early",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "on time",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "in time",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "arrive",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "reach",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "get to",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "leave",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "depart",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "return",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "come back",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "station",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "airport",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "port",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "harbour",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "terminal",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "platform",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "gate",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "ticket",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "fare",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "price",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "cost",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "spend",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "take",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "pay",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "afford",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "cheap",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "expensive",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "dear",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "priceless",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "valuable",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "invaluable",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "time",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "clock",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "watch",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "o'clock",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "hour",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "minute",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "second",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "morning",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "afternoon",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "evening",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "night",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "midnight",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "dawn",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "dusk",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "noon",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "today",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "tomorrow",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "yesterday",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "tonight",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "tomorrow night",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "the day before yesterday",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "the day after tomorrow",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "week",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "weekday",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "weekend",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "Monday",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "Tuesday",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "Wednesday",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "Thursday",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "Friday",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "Saturday",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "Sunday",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "month",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "January",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "February",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "March",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "April",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "May",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "June",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "July",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "August",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "September",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "October",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "November",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "December",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "year",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "century",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "decade",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "spring festival",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "new year",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "christmas",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "easter",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "halloween",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "thanksgiving",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "dragon boat festival",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "mid-autumn festival",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "lantern festival",
+      "grade": "七年级",
+      "semester": "下册"
+    },
+    {
+      "word": "smile",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "cry",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "laugh",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "shout",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "yell",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "scream",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "whisper",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "talk",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "speak",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "say",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "tell",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "chat",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "discuss",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "argue",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "quarrel",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "explain",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "describe",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "introduce",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "announce",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "declare",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "report",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "inform",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "remind",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "warn",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "advise",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "suggest",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "propose",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "order",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "command",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "request",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "ask",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "beg",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "pray",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "hope",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "wish",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "expect",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "look forward to",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "plan",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "intend",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "mean",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "want",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "would like",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "need",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "dare",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "manage",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "try",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "attempt",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "fail",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "succeed",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "achieve",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "accomplish",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "finish",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "complete",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "end",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "stop",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "cease",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "quit",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "continue",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "go on",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "keep on",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "hold on",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "wait",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "pause",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "rest",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "relax",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "chill",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "calm down",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "settle down",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "hurry up",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "rush",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "hasten",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "speed up",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "slow down",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "put off",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "delay",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "postpone",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "cancel",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "call off",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "arrange",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "organize",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "prepare",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "get ready for",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "set up",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "establish",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "build",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "found",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "create",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "make",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "do",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "perform",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "conduct",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "carry out",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "fulfill",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "realize",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "achieve",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "attain",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "gain",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "win",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "earn",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "obtain",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "acquire",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "receive",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "accept",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "refuse",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "reject",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "decline",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "agree",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "disagree",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "approve",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "disapprove",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "support",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "oppose",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "back",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "defend",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "protect",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "preserve",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "save",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "rescue",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "help",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "assist",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "aid",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "support",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "encourage",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "inspire",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "motivate",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "stimulate",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "guide",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "lead",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "direct",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "conduct",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "show",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "point",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "indicate",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "point out",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "demonstrate",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "prove",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "confirm",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "verify",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "check",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "examine",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "inspect",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "survey",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "research",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "study",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "learn",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "study",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "acquire",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "master",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "grasp",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "understand",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "comprehend",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "realize",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "know",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "recognize",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "identify",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "distinguish",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "tell apart",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "compare",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "contrast",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "analyze",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "analyse",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "evaluate",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "assess",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "judge",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "criticize",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "criticise",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "praise",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "admire",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "appreciate",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "value",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "treasure",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "cherish",
+      "grade": "八年级",
+      "semester": "上册"
+    },
+    {
+      "word": "environment",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "pollution",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "pollute",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "dirty",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "clean",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "tidy",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "messy",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "waste",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "save",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "conserve",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "protect",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "preserve",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "recycle",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "reuse",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "reduce",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "renewable",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "non-renewable",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "energy",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "power",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "electricity",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "water",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "air",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "soil",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "land",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "forest",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "wood",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "tree",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "plant",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "flower",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "grass",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "bush",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "shrub",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "weed",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "crop",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "grain",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "rice",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "wheat",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "corn",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "cotton",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "fruit",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "vegetable",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "animal",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "creature",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "beast",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "bird",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "insect",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "fish",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "marine",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "ocean",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "sea",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "river",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "lake",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "pond",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "canal",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "stream",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "spring",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "well",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "mountain",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "hill",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "valley",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "canyon",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "plain",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "plateau",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "desert",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "island",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "coast",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "beach",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "shore",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "bank",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "cliff",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "rock",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "stone",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "sand",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "mud",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "dirt",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "earth",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "soil",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "ground",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "land",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "sky",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "heaven",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "cloud",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "wind",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "rain",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "snow",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "sun",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "moon",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "star",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "planet",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "galaxy",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "universe",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "nature",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "natural",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "artificial",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "man-made",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "wild",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "wildlife",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "zoo",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "farm",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "farmland",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "field",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "meadow",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "pasture",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "garden",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "park",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "yard",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "court",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "square",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "city",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "town",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "village",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "countryside",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "rural",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "urban",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "downtown",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "suburb",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "neighbourhood",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "community",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "society",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "population",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "people",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "citizen",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "resident",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "inhabitant",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "human",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "mankind",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "human being",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "life",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "living",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "alive",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "dead",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "death",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "survive",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "survival",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "exist",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "existence",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "develop",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "development",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "grow",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "growth",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "increase",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "decrease",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "rise",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "fall",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "go up",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "go down",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "improve",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "worsen",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "better",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "worse",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "change",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "alter",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "vary",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "different",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "same",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "similar",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "alike",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "unique",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "rare",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "common",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "ordinary",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "normal",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "regular",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "usual",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "average",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "typical",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "special",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "particular",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "specific",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "general",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "broad",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "wide",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "narrow",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "deep",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "shallow",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "high",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "low",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "tall",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "short",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "long",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "short",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "big",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "large",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "great",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "huge",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "enormous",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "giant",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "vast",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "wide",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "broad",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "small",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "little",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "tiny",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "minute",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "microscopic",
+      "grade": "八年级",
+      "semester": "下册"
+    },
+    {
+      "word": "ambition",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "dream",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "goal",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "aim",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "target",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "purpose",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "intention",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "wish",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "hope",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "desire",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "aspiration",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "ambitious",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "determined",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "resolute",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "firm",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "persistent",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "perseverant",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "hard-working",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "diligent",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "industrious",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "devoted",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "dedicated",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "committed",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "passionate",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "enthusiastic",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "zealous",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "eager",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "keen",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "anxious",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "worried",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "nervous",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "stressed",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "pressured",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "tense",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "relaxed",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "calm",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "composed",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "peaceful",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "serene",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "tranquil",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "confident",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "self-confident",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "proud",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "arrogant",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "humble",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "modest",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "brave",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "courageous",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "fearless",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "bold",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "daring",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "adventurous",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "careful",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "cautious",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "prudent",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "wary",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "alert",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "vigilant",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "careless",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "reckless",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "foolish",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "stupid",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "silly",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "wise",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "intelligent",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "clever",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "smart",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "bright",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "brilliant",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "genius",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "talented",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "gifted",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "capable",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "able",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "competent",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "skilled",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "skillful",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "expert",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "proficient",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "experienced",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "inexperienced",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "novice",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "beginner",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "amateur",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "professional",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "success",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "successful",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "succeed",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "failure",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "fail",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "defeat",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "beat",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "win",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "lose",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "victory",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "triumph",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "challenge",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "difficulty",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "hardship",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "trouble",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "problem",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "issue",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "matter",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "affair",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "business",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "concern",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "worry",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "anxiety",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "stress",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "pressure",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "burden",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "load",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "duty",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "responsibility",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "obligation",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "task",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "job",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "work",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "labour",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "effort",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "endeavour",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "struggle",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "fight",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "battle",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "war",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "conflict",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "dispute",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "argument",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "quarrel",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "difference",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "disagreement",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "agreement",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "harmony",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "peace",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "unity",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "cooperation",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "collaboration",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "teamwork",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "support",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "help",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "assistance",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "aid",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "encouragement",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "inspiration",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "motivation",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "guidance",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "advice",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "suggestion",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "tip",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "recommendation",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "proposal",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "plan",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "strategy",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "tactic",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "method",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "way",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "means",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "approach",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "technique",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "skill",
+      "grade": "九年级",
+      "semester": "上册"
+    },
+    {
+      "word": "culture",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "cultural",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "civilization",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "civilised",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "custom",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "tradition",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "traditional",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "habit",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "practice",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "convention",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "ceremony",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "ritual",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "festival",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "celebration",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "celebrate",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "holiday",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "vacation",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "feast",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "banquet",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "dinner",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "meal",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "food",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "cuisine",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "dish",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "recipe",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "ingredient",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "spice",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "flavour",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "taste",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "smell",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "aroma",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "fragrance",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "savour",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "delicious",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "tasty",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "yummy",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "palatable",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "appetizing",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "unpalatable",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "bland",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "tasteless",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "spicy",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "sweet",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "sour",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "bitter",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "salty",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "umami",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "hot",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "cold",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "warm",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "cool",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "cook",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "bake",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "fry",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "boil",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "steam",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "roast",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "grill",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "barbecue",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "simmer",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "stew",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "braise",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "mix",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "blend",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "stir",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "whisk",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "chop",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "cut",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "slice",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "dice",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "mince",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "peel",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "chop",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "grate",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "mash",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "crush",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "break",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "smash",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "destroy",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "ruin",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "damage",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "harm",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "hurt",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "injure",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "wound",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "bruise",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "scrape",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "cut",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "bleed",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "heal",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "cure",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "treat",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "recovery",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "recover",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "ill",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "sick",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "illness",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "sickness",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "disease",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "disorder",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "syndrome",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "symptom",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "pain",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "ache",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "hurt",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "sore",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "tired",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "exhausted",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "worn out",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "fatigued",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "sleepy",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "asleep",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "awake",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "wake",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "waken",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "awaken",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "sleep",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "rest",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "nap",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "doze",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "slumber",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "dream",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "nightmare",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "insomnia",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "healthy",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "fit",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "well",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "fine",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "sound",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "vigorous",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "energetic",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "dynamic",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "lively",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "active",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "strong",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "robust",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "sturdy",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "tough",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "weak",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "feeble",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "frail",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "sickly",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "delicate",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "fragile",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "vulnerable",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "resilient",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "immune",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "resistance",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "resist",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "defend",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "protect",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "preserve",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "save",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "rescue",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "survive",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "live",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "exist",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "breath",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "breathe",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "respire",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "oxygen",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "carbon",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "dioxide",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "air",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "atmosphere",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "environment",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "nature",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "world",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "globe",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "earth",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "planet",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "universe",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "galaxy",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "star",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "sun",
+      "grade": "九年级",
+      "semester": "下册"
+    },
+    {
+      "word": "moon",
+      "grade": "九年级",
+      "semester": "下册"
+    }
+  ]
+}

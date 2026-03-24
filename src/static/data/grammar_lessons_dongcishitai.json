@@ -1,0 +1,2161 @@
+{
+  "grammar_topics": [
+    {
+      "id": "verb_tenses",
+      "name": "8-动词时态-十二种时态全覆盖",
+      "icon": "clock",
+      "color": "#e74c3c",
+      "lessons": [
+        {
+          "id": "verb_tenses_1",
+          "title": "1-一般现在时",
+          "content": "### 一般现在时的核心定义\n一般现在时表**经常性、习惯性的动作或状态**，也可表客观真理、科学事实、永恒不变的规律，是初中英语时态的基础考点，中考单选、完形、语篇填空均会高频考查。\n\n### 一般现在时的构成（核心框架）\n#### 1. 肯定句\n- 主语为第一/二人称单复数（I/we/you/they）、复数名词：动词用原形；\n  例：I get up at 6 every day.（我每天6点起床）；They play football after school.（他们放学后踢足球）；\n- 主语为第三人称单数（he/she/it/单数名词/不可数名词）：动词加-s/-es（规则见下文）；\n  例：He gets up at 6 every day.（他每天6点起床）；The sun rises in the east.（太阳从东方升起）。\n\n#### 2. 否定句\n- 主语为I/we/you/they/复数名词：主语+don’t+动词原形；\n  例：We don’t watch TV on weekdays.（我们工作日不看电视）；\n- 主语为he/she/it/单数名词：主语+doesn’t+动词原形（注意：doesn’t后动词要还原）；\n  例：She doesn’t like coffee.（她不喜欢咖啡）。\n\n#### 3. 一般疑问句\n- 主语为I/we/you/they/复数名词：Do+主语+动词原形+其他？；\n  例：Do you go to school by bike?（你骑自行车上学吗？）；\n- 主语为he/she/it/单数名词：Does+主语+动词原形+其他？；\n  例：Does he finish his homework on time?（他按时完成作业吗？）。\n\n### 动词第三人称单数变化规则（中考必考）\n1. 一般情况直接加-s：play→plays、read→reads、walk→walks；\n2. 以s/x/ch/sh/o结尾加-es：miss→misses、fix→fixes、watch→watches、wash→washes、go→goes；\n3. 以辅音字母+y结尾，变y为i加-es：study→studies、fly→flies、try→tries；\n   （以元音字母+y结尾直接加-s：play→plays、stay→stays）；\n4. 不规则变化（需死记）：have→has、be→is、do→does、go→goes。\n\n### 一般现在时的核心用法（按场景分类）\n#### 用法1：表经常性、习惯性的动作/状态（最核心）\n常搭配时间状语：every day/week/month/year（每天/周/月/年）、usually（通常）、often（经常）、always（总是）、sometimes（有时）、never（从不）、seldom（很少）。\n例：I usually have milk for breakfast.（我早餐通常喝牛奶）；She never late for school.（她上学从不迟到）。\n\n#### 用法2：表客观真理、科学事实、自然规律\n这类表述不受时间限制，永远成立，一律用一般现在时。\n例：The earth goes around the sun.（地球绕太阳转）；Water boils at 100℃.（水在100摄氏度沸腾）。\n\n#### 用法3：表现阶段的状态/特征（无时间状语也可判断）\n描述主语的性格、能力、爱好、身份等稳定状态。\n例：He is tall and strong.（他又高又壮）；She speaks English very well.（她英语说得很好）；I like music.（我喜欢音乐）。\n\n#### 用法4：在条件/时间状语从句中，表将来动作（主将从现）\n主句用一般将来时，从句（if/when/as soon as等引导）用一般现在时表将来。\n例：If it rains tomorrow, we will stay at home.（如果明天下雨，我们就待在家）；I will call you when I get to Beijing.（我到北京就给你打电话）。\n\n### 一般现在时的使用注意事项\n1. 第三人称单数是易错点，需先判断主语是否为三单，再变动词；\n2. “主将从现”是中考核心考点，从句绝不能用将来时；\n3. be动词的一般现在时：I am/you are/he/she/it is/we are/they are，否定直接加not，疑问把be提前。",
+          "examples": [
+            {
+              "sentence": "I often play basketball with my friends on weekends.",
+              "translation": "我经常在周末和朋友们打篮球。",
+              "analysis": "often表经常性动作，主语I不是第三人称单数，动词用原形play；时间状语on weekends进一步印证一般现在时。"
+            },
+            {
+              "sentence": "She watches TV for half an hour every evening.",
+              "translation": "她每天晚上看半小时电视。",
+              "analysis": "every evening表习惯性动作，主语she是第三人称单数，动词watch变第三人称单数watches（以ch结尾加-es）。"
+            },
+            {
+              "question": "Light travels faster than sound.",
+              "translation": "光比声音传播得快。",
+              "analysis": "这是客观真理，不受时间限制，一律用一般现在时；主语light是不可数名词（三单），动词travel变travels。"
+            },
+            {
+              "sentence": "If he comes tomorrow, we will have a party.",
+              "translation": "如果他明天来，我们就举办派对。",
+              "analysis": "if引导条件状语从句，主句用一般将来时（will have），从句用一般现在时表将来；主语he是三单，动词come变comes。"
+            },
+            {
+              "sentence": "My mother doesn't like spicy food.",
+              "translation": "我妈妈不喜欢吃辣的食物。",
+              "analysis": "主语my mother是三单，否定句用doesn’t+动词原形like（注意doesn’t后动词还原，不能写likes）。"
+            },
+            {
+              "sentence": "Do you go to school by bus every day?",
+              "translation": "你每天坐公交车上学吗？",
+              "analysis": "主语you不是三单，一般疑问句用Do+主语+动词原形go；时间状语every day印证一般现在时。"
+            },
+            {
+              "sentence": "He has a new pen. It is blue.",
+              "translation": "他有一支新钢笔，是蓝色的。",
+              "analysis": "主语he是三单，have的三单形式是has（不规则变化）；be动词is对应主语it（三单），表现阶段状态。"
+            },
+            {
+              "sentence": "They never eat fast food because it's unhealthy.",
+              "translation": "他们从不吃快餐，因为不健康。",
+              "analysis": "never表习惯性否定，主语they不是三单，动词用原形eat；because引导原因状语从句，从句也用一般现在时。"
+            },
+            {
+              "sentence": "Does Tom study hard at school?",
+              "translation": "汤姆在学校学习努力吗？",
+              "analysis": "主语Tom是三单，一般疑问句用Does+主语+动词原形study（注意study还原，不能写studies）。"
+            },
+            {
+              "sentence": "When she finishes her homework, she usually reads a book.",
+              "translation": "她完成作业后，通常会读一本书。",
+              "analysis": "when引导时间状语从句，主从句均表习惯性动作，都用一般现在时；主语she是三单，finish变finishes，read变reads。"
+            }
+          ],
+          "exercises": [
+            {
+              "question": "He usually ___ (get) up at 7 o'clock in the morning.（用所给词的适当形式填空）",
+              "options": {"A": "get", "B": "gets", "C": "got"},
+              "answer": "B",
+              "explanation": "usually表经常性动作，用一般现在时；主语he是第三人称单数，动词get变第三人称单数gets（一般情况加-s）。"
+            },
+            {
+              "question": "___ you ___ (like) swimming in summer?（用所给词的适当形式填空）",
+              "options": {"A": "Do; like", "B": "Does; like", "C": "Did; like"},
+              "answer": "A",
+              "explanation": "主语you不是第三人称单数，一般现在时的一般疑问句用Do+主语+动词原形like；in summer表经常性动作场景。"
+            },
+            {
+              "question": "The moon ___ (go) around the earth.（用所给词的适当形式填空）",
+              "options": {"A": "go", "B": "goes", "C": "will go"},
+              "answer": "B",
+              "explanation": "这是客观真理，用一般现在时；主语the moon是三单，动词go变goes（以o结尾加-es，不规则变化也需记忆）。"
+            },
+            {
+              "question": "She ___ (not watch) TV on school days.（用所给词的适当形式填空）",
+              "options": {"A": "don't watch", "B": "doesn't watch", "C": "didn't watch"},
+              "answer": "B",
+              "explanation": "on school days表习惯性动作，用一般现在时；主语she是三单，否定句用doesn’t+动词原形watch。"
+            },
+            {
+              "question": "If it ___ (rain) tomorrow, we won't go hiking.",
+              "options": {"A": "rain", "B": "rains", "C": "will rain"},
+              "answer": "B",
+              "explanation": "if引导条件状语从句，主句用一般将来时（won’t go），从句用一般现在时表将来；主语it是三单，动词rain变rains。"
+            },
+            {
+              "question": "My sister ___ (study) English very hard every day.",
+              "options": {"A": "study", "B": "studies", "C": "studying"},
+              "answer": "B",
+              "explanation": "every day表习惯性动作，用一般现在时；主语my sister是三单，动词study变studies（以辅音字母+y结尾，变y为i加-es）。"
+            },
+            {
+              "question": "They ___ (be) from China. They ___ (speak) Chinese.",
+              "options": {"A": "are; speak", "B": "is; speaks", "C": "were; spoke"},
+              "answer": "A",
+              "explanation": "表身份和能力的稳定状态，用一般现在时；主语they是复数，be动词用are，动词speak用原形。"
+            },
+            {
+              "question": "___ your father ___ (work) in a hospital?",
+              "options": {"A": "Do; work", "B": "Does; work", "C": "Does; works"},
+              "answer": "B",
+              "explanation": "主语your father是三单，一般现在时的一般疑问句用Does+主语+动词原形work（注意works要还原成work）。"
+            },
+            {
+              "question": "I ___ (never eat) ice cream in winter because it's too cold.",
+              "options": {"A": "never eat", "B": "never eats", "C": "never ate"},
+              "answer": "A",
+              "explanation": "never表习惯性否定，用一般现在时；主语I不是三单，动词用原形eat。"
+            },
+            {
+              "question": "When Tom ___ (arrive) at school, he always says hello to his teacher.",
+              "options": {"A": "arrive", "B": "arrives", "C": "will arrive"},
+              "answer": "B",
+              "explanation": "when引导时间状语从句，主从句均表习惯性动作，用一般现在时；主语Tom是三单，动词arrive变arrives。"
+            },
+            {
+              "question": "This kind of apple ___ (taste) very sweet.",
+              "options": {"A": "taste", "B": "tastes", "C": "tasted"},
+              "answer": "B",
+              "explanation": "表事物的特征（味道），用一般现在时；主语this kind of apple是三单，动词taste变tastes。"
+            },
+            {
+              "question": "We ___ (not play) computer games on weekdays.",
+              "options": {"A": "don't play", "B": "doesn't play", "C": "aren't play"},
+              "answer": "A",
+              "explanation": "on weekdays表习惯性否定，用一般现在时；主语we不是三单，否定句用don’t+动词原形play（play是实义动词，不能用aren’t）。"
+            },
+            {
+              "question": "Lucy ___ (have) a cat. Its name is Mimi.",
+              "options": {"A": "have", "B": "has", "C": "had"},
+              "answer": "B",
+              "explanation": "表现阶段的状态（拥有），用一般现在时；主语Lucy是三单，have的三单形式是has（不规则变化）。"
+            },
+            {
+              "question": "___ the sun ___ (rise) in the west?（常识题+语法）",
+              "options": {"A": "Do; rise", "B": "Does; rise", "C": "Does; rises"},
+              "answer": "B",
+              "explanation": "客观真理用一般现在时；主语the sun是三单，一般疑问句用Does+主语+动词原形rise（太阳从东方升起，这题是干扰，但语法上选B）。"
+            },
+            {
+              "question": "As soon as he ___ (come) back, I ___ (tell) you the news.",
+              "options": {"A": "come; tell", "B": "comes; will tell", "C": "will come; tell"},
+              "answer": "B",
+              "explanation": "as soon as引导时间状语从句，遵循“主将从现”；从句主语he是三单，用comes，主句用will tell。"
+            },
+            {
+              "question": "My brother ___ (watch) TV every evening, but he ___ (not watch) it now.",
+              "options": {"A": "watches; doesn't watch", "B": "watch; don't watch", "C": "watches; isn't watching"},
+              "answer": "C",
+              "explanation": "第一空every evening表习惯性动作，用一般现在时，主语my brother是三单，用watches；第二空now表现在进行时，用isn’t watching（干扰项A是陷阱，注意时间状语now）。"
+            },
+            {
+              "question": "She ___ (teach) us math. She is a good teacher.",
+              "options": {"A": "teach", "B": "teaches", "C": "taught"},
+              "answer": "B",
+              "explanation": "表职业（教数学）的稳定状态，用一般现在时；主语she是三单，动词teach变teaches（以ch结尾加-es）。"
+            },
+            {
+              "question": "They ___ (go) to the park every Sunday.",
+              "options": {"A": "go", "B": "goes", "C": "went"},
+              "answer": "A",
+              "explanation": "every Sunday表习惯性动作，用一般现在时；主语they是复数，动词用原形go。"
+            },
+            {
+              "question": "Why ___ he ___ (like) pandas? Because they are cute.",
+              "options": {"A": "do; like", "B": "does; like", "C": "does; likes"},
+              "answer": "B",
+              "explanation": "主语he是三单，特殊疑问句用Why+does+主语+动词原形like；答句表客观特征，也用一般现在时。"
+            },
+            {
+              "question": "The students ___ (clean) the classroom every day after school.",
+              "options": {"A": "clean", "B": "cleans", "C": "cleaning"},
+              "answer": "A",
+              "explanation": "every day after school表经常性动作，用一般现在时；主语the students是复数，动词用原形clean。"
+            }
+          ]
+        },
+        {
+          "id": "verb_tenses_2",
+          "title": "2-一般过去时",
+          "content": "### 一般过去时的核心定义\n一般过去时表**过去某个时间发生的动作或存在的状态**，也可表过去经常性、习惯性的动作，是初中英语时态的重点考点，中考完形、语篇填空、书面表达中考查频率极高。\n\n### 一般过去时的构成（核心框架）\n#### 1. 肯定句\n- 实义动词：主语+动词过去式+其他；\n  例：I played football yesterday.（我昨天踢了足球）；She went to Beijing last week.（她上周去了北京）；\n- be动词：主语+was/were+其他（I/he/she/it用was；we/you/they用were）；\n  例：He was happy yesterday.（他昨天很开心）；They were at home last night.（他们昨晚在家）。\n\n#### 2. 否定句\n- 实义动词：主语+didn’t+动词原形+其他（didn’t后动词必须还原）；\n  例：I didn’t watch TV last night.（我昨晚没看电视）；\n- be动词：主语+wasn’t/weren’t+其他；\n  例：She wasn’t late for school yesterday.（她昨天上学没迟到）；They weren’t in the park just now.（他们刚才不在公园）。\n\n#### 3. 一般疑问句\n- 实义动词：Did+主语+动词原形+其他？；\n  例：Did you finish your homework yesterday?（你昨天完成作业了吗？）；\n- be动词：Was/Were+主语+其他？；\n  例：Was he at school this morning?（他今天早上在学校吗？）；Were they happy at the party?（他们在派对上开心吗？）。\n\n### 动词过去式变化规则（中考必考，分规则/不规则）\n#### 规则变化（占80%）\n1. 一般情况直接加-ed：play→played、walk→walked、look→looked；\n2. 以e结尾加-d：live→lived、like→liked、hope→hoped；\n3. 以辅音字母+y结尾，变y为i加-ed：study→studied、cry→cried、try→tried；\n   （以元音字母+y结尾直接加-ed：play→played、stay→stayed）；\n4. 重读闭音节结尾（辅+元+辅），双写末尾辅音加-ed：stop→stopped、plan→planned、shop→shopped。\n\n#### 不规则变化（需死记，中考高频）\nam/is→was、are→were、do→did、go→went、have→had、eat→ate、see→saw、take→took、get→got、make→made、say→said、tell→told、come→came、run→ran、write→wrote。\n\n### 一般过去时的核心用法（按场景分类）\n#### 用法1：表过去某个具体时间发生的动作/状态\n常搭配时间状语：yesterday（昨天）、last week/month/year（上周/月/年）、just now（刚才）、a moment ago（片刻前）、in 2020（在2020年）、this morning（今天早上，已过去）。\n例：He bought a new bike yesterday.（他昨天买了一辆新自行车）；I was born in 2010.（我2010年出生）。\n\n#### 用法2：表过去经常性、习惯性的动作\n常搭配时间状语：used to（过去常常）、every day last year（去年每天）、in the past（在过去）。\n例：She used to walk to school.（她过去常常步行上学）；We played basketball every day last summer.（去年夏天我们每天打篮球）。\n\n#### 用法3：在过去的语境中，描述连续发生的动作\n多个动作按顺序发生，均用一般过去时。\n例：He got up, brushed his teeth and had breakfast.（他起床、刷牙、吃早饭，三个动作均发生在过去）。\n\n#### 用法4：在宾语从句中，主句为过去时，从句也用过去时（时态一致）\n例：She said she liked English very much.（她说她非常喜欢英语，主句said是过去时，从句like变liked）。\n\n### 一般过去时的使用注意事项\n1. didn’t后动词必须还原，不能用过去式（错→I didn’t played；对→I didn’t play）；\n2. 时间状语是判断一般过去时的关键，看到yesterday/last.../just now等，优先用过去时；\n3. 不规则动词的过去式是易错点，需分类记忆（如go-went、eat-ate）；\n4. be动词的过去式（was/were）无需加did，否定直接加not，疑问直接提前。",
+          "examples": [
+            {
+              "sentence": "I visited my grandparents last weekend.",
+              "translation": "我上周末去看望了我的祖父母。",
+              "analysis": "last weekend表过去具体时间，用一般过去时；动词visit的过去式是visited（一般情况加-ed）。"
+            },
+            {
+              "sentence": "She wasn't at home just now. She went to the supermarket.",
+              "translation": "她刚才不在家，她去超市了。",
+              "analysis": "just now表过去时间，be动词用wasn’t（对应she）；go的过去式是went（不规则变化），表过去发生的动作。"
+            },
+            {
+              "sentence": "Did you watch the football match yesterday evening?",
+              "translation": "你昨晚看足球比赛了吗？",
+              "analysis": "yesterday evening表过去时间，实义动词的一般疑问句用Did+主语+动词原形watch（watch还原，不能写watched）。"
+            },
+            {
+              "sentence": "He studied hard and passed the exam last month.",
+              "translation": "他上个月努力学习，通过了考试。",
+              "analysis": "last month表过去时间，两个连续动作（studied/passed）均用一般过去时；study的过去式studied（以辅音字母+y结尾，变y为i加-ed）。"
+            },
+            {
+              "sentence": "They played basketball every day in the summer holiday last year.",
+              "translation": "去年暑假他们每天打篮球。",
+              "analysis": "last year表过去时间，every day表过去习惯性动作，用一般过去时；play的过去式played（一般情况加-ed）。"
+            },
+            {
+              "sentence": "My mother didn't cook dinner yesterday. We ate out.",
+              "translation": "我妈妈昨天没做晚饭，我们出去吃的。",
+              "analysis": "yesterday表过去时间，实义动词的否定句用didn’t+动词原形cook；eat的过去式ate（不规则变化）。"
+            },
+            {
+              "sentence": "Was Tom late for the meeting this morning?",
+              "translation": "汤姆今天早上开会迟到了吗？",
+              "analysis": "this morning表过去时间（已过），be动词的一般疑问句用Was+主语Tom（三单）；late是形容词，作表语。"
+            },
+            {
+              "sentence": "She used to read books before going to bed.",
+              "translation": "她过去常常睡前看书。",
+              "analysis": "used to表过去习惯性动作，后接动词原形read；这是一般过去时的特殊表达，无需变read的形式。"
+            },
+            {
+              "sentence": "The rain stopped an hour ago. Now it's sunny.",
+              "translation": "一小时前雨停了，现在天晴了。",
+              "analysis": "an hour ago表过去时间，stop的过去式stopped（重读闭音节，双写p加-ed）；now表现在，用一般现在时，形成对比。"
+            },
+            {
+              "sentence": "He said he had a good time in Beijing.",
+              "translation": "他说他在北京玩得很开心。",
+              "analysis": "主句said是过去时，宾语从句需时态一致，have的过去式had（不规则变化），表过去的状态。"
+            }
+          ],
+          "exercises": [
+            {
+              "question": "I ___ (go) to the cinema with my friend yesterday.",
+              "options": {"A": "go", "B": "went", "C": "will go"},
+              "answer": "B",
+              "explanation": "yesterday表过去时间，用一般过去时；go的过去式是went（不规则变化）。"
+            },
+            {
+              "question": "___ you ___ (see) the film last night?",
+              "options": {"A": "Do; see", "B": "Did; see", "C": "Did; saw"},
+              "answer": "B",
+              "explanation": "last night表过去时间，实义动词的一般疑问句用Did+主语+动词原形see（saw要还原成see）。"
+            },
+            {
+              "question": "She ___ (not finish) her homework just now.",
+              "options": {"A": "didn't finish", "B": "doesn't finish", "C": "isn't finish"},
+              "answer": "A",
+              "explanation": "just now表过去时间，实义动词的否定句用didn’t+动词原形finish（finish是实义动词，不能用isn’t）。"
+            },
+            {
+              "question": "Tom ___ (be) born in 2005. He ___ (be) 18 years old now.",
+              "options": {"A": "is; is", "B": "was; is", "C": "was; was"},
+              "answer": "B",
+              "explanation": "第一空in 2005表过去时间，主语Tom是三单，be动词用was；第二空now表现在，用is。"
+            },
+            {
+              "question": "They ___ (play) football on the playground an hour ago.",
+              "options": {"A": "play", "B": "played", "C": "are playing"},
+              "answer": "B",
+              "explanation": "an hour ago表过去时间，用一般过去时；play的过去式是played（一般情况加-ed）。"
+            },
+            {
+              "question": "My father ___ (work) in a factory last year, but now he ___ (work) in a company.",
+              "options": {"A": "worked; works", "B": "works; worked", "C": "worked; worked"},
+              "answer": "A",
+              "explanation": "第一空last year表过去，用worked；第二空now表现在，主语my father是三单，用works。"
+            },
+            {
+              "question": "___ he ___ (have) breakfast at 7 this morning?",
+              "options": {"A": "Do; have", "B": "Does; have", "C": "Did; have"},
+              "answer": "C",
+              "explanation": "this morning表过去时间（已过），实义动词的一般疑问句用Did+主语+动词原形have（have还原）。"
+            },
+            {
+              "question": "She ___ (study) English hard and ___ (pass) the exam last week.",
+              "options": {"A": "studied; passed", "B": "studies; passes", "C": "study; pass"},
+              "answer": "A",
+              "explanation": "last week表过去时间，两个连续动作均用一般过去时；study变studied（辅音+y结尾），pass变passed（一般情况）。"
+            },
+            {
+              "question": "The little girl ___ (cry) because she ___ (lose) her toy yesterday.",
+              "options": {"A": "cried; lost", "B": "cries; loses", "C": "cry; lose"},
+              "answer": "A",
+              "explanation": "yesterday表过去时间，用一般过去时；cry变cried（辅音+y结尾），lose的过去式lost（不规则）。"
+            },
+            {
+              "question": "We ___ (not go) to the park last Sunday. We ___ (stay) at home.",
+              "options": {"A": "didn't go; stayed", "B": "don't go; stay", "C": "didn't went; stayed"},
+              "answer": "A",
+              "explanation": "last Sunday表过去，第一空否定用didn’t+原形go（不能写went）；第二空stay的过去式stayed（一般情况）。"
+            },
+            {
+              "question": "He ___ (stop) his car and ___ (get) off just now.",
+              "options": {"A": "stopped; got", "B": "stop; get", "C": "stops; gets"},
+              "answer": "A",
+              "explanation": "just now表过去，stop的过去式stopped（重读闭音节，双写p）；get的过去式got（不规则）。"
+            },
+            {
+              "question": "___ they ___ (be) in the library yesterday afternoon?",
+              "options": {"A": "Are; be", "B": "Were; /", "C": "Did; be"},
+              "answer": "B",
+              "explanation": "yesterday afternoon表过去，主语they是复数，be动词的一般疑问句用Were+主语（be动词无需加did）。"
+            },
+            {
+              "question": "I ___ (see) a dog in the street yesterday. It ___ (be) black and white.",
+              "options": {"A": "saw; was", "B": "see; is", "C": "saw; is"},
+              "answer": "A",
+              "explanation": "yesterday表过去，see的过去式saw（不规则）；主语it是三单，be动词用was。"
+            },
+            {
+              "question": "She used to ___ (walk) to school, but now she ___ (ride) a bike.",
+              "options": {"A": "walk; rides", "B": "walked; rode", "C": "walking; riding"},
+              "answer": "A",
+              "explanation": "used to后接动词原形walk（表过去习惯）；now表现在，主语she是三单，ride变rides。"
+            },
+            {
+              "question": "My mother ___ (cook) a big dinner for us last night. It ___ (taste) delicious.",
+              "options": {"A": "cooked; tasted", "B": "cooks; tastes", "C": "cook; taste"},
+              "answer": "A",
+              "explanation": "last night表过去，cook变cooked（一般情况）；taste变tasted（一般情况），表过去的味道。"
+            },
+            {
+              "question": "He ___ (tell) me that he ___ (visit) his uncle next week.（时态陷阱）",
+              "options": {"A": "told; will visit", "B": "told; would visit", "C": "tells; will visit"},
+              "answer": "B",
+              "explanation": "主句told是过去时，宾语从句表将来（next week）需用过去将来时would visit（时态一致）。"
+            },
+            {
+              "question": "They ___ (live) in Shanghai five years ago.",
+              "options": {"A": "live", "B": "lived", "C": "living"},
+              "answer": "B",
+              "explanation": "five years ago表过去时间，用一般过去时；live的过去式lived（以e结尾加-d）。"
+            },
+            {
+              "question": "___ you ___ (make) a cake for your mother's birthday last month?",
+              "options": {"A": "Did; make", "B": "Do; make", "C": "Does; make"},
+              "answer": "A",
+              "explanation": "last month表过去，实义动词的一般疑问句用Did+主语+动词原形make（make还原）。"
+            },
+            {
+              "question": "The boy ___ (run) fast and ___ (win) the race yesterday.",
+              "options": {"A": "ran; won", "B": "run; win", "C": "runs; wins"},
+              "answer": "A",
+              "explanation": "yesterday表过去，run的过去式ran（不规则）；win的过去式won（不规则）。"
+            },
+            {
+              "question": "We ___ (not watch) TV last night because the TV ___ (not work).",
+              "options": {"A": "didn't watch; didn't work", "B": "don't watch; doesn't work", "C": "didn't watched; didn't worked"},
+              "answer": "A",
+              "explanation": "last night表过去，否定句用didn’t+动词原形（watch和work均还原）。"
+            }
+          ]
+        },
+        {
+          "id": "verb_tenses_3",
+          "title": "3-一般将来时",
+          "content": "### 一般将来时的核心定义\n一般将来时表**将来某个时间要发生的动作或存在的状态**，也可表将来经常性、习惯性的动作，是初中英语时态的核心考点，中考单选、书面表达中考查频率最高。\n\n### 一般将来时的构成（四大核心结构，中考全考）\n#### 结构1：will+动词原形（最通用，无人称限制）\n- 肯定句：主语+will+动词原形+其他；\n  例：I will go to Beijing tomorrow.（我明天要去北京）；They will play football after school.（他们放学后要踢足球）；\n- 否定句：主语+won’t（will not）+动词原形+其他；\n  例：She won’t come to the party tonight.（她今晚不来派对）；\n- 一般疑问句：Will+主语+动词原形+其他？（肯定回答：Yes, 主语+will；否定：No, 主语+won’t）；\n  例：Will you go shopping this weekend?（你这周末要去购物吗？）→Yes, I will./No, I won’t.\n\n#### 结构2：be going to+动词原形（表计划/打算/有迹象要发生）\n- 肯定句：主语+am/is/are+going to+动词原形+其他；\n  例：I am going to learn English well.（我打算学好英语）；It is going to rain.（要下雨了，有迹象）；\n- 否定句：主语+am/is/are+not+going to+动词原形+其他；\n  例：We are not going to have a picnic tomorrow.（我们明天不打算野餐）；\n- 一般疑问句：Am/Is/Are+主语+going to+动词原形+其他？；\n  例：Is she going to see a film tonight?（她今晚要去看电影吗？）→Yes, she is./No, she isn’t.\n\n#### 结构3：shall+动词原形（仅主语为I/we，正式/征求意见）\n- 肯定句：I/We+shall+动词原形+其他；\n  例：We shall meet at the school gate.（我们将在校门口见面）；\n- 疑问句：Shall I/we+动词原形+其他？（征求对方意见）；\n  例：Shall we go for a walk?（我们去散步好吗？）→Yes, let’s./No, let’s not.\n\n#### 结构4：现在进行时表将来（表计划好的、即将发生的动作，限移动性动词）\n- 动词范围：go/come/leave/arrive/start/return等移动性动词；\n- 结构：主语+am/is/are+doing+其他；\n  例：He is leaving for Shanghai tomorrow.（他明天要动身去上海）；She is coming to see us this evening.（她今晚要来看我们）。\n\n### 一般将来时的核心用法（按结构分类）\n#### 用法1：will+原形（表纯粹将来、临时决定、预测）\n- 纯粹将来：I will be 15 next year.（我明年就15岁了）；\n- 临时决定：A: I’m thirsty. B: I will get you some water.（A：我渴了 B：我去给你拿水，临时决定）；\n- 预测（无证据，凭感觉）：I think it will be sunny tomorrow.（我觉得明天会晴天）。\n\n#### 用法2：be going to+原形（表计划/打算、有迹象的预测）\n- 计划/打算（提前安排）：She is going to take piano lessons next month.（她下个月打算上钢琴课）；\n- 有迹象预测：Look at the dark clouds. It is going to rain.（看乌云，要下雨了，有明显迹象）。\n\n#### 用法3：shall+原形（I/we，正式/征求意见）\n- 正式场合：We shall finish the work on time.（我们将按时完成工作）；\n- 征求意见：Shall I open the window?（我开窗好吗？）。\n\n#### 用法4：现在进行时表将来（计划好的、即将发生）\n- 必须是移动性动词，且有明确将来时间状语：My parents are coming back this weekend.（我父母这周末要回来，计划好的）。\n\n### 一般将来时的时间状语（中考必考）\ntomorrow（明天）、next week/month/year（下周/月/年）、soon（很快）、in+一段时间（多久后，如in 3 days）、in the future（将来）、this evening/weekend（今晚/周末）。\n\n### 一般将来时的使用注意事项\n1. will/shall后永远接动词原形，不能加-s/-ed；\n2. be going to中，be动词要根据主语变am/is/are；\n3. “in+一段时间”用将来时，对其提问用how soon（多久后）；\n4. 条件/时间状语从句中，主句用将来时，从句用一般现在时（主将从现）；\n5. will和be going to的区别：will表临时/预测，be going to表计划/有迹象。",
+          "examples": [
+            {
+              "sentence": "I will visit my grandparents next Sunday.",
+              "translation": "我下周日要去看望我的祖父母。",
+              "analysis": "next Sunday表将来时间，用will+动词原形visit；表纯粹的将来动作，无提前计划的暗示。"
+            },
+            {
+              "sentence": "She is going to take a trip to Hangzhou this summer holiday.",
+              "translation": "她今年暑假打算去杭州旅行。",
+              "analysis": "this summer holiday表将来，be going to+take表提前的计划/打算；主语she是三单，be动词用is。"
+            },
+            {
+              "sentence": "Look! The sky is dark. It is going to rain.",
+              "translation": "看！天变黑了，要下雨了。",
+              "analysis": "有明显迹象（天变黑）预测将来，用be going to+rain；主语it是三单，be动词用is。"
+            },
+            {
+              "sentence": "Shall we go to the cinema this evening?",
+              "translation": "我们今晚去看电影好吗？",
+              "analysis": "shall用于主语we，表征求对方意见；后接动词原形go，时间状语this evening表将来。"
+            },
+            {
+              "sentence": "He is leaving for Beijing tomorrow morning.",
+              "translation": "他明天早上要动身去北京。",
+              "analysis": "leave是移动性动词，用现在进行时（is leaving）表将来；表计划好的、即将发生的动作，时间状语tomorrow morning印证。"
+            },
+            {
+              "sentence": "A: I forgot to bring my pen. B: Don't worry. I will lend you mine.",
+              "translation": "A：我忘带钢笔了 B：别担心，我把我的借给你。",
+              "analysis": "B的回答是临时决定的动作，用will+lend；无提前计划，纯粹的将来回应。"
+            },
+            {
+              "sentence": "They won't go to school next Monday because it's National Day.",
+              "translation": "他们下周一不上学，因为是国庆节。",
+              "analysis": "next Monday表将来，否定句用won’t+动词原形go；will的否定形式是won’t，后接原形。"
+            },
+            {
+              "sentence": "Will you finish your homework in an hour?",
+              "translation": "你一小时后能完成作业吗？",
+              "analysis": "in an hour表将来，一般疑问句用Will+主语+动词原形finish；对in+一段时间提问用how soon。"
+            },
+            {
+              "sentence": "My sister is coming to my school tomorrow to meet my teacher.",
+              "translation": "我姐姐明天要来我的学校见我的老师。",
+              "analysis": "come是移动性动词，用现在进行时（is coming）表将来；表计划好的动作，时间状语tomorrow。"
+            },
+            {
+              "sentence": "If it doesn't rain tomorrow, we will have a sports meeting.",
+              "translation": "如果明天不下雨，我们就开运动会。",
+              "analysis": "if引导条件状语从句，主句用will have（将来时），从句用doesn’t rain（一般现在时），遵循“主将从现”。"
+            }
+          ],
+          "exercises": [
+            {
+              "question": "I ___ (visit) my uncle in Shanghai next month.",
+              "options": {"A": "visit", "B": "visited", "C": "will visit"},
+              "answer": "C",
+              "explanation": "next month表将来时间，用一般将来时will+动词原形visit。"
+            },
+            {
+              "question": "___ you ___ (go) shopping with me this afternoon?",
+              "options": {"A": "Will; go", "B": "Do; go", "C": "Did; go"},
+              "answer": "A",
+              "explanation": "this afternoon表将来，一般疑问句用Will+主语+动词原形go（征求对方意愿）。"
+            },
+            {
+              "question": "It ___ (rain) soon. Take an umbrella with you.",
+              "options": {"A": "rains", "B": "rained", "C": "is going to rain"},
+              "answer": "C",
+              "explanation": "soon表将来，且有“提醒带伞”的迹象，用be going to+rain；主语it是三单，be动词用is。"
+            },
+            {
+              "question": "She ___ (not go) to the park tomorrow because she has to study.",
+              "options": {"A": "won't go", "B": "doesn't go", "C": "didn't go"},
+              "answer": "A",
+              "explanation": "tomorrow表将来，否定句用won’t+动词原形go（will的否定是won’t）。"
+            },
+            {
+              "question": "___ we ___ (have) a picnic this weekend?",
+              "options": {"A": "Shall; have", "B": "Will; have", "C": "Do; have"},
+              "answer": "A",
+              "explanation": "主语是we，征求对方意见用Shall+主语+动词原形have（shall仅用于I/we）。"
+            },
+            {
+              "question": "My father ___ (leave) for Guangzhou tomorrow morning.",
+              "options": {"A": "leaves", "B": "is leaving", "C": "left"},
+              "answer": "B",
+              "explanation": "leave是移动性动词，tomorrow morning表将来，用现在进行时is leaving表计划好的将来动作。"
+            },
+            {
+              "question": "If he ___ (come) to my house, I ___ (show) him my new toys.",
+              "options": {"A": "comes; will show", "B": "will come; show", "C": "come; will show"},
+              "answer": "A",
+              "explanation": "if引导条件状语从句，遵循“主将从现”；从句主语he是三单，用comes，主句用will show。"
+            },
+            {
+              "question": "They ___ (be) back in three days.",
+              "options": {"A": "are", "B": "were", "C": "will be"},
+              "answer": "C",
+              "explanation": "in three days表将来（三天后），用will+be（be动词的原形是be）。"
+            },
+            {
+              "question": "A: I'm hungry. B: I ___ (cook) some noodles for you.",
+              "options": {"A": "cook", "B": "will cook", "C": "am cooking"},
+              "answer": "B",
+              "explanation": "B的回答是临时决定的动作，用will+动词原形cook（无提前计划）。"
+            },
+            {
+              "question": "She ___ (take) piano lessons next term. She has already planned it.",
+              "options": {"A": "will take", "B": "is going to take", "C": "takes"},
+              "answer": "B",
+              "explanation": "next term表将来，且“already planned”说明是提前计划，用be going to+take；主语she是三单，be动词用is。"
+            },
+            {
+              "question": "___ your mother ___ (go) to the supermarket this evening?",
+              "options": {"A": "Is; going to go", "B": "Will; go", "C": "Did; go"},
+              "answer": "B",
+              "explanation": "this evening表将来，一般疑问句用Will+主语+动词原形go（A选项中going to go重复，错误）。"
+            },
+            {
+              "question": "We ___ (not have) a class meeting next Friday.",
+              "options": {"A": "won't have", "B": "don't have", "C": "aren't have"},
+              "answer": "A",
+              "explanation": "next Friday表将来，否定句用won’t+动词原形have（have是实义动词，不能用aren’t）。"
+            },
+            {
+              "question": "How soon ___ you ___ (finish) your homework?",
+              "options": {"A": "will; finish", "B": "do; finish", "C": "are; finish"},
+              "answer": "A",
+              "explanation": "how soon（多久后）用于将来时，疑问句用Will+主语+动词原形finish。"
+            },
+            {
+              "question": "The train ___ (arrive) at the station in ten minutes.",
+              "options": {"A": "arrives", "B": "is arriving", "C": "arrived"},
+              "answer": "B",
+              "explanation": "arrive是移动性动词，in ten minutes表将来，用现在进行时is arriving表即将发生的动作。"
+            },
+            {
+              "question": "I think he ___ (be) a good doctor in the future.",
+              "options": {"A": "is", "B": "was", "C": "will be"},
+              "answer": "C",
+              "explanation": "in the future表将来，think后接宾语从句，从句用will+be（表预测）。"
+            },
+            {
+              "question": "They ___ (play) basketball after school tomorrow. It's their plan.",
+              "options": {"A": "will play", "B": "are going to play", "C": "play"},
+              "answer": "B",
+              "explanation": "tomorrow表将来，“It's their plan”说明是提前计划，用be going to+play；主语they是复数，be动词用are。"
+            },
+            {
+              "question": "Shall I ___ (open) the window? It's hot in the room.",
+              "options": {"A": "open", "B": "opens", "C": "opened"},
+              "answer": "A",
+              "explanation": "shall后接动词原形open（shall/I/we+原形是固定结构）。"
+            },
+            {
+              "question": "He ___ (not be) able to come to the party because he is ill.",
+              "options": {"A": "won't be", "B": "isn't", "C": "wasn't"},
+              "answer": "A",
+              "explanation": "表将来不能来派对，用won’t+be（be able to的将来否定是won’t be able to）。"
+            },
+            {
+              "question": "When ___ they ___ (start) their trip? Next Monday.",
+              "options": {"A": "do; start", "B": "will; start", "C": "did; start"},
+              "answer": "B",
+              "explanation": "答句Next Monday表将来，特殊疑问句用When+will+主语+动词原形start。"
+            },
+            {
+              "question": "My brother ___ (learn) to drive next year. He wants to buy a car.",
+              "options": {"A": "learns", "B": "learned", "C": "will learn"},
+              "answer": "C",
+              "explanation": "next year表将来，用will+动词原形learn（表纯粹将来，无明显计划迹象）。"
+            }
+          ]
+        },
+        {
+          "id": "verb_tenses_4",
+          "title": "4-现在进行时",
+          "content": "### 现在进行时的核心定义\n现在进行时表**此时此刻正在发生的动作**，也可表现阶段（当前一段时间）正在进行的动作（此刻不一定在做），是初中英语时态的基础考点，中考单选、完形中高频考查。\n\n### 现在进行时的构成（核心框架）\n#### 1. 肯定句\n主语+am/is/are+动词-ing形式+其他；\n- 第一人称单数（I）：I am (I’m) doing；\n  例：I am reading a book now.（我现在正在看书）；\n- 第三人称单数（he/she/it/单数名词）：He/She/It is (He’s/She’s/It’s) doing；\n  例：She is watching TV at the moment.（她此刻正在看电视）；\n- 复数（we/you/they/复数名词）：We/You/They are (We’re/You’re/They’re) doing；\n  例：They are playing football on the playground.（他们正在操场上踢足球）。\n\n#### 2. 否定句\n主语+am/is/are+not+动词-ing形式+其他；\n- 例：I am not doing my homework.（我没在做作业）；He isn’t playing computer games.（他没在玩电脑游戏）；They aren’t listening to music.（他们没在听音乐）。\n\n#### 3. 一般疑问句\nAm/Is/Are+主语+动词-ing形式+其他？；\n- 肯定回答：Yes, 主语+am/is/are；\n- 否定回答：No, 主语+am not/isn’t/aren’t；\n- 例：Are you reading a newspaper?（你在看报纸吗？）→Yes, I am./No, I am not.\n\n### 动词-ing形式变化规则（中考必考）\n#### 规则变化\n1. 一般情况直接加-ing：play→playing、walk→walking、read→reading；\n2. 以不发音的e结尾，去e加-ing：live→living、like→liking、write→writing、take→taking；\n   （注意：发音的e结尾加-ing，如see→seeing、be→being）；\n3. 重读闭音节结尾（辅+元+辅），双写末尾辅音加-ing：run→running、swim→swimming、stop→stopping、sit→sitting；\n4. 以ie结尾，变ie为y加-ing：lie→lying、die→dying、tie→tying。\n\n#### 不规则变化（极少，仅需记）\n无特殊不规则，上述规则覆盖99%动词。\n\n### 现在进行时的核心用法（按场景分类）\n#### 用法1：表此时此刻正在发生的动作（最核心）\n常搭配时间状语：now（现在）、at the moment（此刻）、look!（看！）、listen!（听！）、right now（此刻）。\n例：Look! The bird is flying in the sky.（看！小鸟正在天上飞）；Listen! Someone is singing in the next room.（听！有人在隔壁房间唱歌）。\n\n#### 用法2：表现阶段正在进行的动作（此刻不一定在做）\n常搭配时间状语：these days（这些天）、this week/month（这周/月）、recently（最近）。\n例：She is learning English these days.（她这些天正在学英语，此刻可能没在学）；We are working on a new project this month.（我们这个月正在做一个新项目）。\n\n#### 用法3：表将来（计划好的、即将发生的动作，限移动性动词）\n动词范围：go/come/leave/arrive/start/return/move等；\n例：He is leaving for Beijing tomorrow.（他明天要动身去北京）；My parents are coming to see me this weekend.（我父母这周末要来看我）。\n\n#### 用法4：表反复出现的动作（常与always/constantly等连用，含抱怨/赞扬情感）\n结构：am/is/are+always+doing；\n- 抱怨：He is always late for school.（他上学总是迟到，含不满）；She is always talking in class.（她上课总是说话，含抱怨）；\n- 赞扬：You are always helping others.（你总是帮助别人，含赞扬）。\n\n### 现在进行时的使用注意事项\n1. 瞬间动词（如die/come/go/arrive）不能用于进行时表“正在发生”，但可用于进行时表将来；\n2. 状态动词（如like/love/hate/know/believe/have/own）不能用于进行时（错→I am liking coffee；对→I like coffee）；\n3. be动词的进行时：am/is/are+being+形容词（表“暂时表现出某种状态”），例：He is being lazy today.（他今天有点懒，平时不懒）；\n4. 区分“此刻”和“现阶段”：now表此刻，these days表现阶段。",
+          "examples": [
+            {
+              "sentence": "I am eating breakfast now.",
+              "translation": "我现在正在吃早饭。",
+              "analysis": "now表此时此刻的动作，用现在进行时；主语I，be动词用am，eat的-ing形式是eating（一般情况加-ing）。"
+            },
+            {
+              "sentence": "Look! They are playing basketball on the playground.",
+              "translation": "看！他们正在操场上打篮球。",
+              "analysis": "look!是此刻动作的标志，用现在进行时；主语they，be动词用are，play的-ing形式是playing。"
+            },
+            {
+              "sentence": "She is not watching TV at the moment. She is reading a book.",
+              "translation": "她此刻没在看电视，她在看书。",
+              "analysis": "at the moment表此刻，否定句用is not watching；后一句同样表此刻，用is reading（read的-ing形式reading）。"
+            },
+            {
+              "sentence": "Are you listening to music right now?",
+              "translation": "你此刻正在听音乐吗？",
+              "analysis": "right now表此刻，一般疑问句用Are+主语+listening；listen的-ing形式是listening（一般情况）。"
+            },
+            {
+              "sentence": "He is learning to drive these days.",
+              "translation": "他这些天正在学开车。",
+              "analysis": "these days表现阶段的动作，用现在进行时；主语he，be动词用is，learn的-ing形式是learning（一般情况）。"
+            },
+            {
+              "sentence": "My sister is writing a letter to her friend now.",
+              "translation": "我姐姐现在正在给她的朋友写信。",
+              "analysis": "now表此刻，write的-ing形式是writing（以不发音e结尾，去e加-ing）；主语my sister，be动词用is。"
+            },
+            {
+              "sentence": "He is always talking loudly in the library. It's impolite.",
+              "translation": "他总是在图书馆大声说话，很不礼貌。",
+              "analysis": "always+doing表反复动作，含抱怨情感；主语he，be动词用is，talk的-ing形式是talking。"
+            },
+            {
+              "sentence": "They are leaving for Shanghai tomorrow morning.",
+              "translation": "他们明天早上要动身去上海。",
+              "analysis": "leave是移动性动词，tomorrow morning表将来，用现在进行时表计划好的将来动作；主语they，be动词用are，leave的-ing形式是leaving（以不发音e结尾，去e加-ing）。"
+            },
+            {
+              "sentence": "The boy is swimming in the pool now. He swims every summer.",
+              "translation": "这个男孩现在正在泳池里游泳，他每年夏天都游泳。",
+              "analysis": "now表此刻，用is swimming（swim的-ing形式swimming，重读闭音节双写m）；后一句every summer表习惯，用一般现在时swims。"
+            },
+            {
+              "sentence": "She is being very quiet today. Is she okay?",
+              "translation": "她今天特别安静，她没事吧？",
+              "analysis": "am/is/are+being+形容词表“暂时的状态”；主语she，be动词用is，being是be的-ing形式。"
+            }
+          ],
+          "exercises": [
+            {
+              "question": "I ___ (read) a book now. Don't disturb me.",
+              "options": {"A": "read", "B": "am reading", "C": "reads"},
+              "answer": "B",
+              "explanation": "now表此时此刻的动作，用现在进行时；主语I，be动词用am，read的-ing形式是reading。"
+            },
+            {
+              "question": "Look! The cat ___ (climb) the tree.",
+              "options": {"A": "climbs", "B": "is climbing", "C": "climbed"},
+              "answer": "B",
+              "explanation": "look!是此刻动作的标志，用现在进行时；主语the cat是三单，be动词用is，climb的-ing形式是climbing。"
+            },
+            {
+              "question": "She ___ (not watch) TV at the moment. She ___ (do) her homework.",
+              "options": {"A": "doesn't watch; does", "B": "isn't watching; is doing", "C": "didn't watch; did"},
+              "answer": "B",
+              "explanation": "at the moment表此刻，否定句用isn’t watching，后一句同样表此刻，用is doing（do的-ing形式doing）。"
+            },
+            {
+              "question": "___ you ___ (listen) to the teacher carefully in class now?",
+              "options": {"A": "Do; listen", "B": "Are; listening", "C": "Did; listen"},
+              "answer": "B",
+              "explanation": "now表此刻，一般疑问句用Are+主语+listening（listen的-ing形式listening）。"
+            },
+            {
+              "question": "They ___ (learn) English these days. They want to pass the exam.",
+              "options": {"A": "learn", "B": "are learning", "C": "learned"},
+              "answer": "B",
+              "explanation": "these days表现阶段的动作，用现在进行时；主语they，be动词用are，learn的-ing形式是learning。"
+            },
+            {
+              "question": "My mother ___ (cook) dinner in the kitchen now. It smells good.",
+              "options": {"A": "cooks", "B": "is cooking", "C": "cooked"},
+              "answer": "B",
+              "explanation": "now表此刻，用现在进行时；主语my mother是三单，be动词用is，cook的-ing形式是cooking。"
+            },
+            {
+              "question": "He ___ (always talk) in class. The teacher is angry with him.",
+              "options": {"A": "always talks", "B": "is always talking", "C": "always talked"},
+              "answer": "B",
+              "explanation": "always+doing表反复动作，含抱怨情感；主语he是三单，be动词用is，talk的-ing形式是talking。"
+            },
+            {
+              "question": "The girl ___ (write) a diary now. She ___ (write) a diary every evening.",
+              "options": {"A": "is writing; writes", "B": "writes; is writing", "C": "wrote; is writing"},
+              "answer": "A",
+              "explanation": "第一空now表此刻，用is writing（write去e加-ing）；第二空every evening表习惯，用一般现在时writes（主语the girl是三单）。"
+            },
+            {
+              "question": "___ Tom ___ (swim) in the pool now?",
+              "options": {"A": "Does; swim", "B": "Is; swimming", "C": "Did; swim"},
+              "answer": "B",
+              "explanation": "now表此刻，一般疑问句用Is+主语Tom+swimming（swim重读闭音节双写m加-ing）。"
+            },
+            {
+              "question": "We ___ (not play) football now. We ___ (do) our homework.",
+              "options": {"A": "don't play; do", "B": "aren't playing; are doing", "C": "didn't play; did"},
+              "answer": "B",
+              "explanation": "now表此刻，否定句用aren’t playing，后一句用are doing（do的-ing形式doing）。"
+            },
+            {
+              "question": "She ___ (leave) for Beijing tomorrow. She has booked the ticket.",
+              "options": {"A": "leaves", "B": "is leaving", "C": "left"},
+              "answer": "B",
+              "explanation": "leave是移动性动词，tomorrow表将来，用现在进行时is leaving表计划好的将来动作。"
+            },
+            {
+              "question": "The baby ___ (sleep) now. Please be quiet.",
+              "options": {"A": "sleeps", "B": "is sleeping", "C": "slept"},
+              "answer": "B",
+              "explanation": "now表此刻，用现在进行时；主语the baby是三单，be动词用is，sleep的-ing形式是sleeping（一般情况）。"
+            },
+            {
+              "question": "I ___ (not like) coffee. I ___ (drink) tea now.",
+              "options": {"A": "don't like; am drinking", "B": "am not liking; drink", "C": "didn't like; am drinking"},
+              "answer": "A",
+              "explanation": "like是状态动词，不能用进行时，用一般现在时don’t like；now表此刻，drink用am drinking。"
+            },
+            {
+              "question": "They ___ (work) on a new project this month.",
+              "options": {"A": "work", "B": "are working", "C": "worked"},
+              "answer": "B",
+              "explanation": "this month表现阶段的动作，用现在进行时；主语they，be动词用are，work的-ing形式是working。"
+            },
+            {
+              "question": "Listen! Someone ___ (sing) in the next room.",
+              "options": {"A": "sings", "B": "is singing", "C": "sang"},
+              "answer": "B",
+              "explanation": "listen!是此刻动作的标志，用现在进行时；主语someone是三单，be动词用is，sing的-ing形式是singing。"
+            },
+            {
+              "question": "He ___ (be) very lazy today. He usually works hard.",
+              "options": {"A": "is being", "B": "is", "C": "was"},
+              "answer": "A",
+              "explanation": "am/is/are+being+形容词表“暂时的状态”；主语he是三单，用is being（lazy是形容词）。"
+            },
+            {
+              "question": "My father ___ (drive) to work now. He usually ___ (take) the bus.",
+              "options": {"A": "drives; takes", "B": "is driving; takes", "C": "is driving; is taking"},
+              "answer": "B",
+              "explanation": "第一空now表此刻，用is driving（drive去e加-ing）；第二空usually表习惯，用takes（主语my father是三单）。"
+            },
+            {
+              "question": "___ they ___ (have) a meeting now?",
+              "options": {"A": "Do; have", "B": "Are; having", "C": "Did; have"},
+              "answer": "B",
+              "explanation": "now表此刻，一般疑问句用Are+主语+having（have的-ing形式having）。"
+            },
+            {
+              "question": "She ___ (draw) a picture these days. She wants to give it to her mother.",
+              "options": {"A": "draws", "B": "is drawing", "C": "drew"},
+              "answer": "B",
+              "explanation": "these days表现阶段的动作，用现在进行时；主语she是三单，be动词用is，draw的-ing形式是drawing。"
+            },
+            {
+              "question": "The students ___ (not read) books now. They ___ (play) games.",
+              "options": {"A": "don't read; play", "B": "aren't reading; are playing", "C": "didn't read; played"},
+              "answer": "B",
+              "explanation": "now表此刻，否定句用aren’t reading，后一句用are playing（play的-ing形式playing）。"
+            }
+          ]
+        },
+        {
+          "id": "tenses_5",
+          "title": "5-过去进行时",
+          "content": "### 过去进行时的核心定义\n过去进行时表示**过去某个具体时间点/时间段内正在发生或持续进行**的动作，强调动作在过去某一时刻的“进行中”状态，常用来描述过去的场景、背景，或与过去的另一个动作对比（一个动作正在进行，另一个动作突然发生）。是初中英语时态的重点，中考完形、语篇填空、句型转换中高频考查。\n\n### 过去进行时的构成\n**核心结构：was/were + 动词的现在分词（v-ing）**\n- 第一/第三人称单数（I/he/she/it）+ was + v-ing；\n- 第二人称单复数（you）、第一人称复数（we）、第三人称复数（they）+ were + v-ing。\n**现在分词变化规则**：\n1. 一般动词直接加-ing：play→playing，read→reading；\n2. 以不发音的e结尾，去e加-ing：write→writing，take→taking；\n3. 重读闭音节结尾，且末尾只有一个辅音字母，双写辅音字母加-ing：run→running，swim→swimming，sit→sitting；\n4. 以ie结尾，变ie为y加-ing：lie→lying，die→dying。\n\n### 过去进行时的核心用法（中考必考分类）\n#### 用法1：表示过去具体时间点正在进行的动作\n常搭配具体时间状语，如：at 8 o’clock yesterday morning（昨天早上8点）、at this time yesterday（昨天这个时候）、when+一般过去时句子（当……时）。\n例：I was doing my homework at 8 last night.（昨晚8点我正在做作业。）\n\n#### 用法2：表示过去某一时间段内持续进行的动作\n常搭配时间段状语，如：from 7 to 9 yesterday evening（昨晚7点到9点）、all morning yesterday（昨天一上午）。\n例：They were cleaning the classroom all morning yesterday.（昨天一上午他们都在打扫教室。）\n\n#### 用法3：描述过去的背景/场景，常与一般过去时连用\n过去进行时表“背景动作（正在进行）”，一般过去时表“突发动作”，常用连词when/while：\n- when后接一般过去时（短动作），主句用过去进行时（长动作）：I was walking in the park when it began to rain.（我正在公园散步，突然开始下雨了。）\n- while后接过去进行时（长动作），主句用一般过去时（短动作）：While my mother was cooking, I got home.（妈妈正在做饭时，我到家了。）\n**注意**：while引导的从句动作和主句动作若均为持续进行，都用过去进行时：While I was reading, my sister was watching TV.（我看书的时候，妹妹在看电视。）\n\n#### 用法4：表示过去即将发生的动作（少数移动性动词）\n少数表示“移动、开始、结束”的动词（go/come/leave/arrive/start等）用过去进行时，可表过去按计划即将发生的动作，相当于“was/were going to + 动词原形”。\n例：She was leaving for Beijing the next day.（她第二天就要动身去北京了。）\n\n#### 用法5：用于委婉请求/礼貌询问（过去进行时表委婉）\n比一般过去时更委婉，常用句型：Were you doing...? / I was wondering...\n例：I was wondering if you could help me.（我想知道你能否帮我一下。）\n\n### 过去进行时的使用注意事项\n1. 不可与表示“完成、短暂”的动词连用（如finish/start/buy/die/join等），这类动词无“持续进行”的状态，需用一般过去时：错→I was finishing my homework at 8; 对→I finished my homework at 8.\n2. 时间状语需体现“过去的具体时间/时间段”，若无则需上下文暗示动作发生在过去且正在进行；\n3. 区分was/were的用法：单数用was，复数/you用were，不可混用：错→He were playing football; 对→He was playing football.",
+          "examples": [
+            {
+              "sentence": "He was reading a book at 9 o'clock last night.",
+              "translation": "昨晚9点他正在看书。",
+              "analysis": "at 9 o'clock last night是过去具体时间点，强调该时间点“看书”的动作正在进行，主语he是第三人称单数，用was + reading。"
+            },
+            {
+              "sentence": "They were watching TV from 7 to 8 yesterday evening.",
+              "translation": "昨晚7点到8点他们一直在看电视。",
+              "analysis": "from 7 to 8 yesterday evening是过去的时间段，体现动作在该时间段内持续进行，主语they是复数，用were + watching。"
+            },
+            {
+              "sentence": "When the teacher came in, the students were talking loudly.",
+              "translation": "老师进来的时候，学生们正在大声说话。",
+              "analysis": "when引导的从句用一般过去时（came是短动作），主句用过去进行时（were talking是长动作），体现“老师进来”这个突发动作发生时，“学生说话”的动作正在进行。"
+            },
+            {
+              "sentence": "While my father was driving, I was listening to music.",
+              "translation": "爸爸开车的时候，我正在听音乐。",
+              "analysis": "while引导的从句和主句动作均为持续进行的长动作，因此都用过去进行时，father单数用was driving，I用was listening。"
+            },
+            {
+              "sentence": "She was leaving for Shanghai this time yesterday.",
+              "translation": "昨天这个时候她正要动身去上海。",
+              "analysis": "leave是移动性动词，过去进行时was leaving表过去即将发生的动作，体现“按计划要动身”的状态。"
+            },
+            {
+              "sentence": "I was wondering if you could lend me your pen.",
+              "translation": "我想知道你能否借我你的钢笔。",
+              "analysis": "was wondering用过去进行时表委婉请求，比“I wondered...”更礼貌，是过去进行时的特殊礼貌用法。"
+            },
+            {
+              "sentence": "Were you cooking dinner at this time yesterday?",
+              "translation": "昨天这个时候你正在做晚饭吗？",
+              "analysis": "一般疑问句结构：Were（主语you对应的be动词）+ 主语 + cooking...，at this time yesterday是典型的过去进行时时间状语。"
+            },
+            {
+              "sentence": "The little boy was crying because he couldn't find his mother.",
+              "translation": "小男孩当时正在哭，因为他找不到妈妈了。",
+              "analysis": "上下文暗示“哭”的动作发生在过去且持续进行，主语the little boy是单数，用was + crying，体现当时的状态。"
+            },
+            {
+              "sentence": "My mother wasn't washing clothes when I got home.",
+              "translation": "我到家的时候，妈妈没在洗衣服。",
+              "analysis": "否定句结构：wasn't/weren't + v-ing，主语my mother是单数，用wasn't + washing，when引导的从句用一般过去时（got）。"
+            },
+            {
+              "sentence": "What were you doing when the rainstorm came?",
+              "translation": "暴风雨来的时候你正在做什么？",
+              "analysis": "特殊疑问句结构：What + were（主语you对应的be动词）+ 主语 + doing...，when从句用一般过去时（came），是中考高频句型。"
+            }
+          ],
+          "exercises": [
+            {
+              "question": "I ___ TV at 8 o'clock last night. (watch)",
+              "options": {"A": "watched", "B": "was watching", "C": "am watching"},
+              "answer": "B",
+              "explanation": "at 8 o'clock last night是过去具体时间点，强调该时间点动作正在进行，用过去进行时，主语I对应was + watching。"
+            },
+            {
+              "question": "They ___ football when I saw them. (play)",
+              "options": {"A": "were playing", "B": "played", "C": "are playing"},
+              "answer": "A",
+              "explanation": "when引导的从句用一般过去时（saw），主句强调“看到他们时，踢足球的动作正在进行”，用过去进行时，主语they对应were + playing。"
+            },
+            {
+              "question": "___ your mother ___ dinner at this time yesterday? (cook)",
+              "options": {"A": "Did; cook", "B": "Was; cooking", "C": "Is; cooking"},
+              "answer": "B",
+              "explanation": "at this time yesterday是过去进行时的时间状语，一般疑问句结构为“Was/Were + 主语 + v-ing”，主语your mother是单数，用Was + cooking。"
+            },
+            {
+              "question": "While Tom ___ a book, his sister ___ TV. (read; watch)",
+              "options": {"A": "read; watched", "B": "was reading; was watching", "C": "is reading; is watching"},
+              "answer": "B",
+              "explanation": "while引导的两个动作均为过去持续进行的长动作，都用过去进行时，Tom单数用was reading，his sister单数用was watching。"
+            },
+            {
+              "question": "She ___ for the bus when it began to rain. (wait)",
+              "options": {"A": "waited", "B": "is waiting", "C": "was waiting"},
+              "answer": "C",
+              "explanation": "when从句用一般过去时（began），主句强调“等公交”的动作正在进行时，“下雨”的突发动作发生，用过去进行时was waiting。"
+            },
+            {
+              "question": "The children ___ not ___ in the park all morning yesterday. (play)",
+              "options": {"A": "were; playing", "B": "did; play", "C": "are; playing"},
+              "answer": "A",
+              "explanation": "all morning yesterday是过去时间段，否定句结构为“wasn't/weren't + v-ing”，主语the children是复数，用were not playing。"
+            },
+            {
+              "question": "He ___ to go to the cinema yesterday evening, so he refused my invitation. (plan)",
+              "options": {"A": "planned", "B": "was planning", "C": "plans"},
+              "answer": "B",
+              "explanation": "plan是表“计划”的动词，过去进行时was planning体现“昨晚他正计划去看电影”的持续状态，因此拒绝了邀请，比一般过去时更能体现当时的语境。"
+            },
+            {
+              "question": "What ___ you ___ at 7 yesterday morning? (do)",
+              "options": {"A": "did; do", "B": "were; doing", "C": "are; doing"},
+              "answer": "B",
+              "explanation": "at 7 yesterday morning是过去具体时间点，特殊疑问句用“What + were + 主语 + doing”结构，询问过去该时间点正在做的动作。"
+            },
+            {
+              "question": "Lily ___ a letter to her pen pal when I called her. (write)",
+              "options": {"A": "wrote", "B": "is writing", "C": "was writing"},
+              "answer": "C",
+              "explanation": "when从句用一般过去时（called），主句主语Lily是单数，强调“打电话时，写信的动作正在进行”，用was writing。"
+            },
+            {
+              "question": "They ___ cleaning the street from 9 to 11 yesterday morning. (be)",
+              "options": {"A": "are", "B": "were", "C": "was"},
+              "answer": "B",
+              "explanation": "from 9 to 11 yesterday morning是过去时间段，主语they是复数，过去进行时中be动词用were。"
+            },
+            {
+              "question": "I ___ wondering if you could help me with my math. (be)",
+              "options": {"A": "was", "B": "were", "C": "am"},
+              "answer": "A",
+              "explanation": "过去进行时表委婉请求，主语I对应的be动词过去式是was，构成was wondering。"
+            },
+            {
+              "question": "The girl ___ not ___ when the teacher asked her a question. (listen)",
+              "options": {"A": "did; listen", "B": "was; listening", "C": "is; listening"},
+              "answer": "B",
+              "explanation": "when从句用一般过去时（asked），主句强调“老师提问时，女孩没在听”，主语the girl是单数，否定式为was not listening。"
+            },
+            {
+              "question": "While we ___ games in the park, it started to snow. (play)",
+              "options": {"A": "played", "B": "were playing", "C": "play"},
+              "answer": "B",
+              "explanation": "while引导的从句表过去持续进行的长动作，用过去进行时，主语we对应were playing，主句started是短动作（一般过去时）。"
+            },
+            {
+              "question": "He ___ to leave for Beijing at 6 tomorrow morning, but he changed his mind. (plan)",
+              "options": {"A": "was planning", "B": "planned", "C": "plans"},
+              "answer": "A",
+              "explanation": "plan是表心理活动的动词，过去进行时was planning体现“过去正计划要动身”的状态，后接but changed体现动作的转折。"
+            },
+            {
+              "question": "___ they ___ a meeting all afternoon yesterday? (have)",
+              "options": {"A": "Did; have", "B": "Were; having", "C": "Are; having"},
+              "answer": "B",
+              "explanation": "all afternoon yesterday是过去时间段，一般疑问句用“Were + 主语 + having”，have的现在分词是having（去e加-ing）。"
+            },
+            {
+              "question": "My brother ___ computer games when my parents came back home. (not play)",
+              "options": {"A": "didn't play", "B": "wasn't playing", "C": "isn't playing"},
+              "answer": "B",
+              "explanation": "when从句用一般过去时（came），主句强调“父母回来时，弟弟没在玩游戏”，主语my brother是单数，否定式为wasn't playing。"
+            },
+            {
+              "question": "The workers ___ building a bridge over the river last month. (be)",
+              "options": {"A": "were", "B": "was", "C": "are"},
+              "answer": "A",
+              "explanation": "last month暗示过去持续进行的动作（建桥是持续的），主语the workers是复数，过去进行时be动词用were。"
+            },
+            {
+              "question": "She ___ a book in the library when I met her yesterday afternoon. (read)",
+              "options": {"A": "read", "B": "was reading", "C": "reads"},
+              "answer": "B",
+              "explanation": "when从句用一般过去时（met），主句强调“昨天下午遇见她时，她正在图书馆看书”，用was reading。"
+            },
+            {
+              "question": "What ___ he ___ when the fire alarm rang? (do)",
+              "options": {"A": "did; do", "B": "was; doing", "C": "does; do"},
+              "answer": "B",
+              "explanation": "when从句用一般过去时（rang），特殊疑问句询问“火警响时他正在做什么”，主语he对应was doing。"
+            },
+            {
+              "question": "We ___ hiking in the mountains from 8 to 12 last Sunday. (go)",
+              "options": {"A": "went", "B": "were going", "C": "go"},
+              "answer": "B",
+              "explanation": "from 8 to 12 last Sunday是过去时间段，go hiking是固定搭配，过去进行时were going体现“上周日8点到12点一直在徒步”的持续状态。"
+            }
+          ]
+        },
+        {
+          "id": "tenses_6",
+          "title": "6-将来进行时",
+          "content": "### 将来进行时的核心定义\n将来进行时表示**将来某个具体时间点/时间段内正在发生或持续进行**的动作，强调动作在未来某一时刻的“进行中”状态，也可表“按计划/预料会发生的未来动作”，语气比一般将来时更委婉、更强调“持续”。中考虽不如基础时态高频，但在阅读理解、书面表达（描述未来计划）中会考查，需掌握核心用法。\n\n### 将来进行时的构成\n**核心结构：will be + 动词的现在分词（v-ing）/ shall be + v-ing**\n- 第一人称（I/we）可用shall be + v-ing（英式英语常用），所有人称均可通用will be + v-ing（美式/中式英语更常用）；\n- 现在分词变化规则同过去进行时（play→playing，write→writing，run→running等）。\n**否定式**：will not (won’t) be + v-ing / shall not (shan’t) be + v-ing；\n**疑问式**：Will + 主语 + be + v-ing? / Shall + 主语（I/we）+ be + v-ing?\n\n### 将来进行时的核心用法（中考必考分类）\n#### 用法1：表示将来具体时间点正在进行的动作\n常搭配具体时间状语，如：at 8 o’clock tomorrow morning（明天早上8点）、at this time tomorrow（明天这个时候）、when+一般现在时句子（当……时，表未来）。\n例：I will be having a meeting at 9 tomorrow morning.（明天上午9点我正在开会。）\n\n#### 用法2：表示将来某一时间段内持续进行的动作\n常搭配时间段状语，如：from 2 to 4 tomorrow afternoon（明天下午2点到4点）、all day tomorrow（明天一整天）。\n例：They will be traveling in Yunnan from Monday to Friday next week.（下周周一到周五他们将在云南旅行。）\n\n#### 用法3：表示按计划/预料会发生的未来动作（无需刻意计划）\n强调动作是“自然而然、按常理会发生”，而非刻意安排，比“will + 动词原形”更侧重“持续/正在进行”的状态。\n例：Don’t call me at 7 tomorrow evening—I’ll be eating dinner.（别明天晚上7点给我打电话，我那会儿正在吃晚饭。）\n\n#### 用法4：用于委婉询问/请求（比一般将来时更礼貌）\n询问对方未来的计划，避免生硬，常用句型：Will you be + v-ing?\n例：Will you be coming to the party this evening?（你今晚要来参加派对吗？）\n\n#### 用法5：与一般将来时连用，区分“同时进行”的动作\n一个动作（将来进行时）在未来持续进行，另一个动作（一般将来时）在该过程中发生。\n例：When you arrive at the station, I will be waiting for you at the exit.（你到车站的时候，我会在出口等你。）\n\n### 将来进行时的使用注意事项\n1. 时间状语需体现“将来的具体时间/时间段”，若无则需上下文暗示动作发生在未来且正在进行；\n2. 不可与表示“短暂、完成”的动词连用（如finish/buy/start/join/die等），这类动词无持续状态，需用一般将来时：错→I will be finishing my homework at 8; 对→I will finish my homework at 8.\n3. 区分将来进行时与一般将来时：\n   - 将来进行时（will be v-ing）：强调“未来某时正在做”，动作持续；\n   - 一般将来时（will do）：强调“未来要做”，侧重动作本身，不强调持续。",
+          "examples": [
+            {
+              "sentence": "I will be flying to New York at 10 o'clock tomorrow morning.",
+              "translation": "明天上午10点我将正在飞往纽约的途中。",
+              "analysis": "at 10 o'clock tomorrow morning是未来具体时间点，强调该时间点“坐飞机”的动作正在进行，用will be + flying（fly的现在分词）。"
+            },
+            {
+              "sentence": "She will be teaching English from 2 to 4 tomorrow afternoon.",
+              "translation": "明天下午2点到4点她将一直在教英语。",
+              "explanation": "from 2 to 4 tomorrow afternoon是未来时间段，体现动作在该时间段内持续进行，用will be + teaching。"
+            },
+            {
+              "question": "They ___ basketball on the playground at this time tomorrow. (play)",
+              "options": {"A": "will play", "B": "will be playing", "C": "are playing"},
+              "answer": "B",
+              "explanation": "at this time tomorrow是将来进行时的核心时间状语，强调“明天这个时候正在打篮球”，用will be playing。"
+            },
+            {
+              "sentence": "Will you be staying at home this weekend?",
+              "translation": "这个周末你会待在家里吗？",
+              "analysis": "一般疑问句用“Will + 主语 + be + v-ing”结构，staying是stay的现在分词，该句型表委婉询问对方未来的计划，比“Will you stay...”更礼貌。"
+            },
+            {
+              "sentence": "When he comes back, we will be having dinner together.",
+              "translation": "他回来的时候，我们会正在一起吃晚饭。",
+              "analysis": "when从句用一般现在时（comes）表将来，主句用将来进行时（will be having），体现“他回来”这个动作发生时，“吃晚饭”的动作正在进行。"
+            },
+            {
+              "sentence": "I won't be working late tonight, so I can go shopping with you.",
+              "translation": "我今晚不会工作到很晚，所以可以和你一起去购物。",
+              "analysis": "否定式为won’t be + working（will not的缩写），强调“今晚不会处于工作到很晚的持续状态”，体现未来的状态。"
+            },
+            {
+              "sentence": "Shall we be meeting at the school gate at 8 tomorrow?",
+              "translation": "我们明天8点在学校门口碰面好吗？",
+              "analysis": "第一人称we用shall be + meeting，表委婉提议未来的计划，英式英语中shall更常用，美式英语常用will。"
+            },
+            {
+              "sentence": "The workers will be building the new road all next month.",
+              "translation": "工人们下个月整月都会在修建这条新路。",
+              "analysis": "all next month是未来时间段，build是持续动作，用will be building体现“整月持续修建”的状态。"
+            },
+            {
+              "sentence": "Don't worry—your father will be waiting for you when you get off the train.",
+              "translation": "别担心，你下火车的时候你爸爸会在等你。",
+              "analysis": "when从句用一般现在时（get off）表将来，主句用将来进行时will be waiting，强调“等”的动作在未来持续进行，给对方安慰的语气。"
+            },
+            {
+              "sentence": "What will you be doing at 7 this evening?",
+              "translation": "今晚7点你会在做什么？",
+              "analysis": "特殊疑问句结构：What + will + 主语 + be + doing...，询问未来具体时间点正在做的动作，是中考高频句型。"
+            }
+          ],
+          "exercises": [
+            {
+              "question": "I ___ a movie at 8 o'clock tomorrow evening. (watch)",
+              "options": {"A": "will watch", "B": "will be watching", "C": "am watching"},
+              "answer": "B",
+              "explanation": "at 8 o'clock tomorrow evening是将来具体时间点，强调该时间点“看电影”的动作正在进行，用将来进行时will be watching。"
+            },
+            {
+              "question": "They ___ in the park from 9 to 11 tomorrow morning. (walk)",
+              "options": {"A": "will walk", "B": "walk", "C": "will be walking"},
+              "answer": "C",
+              "explanation": "from 9 to 11 tomorrow morning是将来时间段，体现动作在该时间段内持续进行，用将来进行时will be walking。"
+            },
+            {
+              "question": "___ you ___ to the library this time tomorrow? (go)",
+              "options": {"A": "Will; go", "B": "Will; be going", "C": "Are; going"},
+              "answer": "B",
+              "explanation": "this time tomorrow是将来进行时的时间状语，一般疑问句结构为“Will + 主语 + be + going”，表委婉询问未来的计划。"
+            },
+            {
+              "question": "When she arrives, we ___ a birthday party for her. (have)",
+              "options": {"A": "will have", "B": "will be having", "C": "are having"},
+              "answer": "B",
+              "explanation": "when从句用一般现在时（arrives）表将来，主句强调“她到的时候，我们正在为她举办生日派对”，用将来进行时will be having。"
+            },
+            {
+              "question": "He ___ not ___ late for school tomorrow morning. (be)",
+              "options": {"A": "will; be", "B": "will; be being", "C": "is; being"},
+              "answer": "B",
+              "explanation": "将来进行时否定式为will not be + v-ing，be的现在分词是being，强调“明天早上不会处于迟到的状态”，比一般将来时更侧重持续状态。"
+            },
+            {
+              "question": "Shall we ___ at the airport at 6 tomorrow morning? (meet)",
+              "options": {"A": "meet", "B": "be meeting", "C": "met"},
+              "answer": "B",
+              "explanation": "第一人称we用shall be + meeting，表委婉提议未来的碰面计划，shall后接be + 现在分词构成将来进行时。"
+            },
+            {
+              "question": "The students ___ their homework all evening tomorrow. (do)",
+              "options": {"A": "will do", "B": "will be doing", "C": "do"},
+              "answer": "B",
+              "explanation": "all evening tomorrow是将来时间段，强调“整晚都在做作业”的持续状态，用将来进行时will be doing。"
+            },
+            {
+              "question": "Don't call me at 9 tomorrow—I ___ a class. (have)",
+              "options": {"A": "will have", "B": "have", "C": "will be having"},
+              "answer": "C",
+              "explanation": "强调“明天9点正在上课”的持续状态，因此用将来进行时will be having，提醒对方不要打电话。"
+            },
+            {
+              "question": "What ___ he ___ at 10 this Sunday morning? (do)",
+              "options": {"A": "will; do", "B": "will; be doing", "C": "does; do"},
+              "answer": "B",
+              "explanation": "at 10 this Sunday morning是将来具体时间点，特殊疑问句用“Will + 主语 + be + doing”询问未来该时间点正在做的动作。"
+            },
+            {
+              "question": "My mother ___ dinner when I get home tomorrow. (cook)",
+              "options": {"A": "will cook", "B": "will be cooking", "C": "cooks"},
+              "answer": "B",
+              "explanation": "when从句用一般现在时（get）表将来，主句强调“我到家时妈妈正在做饭”，用将来进行时will be cooking。"
+            },
+            {
+              "question": "We ___ traveling to Chengdu next week. (be)",
+              "options": {"A": "will be", "B": "will", "C": "are"},
+              "answer": "A",
+              "explanation": "next week暗示未来持续进行的动作（旅行是持续的），将来进行时结构为will be + traveling，此处填will be。"
+            },
+            {
+              "question": "She ___ not ___ TV at 7 tomorrow evening—she has a piano lesson. (watch)",
+              "options": {"A": "will; watch", "B": "will; be watching", "C": "is; watching"},
+              "answer": "B",
+              "explanation": "at 7 tomorrow evening是将来具体时间点，否定式为will not be + watching，强调“该时间点不会在看电视”。"
+            },
+            {
+              "question": "___ they ___ the new house all day tomorrow? (clean)",
+              "options": {"A": "Will; clean", "B": "Will; be cleaning", "C": "Are; cleaning"},
+              "answer": "B",
+              "explanation": "all day tomorrow是将来时间段，一般疑问句用“Will + 主语 + be + cleaning”，clean的现在分词是cleaning。"
+            },
+            {
+              "question": "The teacher ___ the exam papers when we come back to school. (correct)",
+              "options": {"A": "will correct", "B": "corrects", "C": "will be correcting"},
+              "answer": "C",
+              "explanation": "when从句用一般现在时（come）表将来，主句强调“我们返校时老师正在批改试卷”，用将来进行时will be correcting。"
+            },
+            {
+              "question": "I ___ for you at the bus stop at 3 this afternoon. (wait)",
+              "options": {"A": "will wait", "B": "will be waiting", "C": "am waiting"},
+              "answer": "B",
+              "explanation": "at 3 this afternoon是将来具体时间点，强调“该时间点正在等你”的持续状态，用将来进行时will be waiting。"
+            },
+            {
+              "question": "He ___ a book in the study from 7 to 9 tomorrow morning. (read)",
+              "options": {"A": "will read", "B": "reads", "C": "will be reading"},
+              "answer": "C",
+              "explanation": "from 7 to 9 tomorrow morning是将来时间段，read是持续动作，用将来进行时will be reading体现“持续阅读”的状态。"
+            },
+            {
+              "question": "Will you ___ to the concert with us this evening? (go)",
+              "options": {"A": "go", "B": "be going", "C": "going"},
+              "answer": "B",
+              "explanation": "将来进行时的一般疑问句，表委婉邀请，结构为Will + 主语 + be + going，go的现在分词是going。"
+            },
+            {
+              "question": "The workers ___ the bridge over the river next month. (build)",
+              "options": {"A": "will build", "B": "will be building", "C": "build"},
+              "answer": "B",
+              "explanation": "next month是将来时间段，build是持续动作，用将来进行时will be building体现“下个月持续建桥”的状态。"
+            },
+            {
+              "question": "What ___ you ___ during the summer holiday? (do)",
+              "options": {"A": "will; do", "B": "will; be doing", "C": "do; do"},
+              "answer": "B",
+              "explanation": "during the summer holiday是将来时间段，询问“暑假期间会一直在做什么”，用将来进行时will be doing更侧重持续状态。"
+            },
+            {
+              "question": "She ___ English when I visit her tomorrow. (learn)",
+              "options": {"A": "will learn", "B": "will be learning", "C": "learns"},
+              "answer": "B",
+              "explanation": "when从句用一般现在时（visit）表将来，主句强调“我明天拜访她时，她正在学英语”，用将来进行时will be learning。"
+            }
+          ]
+        },
+        {
+          "id": "tenses_7",
+          "title": "7-现在完成时",
+          "content": "### 现在完成时的核心定义\n现在完成时表示**过去发生的动作对现在造成的影响/结果**，或**从过去开始持续到现在的动作/状态**，是初中英语时态的重难点，中考单选、完形、语篇填空、书面表达中均为高频考点，需重点掌握“影响”和“持续”两大核心逻辑。\n\n### 现在完成时的构成\n**核心结构：have/has + 动词的过去分词（v-ed/不规则）**\n- 第一/二人称单复数（I/you/we）、第三人称复数（they）+ have + 过去分词；\n- 第三人称单数（he/she/it）+ has + 过去分词。\n**过去分词变化规则**：\n1. 规则变化：\n   - 一般动词加-ed：play→played，walk→walked；\n   - 以e结尾加-d：live→lived，like→liked；\n   - 重读闭音节结尾，双写末尾辅音字母加-ed：stop→stopped，plan→planned；\n   - 以辅音字母+y结尾，变y为i加-ed：study→studied，try→tried。\n2. 不规则变化（中考必考，需熟记）：\n   go→gone，do→done，eat→eaten，see→seen，take→taken，write→written，break→broken，buy→bought，come→come，get→got，have→had，make→made，say→said，tell→told，know→known，leave→left。\n\n### 现在完成时的核心用法（中考必考分类）\n#### 用法1：表示过去发生的动作对现在造成的影响/结果\n动作发生在过去，现在能看到/感受到该动作的影响，常搭配时间状语：already（已经，肯定句）、yet（还，否定/疑问句）、just（刚刚）、ever（曾经）、never（从未）、recently（最近）、so far（到目前为止）。\n例：I have finished my homework.（我已经做完作业了→影响：现在可以玩了）；Have you ever been to Beijing?（你去过北京吗→影响：现在是否有去过的经历）。\n\n#### 用法2：表示从过去开始持续到现在的动作/状态\n动作从过去某时开始，一直持续到现在，常搭配“for + 时间段”“since + 时间点/一般过去时句子”，需用**延续性动词**（不可用短暂性动词）。\n例：I have lived in Beijing for 5 years.（我在北京住了5年→从5年前开始，持续到现在）；He has worked here since 2018.（他从2018年开始就在这里工作→持续到现在）。\n**核心考点：短暂性动词变延续性动词（中考必考）**\n短暂性动词（如buy/borrow/leave/join/die/start等）不可与for/since连用，需转换为延续性动词：\n- buy→have (had)：I have had this book for 2 weeks.（我买这本书2周了，不可说have bought）；\n- borrow→keep (kept)：She has kept the pen since last Monday.（她从上周一开始借了这支笔，不可说have borrowed）；\n- leave→be away (been away)：He has been away from home for a month.（他离开家一个月了，不可说have left）；\n- join→be in (been in)/be a member of：He has been in the club for 3 years.（他加入俱乐部3年了，不可说have joined）；\n- die→be dead (been dead)：His grandfather has been dead for 2 years.（他爷爷去世2年了，不可说have died）；\n- start/begin→be on (been on)：The movie has been on for 10 minutes.（电影已经开始10分钟了，不可说have started）。\n\n#### 用法3：表示“去过某地”“去了某地”“待在某地”（have been to/have gone to/have been in）\n这是中考最高频的易混考点，需严格区分：\n- have been to + 地点：去过某地（现在已回来，强调经历）：I have been to Shanghai twice.（我去过上海两次）；\n- have gone to + 地点：去了某地（现在还没回来，在途中/目的地）：He has gone to Beijing.（他去北京了，还没回来）；\n- have been in + 地点 + for/since：待在某地（持续到现在）：She has been in London for 3 months.（她在伦敦待了3个月）。\n\n#### 用法4：表示“到目前为止”的动作次数\n常搭配“次数（once/twice/three times...）”“how many times”，强调到现在为止的累计次数。\n例：He has visited his grandparents three times this month.（这个月他已经看望爷爷奶奶三次了）。\n\n#### 用法5：用于“it is the first/second... time that...”句型\n从句必须用现在完成时，表“这是第一次/第二次……做某事”。\n例：It is the first time that I have seen such a beautiful flower.（这是我第一次见到这么美的花）。\n\n### 现在完成时的使用注意事项\n1. 不可与明确的过去时间状语连用（如yesterday/last week/in 2020/just now等），若有则用一般过去时：错→I have finished my homework yesterday; 对→I finished my homework yesterday.\n2. 延续性动词与短暂性动词的转换是核心考点，需熟记转换规则；\n3. have/has been to可接地点副词（here/there/home），但需省略to：I have been there twice.（不可说have been to there）；\n4. 现在完成时的否定式：haven’t/hasn’t + 过去分词；疑问式：Have/Has + 主语 + 过去分词？",
+          "examples": [
+            {
+              "sentence": "I have finished my homework, so I can watch TV now.",
+              "translation": "我已经做完作业了，所以现在可以看电视了。",
+              "analysis": "finish动作发生在过去，对现在的影响是“能看电视”，用现在完成时have finished（主语I用have），already可省略，体现“影响”的核心用法。"
+            },
+            {
+              "sentence": "She has lived in Shanghai for 10 years.",
+              "translation": "她已经在上海住了10年了。",
+              "analysis": "live是延续性动词，for 10 years是时间段，表动作从10年前开始持续到现在，主语she用has lived。"
+            },
+            {
+              "sentence": "Have you ever been to Paris?",
+              "translation": "你去过巴黎吗？",
+              "analysis": "have been to表“去过某地（已回来）”，ever表“曾经”，疑问句结构为Have + 主语 + been to...，是中考高频句型。"
+            },
+            {
+              "sentence": "He has gone to the supermarket, so he isn't at home now.",
+              "translation": "他去超市了，所以现在不在家。",
+              "analysis": "have gone to表“去了某地（未回来）”，主语he用has gone，体现“现在不在家”的影响。"
+            },
+            {
+              "sentence": "I have had this bike for two years.",
+              "translation": "这辆自行车我买了两年了。",
+              "analysis": "buy是短暂性动词，不可与for two years连用，需转换为延续性动词have（had），用have had体现持续状态。"
+            },
+            {
+              "sentence": "It is the third time that she has won the prize.",
+              "translation": "这是她第三次获奖了。",
+              "analysis": "it is the third time that...句型，从句必须用现在完成时，主语she用has won（win的过去分词是won）。"
+            },
+            {
+              "sentence": "They haven't seen each other since 2019.",
+              "translation": "他们从2019年起就没见过面了。",
+              "analysis": "否定式haven’t seen（see的过去分词是seen），since 2019是时间点，表动作从2019年开始持续到现在的否定状态。"
+            },
+            {
+              "sentence": "How many times have you visited Beijing?",
+              "translation": "你去过北京多少次了？",
+              "analysis": "how many times询问累计次数，用现在完成时have visited，强调到目前为止的次数。"
+            },
+            {
+              "sentence": "The movie has been on for 15 minutes.",
+              "translation": "电影已经开始15分钟了。",
+              "analysis": "start是短暂性动词，不可与for 15 minutes连用，转换为延续性动词be on（been on），用has been on（主语the movie用has）。"
+            },
+            {
+              "sentence": "My grandfather has been dead for 5 years.",
+              "translation": "我爷爷去世5年了。",
+              "analysis": "die是短暂性动词，转换为延续性动词be dead（been dead），for 5 years表持续状态，主语my grandfather用has been dead。"
+            }
+          ],
+          "exercises": [
+            {
+              "question": "I ___ my homework. I can play outside now. (finish)",
+              "options": {"A": "finished", "B": "have finished", "C": "will finish"},
+              "answer": "B",
+              "explanation": "finish动作发生在过去，对现在的影响是“能出去玩”，用现在完成时have finished（主语I用have）。"
+            },
+            {
+              "question": "She ___ in this school since 2018. (teach)",
+              "options": {"A": "taught", "B": "has taught", "C": "teaches"},
+              "answer": "B",
+              "explanation": "since 2018是时间点，teach是延续性动词，表动作从2018年持续到现在，主语she用has taught（teach的过去分词是taught）。"
+            },
+            {
+              "question": "___ you ever ___ to New York? (be)",
+              "options": {"A": "Did; be", "B": "Have; been", "C": "Are; been"},
+              "answer": "B",
+              "explanation": "ever表“曾经”，have been to表“去过某地”，疑问句结构为Have + 主语 + been to...，是现在完成时的核心考点。"
+            },
+            {
+              "question": "He ___ to the library. He will be back in an hour. (go)",
+              "options": {"A": "has gone", "B": "has been", "C": "went"},
+              "answer": "A",
+              "explanation": "“一小时后回来”说明“去了图书馆还没回来”，用have gone to，主语he用has gone。"
+            },
+            {
+              "question": "I ___ this book for two weeks. I must return it tomorrow. (borrow)",
+              "options": {"A": "borrowed", "B": "have borrowed", "C": "have kept"},
+              "answer": "C",
+              "explanation": "borrow是短暂性动词，不可与for two weeks连用，需转换为延续性动词keep（kept），用have kept体现持续状态。"
+            },
+            {
+              "question": "It is the first time that I ___ such a delicious cake. (eat)",
+              "options": {"A": "ate", "B": "have eaten", "C": "eat"},
+              "answer": "B",
+              "explanation": "it is the first time that...句型，从句必须用现在完成时，eat的过去分词是eaten，主语I用have eaten。"
+            },
+            {
+              "question": "They ___ each other for a long time. (not see)",
+              "options": {"A": "didn't see", "B": "haven't seen", "C": "don't see"},
+              "answer": "B",
+              "explanation": "for a long time是时间段，否定式用haven’t seen（see的过去分词是seen），表从过去持续到现在没见面。"
+            },
+            {
+              "question": "How many times ___ you ___ to the park this month? (go)",
+              "options": {"A": "did; go", "B": "have; gone", "C": "have; been"},
+              "answer": "C",
+              "explanation": "how many times询问累计次数，have been to表“去过某地（已回来）”，符合“这个月去公园的次数”的语境。"
+            },
+            {
+              "question": "The meeting ___ for 20 minutes. (start)",
+              "options": {"A": "started", "B": "has started", "C": "has been on"},
+              "answer": "C",
+              "explanation": "start是短暂性动词，不可与for 20 minutes连用，转换为延续性动词be on（been on），用has been on（主语the meeting用has）。"
+            },
+            {
+              "question": "His grandmother ___ for three years. (die)",
+              "options": {"A": "died", "B": "has died", "C": "has been dead"},
+              "answer": "C",
+              "explanation": "die是短暂性动词，转换为延续性动词be dead（been dead），for three years表持续状态，主语his grandmother用has been dead。"
+            },
+            {
+              "question": "We ___ English for 6 years. (learn)",
+              "options": {"A": "learned", "B": "have learned", "C": "learn"},
+              "answer": "B",
+              "explanation": "for 6 years是时间段，learn是延续性动词，表从6年前开始持续到现在学英语，主语we用have learned。"
+            },
+            {
+              "question": "___ she ___ her room yet? (clean)",
+              "options": {"A": "Did; clean", "B": "Has; cleaned", "C": "Is; cleaning"},
+              "answer": "B",
+              "explanation": "yet用于疑问句表“还”，现在完成时疑问句结构为Has + 主语（she）+ cleaned（clean的过去分词）。"
+            },
+            {
+              "question": "I ___ never ___ to the Great Wall. (be)",
+              "options": {"A": "have; been", "B": "has; been", "C": "did; be"},
+              "answer": "A",
+              "explanation": "never表“从未”，have been to表“去过某地”，主语I用have been，是现在完成时的高频用法。"
+            },
+            {
+              "question": "He ___ in Beijing since he was born. (live)",
+              "options": {"A": "lived", "B": "has lived", "C": "lives"},
+              "answer": "B",
+              "explanation": "since he was born是since + 一般过去时句子，表“从出生到现在一直住在北京”，主语he用has lived。"
+            },
+            {
+              "question": "They ___ the work already. (finish)",
+              "options": {"A": "finished", "B": "have finished", "C": "will finish"},
+              "answer": "B",
+              "explanation": "already用于肯定句表“已经”，现在完成时have finished体现“完成工作”对现在的影响。"
+            },
+            {
+              "question": "My father ___ this car for 5 years. (buy)",
+              "options": {"A": "bought", "B": "has bought", "C": "has had"},
+              "answer": "C",
+              "explanation": "buy是短暂性动词，不可与for 5 years连用，转换为延续性动词have（had），用has had（主语my father用has）。"
+            },
+            {
+              "question": "It is the second time that we ___ to this city. (come)",
+              "options": {"A": "came", "B": "have come", "C": "come"},
+              "answer": "B",
+              "explanation": "it is the second time that...句型，从句用现在完成时，come的过去分词是come，主语we用have come。"
+            },
+            {
+              "question": "She ___ just ___ a letter to her friend. (write)",
+              "options": {"A": "wrote", "B": "has; written", "C": "will; write"},
+              "answer": "B",
+              "explanation": "just表“刚刚”，现在完成时has written（write的过去分词是written），主语she用has，体现“刚写完信”对现在的影响。"
+            },
+            {
+              "question": "___ you ___ your keys? I saw them on the table just now. (find)",
+              "options": {"A": "Have; found", "B": "Did; find", "C": "Are; finding"},
+              "answer": "A",
+              "explanation": "询问“是否找到钥匙”，强调动作对现在的影响（现在是否有钥匙），用现在完成时Have found。"
+            },
+            {
+              "question": "The students ___ the classroom since 3 o'clock. (clean)",
+              "options": {"A": "cleaned", "B": "have cleaned", "C": "have been cleaning"},
+              "answer": "B",
+              "explanation": "since 3 o'clock是时间点，clean此处表“完成打扫”的结果，用现在完成时have cleaned（延续性动词也可表结果）。"
+            }
+          ]
+        },
+        {
+          "id": "tenses_8",
+          "title": "8-过去完成时",
+          "content": "### 过去完成时的核心定义\n过去完成时表示**在过去某个动作/时间点之前就已经完成的动作**，即“过去的过去”，强调动作的“先后顺序”：先发生的动作用过去完成时，后发生的动作用一般过去时。是初中英语时态的难点，中考常在完形、阅读理解中考查动作先后逻辑，需重点掌握“过去的过去”这一核心。\n\n### 过去完成时的构成\n**核心结构：had + 动词的过去分词（v-ed/不规则）**\n- 所有人称（I/you/he/she/it/we/they）均用had + 过去分词，无人称变化；\n- 过去分词变化规则同现在完成时（规则变化：play→played；不规则变化：go→gone，eat→eaten等）。\n**否定式**：had not (hadn’t) + 过去分词；\n**疑问式**：Had + 主语 + 过去分词？\n\n### 过去完成时的核心用法（中考必考分类）\n#### 用法1：表示“过去的过去”的动作（明确的先后顺序）\n常搭配时间状语：by + 过去时间点（by 9 o'clock yesterday/by last week）、before + 一般过去时句子、when/after/before引导的时间状语从句（从句用一般过去时，主句用过去完成时）。\n例：By the time I got up, my mother had already cooked breakfast.（我起床的时候，妈妈已经做好早饭了→妈妈做饭（过去完成时）在我起床（一般过去时）之前）。\n\n#### 用法2：表示过去某一时刻之前已经完成的动作（有上下文暗示）\n无明确时间状语，但上下文能体现动作的先后顺序，先发生的用过去完成时。\n例：He told me that he had seen the movie before.（他告诉我他以前看过这部电影→“看电影”在“告诉”之前发生）。\n\n#### 用法3：表示过去的过去持续的动作（for/since + 过去时间）\n动作从“过去的过去”开始，持续到过去某一时刻，常搭配for + 时间段（for 3 years）、since + 过去时间点（since 2015）。\n例：She had lived in London for 5 years before she moved to Paris.（她搬到巴黎之前，已经在伦敦住了5年→“住伦敦”从过去的过去开始，持续到“搬巴黎”（过去））。\n\n#### 用法4：用于hardly...when.../no sooner...than...句型\n表“一……就……”，hardly/no sooner后的主句用过去完成时，when/than后的从句用一般过去时，且hardly/no sooner常置于句首，主句用部分倒装。\n例：Hardly had I arrived home when it began to rain.（我刚到家，就开始下雨了→“到家”在“下雨”之前，主句倒装）；No sooner had she finished her homework than she went out.（她刚做完作业就出去了）。\n\n#### 用法5：表示过去未实现的希望/计划（had hoped/planned/wanted/expected + to do）\n表“原本希望/计划做某事，但最终没做成”，体现“过去的过去”的未实现意愿。\n例：I had hoped to go to Beijing, but I had to stay at home because of illness.（我原本希望去北京，但因为生病不得不待在家里）。\n\n### 过去完成时的使用注意事项\n1. 必须有“过去的动作/时间点”作为参照，若无则不可用过去完成时，直接用一般过去时：错→I had finished my homework; 对→I had finished my homework before dinner yesterday.\n2. 区分过去完成时与一般过去时：\n   - 过去完成时：过去的过去（先发生）；\n   - 一般过去时：过去（后发生）；\n3. hardly...when.../no sooner...than...句型中，hardly/no sooner后的动词需用过去完成时，且注意倒装结构（had提前）；\n4. 短暂性动词/延续性动词的转换规则同现在完成时（如buy→have，borrow→keep等），需与for/since连用。",
+          "examples": [
+            {
+              "sentence": "By 10 o'clock last night, I had finished my homework.",
+              "translation": "到昨晚10点为止，我已经做完作业了。",
+              "analysis": "by 10 o'clock last night是过去时间点，“做完作业”发生在“昨晚10点”之前（过去的过去），用had finished（所有人称均用had）。"
+            },
+            {
+              "sentence": "When he arrived at the station, the train had already left.",
+              "translation": "他到车站的时候，火车已经开走了。",
+              "analysis": "when从句用一般过去时（arrived），主句“火车开走”发生在“到达车站”之前，用had left（leave的过去分词是left）。"
+            },
+            {
+              "sentence": "She told me she had been to Japan twice before.",
+              "translation": "她告诉我她以前去过日本两次。",
+              "analysis": "“告诉”（told，一般过去时）是过去的动作，“去过日本”发生在“告诉”之前，用had been to，体现“过去的过去”。"
+            },
+            {
+              "sentence": "He had lived in Shanghai for 8 years before he moved to Guangzhou.",
+              "translation": "他搬到广州之前，已经在上海住了8年了。",
+              "analysis": "for 8 years是时间段，“住上海”从过去的过去开始，持续到“搬广州”（moved，一般过去时），用had lived（live的过去分词是lived）。"
+            },
+            {
+              "sentence": "Hardly had I opened the door when the phone rang.",
+              "translation": "我刚打开门，电话就响了。",
+              "analysis": "hardly置于句首，主句用部分倒装（had提前），had opened是过去完成时（开门在电话响之前），when从句用一般过去时rang。"
+            },
+            {
+              "sentence": "I had hoped to visit my grandparents, but I was too busy.",
+              "translation": "我原本希望去看望爷爷奶奶，但我太忙了。",
+              "analysis": "had hoped表“过去原本希望”，但最终没实现，体现过去完成时表“未实现计划”的用法，后接but转折（was too busy是一般过去时）。"
+            },
+            {
+              "sentence": "Had they finished the work by last Friday?",
+              "translation": "到上周五为止，他们已经完成工作了吗？",
+              "analysis": "疑问句结构为Had + 主语 + 过去分词，by last Friday是过去时间点，体现“过去的过去”的动作。"
+            },
+            {
+              "sentence": "She hadn't read the book before she saw the movie.",
+              "translation": "她看这部电影之前，没读过这本书。",
+              "analysis": "否定式hadn’t read（read的过去分词是read），before从句用一般过去时saw，体现“没读书”发生在“看电影”之前。"
+            },
+            {
+              "sentence": "No sooner had we got to the cinema than the film started.",
+              "translation": "我们刚到电影院，电影就开始了。",
+              "analysis": "no sooner置于句首，主句倒装（had提前），had got是过去完成时（到电影院在电影开始之前），than从句用一般过去时started。"
+            },
+            {
+              "sentence": "He had kept the book for a week before he returned it to the library.",
+              "translation": "他把书借了一周后才还给图书馆。",
+              "analysis": "borrow是短暂性动词，与for a week连用需转换为keep（kept），had kept是过去完成时，returned是一般过去时，体现动作先后。"
+            }
+          ],
+          "exercises": [
+            {
+              "question": "By the time I got to the bus stop, the bus ___. (leave)",
+              "options": {"A": "left", "B": "had left", "C": "has left"},
+              "answer": "B",
+              "explanation": "by the time引导的从句用一般过去时（got），主句“公交车离开”发生在“到车站”之前（过去的过去），用had left（leave的过去分词是left）。"
+            },
+            {
+              "question": "She ___ in this company for 5 years before she changed her job. (work)",
+              "options": {"A": "worked", "B": "had worked", "C": "has worked"},
+              "answer": "B",
+              "explanation": "before从句用一般过去时（changed），主句“工作”从过去的过去开始，持续到“换工作”，用had worked（work的过去分词是worked）。"
+            },
+            {
+              "question": "___ you ___ your homework before you watched TV? (finish)",
+              "options": {"A": "Did; finish", "B": "Had; finished", "C": "Have; finished"},
+              "answer": "B",
+              "explanation": "before从句用一般过去时（watched），主句“完成作业”发生在“看电视”之前，疑问句结构为Had + 主语 + finished。"
+            },
+            {
+              "question": "Hardly ___ he ___ the letter when the doorbell rang. (write)",
+              "options": {"A": "did; write", "B": "had; written", "C": "has; written"},
+              "answer": "B",
+              "explanation": "hardly...when...句型，主句用过去完成时had written（write的过去分词是written），注意倒装时had提前（本句hardly未置首，无需倒装）。"
+            },
+            {
+              "question": "I ___ to go to the party, but I had to study for the exam. (hope)",
+              "options": {"A": "hoped", "B": "had hoped", "C": "have hoped"},
+              "answer": "B",
+              "explanation": "had hoped表“过去原本希望”，但最终没实现，后接but had to（一般过去时），体现未实现的计划。"
+            },
+            {
+              "question": "When she came into the room, we ___ dinner. (already have)",
+              "options": {"A": "already had", "B": "had already had", "C": "have already had"},
+              "answer": "B",
+              "explanation": "when从句用一般过去时（came），主句“吃晚饭”发生在“进房间”之前，already置于had和过去分词之间，用had already had（have的过去分词是had）。"
+            },
+            {
+              "question": "He told me that he ___ the novel twice. (read)",
+              "options": {"A": "read", "B": "had read", "C": "has read"},
+              "answer": "B",
+              "explanation": "“告诉”（told，一般过去时）是过去的动作，“读小说”发生在“告诉”之前，用had read（read的过去分词是read）。"
+            },
+            {
+              "question": "They ___ the work by last Wednesday. (finish)",
+              "options": {"A": "finished", "B": "had finished", "C": "have finished"},
+              "answer": "B",
+              "explanation": "by last Wednesday是过去时间点，“完成工作”发生在“上周三”之前，用had finished。"
+            },
+            {
+              "question": "No sooner ___ we ___ home than it began to rain. (get)",
+              "options": {"A": "did; get", "B": "had; got", "C": "have; got"},
+              "answer": "B",
+              "explanation": "no sooner...than...句型，主句用过去完成时had got（get的过去分词是got），no sooner置首时主句倒装（had提前）。"
+            },
+            {
+              "question": "My father ___ the car for 3 years before he sold it. (buy)",
+              "options": {"A": "bought", "B": "had bought", "C": "had had"},
+              "answer": "C",
+              "explanation": "buy是短暂性动词，不可与for 3 years连用，转换为延续性动词have（had），had had是过去完成时，sold是一般过去时。"
+            },
+            {
+              "question": "She ___ not ___ the news before I told her. (hear)",
+              "options": {"A": "did; hear", "B": "had; heard", "C": "has; heard"},
+              "answer": "B",
+              "explanation": "before从句用一般过去时（told），主句“没听到消息”发生在“告诉她”之前，否定式为had not heard（hear的过去分词是heard）。"
+            },
+            {
+              "question": "By 2020, he ___ in this school for 10 years. (teach)",
+              "options": {"A": "taught", "B": "had taught", "C": "has taught"},
+              "answer": "B",
+              "explanation": "by 2020是过去时间点（相对于现在），“教书”从过去的过去开始，持续到2020年，用had taught。"
+            },
+            {
+              "question": "When I arrived at his house, he ___ to Beijing. (go)",
+              "options": {"A": "went", "B": "had gone", "C": "has gone"},
+              "answer": "B",
+              "explanation": "“到达他家”（arrived）是过去动作，“去北京”发生在之前，用had gone，体现“他已经去北京了，不在家”。"
+            },
+            {
+              "question": "I ___ the movie before I went to bed last night. (watch)",
+              "options": {"A": "watched", "B": "had watched", "C": "have watched"},
+              "answer": "B",
+              "explanation": "before从句用一般过去时（went），主句“看电影”发生在“睡觉”之前，用had watched（watch的过去分词是watched）。"
+            },
+            {
+              "question": "Had they ___ the bridge by the end of last month? (build)",
+              "options": {"A": "built", "B": "build", "C": "building"},
+              "answer": "A",
+              "explanation": "疑问句结构为Had + 主语 + 过去分词，build的过去分词是built，by the end of last month是过去时间点。"
+            },
+            {
+              "question": "He ___ his keys before he left the house. (lose)",
+              "options": {"A": "lost", "B": "had lost", "C": "has lost"},
+              "answer": "B",
+              "explanation": "before从句用一般过去时（left），主句“丢钥匙”发生在“出门”之前，用had lost（lose的过去分词是lost）。"
+            },
+            {
+              "question": "They ___ in Paris for 2 years before they moved to London. (live)",
+              "options": {"A": "lived", "B": "had lived", "C": "have lived"},
+              "answer": "B",
+              "explanation": "before从句用一般过去时（moved），主句“住巴黎”从过去的过去开始，持续到“搬伦敦”，用had lived。"
+            },
+            {
+              "question": "She ___ to the park many times before last Sunday. (be)",
+              "options": {"A": "was", "B": "had been", "C": "has been"},
+              "answer": "B",
+              "explanation": "before last Sunday是过去时间点，“去过公园”发生在“上周日”之前，用had been to（此处省略to，park是地点名词）。"
+            },
+            {
+              "question": "Hardly ___ she ___ the words when she started to cry. (say)",
+              "options": {"A": "did; say", "B": "had; said", "C": "has; said"},
+              "answer": "B",
+              "explanation": "hardly...when...句型，主句用过去完成时had said（say的过去分词是said），hardly置首时主句倒装（had提前）。"
+            },
+            {
+              "question": "I ___ my umbrella, so I got wet in the rain. (forget)",
+              "options": {"A": "forgot", "B": "had forgotten", "C": "have forgotten"},
+              "answer": "B",
+              "explanation": "“忘记带伞”（had forgotten）发生在“淋雨”（got wet）之前，体现“过去的过去”的动作对过去的影响。"
+            }
+          ]
+        },
+        {
+          "id": "tenses_9",
+          "title": "9-将来完成时",
+          "content": "### 将来完成时的核心定义\n将来完成时表示在**将来某个时间点之前**已经完成的动作，或持续到将来某个时间点的动作，强调“截止到未来某时，动作已完成/持续了一段时间”，是初中到高中过渡的重点时态，高考中在语篇填空、短文改错、阅读理解中高频考查。\n\n### 将来完成时的构成\n#### 基本结构\n肯定式：主语 + will have + 动词过去分词（done）\n否定式：主语 + will not (won’t) have + 动词过去分词\n疑问式：Will + 主语 + have + 动词过去分词？\n简略回答：Yes, 主语 + will./ No, 主语 + won’t.\n\n#### 特殊情况（be动词）\nbe动词的过去分词为been，如：I will have been here for 5 years by next month.\n\n### 将来完成时的核心用法（高考必考分类）\n#### 用法1：表将来某时前已完成的动作\n常搭配“by + 将来时间点”“by the time + 将来时间状语从句”“before + 将来时间”等时间状语，明确动作完成的截止时间。\n- by + 将来时间：by tomorrow（到明天）、by next week（到下周）、by 2025（到2025年）、by the end of this month（到本月底）；\n- by the time从句：by the time you come back（到你回来的时候）；\n例：I will have finished my homework by 8 o’clock this evening.（到今晚8点，我会完成作业。）\n\n#### 用法2：表持续到将来某时的动作\n常搭配“for + 时间段”“since + 过去时间点”，强调动作从过去开始，持续到将来某时，此时动词多为延续性动词（live/work/study等）。\n例：She will have lived in Beijing for 10 years by next year.（到明年，她在北京就住了10年了。）\n\n#### 用法3：表对未来某时已完成动作的推测\n基于现有情况，推测将来某个时间点动作已完成，语气肯定，常搭配probably、surely等副词。\n例：They will have arrived at the airport by now.（他们现在应该已经到机场了。）\n\n### 将来完成时的使用注意事项\n1. 时间状语必须是“将来时间”，若为过去时间，需用过去完成时（had done）；\n   错→I had finished the work by tomorrow.；对→I will have finished the work by tomorrow.\n2. 非延续性动词（finish/arrive/leave等）可用于将来完成时，表“截止到未来某时已完成”，无需转换；\n3. 将来完成时的否定式仅需在will后加not，如：He won’t have returned from London by Friday.（到周五他不会从伦敦回来。）\n4. 口语中可简化为“’ll have done”，否定式为“won’t have done”，正式书面语中也可用“shall have done”（主语为I/we），但日常用will更普遍。",
+          "examples": [
+            {
+              "sentence": "By the time you read this letter, I will have left for Shanghai.",
+              "translation": "等你读到这封信的时候，我已经动身去上海了。",
+              "analysis": "by the time引导将来时间状语从句（you read this letter表将来），主句用将来完成时will have left，强调“到你读信时，动身去上海的动作已完成”。"
+            },
+            {
+              "sentence": "They will have built the new library by the end of this year.",
+              "translation": "到今年年底，他们会建好这座新图书馆。",
+              "analysis": "by the end of this year是典型的将来完成时时间状语，built是build的过去分词，will have built表“截止到年底，建图书馆的动作已完成”。"
+            },
+            {
+              "sentence": "I will have studied English for 8 years by the time I graduate from middle school.",
+              "translation": "到我初中毕业的时候，我就学了8年英语了。",
+              "analysis": "for 8 years表动作持续的时间段，by the time引导将来时间从句，will have studied强调“从过去开始学英语，持续到毕业时已满8年”。"
+            },
+            {
+              "sentence": "She won’t have finished the report by tomorrow morning.",
+              "translation": "到明天早上，她不会完成这份报告。",
+              "analysis": "否定式won’t have finished，by tomorrow morning是将来时间状语，表“截止到明天早上，完成报告的动作未完成”。"
+            },
+            {
+              "sentence": "Will you have returned the book to the library by next Monday?",
+              "translation": "到下周一你会把书还回图书馆吗？",
+              "analysis": "疑问式Will + 主语 + have + 过去分词（returned），by next Monday是将来时间状语，核心考查将来完成时的疑问结构。"
+            },
+            {
+              "sentence": "He will have surely arrived at the meeting room by 9 o’clock.",
+              "translation": "到9点他肯定已经到会议室了。",
+              "analysis": "surely表推测语气，by 9 o’clock是将来时间，will have arrived表“对9点前已完成动作的肯定推测”。"
+            },
+            {
+              "sentence": "We shall have lived in this city for 15 years by 2026.",
+              "translation": "到2026年，我们在这座城市就住了15年了。",
+              "analysis": "主语为we，用shall have lived（正式用法），也可换为will have lived；for 15 years表持续时间，2026是将来时间点。"
+            },
+            {
+              "sentence": "The train will have left when we get to the station.",
+              "translation": "等我们到车站的时候，火车已经开走了。",
+              "analysis": "when引导将来时间状语从句（get to the station），主句will have left强调“到车站时，火车离开的动作已完成”，left是leave的过去分词。"
+            },
+            {
+              "sentence": "They will have sold out all the tickets by the end of today.",
+              "translation": "到今天结束时，他们会把所有票都卖完了。",
+              "analysis": "sell out是非延续性动词短语，will have sold out表“截止到今天结束，卖票的动作已完成”，by the end of today是将来时间状语。"
+            },
+            {
+              "sentence": "I will have forgotten this memory by the time I am 30.",
+              "translation": "到我30岁的时候，我会已经忘记这段回忆了。",
+              "analysis": "forgotten是forget的过去分词，by the time I am 30是将来时间，will have forgotten强调“30岁前忘记回忆的动作已完成”。"
+            }
+          ],
+          "exercises": [
+            {
+              "question": "By the time he ___ back, we ___ the work.",
+              "options": {"A": "comes; will have finished", "B": "will come; finish", "C": "came; had finished"},
+              "answer": "A",
+              "explanation": "by the time引导的时间状语从句用一般现在时表将来（comes），主句用将来完成时will have finished，强调“他回来时，工作已完成”。"
+            },
+            {
+              "question": "We ___ in this school for 6 years by the time we graduate.",
+              "options": {"A": "will have studied", "B": "have studied", "C": "studied"},
+              "answer": "A",
+              "explanation": "by the time we graduate是将来时间，for 6 years表持续时间，需用将来完成时will have studied，表“毕业时已学习6年”。"
+            },
+            {
+              "question": "___ they ___ the bridge by next month?",
+              "options": {"A": "Do; finish", "B": "Will; have finished", "C": "Did; finish"},
+              "answer": "B",
+              "explanation": "by next month是将来时间状语，将来完成时的疑问结构为Will + 主语 + have + 过去分词（finished），故选B。"
+            },
+            {
+              "question": "She ___ the film by 8 o’clock this evening, so she can join us for dinner.",
+              "options": {"A": "won’t have watched", "B": "will have watched", "C": "has watched"},
+              "answer": "B",
+              "explanation": "by 8 o’clock this evening是将来时间，根据“能和我们吃晚饭”可知“到8点已看完电影”，用肯定式will have watched。"
+            },
+            {
+              "question": "By 2030, people ___ more electric cars instead of gasoline cars.",
+              "options": {"A": "will have used", "B": "use", "C": "are using"},
+              "answer": "A",
+              "explanation": "By 2030是将来时间点，需用将来完成时will have used，表“到2030年，人们已使用更多电动车”。"
+            },
+            {
+              "question": "He ___ here for 10 years by next spring.",
+              "options": {"A": "had been", "B": "will have been", "C": "is"},
+              "answer": "B",
+              "explanation": "by next spring是将来时间，for 10 years表持续时间，be动词的将来完成时为will have been，故选B。"
+            },
+            {
+              "question": "The project ___ by the end of this month, I’m sure.",
+              "options": {"A": "will have completed", "B": "will have been completed", "C": "completed"},
+              "answer": "B",
+              "explanation": "project和complete是被动关系，将来完成时的被动结构为will have been + 过去分词（completed），表“到月底项目被完成”。"
+            },
+            {
+              "question": "I ___ my homework before my parents come back.",
+              "options": {"A": "will have finished", "B": "finish", "C": "finished"},
+              "answer": "A",
+              "explanation": "before引导将来时间状语（come back），主句用将来完成时will have finished，强调“父母回来前作业已完成”。"
+            },
+            {
+              "question": "They ___ all the food by the time the party starts.",
+              "options": {"A": "will have eaten", "B": "eat", "C": "have eaten"},
+              "answer": "A",
+              "explanation": "by the time the party starts是将来时间，will have eaten表“派对开始时，吃完所有食物的动作已完成”，eaten是eat的过去分词。"
+            },
+            {
+              "question": "She ___ the English exam by next Friday, so she is studying hard now.",
+              "options": {"A": "takes", "B": "will have taken", "C": "took"},
+              "answer": "B",
+              "explanation": "by next Friday是将来时间状语，will have taken表“到下周五已参加完英语考试”，taken是take的过去分词。"
+            },
+            {
+              "question": "Will you ___ the book to me by the end of this week?",
+              "options": {"A": "have returned", "B": "return", "C": "returned"},
+              "answer": "A",
+              "explanation": "将来完成时的疑问结构为Will + 主语 + have + 过去分词，return的过去分词是returned，故选have returned。"
+            },
+            {
+              "question": "We ___ the trip to Paris by the time you visit us next year.",
+              "options": {"A": "will have had", "B": "have had", "C": "had"},
+              "answer": "A",
+              "explanation": "by the time you visit us next year是将来时间，have the trip表“旅行”，将来完成时为will have had，had是have的过去分词。"
+            },
+            {
+              "question": "The factory ___ 1000 cars by the end of this quarter.",
+              "options": {"A": "produces", "B": "will have produced", "C": "produced"},
+              "answer": "B",
+              "explanation": "by the end of this quarter（到本季度末）是将来时间，will have produced表“截止到本季度末已生产1000辆车”。"
+            },
+            {
+              "question": "He ___ in the company for 5 years by his birthday this year.",
+              "options": {"A": "will have worked", "B": "works", "C": "worked"},
+              "answer": "A",
+              "explanation": "by his birthday this year是将来时间，for 5 years表持续时间，will have worked表“到今年生日时已在公司工作5年”。"
+            },
+            {
+              "question": "They ___ the problem by the time the meeting ends.",
+              "options": {"A": "will have solved", "B": "solve", "C": "solved"},
+              "answer": "A",
+              "explanation": "by the time the meeting ends是将来时间，solve the problem表“解决问题”，will have solved表“会议结束时问题已解决”。"
+            },
+            {
+              "question": "I ___ this novel by tomorrow afternoon.",
+              "options": {"A": "won’t have read", "B": "don’t read", "C": "didn’t read"},
+              "answer": "A",
+              "explanation": "by tomorrow afternoon是将来时间，否定式用won’t have read，表“到明天下午还没读完这本小说”。"
+            },
+            {
+              "question": "___ he ___ the exam by next week?",
+              "options": {"A": "Has; passed", "B": "Will; have passed", "C": "Did; pass"},
+              "answer": "B",
+              "explanation": "by next week是将来时间，将来完成时的疑问结构为Will + 主语 + have + 过去分词（passed），故选B。"
+            },
+            {
+              "question": "The students ___ all the experiments by the end of the term.",
+              "options": {"A": "will have done", "B": "do", "C": "did"},
+              "answer": "A",
+              "explanation": "by the end of the term是将来时间，do experiments表“做实验”，will have done表“到学期末已做完所有实验”。"
+            },
+            {
+              "question": "She ___ in London for 3 years by the time she moves to New York.",
+              "options": {"A": "will have lived", "B": "lives", "C": "lived"},
+              "answer": "A",
+              "explanation": "by the time she moves to New York是将来时间，for 3 years表持续时间，will have lived表“搬到纽约时已在伦敦住3年”。"
+            },
+            {
+              "question": "We ___ the new house by the time our grandparents come to visit us.",
+              "options": {"A": "will have decorated", "B": "decorate", "C": "decorated"},
+              "answer": "A",
+              "explanation": "by the time our grandparents come to visit us是将来时间，decorate the house表“装修房子”，will have decorated表“祖父母来访时房子已装修好”。"
+            }
+          ]
+        },
+        {
+          "id": "tenses_10",
+          "title": "10-过去完成进行时",
+          "content": "### 过去完成进行时的核心定义\n过去完成进行时表示**在过去某个时间点之前**，某个动作已经开始并持续了一段时间，且该动作可能还在继续，或刚结束、对过去某个时间点产生了影响。它侧重“动作的持续性”，区别于过去完成时（侧重“动作完成”），是高中英语的重点时态，高考在语篇填空、短文改错中常考。\n\n### 过去完成进行时的构成\n#### 基本结构\n肯定式：主语 + had been + 动词现在分词（doing）\n否定式：主语 + had not (hadn’t) been + 动词现在分词\n疑问式：Had + 主语 + been + 动词现在分词？\n简略回答：Yes, 主语 + had./ No, 主语 + hadn’t.\n\n### 过去完成进行时的核心用法（高考必考分类）\n#### 用法1：表过去某时前已持续的动作（常接for/since）\n强调动作从“过去的过去”开始，持续到过去某个时间点，常搭配“for + 时间段”“since + 过去时间点/从句”，以及when/before/until引导的过去时间状语从句。\n例：He had been waiting for her for an hour when she arrived.（她到的时候，他已经等了她一个小时了。）\n\n#### 用法2：表过去某时刚结束的动作（有结果/影响）\n动作在过去某个时间点刚结束，但其产生的结果或状态仍体现在该时间点，常通过上下文体现“刚结束”的语境。\n例：Her eyes were red because she had been crying.（她眼睛红了，因为她刚哭过。）\n\n#### 用法3：表过去反复发生的动作（带感情色彩）\n侧重过去某个时间段内反复做的动作，常带有抱怨、不满、赞扬等感情色彩，搭配always/constantly/continually等副词。\n例：He had been always late for school before he got the new watch.（在他拿到新手表前，上学总是迟到。）\n\n### 过去完成进行时的使用注意事项\n1. 必须有“过去的过去”的时间参照点，否则不能用；\n   错→She had been studying English for 5 years.；对→She had been studying English for 5 years when she went abroad.（went abroad是过去参照点）\n2. 与过去完成时的区别：\n   - 过去完成时（had done）：侧重动作“完成”，如：He had finished the work when I came.（我来的时候他已完成工作）；\n   - 过去完成进行时（had been doing）：侧重动作“持续”，如：He had been doing the work for 2 hours when I came.（我来的时候他已做了2小时工作，可能还在做）；\n3. 非延续性动词（finish/arrive/leave等）不能用于过去完成进行时，因这类动词无“持续”属性；\n4. 口语中否定式常缩写为hadn’t been doing，如：She hadn’t been working here long when the company closed.（公司倒闭时，她在这工作没多久。）",
+          "examples": [
+            {
+              "sentence": "When the teacher came in, the students had been talking for 10 minutes.",
+              "translation": "老师进来的时候，学生们已经聊了10分钟了。",
+              "analysis": "came in是过去时间参照点，had been talking表“聊天动作从过去的过去开始，持续到老师进来时已10分钟”，侧重动作持续性。"
+            },
+            {
+              "sentence": "He was tired because he had been working all day.",
+              "translation": "他很累，因为他一整天都在工作。",
+              "analysis": "was tired是过去状态，had been working表“工作动作在他累之前已持续一整天，刚结束，导致他累”，体现动作的影响。"
+            },
+            {
+              "question": "Why was the ground wet? — It had been raining all night.",
+              "translation": "地面为什么湿了？——因为下了一整晚的雨。",
+              "analysis": "was wet是过去状态，had been raining表“下雨动作在地面湿之前持续了整晚，刚结束，导致地面湿”，侧重动作结果。"
+            },
+            {
+              "sentence": "Had she been learning piano before she entered the music school?",
+              "translation": "她进音乐学院前一直在学钢琴吗？",
+              "analysis": "entered the music school是过去参照点，疑问式Had + 主语 + been + learning，核心考查过去完成进行时的疑问结构。"
+            },
+            {
+              "sentence": "They hadn’t been living in this city long before they moved to the countryside.",
+              "translation": "他们在这座城市住没多久就搬到乡下了。",
+              "analysis": "moved to the countryside是过去参照点，hadn’t been living是否定式，表“居住动作持续时间短”，侧重持续性。"
+            },
+            {
+              "sentence": "She had been constantly complaining about the noise until the neighbor turned it down.",
+              "translation": "直到邻居把噪音调小，她一直都在抱怨噪音。",
+              "analysis": "constantly表反复、不满的感情色彩，turned it down是过去参照点，had been complaining表“抱怨动作持续到邻居调小噪音时”。"
+            },
+            {
+              "sentence": "I had been waiting for the bus for 30 minutes when it finally came.",
+              "translation": "公交车终于来的时候，我已经等了30分钟了。",
+              "analysis": "came是过去参照点，had been waiting表“等车动作持续30分钟”，侧重动作的持续时长。"
+            },
+            {
+              "sentence": "He had been reading the novel since 9 o’clock before his mother called him.",
+              "translation": "他妈妈给他打电话前，他从9点起就一直在看这本小说。",
+              "analysis": "since 9 o’clock表动作开始的时间，called him是过去参照点，had been reading表“看书动作从9点持续到打电话时”。"
+            },
+            {
+              "sentence": "The workers had been building the road for 6 months when the accident happened.",
+              "translation": "事故发生时，工人们已经修这条路修了6个月了。",
+              "analysis": "happened是过去参照点，had been building表“修路动作持续6个月”，体现动作的持续性，区别于had built（侧重修完）。"
+            },
+            {
+              "sentence": "She had been always forgetting to take her keys before she bought a keychain.",
+              "translation": "她买钥匙扣前，总是忘带钥匙。",
+              "analysis": "always表反复的感情色彩，bought a keychain是过去参照点，had been forgetting表“忘带钥匙的动作反复发生在买钥匙扣前”。"
+            }
+          ],
+          "exercises": [
+            {
+              "question": "When I arrived at the station, the train ___, but I ___ for it for 20 minutes.",
+              "options": {"A": "left; waited", "B": "had left; had been waiting", "C": "had left; waited"},
+              "answer": "B",
+              "explanation": "arrived是过去参照点，火车离开（left）在到达前，用过去完成时had left；等车动作持续20分钟，侧重持续性，用had been waiting。"
+            },
+            {
+              "question": "Her voice was hoarse because she ___ all morning.",
+              "options": {"A": "had been singing", "B": "sang", "C": "has sung"},
+              "answer": "A",
+              "explanation": "was hoarse是过去状态，唱歌动作在这之前持续了一早上，且导致嗓子哑，用过去完成进行时had been singing。"
+            },
+            {
+              "question": "___ you ___ English before you came to this school?",
+              "options": {"A": "Did; learn", "B": "Had; been learning", "C": "Have; learned"},
+              "answer": "B",
+              "explanation": "came to this school是过去参照点，问句侧重“来学校前是否一直在学英语”，用过去完成进行时的疑问结构Had + 主语 + been learning。"
+            },
+            {
+              "question": "He ___ the computer for 3 hours when his father told him to stop.",
+              "options": {"A": "had been using", "B": "used", "C": "has used"},
+              "answer": "A",
+              "explanation": "told him to stop是过去参照点，用电脑的动作持续3小时，侧重持续性，用had been using。"
+            },
+            {
+              "question": "They ___ in the park for an hour when it started to rain.",
+              "options": {"A": "had been walking", "B": "walked", "C": "are walking"},
+              "answer": "A",
+              "explanation": "started to rain是过去参照点，散步动作持续1小时，用过去完成进行时had been walking。"
+            },
+            {
+              "question": "She ___ about the problem until she found a solution.",
+              "options": {"A": "had been thinking", "B": "thought", "C": "thinks"},
+              "answer": "A",
+              "explanation": "found a solution是过去参照点，思考问题的动作持续到找到解决方案时，侧重持续性，用had been thinking。"
+            },
+            {
+              "question": "The children ___ TV for 2 hours when their mother came back home.",
+              "options": {"A": "watched", "B": "had been watching", "C": "have watched"},
+              "answer": "B",
+              "explanation": "came back home是过去参照点，看电视动作持续2小时，用过去完成进行时had been watching。"
+            },
+            {
+              "question": "He ___ late for work before he bought a new alarm clock.",
+              "options": {"A": "had been always being", "B": "was always", "C": "is always"},
+              "answer": "A",
+              "explanation": "bought a new alarm clock是过去参照点，always表反复的感情色彩，“总是迟到”是持续的状态，用had been always being。"
+            },
+            {
+              "question": "Why ___ she ___? Her face was full of tears.",
+              "options": {"A": "had; been crying", "B": "did; cry", "C": "has; cried"},
+              "answer": "A",
+              "explanation": "was full of tears是过去状态，哭的动作刚结束且导致脸有泪，用过去完成进行时had been crying。"
+            },
+            {
+              "question": "We ___ the project for 5 days when the manager changed the plan.",
+              "options": {"A": "had been doing", "B": "did", "C": "do"},
+              "answer": "A",
+              "explanation": "changed the plan是过去参照点，做项目的动作持续5天，侧重持续性，用had been doing。"
+            },
+            {
+              "question": "He ___ the book since morning before he went to bed.",
+              "options": {"A": "had been reading", "B": "read", "C": "has read"},
+              "answer": "A",
+              "explanation": "went to bed是过去参照点，since morning表动作开始时间，看书动作持续到睡觉前，用had been reading。"
+            },
+            {
+              "question": "The rain ___ for hours before the sun came out.",
+              "options": {"A": "had been falling", "B": "fell", "C": "has fallen"},
+              "answer": "A",
+              "explanation": "came out是过去参照点，下雨动作持续数小时，侧重持续性，用had been falling（fall的现在分词）。"
+            },
+            {
+              "question": "She ___ French for 2 years when she went to Paris.",
+              "options": {"A": "had been studying", "B": "studied", "C": "studies"},
+              "answer": "A",
+              "explanation": "went to Paris是过去参照点，学法语的动作持续2年，用过去完成进行时had been studying。"
+            },
+            {
+              "question": "They ___ the game for 40 minutes when the bell rang.",
+              "options": {"A": "had been playing", "B": "played", "C": "play"},
+              "answer": "A",
+              "explanation": "rang是过去参照点，玩游戏的动作持续40分钟，用过去完成进行时had been playing。"
+            },
+            {
+              "question": "He ___ the car for a week when it broke down.",
+              "options": {"A": "had been driving", "B": "drove", "C": "drives"},
+              "answer": "A",
+              "explanation": "broke down是过去参照点，开车的动作持续一周，侧重持续性，用had been driving。"
+            },
+            {
+              "question": "___ they ___ the house for long before they sold it?",
+              "options": {"A": "Did; live in", "B": "Had; been living in", "C": "Have; lived in"},
+              "answer": "B",
+              "explanation": "sold it是过去参照点，问句侧重“卖房前是否住了很久”，用过去完成进行时的疑问结构Had + 主语 + been living in。"
+            },
+            {
+              "question": "The teacher ___ the students’ homework for an hour when the bell rang.",
+              "options": {"A": "had been checking", "B": "checked", "C": "checks"},
+              "answer": "A",
+              "explanation": "rang是过去参照点，批改作业的动作持续1小时，用过去完成进行时had been checking。"
+            },
+            {
+              "question": "She ___ the same song all day, so I got bored.",
+              "options": {"A": "had been singing", "B": "sang", "C": "sings"},
+              "answer": "A",
+              "explanation": "got bored是过去状态，唱同一首歌的动作持续一整天且导致厌烦，用had been singing。"
+            },
+            {
+              "question": "I ___ to call you for hours before I finally got through.",
+              "options": {"A": "had been trying", "B": "tried", "C": "try"},
+              "answer": "A",
+              "explanation": "got through是过去参照点，尝试打电话的动作持续数小时，侧重持续性，用had been trying。"
+            },
+            {
+              "question": "He ___ his bike all morning before he fixed it.",
+              "options": {"A": "had been repairing", "B": "repaired", "C": "repairs"},
+              "answer": "A",
+              "explanation": "fixed it是过去参照点，修自行车的动作持续一早上，侧重持续性，用had been repairing。"
+            }
+          ]
+        },
+        {
+          "id": "tenses_11",
+          "title": "11-现在完成进行时",
+          "content": "### 现在完成进行时的核心定义\n现在完成进行时表示**从过去某个时间开始**，一直持续到现在的动作，该动作可能仍在进行，也可能刚结束，但强调“动作的持续性、重复性或对现在的影响”。它是初中升高中的核心时态，中考偶尔考查，高考高频考查，需重点区分与现在完成时的差异。\n\n### 现在完成进行时的构成\n#### 基本结构\n肯定式：主语 + have/has been + 动词现在分词（doing）\n（主语为第三人称单数用has，其余用have）\n否定式：主语 + have/has not (haven’t/hasn’t) been + 动词现在分词\n疑问式：Have/Has + 主语 + been + 动词现在分词？\n简略回答：Yes, 主语 + have/has./ No, 主语 + haven’t/hasn’t.\n\n### 现在完成进行时的核心用法（必考分类）\n#### 用法1：表持续到现在的动作（常接for/since）\n动作从过去开始，一直持续到此刻，常搭配“for + 时间段”“since + 过去时间点/从句”“all day/week/month”等时间状语，侧重动作“未中断的持续性”。\n- 例1：I have been studying English for 3 hours.（我已经学了3小时英语了，现在还在学）；\n- 例2：She has been living in Beijing since 2018.（她从2018年起就住在北京，现在还住）。\n\n#### 用法2：表刚结束的动作（有现在的结果/影响）\n动作在说话时刚结束，但产生的结果或状态仍体现在现在，无需明确时间状语，通过上下文体现“刚结束”。\n- 例：You look tired. Have you been working hard?（你看起来很累，你一直在努力工作吗？）\n\n#### 用法3：表反复发生的动作（带感情色彩）\n动作在过去到现在的时间段内反复发生，常搭配always/constantly/continually等副词，带有抱怨、赞扬、不满等感情色彩。\n- 例：He has been always late for class recently.（他最近上课总迟到，不满）；\n- 例：She has been constantly helping me with my study.（她一直帮我学习，赞扬）。\n\n### 现在完成进行时与现在完成时的核心区别（必考易混点）\n| 维度         | 现在完成进行时（have/has been doing） | 现在完成时（have/has done） |\n|--------------|----------------------------------------|------------------------------|\n| 核心侧重     | 动作的**持续性、过程**                 | 动作的**完成、结果**         |\n| 结果体现     | 强调动作本身的持续，不一定完成         | 强调动作完成，有明确结果     |\n| 感情色彩     | 可带反复/感情色彩（always等）          | 无感情色彩，仅陈述事实       |\n| 动词类型     | 仅可接**延续性动词**（study/live/work） | 可接延续性/非延续性动词      |\n- 例句对比：\n  ① I have been writing the letter for 2 hours.（写了2小时，还在写，侧重过程）；\n  ② I have written the letter.（信写完了，侧重结果）。\n### 现在完成进行时的使用注意事项\n1. 非延续性动词（finish/arrive/leave/die等）不能用于现在完成进行时，因这类动词无“持续”属性；\n   错→He has been finishing his homework for an hour.；对→He has been doing his homework for an hour.\n2. 时间状语若为“already/yet/ever/never”（表完成），用现在完成时；若为“for/since/all day”（表持续），优先用现在完成进行时；\n3. 口语中缩写形式：haven’t been doing / hasn’t been doing，如：She hasn’t been feeling well recently.（她最近一直不舒服）；\n4. 被动语态：现在完成进行时无被动形式，若需表被动且持续，用“have/has been being + 过去分词”（极少用），优先换用现在完成时被动（have/has been done）。",
+          "examples": [
+            {
+              "sentence": "I have been waiting for you for half an hour. Where have you been?",
+              "translation": "我已经等了你半个小时了，你去哪了？",
+              "analysis": "for half an hour表持续时间，have been waiting是现在完成进行时，强调“等的动作从过去开始，持续到现在，刚结束（见到对方）”，体现对现在的影响（不满）。"
+            },
+            {
+              "sentence": "She has been learning to play the piano since she was 5 years old.",
+              "translation": "她从5岁起就一直在学弹钢琴。",
+              "analysis": "since she was 5 years old表动作开始时间，has been learning（第三人称单数）强调“学钢琴的动作持续到现在，可能还在学”，侧重持续性。"
+            },
+            {
+              "sentence": "It has been raining all day, so the ground is wet.",
+              "translation": "下了一整天的雨，所以地面是湿的。",
+              "analysis": "all day表持续时间，has been raining强调“下雨动作持续一整天，导致现在地面湿”，体现动作对现在的影响。"
+            },
+            {
+              "sentence": "Has he been working in this company since 2020?",
+              "translation": "他从2020年起就一直在这家公司工作吗？",
+              "analysis": "疑问式Has + 主语 + been + working，since 2020是时间状语，核心考查现在完成进行时的疑问结构。"
+            },
+            {
+              "sentence": "They haven’t been talking to each other recently. What happened?",
+              "translation": "他们最近一直没说话，发生什么事了？",
+              "analysis": "否定式haven’t been talking，recently表“过去到现在”的时间段，强调“不说话的状态持续到现在”。"
+            },
+            {
+              "sentence": "He has been always making mistakes in his homework. His teacher is angry.",
+              "translation": "他作业里总犯错误，他的老师很生气。",
+              "analysis": "always表反复、不满的感情色彩，has been making强调“犯错误的动作在近期反复发生”，体现感情色彩。"
+            },
+            {
+              "sentence": "My mother has been cooking dinner for an hour. It will be ready soon.",
+              "translation": "我妈妈已经做了一个小时的晚饭了，很快就好。",
+              "analysis": "for an hour表持续时间，has been cooking强调“做饭动作持续到现在，还在做，即将完成”，侧重过程。"
+            },
+            {
+              "sentence": "You look sweaty. Have you been running?",
+              "translation": "你看起来满头大汗，你刚一直在跑步吗？",
+              "analysis": "无明确时间状语，通过“look sweaty”体现“跑步动作刚结束，导致现在出汗”，用现在完成进行时表动作的影响。"
+            },
+            {
+              "sentence": "The children have been playing outside all afternoon.",
+              "translation": "孩子们整个下午都在外面玩。",
+              "analysis": "all afternoon表持续时间，have been playing强调“玩的动作从下午开始，持续到现在，可能还在玩”。"
+            },
+            {
+              "sentence": "She has been constantly helping me with my English. I really appreciate it.",
+              "translation": "她一直帮我学英语，我非常感激。",
+              "analysis": "constantly表赞扬的感情色彩，has been helping强调“帮忙的动作在过去到现在反复发生”，体现感情色彩。"
+            }
+          ],
+          "exercises": [
+            {
+              "question": "I ___ English for 2 hours, and I need a break.",
+              "options": {"A": "have been studying", "B": "studied", "C": "am studying"},
+              "answer": "A",
+              "explanation": "for 2 hours表持续时间，“学英语2小时，现在需要休息”说明动作持续到现在，用现在完成进行时have been studying。"
+            },
+            {
+              "question": "She ___ in this city since she graduated from college.",
+              "options": {"A": "lives", "B": "has been living", "C": "lived"},
+              "answer": "B",
+              "explanation": "since she graduated from college表动作开始时间，“从毕业起就住在这座城市”强调持续到现在，用has been living（第三人称单数）。"
+            },
+            {
+              "question": "___ you ___ TV all evening? Your eyes are red.",
+              "options": {"A": "Did; watch", "B": "Have; been watching", "C": "Are; watching"},
+              "answer": "B",
+              "explanation": "all evening表持续时间，“眼睛红”体现动作对现在的影响，用现在完成进行时的疑问结构Have + 主语 + been watching。"
+            },
+            {
+              "question": "He ___ late for work recently. His boss is very unhappy.",
+              "options": {"A": "has been being", "B": "is", "C": "was"},
+              "answer": "A",
+              "explanation": "recently表“过去到现在”，always/ recently + 现在完成进行时表反复的感情色彩，“迟到”是持续的状态，用has been being。"
+            },
+            {
+              "question": "It ___ all week. The river is rising.",
+              "options": {"A": "has been raining", "B": "rained", "C": "rains"},
+              "answer": "A",
+              "explanation": "all week表持续时间，“河水上涨”是下雨的结果，用has been raining强调动作持续且有现在影响。"
+            },
+            {
+              "question": "They ___ the project for 3 days, and they will finish it tomorrow.",
+              "options": {"A": "have been doing", "B": "did", "C": "do"},
+              "answer": "A",
+              "explanation": "for 3 days表持续时间，“做项目3天，明天完成”说明动作持续到现在，未完成，用have been doing。"
+            },
+            {
+              "question": "She ___ to call her friend, but she can’t get through.",
+              "options": {"A": "has been trying", "B": "tried", "C": "tries"},
+              "answer": "A",
+              "explanation": "“一直尝试打电话，打不通”强调动作持续到现在，用has been trying。"
+            },
+            {
+              "question": "He ___ football with his friends since 3 o’clock.",
+              "options": {"A": "has been playing", "B": "played", "C": "plays"},
+              "answer": "A",
+              "explanation": "since 3 o’clock表动作开始时间，强调踢足球的动作持续到现在，用has been playing。"
+            },
+            {
+              "question": "We ___ the house all morning. It’s still not clean.",
+              "options": {"A": "have been cleaning", "B": "cleaned", "C": "clean"},
+              "answer": "A",
+              "explanation": "all morning表持续时间，“还没打扫干净”说明动作持续到现在，未完成，用have been cleaning。"
+            },
+            {
+              "question": "___ she ___ the piano for an hour? I want to ask her to rest.",
+              "options": {"A": "Has; been playing", "B": "Did; play", "C": "Is; playing"},
+              "answer": "A",
+              "explanation": "for an hour表持续时间，“想让她休息”说明弹钢琴的动作持续到现在，用has been playing（第三人称单数疑问式）。"
+            },
+            {
+              "question": "The baby ___ all night. I’m so tired.",
+              "options": {"A": "has been crying", "B": "cried", "C": "cries"},
+              "answer": "A",
+              "explanation": "all night表持续时间，“我很累”是宝宝哭的结果，用has been crying强调动作持续且有现在影响。"
+            },
+            {
+              "question": "I ___ this book since yesterday, but I haven’t finished it yet.",
+              "options": {"A": "have been reading", "B": "read", "C": "am reading"},
+              "answer": "A",
+              "explanation": "since yesterday表动作开始时间，“还没读完”说明动作持续到现在，未完成，用have been reading。"
+            },
+            {
+              "question": "They ___ each other for years, so they know each other well.",
+              "options": {"A": "have been knowing", "B": "have known", "C": "knew"},
+              "answer": "B",
+              "explanation": "know是状态动词，无“进行”形式，虽for years表持续，但需用现在完成时have known（现在完成进行时仅接动作动词）。"
+            },
+            {
+              "question": "He ___ constantly ___ me e-mails. I don’t have time to reply.",
+              "options": {"A": "has; been sending", "B": "did; send", "C": "is; sending"},
+              "answer": "A",
+              "explanation": "constantly表反复的感情色彩，“一直发邮件，没时间回复”强调动作持续到现在，用has been sending。"
+            },
+            {
+              "question": "She ___ well recently. She should see a doctor.",
+              "options": {"A": "hasn’t been feeling", "B": "didn’t feel", "C": "doesn’t feel"},
+              "answer": "A",
+              "explanation": "recently表“过去到现在”，“不舒服”的状态持续到现在，用否定式hasn’t been feeling。"
+            },
+            {
+              "question": "We ___ for the bus for 40 minutes. When will it come?",
+              "options": {"A": "have been waiting", "B": "waited", "C": "wait"},
+              "answer": "A",
+              "explanation": "for 40 minutes表持续时间，“问公交车什么时候来”说明还在等，动作持续到现在，用have been waiting。"
+            },
+            {
+              "question": "___ he ___ in the garden all afternoon?",
+              "options": {"A": "Did; work", "B": "Has; been working", "C": "Is; working"},
+              "answer": "B",
+              "explanation": "all afternoon表持续时间，问句侧重“是否一直在花园工作到现在”，用has been working（第三人称单数疑问式）。"
+            },
+            {
+              "question": "The wind ___ hard all day. The trees are blowing everywhere.",
+              "options": {"A": "has been blowing", "B": "blew", "C": "blows"},
+              "answer": "A",
+              "explanation": "all day表持续时间，“树被吹得到处都是”是刮风的结果，用has been blowing强调动作持续且有现在影响。"
+            },
+            {
+              "question": "I ___ my room since this morning, and it’s almost done.",
+              "options": {"A": "have been tidying", "B": "tidied", "C": "tidy"},
+              "answer": "A",
+              "explanation": "since this morning表动作开始时间，“快收拾完了”说明动作持续到现在，即将完成，用have been tidying。"
+            },
+            {
+              "question": "She ___ French for 6 months, and she can speak a little now.",
+              "options": {"A": "has been learning", "B": "learned", "C": "learns"},
+              "answer": "A",
+              "explanation": "for 6 months表持续时间，“现在会说一点”是学习的结果，用has been learning强调动作持续且有现在影响。"
+            }
+          ]
+        },
+        {
+          "id": "tenses_12",
+          "title": "12-将来完成进行时",
+          "content": "### 将来完成进行时的核心定义\n将来完成进行时表示**从现在开始**，一直持续到将来某个时间点的动作，该动作在将来那个时间点仍在进行，或刚结束，侧重“动作的持续性和未来的延续性”。它是高中英语的难点时态，高考在阅读理解、书面表达（复杂句式）中考查，需结合将来时间点理解。\n\n### 将来完成进行时的构成\n#### 基本结构\n肯定式：主语 + will have been + 动词现在分词（doing）\n否定式：主语 + will not (won’t) have been + 动词现在分词\n疑问式：Will + 主语 + have been + 动词现在分词？\n简略回答：Yes, 主语 + will./ No, 主语 + won’t.\n\n### 将来完成进行时的核心用法（高考必考分类）\n#### 用法1：表持续到将来某时的动作（常接for/since）\n动作从现在（或过去）开始，持续到将来某个时间点，常搭配“by + 将来时间点”“for + 时间段”“until + 将来时间”等时间状语，强调“截止到将来某时，动作已持续一段时间且可能继续”。\n- 例1：By next year, I will have been living in Beijing for 10 years.（到明年，我在北京就住了10年了，可能还住）；\n- 例2：They will have been working on the project for 8 months by the end of this year.（到今年年底，他们做这个项目就满8个月了）。\n\n#### 用法2：表对将来某时动作持续状态的推测\n基于现有情况，推测将来某个时间点动作仍在持续，常搭配probably/surely/likely等副词，语气肯定。\n- 例：By 9 o’clock tonight, he will have been driving for 12 hours. He must be tired.（到今晚9点，他就开了12小时车了，他肯定累了）。\n\n#### 用法3：表将来某时刚结束的动作（有结果）\n动作持续到将来某个时间点后刚结束，其产生的结果或状态体现在该时间点，需通过上下文体现“刚结束”。\n- 例：When you arrive at the party, we will have been dancing for an hour.（你到派对时，我们已经跳了一小时舞了，刚停下）。\n\n### 将来完成进行时的使用注意事项\n1. 必须有明确的“将来时间点”（by next week/2030等），否则不能用；\n   错→I will have been studying English for 5 years.；对→I will have been studying English for 5 years by 2026.\n2. 与将来完成时的区别：\n   - 将来完成时（will have done）：侧重“动作完成”，如：By 2026, I will have finished my degree.（到2026年，我已完成学位）；\n   - 将来完成进行时（will have been doing）：侧重“动作持续”，如：By 2026, I will have been studying for my degree for 4 years.（到2026年，我攻读学位已满4年，可能还在学）；\n3. 非延续性动词（finish/arrive/leave等）不能用于将来完成进行时，因无“持续”属性；\n4. 口语中缩写形式：’ll have been doing / won’t have been doing，如：She’ll have been teaching for 20 years by next summer.（到明年夏天，她教书就满20年了）；\n5. 无被动语态，若需表被动且持续到将来，用“will have been being + 过去分词”（极少用），优先换用将来完成时被动（will have been done）。\n\n### 易混时态对比（将来相关）\n| 时态               | 结构                | 核心侧重                     |\n|--------------------|---------------------|------------------------------|\n| 一般将来时         | will do             | 将来某个时间发生的动作（一次性） |\n| 将来进行时         | will be doing       | 将来某时正在进行的动作         |\n| 将来完成时         | will have done      | 将来某时前已完成的动作         |\n| 将来完成进行时     | will have been doing| 将来某时前已持续的动作         |\n- 例句对比：\n  ① I will visit you tomorrow.（一般将来时：明天拜访你，一次性动作）；\n  ② I will be visiting you at 3 tomorrow afternoon.（将来进行时：明天下午3点正在拜访你）；\n  ③ I will have visited you by tomorrow evening.（将来完成时：到明晚已拜访过你）；\n  ④ I will have been visiting you for 2 hours by 5 tomorrow afternoon.（将来完成进行时：到明天下午5点，拜访你已满2小时）。",
+          "examples": [
+            {
+              "sentence": "By the time you come back from abroad, I will have been working in this company for 5 years.",
+              "translation": "等你从国外回来的时候，我在这家公司工作就满5年了。",
+              "analysis": "by the time you come back from abroad是将来时间点，will have been working强调“工作动作从现在开始，持续到你回国时已满5年，可能还继续工作”，侧重持续性。"
+            },
+            {
+              "sentence": "They will have been building the new bridge for 2 years by the end of next month.",
+              "translation": "到下月底，他们建这座新桥就满2年了。",
+              "analysis": "by the end of next month是将来时间点，will have been building强调“建桥动作持续2年，截止到下月底仍在进行（或刚结束）”。"
+            },
+            {
+              "sentence": "Will he have been studying French for 3 years by the time he goes to Paris?",
+              "translation": "到他去巴黎的时候，他学法语就满3年了吗？",
+              "analysis": "疑问式Will + 主语 + have been + studying，by the time he goes to Paris是将来时间点，核心考查将来完成进行时的疑问结构。"
+            },
+            {
+              "sentence": "She won’t have been living in this apartment for a year by next week.",
+              "translation": "到下周，她住这套公寓还不满一年。",
+              "explanation": "否定式won’t have been living，by next week是将来时间点，强调“居住动作持续时间不足一年”。"
+            },
+            {
+              "sentence": "By 10 o’clock tonight, he will have been driving for 10 hours. He needs to take a break.",
+              "translation": "到今晚10点，他开车就满10小时了，他需要休息。",
+              "analysis": "By 10 o’clock tonight是将来时间点，will have been driving表“对将来某时动作持续状态的推测”，且体现“开车10小时导致需要休息”的结果。"
+            },
+            {
+              "sentence": "We will have been traveling around Europe for a month by the time we get to Italy.",
+              "translation": "等我们到意大利的时候，我们在欧洲旅行就满一个月了。",
+              "analysis": "by the time we get to Italy是将来时间点，will have been traveling强调“旅行动作持续一个月，到意大利时刚结束或仍在继续”。"
+            },
+            {
+              "sentence": "She’ll have been teaching English for 15 years by next summer.",
+              "translation": "到明年夏天，她教英语就满15年了。",
+              "analysis": "口语缩写形式’ll have been teaching，by next summer是将来时间点，强调“教书动作持续15年，截止到明年夏天”。"
+            },
+            {
+              "sentence": "The scientists will have been researching the disease for 8 years by 2030.",
+              "translation": "到2030年，科学家们研究这种疾病就满8年了。",
+              "analysis": "by 2030是将来时间点，will have been researching强调“研究动作从现在开始，持续到2030年，可能还继续”。"
+            },
+            {
+              "sentence": "When the concert starts, the band will have been practicing for 3 hours.",
+              "translation": "音乐会开始时，这支乐队已经排练了3小时了。",
+              "analysis": "when the concert starts是将来时间点，will have been practicing强调“排练动作持续3小时，到音乐会开始时刚结束”。"
+            },
+            {
+              "sentence": "He will have been writing the novel for 2 years by the time he publishes it.",
+              "translation": "到他出版这本小说的时候，他写这本小说就满2年了。",
+              "analysis": "by the time he publishes it是将来时间点，will have been writing强调“写小说的动作持续2年，截止到出版时”。"
+            }
+          ],
+          "exercises": [
+            {
+              "question": "By next year, I ___ in this school for 8 years.",
+              "options": {"A": "will have been working", "B": "worked", "C": "am working"},
+              "answer": "A",
+              "explanation": "by next year是将来时间点，for 8 years表持续时间，强调“工作动作持续到明年满8年”，用将来完成进行时will have been working。"
+            },
+            {
+              "question": "___ they ___ the project for 6 months by the end of this quarter?",
+              "options": {"A": "Did; do", "B": "Will; have been doing", "C": "Are; doing"},
+              "answer": "B",
+              "explanation": "by the end of this quarter是将来时间点，问句侧重“到本季度末做项目是否满6个月”，用将来完成进行时的疑问结构Will + 主语 + have been doing。"
+            },
+            {
+              "question": "She ___ French for 4 years by the time she takes the exam next year.",
+              "options": {"A": "will have been learning", "B": "learned", "C": "learns"},
+              "answer": "A",
+              "explanation": "by the time she takes the exam next year是将来时间点，for 4 years表持续时间，强调“学法语动作持续到明年考试时满4年”，用will have been learning。"
+            },
+            {
+              "question": "By 9 o’clock tonight, he ___ for 12 hours. He must be exhausted.",
+              "options": {"A": "will have been driving", "B": "drove", "C": "is driving"},
+              "answer": "A",
+              "explanation": "By 9 o’clock tonight是将来时间点，for 12 hours表持续时间，“肯定累了”是对动作持续状态的推测，用will have been driving。"
+            },
+            {
+              "question": "They ___ around the world for a year by the time they get to Australia.",
+              "options": {"A": "will have been traveling", "B": "traveled", "C": "travel"},
+              "answer": "A",
+              "explanation": "by the time they get to Australia是将来时间点，for a year表持续时间，强调“旅行动作持续到到澳大利亚时满一年”，用will have been traveling。"
+            },
+            {
+              "question": "He ___ the piano for 10 years by the time he is 18.",
+              "options": {"A": "will have been playing", "B": "played", "C": "plays"},
+              "answer": "A",
+              "explanation": "by the time he is 18是将来时间点，for 10 years表持续时间，强调“弹钢琴动作持续到18岁满10年”，用will have been playing。"
+            },
+            {
+              "question": "We ___ this book for a month by the end of next week, but we still won’t finish it.",
+              "options": {"A": "will have been reading", "B": "read", "C": "are reading"},
+              "answer": "A",
+              "explanation": "by the end of next week是将来时间点，for a month表持续时间，“还没读完”说明动作持续到将来且未完成，用will have been reading。"
+            },
+            {
+              "question": "She ___ in London for 5 years by the time she moves to New York.",
+              "options": {"A": "will have been living", "B": "lived", "C": "lives"},
+              "answer": "A",
+              "explanation": "by the time she moves to New York是将来时间点，for 5 years表持续时间，强调“居住动作持续到搬到纽约时满5年”，用will have been living。"
+            },
+            {
+              "question": "The workers ___ the road for 3 months by next month, and they will continue to work on it.",
+              "options": {"A": "will have been repairing", "B": "repaired", "C": "repair"},
+              "answer": "A",
+              "explanation": "by next month是将来时间点，for 3 months表持续时间，“继续工作”说明动作持续到将来且仍进行，用will have been repairing。"
+            },
+            {
+              "question": "___ you ___ English for 6 years by the time you graduate from middle school?",
+              "options": {"A": "Did; study", "B": "Will; have been studying", "C": "Do; study"},
+              "answer": "B",
+              "explanation": "by the time you graduate from middle school是将来时间点，for 6 years表持续时间，问句侧重“毕业时学英语是否满6年”，用will have been studying。"
+            },
+            {
+              "question": "He ___ the same job for 20 years by the time he retires.",
+              "options": {"A": "will have been doing", "B": "did", "C": "does"},
+              "answer": "A",
+              "explanation": "by the time he retires是将来时间点，for 20 years表持续时间，强调“做同一份工作持续到退休时满20年”，用will have been doing。"
+            },
+            {
+              "question": "It ___ for a week by the end of tomorrow. The flood will be serious.",
+              "options": {"A": "will have been raining", "B": "rained", "C": "rains"},
+              "answer": "A",
+              "explanation": "by the end of tomorrow是将来时间点，for a week表持续时间，“洪水会很严重”是下雨的结果，用will have been raining强调动作持续且有将来影响。"
+            },
+            {
+              "question": "They ___ the new hospital for 18 months by the time it opens next year.",
+              "options": {"A": "will have been building", "B": "built", "C": "build"},
+              "answer": "A",
+              "explanation": "by the time it opens next year是将来时间点，for 18 months表持续时间，强调“建医院动作持续到开业时满18个月”，用will have been building。"
+            },
+            {
+              "question": "She ___ her homework for 2 hours by 8 o’clock this evening, but she still needs more time.",
+              "options": {"A": "will have been doing", "B": "did", "C": "does"},
+              "answer": "A",
+              "explanation": "by 8 o’clock this evening是将来时间点，for 2 hours表持续时间，“还需要更多时间”说明动作持续到将来且未完成，用will have been doing。"
+            },
+            {
+              "question": "We ___ each other for 10 years by the time we meet at the reunion next year.",
+              "options": {"A": "will have been knowing", "B": "will have known", "C": "knew"},
+              "answer": "B",
+              "explanation": "know是状态动词，无“进行”形式，虽for 10 years表持续，但需用将来完成时will have known（将来完成进行时仅接动作动词）。"
+            },
+            {
+              "question": "He ___ constantly ___ me messages by the time I reply to him tomorrow.",
+              "options": {"A": "will; have been sending", "B": "did; send", "C": "is; sending"},
+              "answer": "A",
+              "explanation": "by the time I reply to him tomorrow是将来时间点，constantly表反复，强调“发消息动作持续到明天回复时”，用will have been sending。"
+            },
+            {
+              "question": "The baby ___ for 8 hours by the time we wake him up at 7 tomorrow morning.",
+              "options": {"A": "will have been sleeping", "B": "slept", "C": "sleeps"},
+              "answer": "A",
+              "explanation": "by the time we wake him up at 7 tomorrow morning是将来时间点，for 8 hours表持续时间，强调“睡觉动作持续到叫醒时满8小时”，用will have been sleeping。"
+            },
+            {
+              "question": "___ she ___ in the office for 8 hours by 6 o’clock this evening?",
+              "options": {"A": "Did; work", "B": "Will; have been working", "C": "Is; working"},
+              "answer": "B",
+              "explanation": "by 6 o’clock this evening是将来时间点，for 8 hours表持续时间，问句侧重“到今晚6点是否在办公室工作满8小时”，用will have been working。"
+            },
+            {
+              "question": "I ___ the guitar for 5 years by the time I perform on stage next month.",
+              "options": {"A": "will have been practicing", "B": "practiced", "C": "practice"},
+              "answer": "A",
+              "explanation": "by the time I perform on stage next month是将来时间点，for 5 years表持续时间，强调“练吉他动作持续到上台表演时满5年”，用will have been practicing。"
+            },
+            {
+              "question": "They ___ the forest for 3 days by the time they find the lost hiker.",
+              "options": {"A": "will have been searching", "B": "searched", "C": "search"},
+              "answer": "A",
+              "explanation": "by the time they find the lost hiker是将来时间点，for 3 days表持续时间，强调“搜索森林动作持续到找到徒步者时满3天”，用will have been searching。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

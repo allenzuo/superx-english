@@ -1,0 +1,556 @@
+{
+  "grammar_topics": [
+    {
+      "id": "subject_verb_agreement",
+      "name": "13-主谓一致-三节课精品解析",
+      "icon": "check-circle",
+      "color": "#2ecc71",
+      "lessons": [
+        {
+          "id": "subject_verb_agreement_1",
+          "title": "1-主谓一致的核心原则及基础用法",
+          "content": "### 主谓一致的核心定义\n主谓一致指**谓语动词的单复数形式必须与主语的单复数形式保持一致**，简单说就是“主语是单数，谓语用单数；主语是复数，谓语用复数”。这是初中英语语法的核心考点，中考单选、完形、语篇填空都会高频考查，核心是找准真正的主语，再判断单复数。\n\n### 主谓一致的核心原则（中考必考）\n#### 原则1：语法一致原则（最基础）\n主语的“语法形式”是单数，谓语就用单数；主语是复数，谓语就用复数，是判断主谓一致的基础。\n1. 单数名词/不可数名词作主语，谓语用单数：Water is important.（水很重要）；The book is on the desk.（这本书在桌子上）；\n2. 复数名词作主语，谓语用复数：Books are our friends.（书是我们的朋友）；They are students.（他们是学生）；\n3. 人称代词作主语的固定搭配（必须熟记）：\n   - I → am；you → are；he/she/it → is；\n   - we/you/they → are；this/that → is；these/those → are。\n\n#### 原则2：意义一致原则（易错点）\n主语的“语法形式”是单数，但“实际意义”是复数，谓语用复数；反之，语法形式是复数，意义是单数，谓语用单数。\n1. 复数形式表“整体”（意义单数）：The news is good.（news是复数形式，但表“新闻”，不可数，意义单数，谓语用is）；maths/physics（数学/物理），虽以s结尾，表学科，意义单数，谓语用单数：Maths is hard.（数学很难）；\n2. 单数形式表“复数”（意义复数）：The police are looking for the thief.（police是单数形式，表“警察群体”，意义复数，谓语用are）；people（人们），单数形式，意义复数：People love peace.（人们热爱和平）。\n\n#### 原则3：就近原则（高频考点）\n谓语动词的单复数由“离它最近的主语”决定，常见于并列主语结构，中考必考结构：\n1. either...or...（要么……要么……）：Either you or he is right.（离谓语近的是he，单数，用is）；\n2. neither...nor...（既不……也不……）：Neither the teacher nor the students are late.（离谓语近的是students，复数，用are）；\n3. not only...but also...（不仅……而且……）：Not only the boy but also his parents are at home.（离谓语近的是parents，复数，用are）；\n4. there be句型：There is a pen and two books on the desk.（离be近的是a pen，单数，用is）。\n\n#### 原则4：就远原则（难点考点）\n谓语动词的单复数由“离它最远的主语”决定，常见于带修饰语的主语结构，中考高频短语：\n1. as well as（也）：Tom as well as his friends likes playing football.（离谓语远的主语是Tom，单数，用likes）；\n2. together with（和……一起）：My mother together with my sister is cooking.（主语是my mother，单数，用is）；\n3. besides/except（除了）：Nobody except Li Lei knows the secret.（主语是nobody，单数，用knows）。\n\n### 基础用法的易混点（中考必考）\n1. 不定代词作主语（一律单数）：everyone/everybody/someone/somebody/nobody/nothing/everything等，谓语全用单数：Everyone is here.（所有人都到了）；Nothing is impossible.（一切皆有可能）；\n2. 集合名词作主语：family/team/class（家庭/团队/班级），表“整体”用单数，表“成员”用复数：My family is big.（我的家庭很大，表整体）；My family are watching TV.（我的家人在看电视，表成员）；\n3. 数词/量词结构作主语：“数词+量词+of+名词”，谓语单复数由“量词”决定：a glass of water → is；two glasses of water → are；a box of apples → is；three boxes of apples → are。",
+          "examples": [
+            {
+              "sentence": "The girl sings very well.",
+              "translation": "这个女孩唱歌很好听。",
+              "analysis": "主语the girl是单数可数名词，遵循语法一致原则，谓语动词sing用第三人称单数形式sings。"
+            },
+            {
+              "sentence": "These books are mine.",
+              "translation": "这些书是我的。",
+              "analysis": "主语these books是复数可数名词，语法一致原则，谓语动词are用复数形式。"
+            },
+            {
+              "sentence": "The news is surprising.",
+              "translation": "这个消息令人惊讶。",
+              "analysis": "news虽以s结尾，但表“新闻”，不可数，意义上是单数，遵循意义一致原则，谓语用is。"
+            },
+            {
+              "sentence": "The police are searching for the lost child.",
+              "translation": "警察正在搜寻走失的孩子。",
+              "analysis": "police单数形式表“警察群体”，意义上是复数，意义一致原则，谓语用are。"
+            },
+            {
+              "sentence": "Either my brother or I am going to the park.",
+              "translation": "要么我哥哥要么我要去公园。",
+              "analysis": "either...or...遵循就近原则，离谓语am最近的主语是I，因此用am。"
+            },
+            {
+              "sentence": "There are two pens and a ruler in my bag.",
+              "translation": "我的书包里有两支钢笔和一把尺子。",
+              "analysis": "there be句型遵循就近原则，离be动词近的是two pens（复数），因此用are。"
+            },
+            {
+              "sentence": "Lily as well as her classmates likes English.",
+              "translation": "莉莉和她的同学都喜欢英语。",
+              "analysis": "as well as遵循就远原则，真正的主语是Lily（单数），因此谓语like用第三人称单数形式likes。"
+            },
+            {
+              "sentence": "Everyone in our class likes playing basketball.",
+              "translation": "我们班的每个人都喜欢打篮球。",
+              "analysis": "everyone是不定代词，作主语时谓语一律用单数，因此like用likes。"
+            },
+            {
+              "sentence": "My family is a happy one.",
+              "translation": "我的家庭是一个幸福的家庭。",
+              "analysis": "family表“家庭整体”，意义单数，谓语用is；若表“家人”，则用are。"
+            },
+            {
+              "sentence": "Three glasses of milk are on the table.",
+              "translation": "桌子上有三杯牛奶。",
+              "analysis": "“数词+量词+of+名词”结构，谓语单复数由量词glasses（复数）决定，因此用are。"
+            }
+          ],
+          "exercises": [
+            {
+              "question": "The boy ___ TV every evening.",
+              "options": {"A": "watch", "B": "watches", "C": "watching"},
+              "answer": "B",
+              "explanation": "主语the boy是单数可数名词，遵循语法一致原则，谓语动词用第三人称单数形式watches。"
+            },
+            {
+              "question": "Maths ___ my favourite subject.",
+              "options": {"A": "is", "B": "are", "C": "am"},
+              "answer": "A",
+              "explanation": "maths虽以s结尾，但表“数学”这一学科，意义上是单数，遵循意义一致原则，谓语用is。"
+            },
+            {
+              "question": "Either you or he ___ wrong.",
+              "options": {"A": "is", "B": "are", "C": "were"},
+              "answer": "A",
+              "explanation": "either...or...遵循就近原则，离谓语近的主语是he（单数），因此用is。"
+            },
+            {
+              "question": "Tom together with his parents ___ to Beijing every year.",
+              "options": {"A": "go", "B": "goes", "C": "going"},
+              "answer": "B",
+              "explanation": "together with遵循就远原则，真正的主语是Tom（单数），谓语用第三人称单数形式goes。"
+            },
+            {
+              "question": "Nobody ___ the answer to this question.",
+              "options": {"A": "know", "B": "knows", "C": "knowing"},
+              "answer": "B",
+              "explanation": "nobody是不定代词，作主语时谓语一律用单数，因此know用第三人称单数形式knows。"
+            },
+            {
+              "question": "There ___ a book and two pens on the desk.",
+              "options": {"A": "is", "B": "are", "C": "be"},
+              "answer": "A",
+              "explanation": "there be句型遵循就近原则，离be动词近的是a book（单数），因此用is。"
+            },
+            {
+              "question": "The police ___ trying to catch the thief now.",
+              "options": {"A": "is", "B": "are", "C": "was"},
+              "answer": "B",
+              "explanation": "police单数形式表“警察群体”，意义上是复数，遵循意义一致原则，谓语用are。"
+            },
+            {
+              "question": "My family ___ having dinner together now.",
+              "options": {"A": "is", "B": "are", "C": "was"},
+              "answer": "B",
+              "explanation": "family此处表“家人”（成员），意义上是复数，因此谓语用are。"
+            },
+            {
+              "question": "Two cups of tea ___ on the table.",
+              "options": {"A": "is", "B": "are", "C": "am"},
+              "answer": "B",
+              "explanation": "“数词+量词+of+名词”结构，谓语单复数由量词cups（复数）决定，因此用are。"
+            },
+            {
+              "question": "Not only my sister but also I ___ interested in music.",
+              "options": {"A": "am", "B": "is", "C": "are"},
+              "answer": "A",
+              "explanation": "not only...but also...遵循就近原则，离谓语近的主语是I，因此用am。"
+            },
+            {
+              "question": "Everyone in the room ___ a book in hand.",
+              "options": {"A": "have", "B": "has", "C": "having"},
+              "answer": "B",
+              "explanation": "everyone是不定代词，作主语时谓语用单数，have的第三人称单数形式是has。"
+            },
+            {
+              "question": "The team ___ playing well in the match yesterday.",
+              "options": {"A": "is", "B": "are", "C": "was"},
+              "answer": "C",
+              "explanation": "team此处表“团队整体”，意义单数，且时间是yesterday（过去），因此用was。"
+            },
+            {
+              "question": "Nobody except my parents ___ me.",
+              "options": {"A": "understand", "B": "understands", "C": "understanding"},
+              "answer": "B",
+              "explanation": "except遵循就远原则，真正的主语是nobody（单数），谓语用第三人称单数形式understands。"
+            },
+            {
+              "question": "Physics ___ not easy to learn for me.",
+              "options": {"A": "is", "B": "are", "C": "am"},
+              "answer": "A",
+              "explanation": "physics表“物理学科”，虽以s结尾，意义单数，因此谓语用is。"
+            },
+            {
+              "question": "___ your brother like playing football?",
+              "options": {"A": "Do", "B": "Does", "C": "Is"},
+              "answer": "B",
+              "explanation": "主语your brother是单数，实义动词like作谓语，一般疑问句用Does开头。"
+            },
+            {
+              "question": "One glass of juice ___ enough for me.",
+              "options": {"A": "is", "B": "are", "C": "am"},
+              "answer": "A",
+              "explanation": "“数词+量词+of+名词”结构，量词glass是单数，因此谓语用is。"
+            },
+            {
+              "question": "Neither the students nor the teacher ___ late today.",
+              "options": {"A": "is", "B": "are", "C": "were"},
+              "answer": "A",
+              "explanation": "neither...nor...遵循就近原则，离谓语近的是the teacher（单数），因此用is。"
+            },
+            {
+              "question": "People ___ love peace all over the world.",
+              "options": {"A": "is", "B": "are", "C": "am"},
+              "answer": "B",
+              "explanation": "people单数形式表“人们”，意义复数，因此谓语用are。"
+            },
+            {
+              "question": "She as well as her friends ___ to the cinema every weekend.",
+              "options": {"A": "go", "B": "goes", "C": "going"},
+              "answer": "B",
+              "explanation": "as well as遵循就远原则，主语是she（单数），谓语用第三人称单数形式goes。"
+            },
+            {
+              "question": "There ___ some water in the bottle.",
+              "options": {"A": "is", "B": "are", "C": "am"},
+              "answer": "A",
+              "explanation": "water是不可数名词，遵循语法一致原则，谓语用is；there be句型中不可数名词作主语，be动词用单数。"
+            },
+            {
+              "question": "These children ___ playing games on the playground now.",
+              "options": {"A": "is", "B": "are", "C": "was"},
+              "answer": "B",
+              "explanation": "主语these children是复数，语法一致原则，且是现在进行时，因此用are。"
+            }
+          ]
+        },
+        {
+          "id": "subject_verb_agreement_2",
+          "title": "2-特殊结构的主谓一致用法",
+          "content": "### 特殊结构主谓一致的核心定义\n特殊结构的主谓一致是指主语为“复合结构、特殊短语、从句”等非基础形式时，谓语动词单复数的判断规则，是中考主谓一致的难点，常结合完形、语篇填空考查，需逐个熟记特殊规则。\n\n### 特殊结构的核心用法（中考必考分类）\n#### 用法1：“the+形容词/分词”表一类人作主语（一律复数）\nthe old（老人）、the young（年轻人）、the poor（穷人）、the rich（富人）、the injured（受伤的人）等，表“一类具有某种特征的人”，意义复数，谓语用复数。\n例：The old are taken good care of in our country.（老人在我国被好好照顾）。\n**注意**：the+形容词表“抽象概念”时，谓语用单数：The beautiful is always popular.（美总是受欢迎的）。\n\n#### 用法2：“疑问词+不定式”/从句作主语（一律单数）\nWhat to do、How to get there、What he said等结构作主语，视为单数，谓语用单数。\n例：What he said is true.（他说的话是真的）；How to solve the problem is important.（如何解决这个问题很重要）。\n\n#### 用法3：“each/every+单数名词”作主语（一律单数）\neach/every后接单数名词，无论是否并列，谓语都用单数，中考高频结构：\n- Each student has a book.（每个学生都有一本书）；\n- Every boy and every girl likes music.（每个男孩和每个女孩都喜欢音乐）；\n**注意**：each作“同位语”时，谓语由前面的主语决定：They each have a pen.（they是主语，复数，用have）。\n\n#### 用法4：“a number of/the number of”作主语（易混点）\n这是中考最高频易混点，需严格区分：\n1. a number of + 复数名词：表“许多、大量”，主语是“复数名词”，谓语用复数：A number of students are late.（许多学生迟到了）；\n2. the number of + 复数名词：表“……的数量”，主语是the number（单数），谓语用单数：The number of students is 50.（学生的数量是50）。\n\n#### 用法5：“分数/百分数+of+名词”作主语（看of后名词）\n谓语单复数由“of后面的名词”决定，名词单数/不可数→谓语单数；名词复数→谓语复数。\n例：1. One third of the water is dirty.（三分之一的水是脏的，water不可数，用is）；\n2. Two thirds of the students are boys.（三分之二的学生是男孩，students复数，用are）。\n\n#### 用法6：“动名词/不定式”作主语（一律单数）\nPlaying football、To study hard等作主语，视为单数，谓语用单数：\n- Playing football is my hobby.（踢足球是我的爱好）；\n- To finish the work on time is important.（按时完成工作很重要）。\n**注意**：两个并列的动名词/不定式作主语，表“两件事”，谓语用复数：Playing football and reading books are my hobbies.（踢足球和看书是我的爱好）。\n\n#### 用法7：“one of + 复数名词”作主语（单数）\none of + 复数名词，表“……之一”，主语是one（单数），谓语用单数：One of the books is mine.（其中一本书是我的）。\n**易混点**：one of + 复数名词 + who/that从句，从句谓语用复数：He is one of the students who are late.（who修饰students，复数，用are）。\n\n#### 用法8：“none of + 名词”作主语（单复数均可）\nnone of + 名词，表“没有一个”，谓语单复数都可，中考常用单数：None of the water is clean.（没有一滴水是干净的）；None of the students are/is here.（没有一个学生在这里）。\n\n#### 用法9：“both/either/neither of + 名词”作主语\n1. both of + 复数名词：表“两者都”，谓语用复数：Both of the boys are tall.（两个男孩都高）；\n2. either of + 复数名词：表“两者中的任意一个”，谓语用单数：Either of the pens is mine.（两支钢笔中的任意一支是我的）；\n3. neither of + 复数名词：表“两者都不”，谓语用单数：Neither of the books is interesting.（两本书都没意思）。\n\n#### 用法10：“时间/金钱/距离/重量”等复数形式作主语（单数）\n表示“时间、金钱、距离、重量”的复数名词，表“整体数量”，意义单数，谓语用单数：\n- Ten years is a long time.（十年是很长的时间）；\n- One hundred yuan is enough.（一百元足够了）；\n- Five kilometers is not far.（五公里不远）。",
+          "examples": [
+            {
+              "sentence": "The old are respected by everyone in our society.",
+              "translation": "老人在我们社会中被所有人尊重。",
+              "analysis": "the old表“老人这一类人”，意义复数，遵循意义一致原则，谓语用are。"
+            },
+            {
+              "question": "What he said is very important for us.",
+              "options": {},
+              "translation": "他说的话对我们来说非常重要。",
+              "analysis": "“what he said”是从句作主语，视为单数，谓语用is。"
+            },
+            {
+              "sentence": "Each student in our class has a dictionary.",
+              "translation": "我们班的每个学生都有一本字典。",
+              "analysis": "each后接单数名词student作主语，谓语用第三人称单数形式has。"
+            },
+            {
+              "sentence": "A number of trees are planted in the park every year.",
+              "translation": "每年公园里都会种很多树。",
+              "analysis": "a number of + 复数名词trees，主语是trees（复数），谓语用are。"
+            },
+            {
+              "sentence": "The number of trees in the park is increasing.",
+              "translation": "公园里树的数量正在增加。",
+              "analysis": "the number of + 复数名词trees，主语是the number（单数），谓语用is。"
+            },
+            {
+              "sentence": "Three fourths of the land is covered with water.",
+              "translation": "四分之三的陆地被水覆盖。",
+              "analysis": "分数+of+名词结构，of后land是不可数名词，谓语用is。"
+            },
+            {
+              "sentence": "Playing the piano is her favourite activity.",
+              "translation": "弹钢琴是她最喜欢的活动。",
+              "analysis": "动名词playing the piano作主语，视为单数，谓语用is。"
+            },
+            {
+              "sentence": "One of my friends is a doctor.",
+              "translation": "我的一个朋友是医生。",
+              "analysis": "one of + 复数名词friends，主语是one（单数），谓语用is。"
+            },
+            {
+              "sentence": "Both of my parents are teachers.",
+              "translation": "我的父母都是老师。",
+              "analysis": "both of + 复数名词parents，表“两者都”，谓语用are。"
+            },
+            {
+              "sentence": "Fifty dollars is enough to buy this book.",
+              "translation": "五十美元足够买这本书了。",
+              "analysis": "fifty dollars表“金钱总数”，意义单数，谓语用is。"
+            }
+          ],
+          "exercises": [
+            {
+              "question": "The young ___ full of energy and hope.",
+              "options": {"A": "is", "B": "are", "C": "am"},
+              "answer": "B",
+              "explanation": "the young表“年轻人这一类人”，意义复数，谓语用are。"
+            },
+            {
+              "question": "What to do next ___ not decided yet.",
+              "options": {"A": "is", "B": "are", "C": "were"},
+              "answer": "A",
+              "explanation": "“what to do next”是疑问词+不定式作主语，视为单数，谓语用is。"
+            },
+            {
+              "question": "Each of the girls ___ a red skirt.",
+              "options": {"A": "have", "B": "has", "C": "having"},
+              "answer": "B",
+              "explanation": "each of + 复数名词girls，作主语时谓语用单数，have的第三人称单数形式是has。"
+            },
+            {
+              "question": "A number of students ___ playing on the playground.",
+              "options": {"A": "is", "B": "are", "C": "was"},
+              "answer": "B",
+              "explanation": "a number of + 复数名词students，主语是students（复数），谓语用are。"
+            },
+            {
+              "question": "The number of tigers in the world ___ becoming smaller and smaller.",
+              "options": {"A": "is", "B": "are", "C": "am"},
+              "answer": "A",
+              "explanation": "the number of + 复数名词tigers，主语是the number（单数），谓语用is。"
+            },
+            {
+              "question": "Two fifths of the milk ___ gone bad.",
+              "options": {"A": "is", "B": "are", "C": "were"},
+              "answer": "A",
+              "explanation": "分数+of+名词结构，of后milk是不可数名词，谓语用is。"
+            },
+            {
+              "question": "To learn English well ___ important for us.",
+              "options": {"A": "is", "B": "are", "C": "am"},
+              "answer": "A",
+              "explanation": "不定式to learn English well作主语，视为单数，谓语用is。"
+            },
+            {
+              "question": "One of the boys ___ late for school this morning.",
+              "options": {"A": "is", "B": "are", "C": "was"},
+              "answer": "C",
+              "explanation": "one of + 复数名词boys，主语是one（单数），且时间是this morning（过去），谓语用was。"
+            },
+            {
+              "question": "None of the food ___ left on the table.",
+              "options": {"A": "is", "B": "are", "C": "were"},
+              "answer": "A",
+              "explanation": "none of + 不可数名词food，谓语常用单数，因此用is。"
+            },
+            {
+              "question": "Both of the teachers ___ from Beijing.",
+              "options": {"A": "is", "B": "are", "C": "was"},
+              "answer": "B",
+              "explanation": "both of + 复数名词teachers，表“两者都”，谓语用are。"
+            },
+            {
+              "question": "Ten kilometers ___ a long way to walk.",
+              "options": {"A": "is", "B": "are", "C": "am"},
+              "answer": "A",
+              "explanation": "ten kilometers表“距离总数”，意义单数，谓语用is。"
+            },
+            {
+              "question": "Either of the two books ___ suitable for children.",
+              "options": {"A": "is", "B": "are", "C": "were"},
+              "answer": "A",
+              "explanation": "either of + 复数名词books，表“两者中的任意一个”，谓语用单数is。"
+            },
+            {
+              "question": "What he did ___ wrong.",
+              "options": {"A": "is", "B": "are", "C": "were"},
+              "answer": "A",
+              "explanation": "从句what he did作主语，视为单数，谓语用is。"
+            },
+            {
+              "question": "Every boy and every girl ___ to wear school uniforms.",
+              "options": {"A": "have", "B": "has", "C": "having"},
+              "answer": "B",
+              "explanation": "every+单数名词+and+every+单数名词作主语，谓语用单数，have的第三人称单数形式是has。"
+            },
+            {
+              "question": "Neither of the twins ___ interested in painting.",
+              "options": {"A": "is", "B": "are", "C": "were"},
+              "answer": "A",
+              "explanation": "neither of + 复数名词twins，表“两者都不”，谓语用单数is。"
+            },
+            {
+              "question": "Three quarters of the workers ___ women in this factory.",
+              "options": {"A": "is", "B": "are", "C": "am"},
+              "answer": "B",
+              "explanation": "分数+of+名词结构，of后workers是复数名词，谓语用are。"
+            },
+            {
+              "question": "Playing basketball and swimming ___ my favourite sports.",
+              "options": {"A": "is", "B": "are", "C": "am"},
+              "answer": "B",
+              "explanation": "两个并列的动名词作主语，表“两件事”，谓语用复数are。"
+            },
+            {
+              "question": "He is one of the students who ___ hard-working.",
+              "options": {"A": "is", "B": "are", "C": "was"},
+              "answer": "B",
+              "explanation": "who引导的从句修饰students（复数），因此从句谓语用are。"
+            },
+            {
+              "question": "Two hundred yuan ___ not enough to buy a new phone.",
+              "options": {"A": "is", "B": "are", "C": "am"},
+              "answer": "A",
+              "explanation": "two hundred yuan表“金钱总数”，意义单数，谓语用is。"
+            },
+            {
+              "question": "The injured ___ taken to the hospital at once.",
+              "options": {"A": "is", "B": "are", "C": "was"},
+              "answer": "B",
+              "explanation": "the injured表“受伤的人这一类人”，意义复数，谓语用are。"
+            }
+          ]
+        },
+        {
+          "id": "subject_verb_agreement_3",
+          "title": "3-主谓一致的易错点与综合运用",
+          "content": "### 主谓一致易错点核心总结\n主谓一致的易错点集中在“主语判断错误”“特殊规则混淆”，中考常在此设陷阱，需逐一突破：\n\n#### 易错点1：形式上是复数，实则单数的名词（需熟记）\n这类名词易被误判为复数，谓语需用单数，中考高频词：\n- 学科类：maths/physics/chemistry/Politics（数学/物理/化学/政治）；\n- 疾病类：diabetes（糖尿病）/measles（麻疹）；\n- 其他：news（新闻）/means（方式）/series（系列）；\n例：Means of transportation is developing fast.（交通方式发展很快）。\n\n#### 易错点2：主语后接修饰语，易误判主语\n主语后有with/except/besides/including/along with等修饰语时，真正的主语是修饰语前的名词，需忽略修饰语判断单复数：\n例：Li Ming with his friends is playing basketball.（真正主语是Li Ming，单数，用is）。\n\n#### 易错点3：“there be/here be”句型的就近原则拓展\n不仅there be，here be/where be也遵循就近原则：Here is a pen and two pencils.（here be句型，就近的a pen单数，用is）。\n\n#### 易错点4：集体名词的双重用法（需结合语境）\nfamily/team/class/group等，表“整体”用单数，表“成员”用复数，中考常结合语境考查：\n- 语境表“整体功能”：The team wins the match.（团队赢得比赛，整体，用wins）；\n- 语境表“成员动作”：The team are arguing about the plan.（团队成员在争论计划，成员，用are）。\n\n#### 易错点5：“many a + 单数名词”作主语（单数）\nmany a + 单数名词，表“许多”，但语法上是单数，谓语用单数：Many a student likes reading.（许多学生喜欢读书，用likes）。\n\n#### 易错点6：“more than one + 单数名词”作主语（单数）\nmore than one + 单数名词，表“不止一个”，谓语用单数：More than one book is on the desk.（不止一本书在桌子上，用is）。\n\n### 主谓一致的综合运用技巧\n#### 技巧1：三步走判断主谓一致\n1. 找：找准真正的主语（忽略修饰语、插入语）；\n2. 判：判断主语的单复数（语法/意义一致）；\n3. 选：根据原则选择谓语形式（单数/复数、时态）。\n例：(My father) with my mother (is) cooking.（找：主语my father；判：单数；选：is）。\n\n#### 技巧2：熟记“高频陷阱结构”（中考必考）\n| 结构 | 谓语单复数 | 例句 |\n|------|------------|------|\n| a number of + 复数名词 | 复数 | A number of birds are flying. |\n| the number of + 复数名词 | 单数 | The number of birds is 10. |\n| one of + 复数名词 | 单数 | One of the birds is red. |\n| each of + 复数名词 | 单数 | Each of the birds is small. |\n| 分数/百分数+of+名词 | 看of后名词 | 50% of the water is dirty. |\n| 时间/金钱/距离 | 单数 | 10 minutes is short. |\n\n#### 技巧3：结合时态考查的主谓一致\n主谓一致需结合时态，中考常考“一般现在时+第三人称单数”“现在进行时”“一般过去时”：\n- 一般现在时单数：He plays football every day.（plays）；\n- 现在进行时单数：She is reading a book.（is）；\n- 一般过去时单数：It was cold yesterday.（was）。\n\n### 主谓一致的中考备考建议\n1. 熟记核心原则：语法一致、意义一致、就近原则、就远原则；\n2. 分类记忆特殊结构：数词/量词、集体名词、特殊短语（a number of/the number of）；\n3. 刷题聚焦易错点：结合中考真题，重点练“主语+修饰语”“就近/就远原则”“集体名词”；\n4. 语境判断是关键：集体名词、the+形容词等，需结合语境判断意义单复数。",
+          "examples": [
+            {
+              "sentence": "Many a student has passed the exam.",
+              "translation": "许多学生通过了考试。",
+              "analysis": "many a + 单数名词student，语法上是单数，谓语用has（第三人称单数），易混点是看到“许多”误判为复数。"
+            },
+            {
+              "sentence": "More than one tree is planted in the yard.",
+              "translation": "院子里种了不止一棵树。",
+              "analysis": "more than one + 单数名词tree，谓语用单数is，易混点是看到“不止一个”误判为复数。"
+            },
+            {
+              "sentence": "Here is a letter for you and two postcards for your sister.",
+              "translation": "这有一封给你的信和两张给你姐姐的明信片。",
+              "analysis": "here be句型遵循就近原则，离be近的a letter是单数，因此用is，易混点是忽略就近原则看后面的复数名词。"
+            },
+            {
+              "sentence": "The group is going to have a meeting tomorrow.",
+              "translation": "这个小组明天要开一个会。",
+              "analysis": "group表“小组整体”，意义单数，谓语用is，易混点是误判为“成员”用are。"
+            },
+            {
+              "sentence": "My brother, together with his classmates, is going to the zoo.",
+              "translation": "我哥哥和他的同学要去动物园。",
+              "analysis": "主语是my brother，together with his classmates是修饰语，忽略修饰语，谓语用is，易混点是误把classmates当主语。"
+            },
+            {
+              "sentence": "Means of communication is changing quickly now.",
+              "translation": "交流方式现在正在快速变化。",
+              "analysis": "means虽以s结尾，表“方式”，单数意义，谓语用is，易混点是看到s误判为复数。"
+            },
+            {
+              "sentence": "50 percent of the land in this area is covered with forest.",
+              "translation": "这个地区50%的土地被森林覆盖。",
+              "analysis": "分数+of+名词结构，of后land是不可数名词，谓语用is，易混点是误看百分数“50%”判复数。"
+            },
+            {
+              "sentence": "The class are discussing the plan for the trip.",
+              "translation": "全班同学正在讨论旅行计划。",
+              "analysis": "class表“班级成员”，意义复数，谓语用are，易混点是误判为“整体”用is。"
+            },
+            {
+              "sentence": "Nobody but my sister knows the secret.",
+              "translation": "除了我姐姐没人知道这个秘密。",
+              "analysis": "主语是nobody，but my sister是修饰语，忽略修饰语，谓语用knows（单数），易混点是误把sister当主语。"
+            },
+            {
+              "sentence": "Three years has passed since we met last time.",
+              "translation": "自从我们上次见面已经过去三年了。",
+              "analysis": "three years表“时间整体”，意义单数，谓语用has，易混点是看到复数years误判为复数。"
+            }
+          ],
+          "exercises": [
+            {
+              "question": "Many a girl ___ interested in watching cartoons.",
+              "options": {"A": "is", "B": "are", "C": "were"},
+              "answer": "A",
+              "explanation": "many a + 单数名词girl，语法上是单数，谓语用is；易混点是看到“many”误判为复数用are。"
+            },
+            {
+              "question": "More than one house ___ destroyed in the storm.",
+              "options": {"A": "is", "B": "are", "C": "was"},
+              "answer": "C",
+              "explanation": "more than one + 单数名词house，谓语用单数，且时间是过去（in the storm），因此用was。"
+            },
+            {
+              "question": "Here ___ some paper and a pen for you.",
+              "options": {"A": "is", "B": "are", "C": "am"},
+              "answer": "A",
+              "explanation": "here be句型遵循就近原则，离be近的some paper（不可数名词）是单数，因此用is。"
+            },
+            {
+              "question": "The group ___ made up of five students from different cities.",
+              "options": {"A": "is", "B": "are", "C": "were"},
+              "answer": "A",
+              "explanation": "group表“小组整体”，意义单数，谓语用is；made up of表“由……组成”，进一步体现“整体”。"
+            },
+            {
+              "question": "Tom, along with his parents, ___ to visit his grandparents this weekend.",
+              "options": {"A": "go", "B": "goes", "C": "are going"},
+              "answer": "B",
+              "explanation": "主语是Tom，along with his parents是修饰语，忽略修饰语，谓语用第三人称单数形式goes。"
+            },
+            {
+              "question": "Means of transportation ___ a lot in the past ten years.",
+              "options": {"A": "change", "B": "changes", "C": "changed"},
+              "answer": "B",
+              "explanation": "means表“方式”，单数意义，谓语用第三人称单数形式changes；in the past ten years在此处表“近十年的常态”，用一般现在时。"
+            },
+            {
+              "question": "70 percent of the students in our school ___ boys.",
+              "options": {"A": "is", "B": "are", "C": "was"},
+              "answer": "B",
+              "explanation": "分数+of+名词结构，of后students是复数名词，谓语用are；易混点是误看百分数“70%”判单数。"
+            },
+            {
+              "question": "The class ___ having a PE lesson on the playground now.",
+              "options": {"A": "is", "B": "are", "C": "was"},
+              "answer": "B",
+              "explanation": "class表“班级成员”，意义复数，且是现在进行时，谓语用are；having a PE lesson体现“成员的动作”。"
+            },
+            {
+              "question": "Nobody except my parents ___ where I hide the gift.",
+              "options": {"A": "know", "B": "knows", "C": "knew"},
+              "answer": "B",
+              "explanation": "主语是nobody，except my parents是修饰语，忽略修饰语，谓语用第三人称单数形式knows。"
+            },
+            {
+              "question": "Ten years ___ a long time to wait for a person.",
+              "options": {"A": "is", "B": "are", "C": "were"},
+              "answer": "A",
+              "explanation": "ten years表“时间整体”，意义单数，谓语用is；易混点是看到复数years误判为复数用are。"
+            },
+            {
+              "question": "Physics ___ my favourite subject when I was in middle school.",
+              "options": {"A": "is", "B": "are", "C": "was"},
+              "answer": "C",
+              "explanation": "physics表“物理学科”，单数意义，且时间是过去（when I was in middle school），谓语用was。"
+            },
+            {
+              "question": "The news ___ very exciting for all of us.",
+              "options": {"A": "is", "B": "are", "C": "were"},
+              "answer": "A",
+              "explanation": "news虽以s结尾，表“新闻”，不可数，单数意义，谓语用is；易混点是看到s误判为复数。"
+            },
+            {
+              "question": "Where ___ a pen and some paper I can use?",
+              "options": {"A": "is", "B": "are", "C": "am"},
+              "answer": "A",
+              "explanation": "where be句型遵循就近原则，离be近的a pen是单数，因此用is。"
+            },
+            {
+              "question": "Our team ___ the game last week because we practiced hard.",
+              "options": {"A": "win", "B": "wins", "C": "won"},
+              "answer": "C",
+              "explanation": "team表“团队整体”，单数意义，且时间是last week（过去），谓语用won（win的过去式）。"
+            },
+            {
+              "question": "She, including her sister, ___ to learn dancing for five years.",
+              "options": {"A": "learn", "B": "learns", "C": "has learned"},
+              "answer": "C",
+              "explanation": "主语是she，including her sister是修饰语，忽略修饰语，且for five years表现在完成时，因此用has learned。"
+            },
+            {
+              "question": "Two thirds of the work ___ finished by us yesterday.",
+              "options": {"A": "is", "B": "are", "C": "was"},
+              "answer": "C",
+              "explanation": "分数+of+名词结构，of后work是不可数名词，且时间是yesterday（过去），谓语用was。"
+            },
+            {
+              "question": "The poor in this village ___ helped by the government every year.",
+              "options": {"A": "is", "B": "are", "C": "was"},
+              "answer": "B",
+              "explanation": "the poor表“穷人这一类人”，意义复数，且every year表一般现在时，谓语用are。"
+            },
+            {
+              "question": "One of the reasons ___ his success is hard work.",
+              "options": {"A": "for", "B": "of", "C": "to"},
+              "answer": "A",
+              "explanation": "one of + 复数名词reasons，主语是one（单数），谓语用is；reason for...是固定搭配，表“……的原因”。"
+            },
+            {
+              "question": "Five thousand yuan ___ spent on the new computer last month.",
+              "options": {"A": "is", "B": "are", "C": "was"},
+              "answer": "C",
+              "explanation": "five thousand yuan表“金钱总数”，单数意义，且时间是last month（过去），谓语用was。"
+            },
+            {
+              "question": "Neither Tom nor his parents ___ at home yesterday afternoon.",
+              "options": {"A": "is", "B": "are", "C": "were"},
+              "answer": "C",
+              "explanation": "neither...nor...遵循就近原则，离谓语近的his parents是复数，且时间是yesterday afternoon（过去），谓语用were。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,549 @@
+{
+  "grammar_topics": [
+    {
+      "id": "simple_sentences",
+      "name": "11-简单句-三部分内容",
+      "icon": "square",
+      "color": "#2ecc71",
+      "lessons": [
+        {
+          "id": "simple_sentences_1",
+          "title": "1-简单句的定义与五大基本句型",
+          "content": "### 简单句的核心定义\n简单句是**只包含一个主谓结构**的句子，句子中不存在从句（定语从句、状语从句、名词性从句等），可以有一个或多个主语/谓语，但核心逻辑上只有一套“谁/什么+做什么/是什么/怎么样”的结构，是初中英语句子结构的基础，也是中考写作、句型转换、改错的核心考点。\n\n### 简单句的五大基本句型（中考必考，按逻辑分类）\n#### 句型1：主语 + 谓语（S + V）—— 主谓结构（不及物动词）\n**核心逻辑**：主语发出动作，动作后无需接宾语（动词本身意义完整），不及物动词后可接状语（时间/地点/方式等）补充说明，但状语不是句子核心成分。\n- 核心特征：谓语是**不及物动词**（vi.），如run、swim、come、go、happen、work等；\n- 结构拆解：主语（人/物）+ 不及物动词（动作）+ [状语]。\n例：He runs fast.（他跑得快。）→ 主语He + 谓语runs + 状语fast（无宾语）。\n\n#### 句型2：主语 + 谓语 + 宾语（S + V + O）—— 主谓宾结构（及物动词）\n**核心逻辑**：主语发出动作，动作后必须接宾语（动作的承受者），动词意义才完整，宾语通常是名词/代词/动名词等。\n- 核心特征：谓语是**及物动词**（vt.），如eat、read、buy、see、like、finish等；\n- 结构拆解：主语（动作发出者）+ 及物动词（动作）+ 宾语（动作承受者）。\n例：She reads books.（她读书。）→ 主语She + 谓语reads + 宾语books。\n\n#### 句型3：主语 + 谓语 + 间接宾语 + 直接宾语（S + V + IO + DO）—— 主谓双宾结构\n**核心逻辑**：主语发出动作，动作有两个承受者（间接宾语：人；直接宾语：物），间接宾语表“动作对谁做”，直接宾语表“动作做了什么”。\n- 核心特征：谓语是能接双宾语的及物动词，如give、show、send、buy、tell、teach等；\n- 结构拆解：主语 + 及物动词 + 间接宾语（人）+ 直接宾语（物）；\n- 转换规则：可改写为“主语 + 谓语 + 直接宾语 + to/for + 间接宾语”（to表“给/向”，for表“为”）。\n例：I give him a pen.（我给他一支笔。）→ 主语I + 谓语give + 间接宾语him + 直接宾语a pen；\n    改写：I give a pen to him.（to表“给”）；\n    例2：She buys me a cake. → 改写：She buys a cake for me.（for表“为”）。\n\n#### 句型4：主语 + 谓语 + 宾语 + 宾语补足语（S + V + O + OC）—— 主谓宾补结构\n**核心逻辑**：主语发出动作，动作后接宾语，且需补充说明“宾语是什么/怎么样/做什么”，宾语和补足语之间是“逻辑主谓关系”（即宾语能发出补足语的动作/具备补足语的特征）。\n- 核心特征：谓语是能接宾补的及物动词，如make、keep、let、find、call、want等；\n- 宾补类型：形容词（happy）、名词（teacher）、动词原形（go）、不定式（to do）、现在分词（running）等；\n- 结构拆解：主语 + 及物动词 + 宾语 + 宾补（补充说明宾语）。\n例：We keep the room clean.（我们保持房间干净。）→ 主语We + 谓语keep + 宾语the room + 宾补clean（房间是干净的，逻辑主谓）；\n    例2：He calls me Lily.（他叫我莉莉。）→ 宾语me + 宾补Lily（我是莉莉）。\n\n#### 句型5：主语 + 系动词 + 表语（S + Link.V + P）—— 主系表结构\n**核心逻辑**：主语不是发出动作，而是“是什么/怎么样/在哪里”，系动词连接主语和表语（表语说明主语的身份、特征、状态）。\n- 核心特征：谓语是**系动词**，分两类：\n  1. 状态系动词：be动词（am/is/are/was/were），表“是”；\n  2. 感官/变化系动词：look（看起来）、sound（听起来）、feel（摸起来）、become（变成）、turn（变得）、get（变得）等；\n- 表语类型：形容词、名词、介词短语、不定式等（不可用副词）；\n- 结构拆解：主语 + 系动词 + 表语（说明主语）。\n例：She is happy.（她很开心。）→ 主语She + 系动词is + 表语happy；\n    例2：The milk tastes sweet.（牛奶尝起来很甜。）→ 主语The milk + 系动词tastes + 表语sweet。\n\n### 简单句的核心注意事项（中考易错题）\n1. 不及物动词后不可直接接宾语，需加介词：错→He arrives Beijing.；对→He arrives in Beijing.（arrive是不及物动词，加in接大地点）；\n2. 双宾语结构中，to/for的选择：give/send/show → to；buy/make/cook → for；\n3. 宾补与双宾语的区分：双宾语是“人+物”（无逻辑主谓），宾补是“宾语+补充说明”（有逻辑主谓）；\n   例：I give her a book（双宾：her和a book无逻辑主谓）；I make her happy（宾补：her和happy有逻辑主谓，她开心）；\n4. 系动词后接形容词作表语，不可接副词：错→She is happily.；对→She is happy.；\n5. 简单句可加多个修饰成分（定语/状语），但核心句型不变：\n   例：The tall boy（定语）reads interesting books（定语）in the library（状语）every day（状语）. → 核心仍是S+V+O。",
+          "examples": [
+            {
+              "sentence": "The birds fly in the sky.",
+              "translation": "鸟儿在天空中飞。",
+              "analysis": "核心句型是S+V（主谓结构）；主语The birds + 不及物动词fly（谓语）+ 状语in the sky（补充地点，无宾语）；fly是不及物动词，无需接宾语即可表达完整意义。"
+            },
+            {
+              "sentence": "My father drinks coffee every morning.",
+              "translation": "我爸爸每天早上喝咖啡。",
+              "analysis": "核心句型是S+V+O（主谓宾结构）；主语My father + 及物动词drinks（谓语）+ 宾语coffee + 状语every morning；drink是及物动词，必须接宾语coffee才能表达完整意义。"
+            },
+            {
+              "sentence": "The teacher tells us a story.",
+              "translation": "老师给我们讲了一个故事。",
+              "analysis": "核心句型是S+V+IO+DO（主谓双宾结构）；主语The teacher + 谓语tells + 间接宾语us（人）+ 直接宾语a story（物）；可改写为The teacher tells a story to us（tell后接to）。"
+            },
+            {
+              "sentence": "I found the door open yesterday.",
+              "translation": "我昨天发现门是开着的。",
+              "analysis": "核心句型是S+V+O+OC（主谓宾补结构）；主语I + 谓语found + 宾语the door + 宾补open；the door和open存在逻辑主谓关系（门是开着的），open补充说明宾语的状态。"
+            },
+            {
+              "sentence": "The soup smells delicious.",
+              "translation": "这汤闻起来很香。",
+              "analysis": "核心句型是S+Link.V+P（主系表结构）；主语The soup + 感官系动词smells（谓语）+ 表语delicious（形容词，说明主语特征）；smell是系动词，不可接副词，故不用deliciously。"
+            },
+            {
+              "sentence": "They go to school by bus.",
+              "translation": "他们乘公交车去上学。",
+              "analysis": "核心句型是S+V（主谓结构）；主语They + 不及物动词go（谓语）+ 状语to school（地点）+ 状语by bus（方式）；go是不及物动词，to school是介词短语作状语，非宾语。"
+            },
+            {
+              "sentence": "She bought her mother a scarf on Mother's Day.",
+              "translation": "她在母亲节给妈妈买了一条围巾。",
+              "analysis": "核心句型是S+V+IO+DO（主谓双宾结构）；主语She + 谓语bought + 间接宾语her mother + 直接宾语a scarf + 状语on Mother's Day；可改写为She bought a scarf for her mother（buy后接for）。"
+            },
+            {
+              "sentence": "We make our classroom tidy every day.",
+              "translation": "我们每天把教室整理得很整洁。",
+              "analysis": "核心句型是S+V+O+OC（主谓宾补结构）；主语We + 谓语make + 宾语our classroom + 宾补tidy；our classroom和tidy存在逻辑主谓关系（教室是整洁的），tidy补充说明宾语状态。"
+            },
+            {
+              "sentence": "He becomes a doctor when he grows up.",
+              "translation": "他长大后成为了一名医生。",
+              "analysis": "核心句型是S+Link.V+P（主系表结构）；主语He + 变化系动词becomes（谓语）+ 表语a doctor（名词，说明主语身份）；become是系动词，后接名词作表语。"
+            },
+            {
+              "sentence": "The little girl cries loudly in the room.",
+              "translation": "小女孩在房间里大声哭。",
+              "analysis": "核心句型是S+V（主谓结构）；主语The little girl + 不及物动词cries（谓语）+ 状语loudly（方式）+ 状语in the room（地点）；cry是不及物动词，无需接宾语，loudly是副词修饰动词。"
+            }
+          ],
+          "exercises": [
+            {
+              "question": "My brother ___ in the park every morning. (跑步)",
+              "options": {"A": "run", "B": "runs", "C": "running"},
+              "answer": "B",
+              "explanation": "句子核心是S+V主谓结构，主语My brother是第三人称单数，every morning表一般现在时，不及物动词run需用第三人称单数形式runs；running是现在分词，不能单独作谓语。"
+            },
+            {
+              "question": "She ___ a new pen yesterday.",
+              "options": {"A": "buy", "B": "buys", "C": "bought"},
+              "answer": "C",
+              "explanation": "句子核心是S+V+O主谓宾结构，yesterday表一般过去时，及物动词buy的过去式是bought；buy是原形，buys是第三人称单数，均不符合时态。"
+            },
+            {
+              "question": "My mother ___ me a new dress on my birthday. (给)",
+              "options": {"A": "give", "B": "gives", "C": "giving"},
+              "answer": "B",
+              "explanation": "句子核心是S+V+IO+DO主谓双宾结构，主语My mother是第三人称单数，表习惯性动作（生日送裙子）用一般现在时，give的第三人称单数是gives；giving不能单独作谓语。"
+            },
+            {
+              "question": "The teacher keeps us ___ English for an hour every day.",
+              "options": {"A": "read", "B": "reading", "C": "to read"},
+              "answer": "B",
+              "explanation": "句子核心是S+V+O+OC主谓宾补结构，keep后接宾语+doing作宾补（keep sb doing sth：让某人一直做某事），us是宾语，reading补充说明us的动作，故用reading。"
+            },
+            {
+              "question": "The music ___ very beautiful.",
+              "options": {"A": "sounds", "B": "sound", "C": "sounding"},
+              "answer": "A",
+              "explanation": "句子核心是S+Link.V+P主系表结构，主语The music是不可数名词，感官系动词sound需用第三人称单数形式sounds；sound是原形，sounding不能单独作谓语。"
+            },
+            {
+              "question": "They ___ to Shanghai by train last week.",
+              "options": {"A": "go", "B": "goes", "C": "went"},
+              "answer": "C",
+              "explanation": "句子核心是S+V主谓结构，last week表一般过去时，不及物动词go的过去式是went；go是原形，goes是第三人称单数，均不符合时态。"
+            },
+            {
+              "question": "I ___ a cake for my sister's birthday last Sunday.",
+              "options": {"A": "make", "B": "made", "C": "makes"},
+              "answer": "B",
+              "explanation": "句子核心是S+V+IO+DO主谓双宾结构（省略间接宾语my sister，完整是make my sister a cake），last Sunday表一般过去时，make的过去式是made。"
+            },
+            {
+              "question": "We find the math problem ___ to solve.",
+              "options": {"A": "easy", "B": "easily", "C": "easier"},
+              "answer": "A",
+              "explanation": "句子核心是S+V+O+OC主谓宾补结构，find后接宾语+形容词作宾补，the math problem是宾语，easy（形容词）补充说明宾语的特征；easily是副词，easier是比较级（无比较对象）。"
+            },
+            {
+              "question": "He ___ a student in No.1 Middle School now.",
+              "options": {"A": "am", "B": "is", "C": "are"},
+              "answer": "B",
+              "explanation": "句子核心是S+Link.V+P主系表结构，主语He是第三人称单数，now表一般现在时，be动词用is；am只用于I，are用于复数/you。"
+            },
+            {
+              "question": "The birds ___ in the tree every morning.",
+              "options": {"A": "sing", "B": "sings", "C": "sang"},
+              "answer": "A",
+              "explanation": "句子核心是S+V主谓结构，主语The birds是复数，every morning表一般现在时，不及物动词sing用原形；sings是第三人称单数，sang是过去式（无过去时间标志）。"
+            },
+            {
+              "question": "She ___ books in the library every afternoon.",
+              "options": {"A": "read", "B": "reads", "C": "reading"},
+              "answer": "B",
+              "explanation": "句子核心是S+V+O主谓宾结构，主语She是第三人称单数，every afternoon表一般现在时，及物动词read的第三人称单数是reads；reading不能单独作谓语。"
+            },
+            {
+              "question": "My father ___ me how to ride a bike last year.",
+              "options": {"A": "teach", "B": "teaches", "C": "taught"},
+              "answer": "C",
+              "explanation": "句子核心是S+V+IO+DO主谓双宾结构（间接宾语me，直接宾语how to ride a bike），last year表一般过去时，teach的过去式是taught。"
+            },
+            {
+              "question": "The boss makes the workers ___ 8 hours a day.",
+              "options": {"A": "work", "B": "to work", "C": "working"},
+              "answer": "A",
+              "explanation": "句子核心是S+V+O+OC主谓宾补结构，make后接宾语+动词原形作宾补（make sb do sth：让某人做某事），workers是宾语，work用原形。"
+            },
+            {
+              "question": "The flowers ___ very nice in spring.",
+              "options": {"A": "look", "B": "looks", "C": "looking"},
+              "answer": "A",
+              "explanation": "句子核心是S+Link.V+P主系表结构，主语The flowers是复数，spring表一般现在时，感官系动词look用原形；looks是第三人称单数，looking不能单独作谓语。"
+            },
+            {
+              "question": "Tom ___ to school on foot every day.",
+              "options": {"A": "go", "B": "goes", "C": "went"},
+              "answer": "B",
+              "explanation": "句子核心是S+V主谓结构，主语Tom是第三人称单数，every day表一般现在时，不及物动词go的第三人称单数是goes；went是过去式（无过去时间标志）。"
+            },
+            {
+              "question": "I ___ him a letter last month.",
+              "options": {"A": "send", "B": "sends", "C": "sent"},
+              "answer": "C",
+              "explanation": "句子核心是S+V+IO+DO主谓双宾结构（间接宾语him，直接宾语a letter），last month表一般过去时，send的过去式是sent。"
+            },
+            {
+              "question": "We call ___ Lily in English class.",
+              "options": {"A": "she", "B": "her", "C": "hers"},
+              "answer": "B",
+              "explanation": "句子核心是S+V+O+OC主谓宾补结构，call后接宾语+名词作宾补，宾语需用宾格her（she是主格，hers是名词性物主代词）。"
+            },
+            {
+              "question": "The milk ___ bad in the hot weather.",
+              "options": {"A": "goes", "B": "go", "C": "going"},
+              "answer": "A",
+              "explanation": "句子核心是S+Link.V+P主系表结构，主语The milk是不可数名词，变化系动词go（变得）用第三人称单数goes；go是原形，going不能单独作谓语。"
+            },
+            {
+              "question": "They ___ basketball on the playground every afternoon.",
+              "options": {"A": "play", "B": "plays", "C": "played"},
+              "answer": "A",
+              "explanation": "句子核心是S+V+O主谓宾结构，主语They是复数，every afternoon表一般现在时，及物动词play用原形；plays是第三人称单数，played是过去式（无过去时间标志）。"
+            },
+            {
+              "question": "She ___ happy because she passes the exam.",
+              "options": {"A": "feel", "B": "feels", "C": "feeling"},
+              "answer": "B",
+              "explanation": "句子核心是S+Link.V+P主系表结构，主语She是第三人称单数，passes表一般现在时，感官系动词feel用第三人称单数feels；feeling不能单独作谓语。"
+            }
+          ]
+        },
+        {
+          "id": "simple_sentences_2",
+          "title": "2-简单句的扩展与变式（并列/否定/疑问）",
+          "content": "### 简单句的扩展（核心句型+修饰成分）\n简单句的核心是五大基本句型，可通过添加**定语、状语、同位语**等修饰成分丰富内容，但核心主谓结构不变，这是中考写作中让句子更生动的关键。\n#### 1. 加定语（修饰名词/代词，表“什么样的/谁的”）\n- 定语类型：形容词、名词、代词、介词短语、分词等；\n- 位置：名词前（前置定语）或名词后（后置定语）；\n- 例：The tall boy（前置定语tall）reads interesting books（前置定语interesting）in the big library（后置定语in the big library）. → 核心仍为S+V+O。\n\n#### 2. 加状语（修饰动词/形容词/句子，表“时间/地点/方式/原因”）\n- 状语类型：副词、介词短语、不定式、分词等；\n- 位置：句首/句中/句末；\n- 例：Yesterday（时间状语）, he ran quickly（方式状语）in the park（地点状语）. → 核心仍为S+V。\n\n#### 3. 加同位语（补充说明名词，与名词指同一人/物）\n- 结构：名词 + 同位语（名词/代词）；\n- 例：My friend Tom（同位语Tom补充说明My friend）likes swimming. → 核心仍为S+V+O。\n\n### 简单句的并列结构（并列简单句，仍属简单句范畴）\n**核心逻辑**：用并列连词连接两个或多个简单句（各有独立主谓结构），整体仍无从句，中考高频并列连词：and（和）、but（但是）、or（或者/否则）、so（所以）、for（因为）。\n- 结构：简单句1 + 并列连词 + 简单句2；\n- 例：He is tired, so he goes to bed early.（他累了，所以早睡。）→ 两个S+Link.V+P简单句用so连接。\n\n### 简单句的否定形式（中考句型转换必考）\n#### 1. 含be动词/情态动词的简单句否定\n- 规则：be动词（am/is/are/was/were）/情态动词（can/may/must/will）后直接加not；\n- 例：She is happy. → She is not happy.；He can swim. → He cannot (can’t) swim.\n\n#### 2. 含实义动词的简单句否定\n- 规则：需加助动词（do/does/did）+ not，实义动词变回原形；\n- 例：He runs fast. → He does not (doesn’t) run fast.（第三人称单数，用does）；\n    They play football. → They do not (don’t) play football.（复数，用do）；\n    She bought a pen. → She did not (didn’t) buy a pen.（过去式，用did）。\n\n#### 3. 含系动词的简单句否定\n- 规则：系动词后加not，表语不变；\n- 例：The soup tastes sweet. → The soup does not (doesn’t) taste sweet.（感官系动词按实义动词否定）；\n    He is a student. → He is not (isn’t) a student.（be动词直接加not）。\n\n### 简单句的疑问形式（一般疑问/特殊疑问，中考必考）\n#### 1. 一般疑问句（回答用Yes/No）\n##### 类型1：含be动词/情态动词\n- 规则：be动词/情态动词提到句首，其余语序不变；\n- 例：She is a teacher. → Is she a teacher?；He can speak English. → Can he speak English?\n\n##### 类型2：含实义动词\n- 规则：句首加助动词（do/does/did），实义动词变回原形，其余语序不变；\n- 例：They play basketball. → Do they play basketball?；\n    He reads books. → Does he read books?；\n    She bought a pen. → Did she buy a pen?\n\n#### 2. 特殊疑问句（回答具体内容，含疑问词）\n- 核心规则：疑问词（what/who/where/when/why/how）+ 一般疑问句语序（be/情态/助动词提前）；\n- 疑问词分类：\n  1. 问人：who/whom；\n  2. 问物：what；\n  3. 问地点：where；\n  4. 问时间：when/what time；\n  5. 问原因：why；\n  6. 问方式：how；\n  7. 问数量：how many/how much；\n  8. 问频率：how often；\n- 例：He runs in the park. → Where does he run?（问地点）；\n    She buys a book. → What does she buy?（问物）；\n    They go to school at 7 o’clock. → When do they go to school?（问时间）。\n\n### 简单句变式的易混点（中考易错）\n1. 并列句与复合句区分：并列句用并列连词（and/but/so）连接两个简单句，复合句用从属连词（because/if/when）连接主句和从句；\n   例：He is ill, so he stays at home.（并列句）；He stays at home because he is ill.（复合句）；\n2. 否定句中助动词的选择：根据时态/人称选do/does/did，实义动词必须变回原形；\n3. 特殊疑问句中疑问词的选择：问“做什么”用what...do，问“怎么样”用how，问“原因”用why；\n4. 一般疑问句的回答：用助动词/情态动词/be动词回应，前后一致（Yes, he does./No, she isn’t.）。",
+          "examples": [
+            {
+              "sentence": "The cute girl sings songs happily in the music room every Friday.",
+              "translation": "这个可爱的女孩每周五在音乐教室开心地唱歌。",
+              "analysis": "核心句型是S+V+O（主谓宾）；主语The cute girl（cute是前置定语修饰girl）+ 谓语sings + 宾语songs + 状语happily（方式）+ 状语in the music room（地点）+ 状语every Friday（时间）；修饰成分丰富，但核心主谓宾结构不变。"
+            },
+            {
+              "sentence": "He is hungry, so he eats a big bowl of noodles.",
+              "translation": "他饿了，所以吃了一大碗面条。",
+              "analysis": "并列简单句，用so连接两个简单句；前句S+Link.V+P（He is hungry），后句S+V+O（he eats a big bowl of noodles）；整体无从句，仍属简单句范畴。"
+            },
+            {
+              "sentence": "She does not watch TV in the evening.",
+              "translation": "她晚上不看电视。",
+              "analysis": "含实义动词的否定简单句；主语She（第三人称单数）+ 助动词does not + 实义动词原形watch（谓语）+ 宾语TV + 状语in the evening；watch是实义动词，否定需加doesn’t，且变回原形。"
+            },
+            {
+              "sentence": "Can you play the piano well?",
+              "translation": "你能弹好钢琴吗？",
+              "analysis": "含情态动词的一般疑问句；情态动词Can提到句首 + 主语you + 实义动词原形play + 宾语the piano + 状语well；回答需用can回应（Yes, I can./No, I can’t.）。"
+            },
+            {
+              "sentence": "Where do they go on weekends?",
+              "translation": "他们周末去哪里？",
+              "analysis": "特殊疑问句；疑问词Where（问地点）+ 助动词do + 主语they + 实义动词原形go + 状语on weekends；核心是对地点状语in...提问，用where引导。"
+            },
+            {
+              "sentence": "My brother Tom plays basketball with his friends after school.",
+              "translation": "我的弟弟汤姆放学后和他的朋友打篮球。",
+              "analysis": "核心句型是S+V+O（主谓宾）；主语My brother Tom（Tom是同位语补充说明My brother）+ 谓语plays + 宾语basketball + 状语with his friends（方式）+ 状语after school（时间）；同位语不改变核心句型。"
+            },
+            {
+              "sentence": "It is raining hard, but we still go to school.",
+              "translation": "雨下得很大，但我们仍然去上学。",
+              "analysis": "并列简单句，用but连接两个简单句；前句S+V（It is raining hard），后句S+V（we still go to school）；but表转折，整体无从句。"
+            },
+            {
+              "sentence": "They did not finish their homework yesterday.",
+              "translation": "他们昨天没有完成作业。",
+              "analysis": "含实义动词的否定简单句；主语They + 助动词did not + 实义动词原形finish（谓语）+ 宾语their homework + 状语yesterday；yesterday表过去时，否定用didn’t，finish变回原形。"
+            },
+            {
+              "sentence": "Is this red pen yours?",
+              "translation": "这支红色的钢笔是你的吗？",
+              "analysis": "含be动词的一般疑问句；be动词Is提到句首 + 主语this red pen（red是前置定语）+ 表语yours；回答需用is回应（Yes, it is./No, it isn’t.）。"
+            },
+            {
+              "sentence": "Why does she get up early every morning?",
+              "translation": "她为什么每天早上早起？",
+              "analysis": "特殊疑问句；疑问词Why（问原因）+ 助动词does + 主语she + 实义动词原形get up + 状语early every morning；核心是对原因提问，用why引导。"
+            }
+          ],
+          "exercises": [
+            {
+              "question": "___ beautiful the park is in spring! (补全感叹句，核心是简单句变式)",
+              "options": {"A": "What", "B": "How", "C": "What a"},
+              "answer": "B",
+              "explanation": "感叹句是简单句的变式，how修饰形容词/副词，what修饰名词；本句核心是the park is beautiful（S+Link.V+P），beautiful是形容词，故用How引导。"
+            },
+            {
+              "question": "He likes playing football, ___ he doesn't like playing basketball.",
+              "options": {"A": "and", "B": "but", "C": "so"},
+              "answer": "B",
+              "explanation": "并列简单句，前后句表转折（喜欢足球但不喜欢篮球），用but连接；and表并列，so表结果，均不符合逻辑。"
+            },
+            {
+              "question": "She ___ watch TV on school nights. (否定句)",
+              "options": {"A": "don't", "B": "doesn't", "C": "isn't"},
+              "answer": "B",
+              "explanation": "含实义动词watch的否定简单句，主语She是第三人称单数，school nights表一般现在时，否定需加doesn’t；don’t用于复数/第一人称，isn’t用于be动词否定。"
+            },
+            {
+              "question": "___ your father go to work by car every day?",
+              "options": {"A": "Do", "B": "Does", "C": "Is"},
+              "answer": "B",
+              "explanation": "含实义动词go的一般疑问句，主语your father是第三人称单数，every day表一般现在时，需加助动词Does；Do用于复数/第一人称，Is用于be动词提问。"
+            },
+            {
+              "question": "___ do you usually do on weekends?",
+              "options": {"A": "What", "B": "Where", "C": "When"},
+              "answer": "A",
+              "explanation": "特殊疑问句，问“周末做什么”，用what引导；where问地点，when问时间，均不符合句意。"
+            },
+            {
+              "question": "The boy ___ black hair is my cousin. (补全定语，简单句扩展)",
+              "options": {"A": "with", "B": "has", "C": "have"},
+              "answer": "A",
+              "explanation": "简单句扩展加定语，with black hair（介词短语作后置定语）修饰the boy；句子核心是the boy is my cousin（S+Link.V+P），若用has/have则出现双谓语，不符合简单句“一个主谓结构”的规则。"
+            },
+            {
+              "question": "It was late, ___ we took a taxi home.",
+              "options": {"A": "or", "B": "so", "C": "but"},
+              "answer": "B",
+              "explanation": "并列简单句，前后句表结果（迟到了所以打车回家），用so连接；or表选择/否则，but表转折，均不符合逻辑。"
+            },
+            {
+              "question": "They ___ finish their homework yesterday evening.",
+              "options": {"A": "didn't", "B": "don't", "C": "aren't"},
+              "answer": "A",
+              "explanation": "含实义动词finish的否定简单句，yesterday evening表一般过去时，否定需加didn’t；don’t用于一般现在时，aren’t用于be动词否定。"
+            },
+            {
+              "question": "___ your mother a teacher in No.2 Middle School?",
+              "options": {"A": "Is", "B": "Do", "C": "Does"},
+              "answer": "A",
+              "explanation": "含be动词的一般疑问句，句子核心是your mother is a teacher（S+Link.V+P），be动词Is提到句首；Do/Does用于实义动词提问，不符合。"
+            },
+            {
+              "question": "___ does your sister go to school every day?",
+              "options": {"A": "What", "B": "How", "C": "Who"},
+              "answer": "B",
+              "explanation": "特殊疑问句，问“上学的方式”，用how引导；what问事物，who问人，均不符合句意。"
+            },
+            {
+              "question": "I have a friend ___ Lily from England. (补全同位语，简单句扩展)",
+              "options": {"A": "call", "B": "calls", "C": "called"},
+              "answer": "C",
+              "explanation": "简单句扩展加同位语，called Lily（过去分词作后置定语/同位语）补充说明a friend；句子核心是I have a friend（S+V+O），call/calls会导致双谓语，不符合简单句规则。"
+            },
+            {
+              "question": "Hurry up, ___ you will be late for school.",
+              "options": {"A": "or", "B": "and", "C": "so"},
+              "answer": "A",
+              "explanation": "并列简单句，or表“否则”（快点，否则上学迟到）；and表并列，so表结果，均不符合逻辑。"
+            },
+            {
+              "question": "He ___ swim in the river because it's dangerous. (否定句)",
+              "options": {"A": "can't", "B": "don't", "C": "isn't"},
+              "answer": "A",
+              "explanation": "含情态动词swim的否定简单句，表“不能在河里游泳”，用can’t；don’t用于实义动词一般现在时否定，isn’t用于be动词否定，均不符合。"
+            },
+            {
+              "question": "___ they play basketball on the playground yesterday afternoon?",
+              "options": {"A": "Do", "B": "Does", "C": "Did"},
+              "answer": "C",
+              "explanation": "含实义动词play的一般疑问句，yesterday afternoon表一般过去时，需加助动词Did；Do/Does用于一般现在时，不符合时态。"
+            },
+            {
+              "question": "___ is your English teacher? (问人)",
+              "options": {"A": "What", "B": "Who", "C": "Where"},
+              "answer": "B",
+              "explanation": "特殊疑问句，问“谁是你的英语老师”，用who引导；what问事物，where问地点，均不符合句意。"
+            },
+            {
+              "question": "She reads books ___ in the library every Sunday. (补全状语，简单句扩展)",
+              "options": {"A": "quiet", "B": "quietly", "C": "quietness"},
+              "answer": "B",
+              "explanation": "简单句扩展加方式状语，quietly（副词）修饰动词reads；quiet是形容词（修饰名词），quietness是名词，均不能修饰动词。"
+            },
+            {
+              "question": "She studies hard, ___ she gets good grades in exams.",
+              "options": {"A": "but", "B": "so", "C": "or"},
+              "answer": "B",
+              "explanation": "并列简单句，前后句表结果（努力学习所以成绩好），用so连接；but表转折，or表选择/否则，均不符合逻辑。"
+            },
+            {
+              "question": "___ he a student in Grade Seven? (一般疑问句)",
+              "options": {"A": "Am", "B": "Is", "C": "Are"},
+              "answer": "B",
+              "explanation": "含be动词的一般疑问句，主语he是第三人称单数，用Is引导；Am用于I，Are用于复数/you，均不符合。"
+            },
+            {
+              "question": "___ much water do you drink every day?",
+              "options": {"A": "How", "B": "What", "C": "How many"},
+              "answer": "A",
+              "explanation": "特殊疑问句，water是不可数名词，问“多少水”用how much；what问事物，how many修饰可数名词复数，均不符合。"
+            },
+            {
+              "question": "They go to school ___ foot every day. (补全状语，简单句扩展)",
+              "options": {"A": "on", "B": "by", "C": "with"},
+              "answer": "A",
+              "explanation": "简单句扩展加方式状语，on foot是固定搭配（步行）；by后接交通工具（by bus），with表“和/用”，均不符合。"
+            }
+          ]
+        },
+        {
+          "id": "simple_sentences_3",
+          "title": "3-简单句的易错点与解题技巧",
+          "content": "### 简单句的核心易错点（中考高频错题类型）\n#### 易错点1：双谓语错误（一个简单句出现两个谓语动词）\n- 错误原因：未区分谓语和非谓语，直接用两个动词作谓语；\n- 错例：He go to school and study hard.（go和study均为谓语，无连词连接）；\n- 正解：He goes to school and studies hard.（用and连接两个谓语，且第三人称单数一致）；\n        或He goes to school to study hard.（to study作目的状语，非谓语）。\n\n#### 易错点2：系动词后接副词错误\n- 错误原因：混淆系动词和实义动词，系动词后需接形容词作表语，不可接副词；\n- 错例：The food tastes deliciously.（tastes是系动词，需接形容词delicious）；\n- 正解：The food tastes delicious.\n\n#### 易错点3：不及物动词接宾语错误\n- 错误原因：未区分及物/不及物动词，不及物动词后直接接宾语；\n- 错例：He arrives Beijing at 8 o’clock.（arrive是不及物动词，需加介词in/at）；\n- 正解：He arrives in Beijing at 8 o’clock.（大地点用in，小地点用at）。\n\n#### 易错点4：双宾语与宾补混淆\n- 错误原因：分不清“人+物”（双宾）和“宾语+补充说明”（宾补）；\n- 区分技巧：双宾可改写为“动词+物+to/for+人”，宾补不可；\n- 例：I give him a book（双宾，可改写为give a book to him）；\n    I make him happy（宾补，不可改写为make happy to him）。\n\n#### 易错点5：否定句/疑问句中助动词与实义动词搭配错误\n- 错误原因：助动词后未将实义动词变回原形；\n- 错例：Does he reads books?（does后需接原形read）；\n- 正解：Does he read books?\n\n#### 易错点6：并列句中连词使用错误\n- 错误原因：混淆并列连词的逻辑（and/but/so/or）；\n- 例：He is rich, but he is happy.（逻辑错误，rich和happy是并列，用and；but表转折，应为He is rich, but he is not happy.）。\n\n### 简单句的解题技巧（中考题型适配）\n#### 技巧1：句型转换题（否定/疑问/同义句）\n- 步骤1：判断句子核心句型（五大基本句型）；\n- 步骤2：判断谓语类型（be动词/情态动词/实义动词）；\n- 步骤3：按对应规则转换（否定：be/情态+not；实义动词+do/does/did+not；疑问：be/情态提前，实义动词加助动词）；\n- 例：She plays the piano well.（否定）→ She doesn’t play the piano well.（步骤：实义动词play→第三人称单数→加doesn’t，play变回原形）。\n\n#### 技巧2：单句改错题\n- 步骤1：找主谓结构，检查是否有双谓语/主谓不一致；\n- 步骤2：检查系动词后是否接形容词；\n- 步骤3：检查及物/不及物动词使用是否正确；\n- 步骤4：检查否定/疑问结构中助动词与实义动词的搭配；\n- 例：Tom is go to school by bike.（错误：is和go双谓语）→ Tom goes to school by bike.\n\n#### 技巧3：写作中扩展简单句（让句子更丰富）\n- 技巧1：加定语（形容词/介词短语）：a book → a useful book / a book about history；\n- 技巧2：加状语（时间/地点/方式）：He runs → He runs quickly in the park every morning；\n- 技巧3：用并列连词连接简单句：I study hard. I get good grades. → I study hard, so I get good grades.\n\n#### 技巧4：选择填空题（判断谓语/句型）\n- 步骤1：通读句子，确定核心逻辑（谁/什么+做什么/是什么）；\n- 步骤2：根据主语人称/时态判断谓语形式（第三人称单数/过去式/否定式）；\n- 步骤3：根据句型（双宾/宾补/主系表）判断成分（如宾补用形容词，双宾用to/for）；\n- 例：She ___ me a gift.（give）→ gives（主语第三人称单数，双宾结构）。\n\n### 简单句的中考考点总结\n1. 五大基本句型的识别与应用（占句型题40%）；\n2. 否定句/一般疑问句/特殊疑问句的转换（占句型题30%）；\n3. 并列简单句的连词选择（and/but/so/or）（占选词题15%）；\n4. 简单句的扩展（定语/状语）与易错点改错（占改错题15%）；\n5. 写作中用丰富的简单句替代单一句型（提升写作分数）。",
+          "examples": [
+            {
+              "sentence": "错误：He play basketball every day. 正确：He plays basketball every day.",
+              "translation": "错误：他每天打篮球。 正确：他每天打篮球。",
+              "analysis": "易错点：主谓不一致（简单句中主语He是第三人称单数，一般现在时谓语play需变为plays）；核心句型是S+V+O（主谓宾），play是及物动词，宾语basketball正确，仅需修正谓语形式。"
+            },
+            {
+              "sentence": "错误：The music sounds beautifully. 正确：The music sounds beautiful.",
+              "translation": "错误：这音乐听起来很美。 正确：这音乐听起来很美。",
+              "analysis": "易错点：系动词后接副词错误；sounds是感官系动词，后需接形容词beautiful作表语（S+Link.V+P），beautifully是副词，只能修饰实义动词，不可作表语。"
+            },
+            {
+              "sentence": "错误：She speak English very well. 正确：She speaks English very well.",
+              "translation": "错误：她英语说得很好。 正确：她英语说得很好。",
+              "analysis": "易错点：主谓不一致；主语She是第三人称单数，一般现在时谓语speak需变为speaks；核心句型是S+V+O（主谓宾），English是宾语，very well是状语，仅需修正谓语形式。"
+            },
+            {
+              "sentence": "错误：They don't goes to school on Sunday. 正确：They don't go to school on Sunday.",
+              "translation": "错误：他们周日不上学。 正确：他们周日不上学。",
+              "analysis": "易错点：否定句中助动词后实义动词未变回原形；don’t是助动词，后接实义动词原形go；核心句型是S+V（主谓），go是不及物动词，on Sunday是状语，修正后符合否定句规则。"
+            },
+            {
+              "sentence": "错误：I give a book for my friend. 正确：I give a book to my friend.",
+              "translation": "错误：我给我的朋友一本书。 正确：我给我的朋友一本书。",
+              "analysis": "易错点：双宾语结构中to/for使用错误；give后接双宾语需用to（give sth to sb），buy后接for（buy sth for sb）；核心句型是S+V+IO+DO（主谓双宾），修正后符合搭配规则。"
+            },
+            {
+              "sentence": "错误：He is run fast. 正确：He runs fast.",
+              "translation": "错误：他跑得快。 正确：他跑得快。",
+              "analysis": "易错点：双谓语错误；简单句中不可同时用is和run作谓语，is是be动词，run是实义动词，需删除is，将run变为第三人称单数runs；核心句型是S+V（主谓），fast是状语，修正后符合简单句“一个主谓结构”规则。"
+            },
+            {
+              "sentence": "错误：Does she likes swimming? 正确：Does she like swimming?",
+              "translation": "错误：她喜欢游泳吗？ 正确：她喜欢游泳吗？",
+              "analysis": "易错点：一般疑问句中助动词后实义动词未变回原形；Does是助动词，后接实义动词原形like；核心句型是S+V+O（主谓宾），swimming是宾语，修正后符合疑问句规则。"
+            },
+            {
+              "sentence": "错误：The cake taste sweet. 正确：The cake tastes sweet.",
+              "translation": "错误：这蛋糕尝起来很甜。 正确：这蛋糕尝起来很甜。",
+              "analysis": "易错点：主谓不一致；主语The cake是不可数名词，一般现在时谓语taste需变为tastes；核心句型是S+Link.V+P（主系表），sweet是表语，修正后符合主谓一致规则。"
+            },
+            {
+              "sentence": "错误：We go to park by the bus. 正确：We go to the park by bus.",
+              "translation": "错误：我们乘公交车去公园。 正确：我们乘公交车去公园。",
+              "analysis": "易错点：固定搭配错误；go to the park是固定搭配（park前加the），by bus是固定搭配（零冠词）；核心句型是S+V（主谓），to the park和by bus是状语，修正后符合固定搭配规则。"
+            },
+            {
+              "sentence": "错误：He make his room clean every day. 正确：He makes his room clean every day.",
+              "translation": "错误：他每天保持房间干净。 正确：他每天保持房间干净。",
+              "analysis": "易错点：主谓不一致；主语He是第三人称单数，一般现在时谓语make需变为makes；核心句型是S+V+O+OC（主谓宾补），his room是宾语，clean是宾补，修正后符合主谓一致规则。"
+            }
+          ],
+          "exercises": [
+            {
+              "question": "找出错误并改正：She don't like eating apples.",
+              "options": {"A": "don't → doesn't", "B": "like → likes", "C": "eating → eat"},
+              "answer": "A",
+              "explanation": "易错点：否定句中助动词使用错误；主语She是第三人称单数，一般现在时否定需用doesn’t，助动词后like保持原形；核心句型是S+V+O（主谓宾），eating apples是宾语，无需修改。"
+            },
+            {
+              "question": "找出错误并改正：The flower look very beautiful.",
+              "options": {"A": "look → looks", "B": "beautiful → beautifully", "C": "The → A"},
+              "answer": "A",
+              "explanation": "易错点：主谓不一致；主语The flower是单数，一般现在时系动词look需变为looks；核心句型是S+Link.V+P（主系表），beautiful是形容词作表语，无需修改为副词。"
+            },
+            {
+              "question": "找出错误并改正：He arrive at school at 7:30 every morning.",
+              "options": {"A": "arrive → arrives", "B": "at → in", "C": "every morning → every mornings"},
+              "answer": "A",
+              "explanation": "易错点：主谓不一致；主语He是第三人称单数，一般现在时不及物动词arrive需变为arrives；school是小地点，arrive后接at正确，every morning是固定表达，无需修改。"
+            },
+            {
+              "question": "找出错误并改正：I buy a pen to my sister yesterday.",
+              "options": {"A": "buy → bought", "B": "to → for", "C": "yesterday → yesterday's"},
+              "answer": "B",
+              "explanation": "易错点：双宾语结构中to/for使用错误；buy后接双宾语需用for（buy sth for sb），yesterday表过去时，buy需变为bought，但本题核心易错点是to/for，且选项中B是核心错误，A是时态错误（次要）。"
+            },
+            {
+              "question": "找出错误并改正：They is playing football on the playground.",
+              "options": {"A": "is → are", "B": "playing → play", "C": "on → in"},
+              "answer": "A",
+              "explanation": "易错点：主谓不一致；主语They是复数，现在进行时be动词需用are；核心句型是S+V+O（主谓宾），playing football是谓语，on the playground是状语，无需修改。"
+            },
+            {
+              "question": "找出错误并改正：Does he watches TV in the evening?",
+              "options": {"A": "watches → watch", "B": "Does → Do", "C": "in → on"},
+              "answer": "A",
+              "explanation": "易错点：一般疑问句中助动词后实义动词未变回原形；Does是助动词，后接实义动词原形watch；主语he是第三人称单数，Does使用正确，in the evening是固定搭配。"
+            },
+            {
+              "question": "找出错误并改正：The soup smell very delicious.",
+              "options": {"A": "smell → smells", "B": "delicious → deliciously", "C": "very → so"},
+              "answer": "A",
+              "explanation": "易错点：主谓不一致；主语The soup是不可数名词，一般现在时系动词smell需变为smells；核心句型是S+Link.V+P（主系表），delicious是形容词作表语，无需修改。"
+            },
+            {
+              "question": "找出错误并改正：We go to the cinema by the bike.",
+              "options": {"A": "go → goes", "B": "the → /", "C": "cinema → cinemas"},
+              "answer": "B",
+              "explanation": "易错点：固定搭配错误；by bike是零冠词固定搭配，需删除the；主语We是复数，go使用正确，go to the cinema是固定搭配（cinema前加the）。"
+            },
+            {
+              "question": "找出错误并改正：She make me to happy every day.",
+              "options": {"A": "make → makes", "B": "to happy → happy", "C": "every day → everyday"},
+              "answer": "B",
+              "explanation": "易错点：宾补结构错误；make后接宾语+形容词作宾补（make sb happy），to多余；主语She是第三人称单数，make需变为makes（次要错误），核心错误是to happy，故选B。"
+            },
+            {
+              "question": "找出错误并改正：He play the piano very good.",
+              "options": {"A": "play → plays", "B": "good → well", "C": "the → /"},
+              "answer": "A",
+              "explanation": "易错点：主谓不一致；主语He是第三人称单数，一般现在时谓语play需变为plays；good是形容词，修饰动词play需用well（次要错误），核心错误是play形式，故选A。"
+            },
+            {
+              "question": "找出错误并改正：I am go to school at 7 o'clock.",
+              "options": {"A": "am go → go", "B": "at → in", "C": "school → schools"},
+              "answer": "A",
+              "explanation": "易错点：双谓语错误；简单句中不可同时用am和go作谓语，需删除am，go用原形（主语I）；核心句型是S+V（主谓），at 7 o'clock是时间状语，正确。"
+            },
+            {
+              "question": "找出错误并改正：The boy with black hair are my brother.",
+              "options": {"A": "are → is", "B": "with → has", "C": "black → black's"},
+              "answer": "A",
+              "explanation": "易错点：主谓不一致；主语The boy是单数（with black hair是定语，不影响主谓），系动词are需变为is；with black hair作定语正确，无需改为has（否则双谓语）。"
+            },
+            {
+              "question": "找出错误并改正：They doesn't like playing computer games.",
+              "options": {"A": "doesn't → don't", "B": "like → likes", "C": "playing → play"},
+              "answer": "A",
+              "explanation": "易错点：否定句中助动词使用错误；主语They是复数，一般现在时否定需用don’t；助动词后like保持原形，playing computer games是宾语，正确。"
+            },
+            {
+              "question": "找出错误并改正：How many milk do you drink every day?",
+              "options": {"A": "many → much", "B": "drink → drinks", "C": "every day → everyday"},
+              "answer": "A",
+              "explanation": "易错点：特殊疑问词使用错误；milk是不可数名词，问“多少”用how much，how many修饰可数名词复数；主语you是第二人称，drink使用正确。"
+            },
+            {
+              "question": "找出错误并改正：She sing a song for us yesterday.",
+              "options": {"A": "sing → sang", "B": "for → to", "C": "yesterday → yesterday's"},
+              "answer": "A",
+              "explanation": "易错点：时态错误（主谓不一致+过去时）；yesterday表一般过去时，谓语sing需变为sang；sing a song for us是双宾结构（for us正确），无需修改to。"
+            },
+            {
+              "question": "找出错误并改正：Is your father go to work by car?",
+              "options": {"A": "Is → Does", "B": "go → goes", "C": "by car → by the car"},
+              "answer": "A",
+              "explanation": "易错点：一般疑问句助动词使用错误；go是实义动词，一般现在时疑问句需加助动词Does（主语your father是第三人称单数）；Is用于be动词提问，不符合。"
+            },
+            {
+              "question": "找出错误并改正：The weather become cold in winter.",
+              "options": {"A": "become → becomes", "B": "cold → coldly", "C": "in → on"},
+              "answer": "A",
+              "explanation": "易错点：主谓不一致；主语The weather是不可数名词，一般现在时系动词become需变为becomes；核心句型是S+Link.V+P（主系表），cold是形容词作表语，正确。"
+            },
+            {
+              "question": "找出错误并改正：We have a big breakfast at the morning.",
+              "options": {"A": "at → in", "B": "a → /", "C": "big → bigger"},
+              "answer": "A",
+              "explanation": "易错点：固定搭配错误；in the morning是固定搭配，at用于具体时间点（at 7 o'clock）；breakfast前有big修饰，加a正确，无需删除。"
+            },
+            {
+              "question": "找出错误并改正：He run fast and win the race.",
+              "options": {"A": "run → runs; win → wins", "B": "and → but", "C": "fast → fastly"},
+              "answer": "A",
+              "explanation": "易错点：主谓不一致（并列谓语）；主语He是第三人称单数，并列谓语run和win需变为runs和wins；and表并列正确，fast是副词（修饰run），无需改为fastly（无fastly这个词）。"
+            },
+            {
+              "question": "找出错误并改正：She call me Lily in English class yesterday.",
+              "options": {"A": "call → called", "B": "me → I", "C": "in → on"},
+              "answer": "A",
+              "explanation": "易错点：时态错误；yesterday表一般过去时，谓语call需变为called；me是宾格作宾语正确（I是主格，不可作宾语），in English class是固定搭配。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

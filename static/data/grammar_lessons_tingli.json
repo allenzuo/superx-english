@@ -1,0 +1,1129 @@
+{
+  "grammar_topics": [
+    {
+      "id": "listening_skills",
+      "name": "中考听力（综合运用精准获取能力）",
+      "icon": "ear",
+      "color": "#3498db",
+      "lessons": [
+        {
+          "id": "listening_skills_1",
+          "title": "1-中考听力核心解析（综合运用精准获取能力）",
+          "content": "### 听力的核心定义\n中考听力并非单纯“能听到”，而是**结合语音、语境、逻辑的综合信息获取能力**（如捕捉时间/地点/数字等细节、通过语气推断言外之意），是中考英语的必考题型（占分比约20%），也是学生容易因“漏细节、误推断”丢分的模块。\n\n### 听力的解题原则（万能方法）\n#### 原则1：先看题干，预判考点\n听录音前30秒，快速扫读题干和选项，圈出关键词（如when/where/how many/who），预判要捕捉的信息类型（时间？地点？人物关系？），避免听的时候“盲目抓内容”。\n- 题干关键词：when（时间）、where（地点）、how much（数字）、relationship（人物关系）、suggestion（建议）；\n- 选项对比：圈出选项间的差异（如A是8点，B是9点；A是医院，B是学校），重点听差异点。\n\n#### 原则2：抓“信号词”，锁定细节\n听力录音中，信号词是提示关键信息的“路标”，记住以下信号词对应的信息类型：\n- 时间信号词：at/in/on/by/before/after/until/ago/later（如at 7:30、after school、two days ago）；\n- 地点信号词：in/on/at/from/to/near/next to/opposite（如in the library、next to the park、from Beijing）；\n- 数字信号词：基数词（one/two/100）、序数词（first/second）、分数（half/one third）、价格（yuan/dollar）、年龄（years old）；\n- 人物关系信号词：dad/mom/teacher/student/doctor/patient/waiter/customer（如call me mom、my math teacher）；\n- 逻辑信号词：but/however/so/because/why（表转折/因果，提示言外之意）。\n\n#### 原则3：辨“语气/语调”，推断意图\n中考听力常考“言外之意”，需通过说话者的语气、语调判断情绪或意图：\n- 升调：疑问、不确定、惊讶（如“Really?”“Is that so?”）；\n- 降调：肯定、命令、陈述事实（如“He is late.”“Do it now.”）；\n- 委婉语气：表建议/拒绝（如“Why not...?”“I'm afraid I can't.”）；\n- 抱怨语气：表不满（如“It's too noisy!”“I can't stand it.”）。\n\n### 中考高频听力类型（核心考点）\n#### 类型1：时间细节捕捉（最常考）\n例：W: When will the movie start? M: It starts at 7:15, but we need to arrive 10 minutes early.\n- 题干提问：What time do they need to arrive?\n- 关键信息：7:15（电影开始时间）+ 10 minutes early（提前10分钟）→ 7:05；\n- 信号词：when/at/early；\n- 易错点：混淆“开始时间”和“到达时间”，忽略数字加减。\n\n#### 类型2：地点推断（语境+信号词）\n例：W: Can I have a look at the menu? I want to order a beef burger and a cup of milk. M: Sure, wait a minute.\n- 题干提问：Where is the conversation happening?\n- 关键信息：menu（菜单）、order（点餐）、beef burger（牛肉汉堡）→ 餐厅（restaurant）；\n- 信号词：menu/order/food/drink；\n- 易错点：仅靠单个词判断（如“milk”≠超市，结合“order”才是餐厅）。\n\n#### 类型3：数字信息抓取（计算+单位）\n例：W: How much is the T-shirt? M: It's 80 yuan each, but if you buy two, it's 150 yuan in total.\n- 题干提问：How much will the woman pay for two T-shirts?\n- 关键信息：80 yuan each（单件80）、two=150 yuan（两件150）→ 答案150；\n- 信号词：how much/yuan/two/in total；\n- 易错点：直接选80，忽略“买两件”的折扣计算。\n\n#### 类型4：人物关系推断（称呼+场景）\n例：W: Tom, you didn't finish your homework again. Come to my office after class. M: Sorry, Miss Li. I will do it right now.\n- 题干提问：What's the relationship between the two speakers?\n- 关键信息：homework（作业）、Miss Li（李老师）、after class（课后）→ 老师和学生（teacher and student）；\n- 信号词：homework/teacher/student/office；\n- 易错点：混淆“Miss”（老师/女士）和“Mom”（妈妈）。\n\n#### 类型5：言外之意推断（语气+转折）\n例：W: Let's go to the park this afternoon. M: I'd love to, but I have to finish my English test paper first.\n- 题干提问：What does the man mean?\n- 关键信息：I'd love to（愿意）+ but（转折）+ finish test paper（完成试卷）→ 男士不能去公园（He can't go to the park）；\n- 信号词：but/however；\n- 易错点：只听“I'd love to”，忽略转折后的真实意图。\n\n#### 类型6：天气与活动推断（场景+逻辑）\n例：W: It's raining heavily outside. Do you still want to go hiking? M: No, let's stay at home and watch TV instead.\n- 题干提问：What will they do?\n- 关键信息：raining heavily（下大雨）+ no（不去徒步）+ stay at home（待在家）+ watch TV（看电视）→ 在家看电视；\n- 信号词：rain/hiking/stay at home；\n- 易错点：忽略天气对活动的影响，误选“go hiking”。\n\n#### 类型7：建议类推断（委婉语气）\n例：W: I'm bad at listening. What should I do? M: Why not listen to English songs every day? It's helpful.\n- 题干提问：What's the man's suggestion?\n- 关键信息：Why not...?（建议句式）+ listen to English songs（听英文歌）→ 每天听英文歌；\n- 信号词：Why not/How about/You should；\n- 易错点：混淆“问题”和“建议”，误答“她听力不好”。\n\n#### 类型8：原因与结果推断（因果信号词）\n例：W: Why are you late for school? M: Because my bike broke down on the way.\n- 题干提问：Why is the boy late?\n- 关键信息：Why（原因提问）+ because（原因）+ bike broke down（自行车坏了）→ 自行车在路上坏了；\n- 信号词：why/because/so；\n- 易错点：答非所问，如只说“上学迟到”，不说原因。\n\n### 听力解题技巧（中考专用）\n1. **预读标记**：听前用10秒圈题干关键词（when/where/how many），选项标差异（如A医院、B学校）；\n2. **速记数字**：听到时间/数字时，快速写在草稿纸（如7:15→715，80元→80），避免遗忘；\n3. **忽略干扰**：遇到听不懂的单词，不要停，继续听后面内容（中考听力不会考生僻词，干扰词不影响核心信息）；\n4. **抓转折词**：but/however后是重点（如“I like it, but it's too expensive”→重点是“贵”）；\n5. **语气判断**：升调表疑问，降调表肯定，委婉语气（Why not）表建议；\n6. **上下文验证**：听完后，结合题干和听到的信息，验证选项（如地点题，结合多个信号词“menu+order”才是餐厅）。\n\n### 听力避坑指南\n1. 不要只听单个单词（如“milk”≠超市，需结合场景）；\n2. 数字题注意“加减计算”（如“提前10分钟”“买两件打折”）；\n3. 转折词but/however后才是真实意图，不要被前半句误导；\n4. 人物关系题要结合“称呼+场景”（如“Miss Li+homework”=老师）；\n5. 推断题不要“主观猜测”，要基于录音内容（如没提“生气”，就不要选“他很生气”）；\n6. 注意“同义替换”（如“go to see a doctor”=“go to the hospital”）。",
+          "examples": [
+            {
+              "sentence": "W: Excuse me, what time does the train to Shanghai leave? M: It leaves at 9:45, and you need to check in 30 minutes before departure. Q: What time should the woman check in?",
+              "translation": "女：打扰一下，去上海的火车什么时候发车？男：9点45分发车，你需要在发车前30分钟检票。问：女士应该几点检票？",
+              "analysis": "① 核心考点：时间细节+数字计算；② 关键信号词：what time/at 9:45/30 minutes before；③ 计算逻辑：9:45 - 30分钟 = 9:15；④ 易错点：直接选9:45（发车时间），忽略“提前检票”的要求；⑤ 解题技巧：听时速记945和30，快速计算。"
+            },
+            {
+              "sentence": "W: Good morning, sir. How can I help you? M: I want to buy a new pair of sports shoes for my son. His size is 38. Q: Where is the conversation probably taking place?",
+              "translation": "女：早上好，先生。我能为您做些什么？男：我想给我儿子买一双新的运动鞋。他穿38码。问：这段对话可能发生在哪里？",
+              "analysis": "① 核心考点：地点推断；② 关键信号词：buy/sports shoes/size 38；③ 场景判断：买鞋子→鞋店（shoe store）；④ 易错点：误选“超市”（超市虽有鞋子，但“size 38”更指向鞋店）；⑤ 解题技巧：结合多个购物信号词判断地点。"
+            },
+            {
+              "sentence": "W: How much are these apples? M: They are 8 yuan a kilo. If you buy 3 kilos, it's 20 yuan. W: OK, I'll take 3 kilos. Q: How much will the woman pay for the apples?",
+              "translation": "女：这些苹果多少钱？男：8元一公斤。如果买3公斤，只要20元。女：好的，我买3公斤。问：女士要付多少钱买苹果？",
+              "analysis": "① 核心考点：数字计算+折扣；② 关键信号词：how much/8 yuan a kilo/3 kilos/20 yuan；③ 计算逻辑：买3公斤→20元（不是8×3=24元）；④ 易错点：直接计算8×3=24，忽略“买3公斤20元”的折扣；⑤ 解题技巧：听时标记“3kg=20元”，优先选录音中直接给出的折扣价。"
+            },
+            {
+              "sentence": "W: Dad, can I borrow your car? I want to go to the supermarket. M: Sorry, honey. You are too young to drive. I can take you there after dinner. Q: What's the relationship between the two speakers?",
+              "translation": "女：爸爸，我能借你的车吗？我想去超市。男：抱歉，宝贝。你太小了，不能开车。晚饭后我带你去。问：两位说话者是什么关系？",
+              "analysis": "① 核心考点：人物关系推断；② 关键信号词：Dad/honey/young to drive；③ 关系判断：dad（爸爸）+ honey（宝贝）→父女（father and daughter）；④ 易错点：误选“朋友”（没有朋友间叫dad的场景）；⑤ 解题技巧：通过称呼（Dad/Mom/Teacher）快速判断关系。"
+            },
+            {
+              "sentence": "W: Do you want to go to the concert with me tonight? M: Sounds great, but I have to prepare for my math exam tomorrow. Q: What does the man mean?",
+              "translation": "女：你今晚想和我一起去听音乐会吗？男：听起来很棒，但我得准备明天的数学考试。问：男士是什么意思？",
+              "analysis": "① 核心考点：言外之意推断；② 关键信号词：but/prepare for math exam；③ 意图判断：but转折→男士不能去音乐会（He can't go to the concert）；④ 易错点：只听“Sounded great”，忽略转折后的真实意图；⑤ 解题技巧：重点听but/however后的内容。"
+            },
+            {
+              "sentence": "W: The weather report says it will be sunny tomorrow. Let's have a picnic in the park. M: Perfect! I'll bring some bread and juice. Q: What will they do tomorrow?",
+              "translation": "女：天气预报说明天是晴天。我们去公园野餐吧。男：太好了！我会带些面包和果汁。问：他们明天要做什么？",
+              "analysis": "① 核心考点：活动推断+天气；② 关键信号词：sunny/tomorrow/picnic in the park；③ 活动判断：晴天→去公园野餐（Have a picnic in the park）；④ 易错点：误选“听天气预报”，忽略核心活动；⑤ 解题技巧：抓“Let's...”后的活动建议。"
+            },
+            {
+              "sentence": "W: I always forget new words quickly. What can I do? M: How about writing them down in a notebook and reviewing them every day? Q: What's the man's suggestion?",
+              "translation": "女：我总是很快忘记新单词。我该怎么办？男：把它们写在笔记本上，每天复习怎么样？问：男士的建议是什么？",
+              "analysis": "① 核心考点：建议类推断；② 关键信号词：What can I do?/How about；③ 建议判断：写单词在笔记本+每天复习；④ 易错点：答“她忘单词快”（问题），而非建议；⑤ 解题技巧：抓How about/Why not/You should后的内容。"
+            },
+            {
+              "sentence": "W: Why didn't you come to the party last night? M: Because I had a bad cold and stayed at home to rest. Q: Why didn't the man go to the party?",
+              "translation": "女：你昨晚为什么没来参加派对？男：因为我重感冒了，待在家里休息。问：男士为什么没去派对？",
+              "analysis": "① 核心考点：原因推断；② 关键信号词：Why/because/had a bad cold；③ 原因判断：重感冒（had a bad cold）；④ 易错点：只说“没去派对”，不说原因；⑤ 解题技巧：听because/since后的内容。"
+            },
+            {
+              "sentence": "W: How old is your sister? M: She is 12 years old, and my brother is 3 years older than her. Q: How old is the man's brother?",
+              "translation": "女：你妹妹多大了？男：她12岁，我哥哥比她大3岁。问：男士的哥哥多大？",
+              "analysis": "① 核心考点：数字计算（年龄）；② 关键信号词：how old/12 years old/3 years older；③ 计算逻辑：12+3=15；④ 易错点：混淆“older”（更大）和“younger”（更小）；⑤ 解题技巧：听时标记12和3，注意比较级（older/younger）。"
+            },
+            {
+              "sentence": "W: Hello, this is Mary. May I speak to Tom? M: Sorry, he is out playing basketball. Can I take a message? Q: Where is Tom now?",
+              "translation": "女：你好，我是玛丽。我能和汤姆说话吗？男：抱歉，他出去打篮球了。我能捎个口信吗？问：汤姆现在在哪里？",
+              "analysis": "① 核心考点：地点推断（间接）；② 关键信号词：out playing basketball；③ 地点判断：户外（playground/court）；④ 易错点：误选“在家”（he is out说明不在家）；⑤ 解题技巧：out/playing basketball→户外球场。"
+            },
+            {
+              "sentence": "W: I don't like this shirt. It's too small. M: Let me get you a bigger size. How about size L? Q: What does the man offer to do?",
+              "translation": "女：我不喜欢这件衬衫。太小了。男：我给你拿个大一点的尺码。L码怎么样？问：男士提出要做什么？",
+              "analysis": "① 核心考点：意图推断；② 关键信号词：too small/bigger size/get you；③ 意图判断：给女士拿更大尺码的衬衫；④ 易错点：只说“衬衫小”，不说男士的动作；⑤ 解题技巧：抓“Let me...”后的动作。"
+            },
+            {
+              "sentence": "W: When did you finish your homework yesterday? M: I started at 7 pm and finished at 9:30 pm. Q: How long did the man spend on his homework?",
+              "translation": "女：你昨天什么时候完成作业的？男：我晚上7点开始，9点半完成。问：男士花了多长时间做作业？",
+              "analysis": "① 核心考点：时间计算（时长）；② 关键信号词：started at 7 pm/finished at 9:30 pm；③ 计算逻辑：9:30-7:00=2.5小时（two and a half hours）；④ 易错点：只答结束时间9:30，不计算时长；⑤ 解题技巧：标记开始和结束时间，计算差值。"
+            },
+            {
+              "sentence": "W: Excuse me, is there a bank near here? M: Yes, it's next to the post office, across from the park. Q: Where is the bank?",
+              "translation": "女：打扰一下，这附近有银行吗？男：有，它在邮局旁边，公园对面。问：银行在哪里？",
+              "analysis": "① 核心考点：地点细节（方位）；② 关键信号词：next to the post office/across from the park；③ 方位判断：邮局旁、公园对面；④ 易错点：混淆“next to”和“across from”；⑤ 解题技巧：记方位词（next to/across from/near）。"
+            },
+            {
+              "sentence": "W: Do you think we should take a bus or a taxi to the station? M: A taxi is faster, but it's more expensive. Let's take the bus. Q: How will they go to the station?",
+              "translation": "女：你觉得我们应该坐公交还是打车去车站？男：打车更快，但更贵。我们坐公交吧。问：他们将怎么去车站？",
+              "analysis": "① 核心考点：交通方式推断+转折；② 关键信号词：bus/taxi/but/Let's take the bus；③ 方式判断：公交（bus）；④ 易错点：选“taxi”（只听faster，忽略but后的决定）；⑤ 解题技巧：抓“Let's...”后的最终决定。"
+            },
+            {
+              "sentence": "W: Your phone is ringing, Tom. Why don't you answer it? M: I know it's my friend, but I don't want to talk to him right now. Q: What does Tom mean?",
+              "translation": "女：汤姆，你的电话响了。你为什么不接？男：我知道是我朋友，但我现在不想和他说话。问：汤姆是什么意思？",
+              "analysis": "① 核心考点：言外之意+转折；② 关键信号词：but/don't want to talk to him；③ 意图判断：不想接朋友的电话；④ 易错点：只说“电话响了”，不说意图；⑤ 解题技巧：but后是核心意图。"
+            },
+            {
+              "sentence": "W: It's 6:00 now. The meeting will start in 45 minutes. M: We need to hurry. Let's take a taxi instead of walking. Q: When will the meeting start?",
+              "translation": "女：现在6点了。会议将在45分钟后开始。男：我们得快点。我们打车去吧，别走路了。问：会议什么时候开始？",
+              "analysis": "① 核心考点：抓时间细节+时间计算；② 关键信号词：6:00 now、start in 45 minutes、hurry、take a taxi；③ 听力抓取：6:00 + 45分钟 = 6:45；④ 融合能力：时间速记（6:00、45 minutes）+ 时间逻辑（in 45 minutes表45分钟后）+ 排除干扰（不是“6点”或“7点”）。"
+            },
+            {
+              "sentence": "W: Who cleaned the classroom yesterday? M: Li Ming did it. He always helps the teacher clean the classroom after school. Q: What did Li Ming do yesterday?",
+              "translation": "女：昨天谁打扫了教室？男：李明打扫的。他放学后总是帮老师打扫教室。问：李明昨天做了什么？",
+              "analysis": "① 核心考点：抓动作细节+过去时；② 关键信号词：cleaned the classroom yesterday、Li Ming did it、help the teacher clean；③ 听力抓取：打扫了教室；④ 融合能力：动作信号词（cleaned）+ 时间（yesterday）+ 排除干扰（不是“帮老师上课”或“做作业”）。"
+            },
+            {
+              "sentence": "W: I'm going to visit my aunt in London next month. M: London is a beautiful city. But it's very cold there in winter. You should take some warm clothes. Q: What's the man's advice?",
+              "translation": "女：下个月我要去伦敦看望我的姑姑。男：伦敦是一座美丽的城市。但冬天那里很冷。你应该带些暖和的衣服。问：男士的建议是什么？",
+              "analysis": "① 核心考点：推断建议+天气细节；② 关键信号词：visit my aunt in London、cold in winter、should take warm clothes；③ 听力抓取：建议带暖和的衣服；④ 融合能力：建议信号词（should）+ 天气细节（cold）+ 排除干扰（不是“去伦敦旅游”或“买礼物”）。"
+            },
+            {
+              "sentence": "W: How many books did you borrow from the library? M: I borrowed 5 books. I have to return them in two weeks. Q: When does the man have to return the books?",
+              "translation": "女：你从图书馆借了多少本书？男：我借了5本。我必须在两周后归还。问：男士必须什么时候归还书？",
+              "analysis": "① 核心考点：抓时间细节+数量；② 关键信号词：How many books、5 books、return them in two weeks；③ 听力抓取：两周后；④ 融合能力：时间信号词（in two weeks）+ 数量（5 books）+ 排除干扰（5本是借书数量，不是时间）。"
+            },
+            {
+              "sentence": "W: The restaurant is full. We have to wait for a table. M: Why don't we go to the fast food restaurant across the street? It's not crowded. Q: What does the man suggest doing?",
+              "translation": "女：这家餐厅满座了。我们得等位子。男：我们为什么不去街对面的快餐店呢？那里不挤。问：男士建议做什么？",
+              "analysis": "① 核心考点：推断建议+转折词；② 关键信号词：restaurant is full、wait for a table、Why don't we、fast food restaurant across the street；③ 听力抓取：去街对面的快餐店；④ 融合能力：建议信号词（Why don't we）+ 场景（restaurant full）+ 排除干扰（不是“等位子”或“回家吃饭”）。"
+            },
+            {
+              "sentence": "W: Is that your new pet dog, Jack? M: No, it's my neighbor's. He asked me to take care of it while he's on vacation. Q: Whose dog is it?",
+              "translation": "女：杰克，那是你的新宠物狗吗？男：不是，是我邻居的。他让我在他度假的时候照顾它。问：这是谁的狗？",
+              "analysis": "① 核心考点：抓人物细节+否定词；② 关键信号词：your new pet dog、No、neighbor's、take care of it；③ 听力抓取：男士邻居的；④ 融合能力：否定词（No）+ 所有格（neighbor's）+ 排除干扰（不是“杰克的”或“朋友的”）。"
+            },
+            {
+              "sentence": "W: What's the weather forecast for tomorrow? M: It will be cloudy in the morning and rainy in the afternoon. Q: What will the weather be like tomorrow afternoon?",
+              "translation": "女：明天的天气预报是什么？男：早上多云，下午下雨。问：明天下午的天气会怎么样？",
+              "analysis": "① 核心考点：抓天气细节+时间；② 关键信号词：weather forecast、tomorrow、cloudy in the morning、rainy in the afternoon；③ 听力抓取：下雨；④ 融合能力：天气词汇（rainy）+ 时间（afternoon）+ 排除干扰（cloudy是早上的天气）。"
+            },
+            {
+              "sentence": "W: I got a bad grade in the math test. I'm very sad. M: Don't be sad. You can study with me every day after school. I can help you. Q: How does the man try to help the woman?",
+              "translation": "女：我数学考试考得很差。我很伤心。男：别难过。你可以每天放学后和我一起学习。我可以帮你。问：男士试图怎么帮助女士？",
+              "analysis": "① 核心考点：推断帮助方式+语气；② 关键信号词：bad grade、sad、study with me every day after school、help you；③ 听力抓取：每天放学后和女士一起学习，帮她学数学；④ 融合能力：安慰语气（Don't be sad）+ 动作（study with me）+ 排除干扰（不是“借笔记”或“帮她考试”）。"
+            },
+            {
+              "sentence": "W: How far is it from your home to school? M: It's about 3 kilometers. I usually ride my bike to school. It takes me 15 minutes. Q: How long does it take the man to ride to school?",
+              "translation": "女：从你家到学校有多远？男：大约3公里。我通常骑自行车去上学。要花15分钟。问：男士骑自行车去上学要花多长时间？",
+              "analysis": "① 核心考点：抓时间细节+距离；② 关键信号词：How far、3 kilometers、ride my bike、takes me 15 minutes；③ 听力抓取：15分钟；④ 融合能力：时间信号词（How long/takes）+ 距离（3 kilometers）+ 排除干扰（3公里是距离，不是时间）。"
+            },
+            {
+              "sentence": "W: I'm going to the post office to send a letter to my pen pal. M: The post office closes at 5:00. It's 4:45 now. You'd better go quickly. Q: What time is it now?",
+              "translation": "女：我要去邮局给我的笔友寄一封信。男：邮局5点关门。现在4点45分了。你最好快点去。问：现在几点了？",
+              "analysis": "① 核心考点：抓时间细节+建议词；② 关键信号词：post office closes at 5:00、It's 4:45 now、go quickly；③ 听力抓取：4:45；④ 融合能力：时间速记（5:00、4:45）+ 建议词（had better）+ 排除干扰（5:00是关门时间，不是现在时间）。"
+            },
+            {
+              "sentence": "W: What did you do last weekend? M: I went to the beach with my family. We swam in the sea and had a picnic. Q: What did the man do last weekend?",
+              "translation": "女：你上周末做了什么？男：我和家人去了海滩。我们在海里游泳，还野餐了。问：男士上周末做了什么？",
+              "analysis": "① 核心考点：抓动作细节+过去时；② 关键信号词：last weekend、went to the beach、swam in the sea、had a picnic；③ 听力抓取：和家人去海滩，游泳、野餐；④ 融合能力：过去时动词（went/swam/had）+ 地点（beach）+ 排除干扰（不是“在家看电视”或“去公园”）。"
+            },
+            {
+              "sentence": "W: I want to buy a new pair of shoes. My old ones are too small. M: The shoe store on Main Street has a big sale today. You can get a 20% discount. Q: What's special about the shoe store on Main Street today?",
+              "translation": "女：我想买一双新鞋。我的旧鞋太小了。男：主街上的鞋店今天大促销。你可以享受八折优惠。问：今天主街上的鞋店有什么特别的？",
+              "analysis": "① 核心考点：抓细节+数字（折扣）；② 关键信号词：buy a new pair of shoes、shoe store on Main Street、big sale、20% discount；③ 听力抓取：有大促销，打八折；④ 融合能力：促销词汇（big sale）+ 数字（20% discount）+ 排除干扰（不是“新款鞋”或“免费送”）。"
+            },
+            {
+              "sentence": "W: Are you going to the party this evening? M: I'm not sure. I have to finish my homework first. If I finish it early, I will go. Q: Will the man go to the party?",
+              "translation": "女：你今晚要去参加派对吗？男：我不确定。我得先完成作业。如果我早点完成，我就去。问：男士会去参加派对吗？",
+              "analysis": "① 核心考点：推断结果+条件状语从句；② 关键信号词：not sure、finish my homework first、If I finish early、will go；③ 听力抓取：不确定，取决于是否早点完成作业；④ 融合能力：不确定语气（not sure）+ 条件（If）+ 排除干扰（不是“一定会去”或“一定不去”）。"
+            },
+            {
+              "sentence": "W: Who taught you to play the piano, Jim? M: My mother taught me when I was 5 years old. Now I take piano lessons from a music teacher every Saturday. Q: Who teaches Jim to play the piano now?",
+              "translation": "女：吉姆，谁教你弹钢琴的？男：我5岁的时候妈妈教我的。现在我每周六跟一位音乐老师上钢琴课。问：现在谁教吉姆弹钢琴？",
+              "analysis": "① 核心考点：抓人物细节+时间；② 关键信号词：taught you to play the piano、mother taught me when I was 5、now、music teacher every Saturday；③ 听力抓取：一位音乐老师；④ 融合能力：时间对比（when I was 5 vs now）+ 人物（mother vs music teacher）+ 排除干扰（不是“他妈妈”）。"
+            },
+            {
+              "sentence": "W: The basketball game will start at 8:00 p.m. on Friday. M: I have a piano lesson at 7:00 p.m. on Friday. I will miss the first part of the game. Q: Why will the man miss the first part of the game?",
+              "translation": "女：篮球比赛将在周五晚上8点开始。男：我周五晚上7点有钢琴课。我会错过比赛的第一部分。问：男士为什么会错过比赛的第一部分？",
+              "analysis": "① 核心考点：推断原因+时间；② 关键信号词：basketball game start at 8:00 p.m. Friday、piano lesson at 7:00 p.m. Friday、miss the first part；③ 听力抓取：因为他周五晚上7点有钢琴课，赶不上8点开始的比赛；④ 融合能力：时间对比（7:00 vs 8:00）+ 因果逻辑（有钢琴课=错过比赛）+ 排除干扰（不是“不喜欢篮球”或“迟到”）。"
+            },
+            {
+              "sentence": "W: How many people will come to the party? M: I invited 20 friends. But 5 of them can't come because they are busy. Q: How many friends will come to the party?",
+              "translation": "女：有多少人会来参加派对？男：我邀请了20个朋友。但其中5个因为忙来不了。问：有多少个朋友会来参加派对？",
+              "analysis": "① 核心考点：抓数字细节+否定词；② 关键信号词：How many people、invited 20 friends、5 can't come、busy；③ 听力抓取：20 - 5 = 15；④ 融合能力：数字速记（20、5）+ 否定词（can't come）+ 排除干扰（20是邀请的人数，不是来的人数）。"
+            },
+            {
+              "sentence": "W: I'm thirsty. Can I have something to drink? M: There is some orange juice in the fridge. You can drink it. Q: What does the man offer the woman?",
+              "translation": "女：我渴了。我能喝点东西吗？男：冰箱里有一些橙汁。你可以喝。问：男士给女士提供了什么？",
+              "analysis": "① 核心考点：抓细节+场景；② 关键信号词：thirsty、something to drink、orange juice in the fridge；③ 听力抓取：橙汁；④ 融合能力：场景（渴了=喝饮料）+ 物品（orange juice）+ 排除干扰（不是“水”或“牛奶”）。"
+            },
+            {
+              "sentence": "W: Where did you go on vacation last summer? M: I went to Beijing with my parents. We visited the Great Wall and the Palace Museum. Q: What places did the man visit in Beijing?",
+              "translation": "女：去年夏天你去哪里度假了？男：我和父母去了北京。我们参观了长城和故宫。问：男士在北京参观了哪些地方？",
+              "analysis": "① 核心考点：抓地点细节+过去时；② 关键信号词：went to Beijing、visited、the Great Wall、the Palace Museum；③ 听力抓取：长城和故宫；④ 融合能力：地点名词（the Great Wall/the Palace Museum）+ 动作（visited）+ 排除干扰（不是“天安门”或“颐和园”）。"
+            },
+                        {
+              "sentence": "W: Where do you usually have lunch? M: I usually have lunch at the school cafeteria, but today I have lunch with my grandma at her home.",
+              "translation": "女：你通常在哪里吃午饭？男：我通常在学校食堂吃午饭，但今天我和奶奶在她家吃。",
+              "analysis": "① 主干：男士说明午饭地点；② 细节1（平常地点）：school cafeteria；③ 细节2（今天地点）：grandma's home；④ 考点：考查地点细节+时间对比，信号词usually/today。"
+            },
+            {
+              "sentence": "W: What did you buy for your mother's birthday? M: I bought a scarf for her, and it cost me 88 yuan. My sister bought her a pair of gloves for 50 yuan.",
+              "translation": "女：你给你妈妈的生日买了什么？男：我给她买了一条围巾，花了88元。我姐姐给她买了一副手套，花了50元。",
+              "analysis": "① 主干：男士说明给妈妈买的生日礼物及价格；② 细节1（男士的礼物/价格）：scarf，88元；③ 细节2（姐姐的礼物/价格）：gloves，50元；④ 考点：考查物品+数字细节匹配，信号词buy/cost。"
+            },
+            {
+              "sentence": "W: When will the sports meeting start? M: It was supposed to start at 9 o'clock, but it's delayed for an hour because of the rain.",
+              "translation": "女：运动会什么时候开始？男：本来应该9点开始，但因为下雨推迟了一个小时。",
+              "analysis": "① 主干：男士说明运动会开始时间；② 细节1（原时间）：9:00；③ 细节2（实际时间）：9:00+1小时=10:00；④ 考点：考查时间细节+计算，信号词start/delayed/because of。"
+            },
+            {
+              "sentence": "W: Is that man your uncle? M: No, he is my mother's brother's friend. He is a doctor in the city hospital.",
+              "translation": "女：那个男人是你叔叔吗？男：不是，他是我妈妈的弟弟的朋友。他是市医院的一名医生。",
+              "analysis": "① 主干：男士说明陌生男性的身份；② 推断1（人物关系）：不是叔叔，是舅舅的朋友；③ 细节2（职业）：doctor；④ 考点：考查人物关系推断+职业细节，信号词No/brother's friend。"
+            },
+            {
+              "sentence": "W: I can't find my schoolbag. Did you see it? M: I saw it on the desk in the classroom just now. Maybe someone took it by mistake.",
+              "translation": "女：我找不到我的书包了，你看到了吗？男：我刚才在教室的桌子上看到它了。可能有人拿错了。",
+              "analysis": "① 主干：女士找书包，男士提供线索；② 细节1（地点）：on the desk in the classroom；③ 细节2（时间）：just now；④ 考点：考查地点+时间细节，信号词find/saw/on the desk/just now。"
+            },
+            {
+              "sentence": "W: What do you think of the new math teacher? M: She is very strict, but her classes are very interesting. We all like her.",
+              "translation": "女：你觉得新来的数学老师怎么样？男：她很严格，但她的课很有趣。我们都喜欢她。",
+              "analysis": "① 主干：男士评价新数学老师；② 推断1（态度）：整体喜欢；③ 细节2（性格/课程）：strict，interesting；④ 考点：考查语气/态度推断，信号词but/like。"
+            },
+            {
+              "sentence": "W: How long does it take you to go to school by bike? M: It usually takes me 15 minutes, but today it took 20 minutes because of the heavy traffic.",
+              "translation": "女：你骑自行车上学要花多长时间？男：通常要15分钟，但今天因为交通拥堵花了20分钟。",
+              "analysis": "① 主干：男士说明上学耗时；② 细节1（平常时间）：15分钟；③ 细节2（今天时间/原因）：20分钟，交通拥堵；④ 考点：考查时间细节+原因，信号词how long/usually/because of。"
+            },
+            {
+              "sentence": "W: Can I borrow your ruler? I left mine at home. M: Sorry, I only have one, but you can ask Lily for help. She has two rulers.",
+              "translation": "女：我能借你的尺子吗？我的忘在家里了。男：抱歉，我只有一把，但你可以找莉莉帮忙。她有两把尺子。",
+              "analysis": "① 主干：女士借尺子，男士拒绝并给出建议；② 推断1（男士态度）：无法出借；③ 推断2（建议）：ask Lily for help；④ 考点：考查委婉拒绝+建议推断，信号词Sorry/but/ask...for help。"
+            },
+            {
+              "sentence": "W: What are you going to do this weekend? M: I'm going to visit my grandparents in the countryside on Saturday, and I will go to the cinema with my friends on Sunday.",
+              "translation": "女：这个周末你打算做什么？男：我周六要去乡下看望我的祖父母，周日要和我的朋友去看电影。",
+              "analysis": "① 主干：男士说明周末计划；② 细节1（周六行程）：visit grandparents in the countryside；③ 细节2（周日行程）：go to the cinema with friends；④ 考点：考查时间+行程细节匹配，信号词weekend/Saturday/Sunday。"
+            },
+            {
+              "sentence": "W: I think we should take the bus to the museum. It's cheaper. M: But the bus is slow. We can take the subway. It's faster and it's not expensive. Q: What does the man suggest taking to the museum?",
+              "translation": "女：我觉得我们应该坐公交车去博物馆。更便宜。男：但公交车很慢。我们可以坐地铁。更快，而且也不贵。问：男士建议坐什么去博物馆？",
+              "analysis": "① 核心考点：推断建议+转折词；② 关键信号词：take the bus、cheaper、But、slow、take the subway、faster、not expensive；③ 听力抓取：地铁；④ 融合能力：转折词（But）+ 对比（bus slow vs subway fast）+ 排除干扰（不是“公交车”或“出租车”）。"
+            }            
+          ],
+          "exercises": [
+            {
+              "question": "W: What time does the bus to the zoo leave? M: It leaves at 8:20, and you need to get on the bus 10 minutes earlier. Q: What time should the woman get on the bus?",
+              "options": {"A": "8:10", "B": "8:20", "C": "8:30"},
+              "answer": "A",
+              "explanation": "① 核心考点：时间计算（提前上车）；② 信号词：at 8:20/10 minutes earlier；③ 计算：8:20 - 10分钟 = 8:10；④ 易错点：选8:20（发车时间），忽略“提前上车”的要求。"
+            },
+            {
+              "question": "W: Can I have a toothbrush and some toothpaste? My tooth hurts a lot. M: OK, wait a moment. I'll get them for you. Q: Where is the conversation probably taking place?",
+              "options": {"A": "In a hospital", "B": "In a supermarket", "C": "In a library"},
+              "answer": "B",
+              "explanation": "① 核心考点：地点推断；② 信号词：buy toothbrush/toothpaste（买牙刷牙膏）；③ 场景判断：超市（supermarket）；④ 易错点：选医院（tooth hurts≠医院，买日用品是超市）。"
+            },
+            {
+              "question": "W: How much is the bag? M: It's 120 yuan, but if you buy it today, it's 90 yuan. W: I'll buy it now. Q: How much will the woman pay for the bag?",
+              "options": {"A": "120 yuan", "B": "90 yuan", "C": "30 yuan"},
+              "answer": "B",
+              "explanation": "① 核心考点：数字折扣；② 信号词：120 yuan/but/today/90 yuan/buy now；③ 价格判断：90元（今日折扣价）；④ 易错点：选120元（原价），忽略“today”的折扣。"
+            },
+            {
+              "question": "W: Could you please pass me the salt, dear? M: Sure, mom. Here you are. Q: What's the relationship between the two speakers?",
+              "options": {"A": "Teacher and student", "B": "Mother and son", "C": "Waiter and customer"},
+              "answer": "B",
+              "explanation": "① 核心考点：人物关系；② 信号词：dear/mom；③ 关系判断：母子（mother and son）；④ 易错点：选服务员和顾客（pass salt≠餐厅场景，mom是核心）。"
+            },
+            {
+              "question": "W: Let's go to the beach this weekend. M: I'd love to, but I have to study for my English exam. Q: What does the man mean?",
+              "options": {"A": "He wants to go to the beach", "B": "He has to study for an exam", "C": "He doesn't like the beach"},
+              "answer": "B",
+              "explanation": "① 核心考点：言外之意；② 信号词：but/study for English exam；③ 意图判断：必须备考英语；④ 易错点：选A（只听I'd love to，忽略but）。"
+            },
+            {
+              "question": "W: It's snowing outside. Do you want to go skiing? M: Yes! Let's ask Tom to go with us. Q: What will they do?",
+              "options": {"A": "Go skiing with Tom", "B": "Stay at home", "C": "Ask Tom to play snow"},
+              "answer": "A",
+              "explanation": "① 核心考点：活动推断；② 信号词：snowing/go skiing/ask Tom to go；③ 活动判断：和汤姆去滑雪；④ 易错点：选C（只说ask Tom，不说滑雪）。"
+            },
+            {
+              "question": "W: I can't sleep well at night. What should I do? M: You should drink a glass of warm milk before bed and don't watch TV late. Q: What's the man's suggestion?",
+              "options": {"A": "Drink warm milk and don't watch TV late", "B": "Sleep early", "C": "See a doctor"},
+              "answer": "A",
+              "explanation": "① 核心考点：建议类；② 信号词：You should/drink warm milk/don't watch TV late；③ 建议判断：喝温牛奶+不熬夜看电视；④ 易错点：选B（未提及早睡）。"
+            },
+            {
+              "question": "W: Why didn't you finish the work? M: Because my computer broke down and I had no time to fix it. Q: Why didn't the man finish the work?",
+              "options": {"A": "He was lazy", "B": "His computer broke down", "C": "He had no time to work"},
+              "answer": "B",
+              "explanation": "① 核心考点：原因推断；② 信号词：because/computer broke down；③ 原因判断：电脑坏了；④ 易错点：选C（no time to fix it≠没时间工作）。"
+            },
+            {
+              "question": "W: How old is your dog? M: It's 5 years old, and my cat is 2 years younger than it. Q: How old is the man's cat?",
+              "options": {"A": "3 years old", "B": "5 years old", "C": "7 years old"},
+              "answer": "A",
+              "explanation": "① 核心考点：年龄计算；② 信号词：5 years old/2 years younger；③ 计算：5-2=3；④ 易错点：选7（混淆younger和older）。"
+            },
+            {
+              "question": "W: Hello, may I speak to Mr. Smith? M: Sorry, he is in a meeting now. Can I take a message? Q: Where is Mr. Smith now?",
+              "options": {"A": "At home", "B": "In a meeting room", "C": "In a restaurant"},
+              "answer": "B",
+              "explanation": "① 核心考点：地点推断；② 信号词：in a meeting；③ 地点判断：会议室；④ 易错点：选A（in a meeting≠在家）。"
+            },
+            {
+              "question": "W: This jacket is too expensive. I can't afford it. M: I can give you a 20% discount. It will be 80 yuan then. Q: What does the man offer to do?",
+              "options": {"A": "Give the woman a discount", "B": "Sell the jacket for 100 yuan", "C": "Give the jacket to the woman for free"},
+              "answer": "A",
+              "explanation": "① 核心考点：意图推断；② 信号词：20% discount/80 yuan；③ 意图判断：给女士打折；④ 易错点：选B（原价100元未提及，只说折扣后80）。"
+            },
+            {
+              "question": "W: When did you start to learn English? M: I started at 6 years old, and I have learned it for 8 years. Q: How old is the man now?",
+              "options": {"A": "6 years old", "B": "8 years old", "C": "14 years old"},
+              "answer": "C",
+              "explanation": "① 核心考点：年龄计算；② 信号词：started at 6/learned for 8 years；③ 计算：6+8=14；④ 易错点：选8（学习时长≠年龄）。"
+            },
+            {
+              "question": "W: Excuse me, where is the nearest bookstore? M: It's between the hospital and the park, on Main Street. Q: Where is the bookstore?",
+              "options": {"A": "Next to the park", "B": "Between the hospital and the park", "C": "On Park Street"},
+              "answer": "B",
+              "explanation": "① 核心考点：方位细节；② 信号词：between the hospital and the park；③ 方位判断：医院和公园之间；④ 易错点：选A（between≠next to）。"
+            },
+            {
+              "question": "W: Should we go by bike or by subway to the museum? M: Subway is more convenient, but it's crowded. Let's go by bike. Q: How will they go to the museum?",
+              "options": {"A": "By subway", "B": "By bike", "C": "On foot"},
+              "answer": "B",
+              "explanation": "① 核心考点：交通方式；② 信号词：but/Let's go by bike；③ 方式判断：自行车；④ 易错点：选A（只听convenient，忽略but）。"
+            },
+            {
+              "question": "W: The TV is too loud. Can you turn it down? M: Sorry, I didn't notice. I'll turn it down right now. Q: What does the man mean?",
+              "options": {"A": "He will turn down the TV", "B": "He doesn't hear the TV", "C": "He likes loud TV"},
+              "answer": "A",
+              "explanation": "① 核心考点：言外之意；② 信号词：sorry/I'll turn it down；③ 意图判断：会调小电视音量；④ 易错点：选B（didn't notice≠没听到）。"
+            }
+          ]
+        },
+        {
+          "id": "listening_skills_2",
+          "title": "2-中考听力核心解析（综合运用精准获取能力）",
+          "content": "### 听力的核心定义\n中考听力并非单纯“能听到”，而是**结合语音、语境、逻辑的综合信息获取能力**（如捕捉时间/地点/数字等细节、通过语气推断言外之意），是中考英语的必考题型（占分比约20%），也是学生容易因“漏细节、误推断”丢分的模块。\n\n### 听力的解题原则（万能方法）\n#### 原则1：先看题干，预判考点\n听录音前30秒，快速扫读题干和选项，圈出关键词（如when/where/how many/who），预判要捕捉的信息类型（时间？地点？人物关系？），避免听的时候“盲目抓内容”。\n- 题干关键词：when（时间）、where（地点）、how much（数字）、relationship（人物关系）、suggestion（建议）；\n- 选项对比：圈出选项间的差异（如A是8点，B是9点；A是医院，B是学校），重点听差异点。\n\n#### 原则2：抓“信号词”，锁定细节\n听力录音中，信号词是提示关键信息的“路标”，记住以下信号词对应的信息类型：\n- 时间信号词：at/in/on/by/before/after/until/ago/later（如at 7:30、after school、two days ago）；\n- 地点信号词：in/on/at/from/to/near/next to/opposite（如in the library、next to the park、from Beijing）；\n- 数字信号词：基数词（one/two/100）、序数词（first/second）、分数（half/one third）、价格（yuan/dollar）、年龄（years old）；\n- 人物关系信号词：dad/mom/teacher/student/doctor/patient/waiter/customer（如call me mom、my math teacher）；\n- 逻辑信号词：but/however/so/because/why（表转折/因果，提示言外之意）。\n\n#### 原则3：辨“语气/语调”，推断意图\n中考听力常考“言外之意”，需通过说话者的语气、语调判断情绪或意图：\n- 升调：疑问、不确定、惊讶（如“Really?”“Is that so?”）；\n- 降调：肯定、命令、陈述事实（如“He is late.”“Do it now.”）；\n- 委婉语气：表建议/拒绝（如“Why not...?”“I'm afraid I can't.”）；\n- 抱怨语气：表不满（如“It's too noisy!”“I can't stand it.”）。\n\n### 中考高频听力类型（核心考点）\n#### 类型1：时间细节捕捉（最常考）\n例：W: When will the movie start? M: It starts at 7:15, but we need to arrive 10 minutes early.\n- 题干提问：What time do they need to arrive?\n- 关键信息：7:15（电影开始时间）+ 10 minutes early（提前10分钟）→ 7:05；\n- 信号词：when/at/early；\n- 易错点：混淆“开始时间”和“到达时间”，忽略数字加减。\n\n#### 类型2：地点推断（语境+信号词）\n例：W: Can I have a look at the menu? I want to order a beef burger and a cup of milk. M: Sure, wait a minute.\n- 题干提问：Where is the conversation happening?\n- 关键信息：menu（菜单）、order（点餐）、beef burger（牛肉汉堡）→ 餐厅（restaurant）；\n- 信号词：menu/order/food/drink；\n- 易错点：仅靠单个词判断（如“milk”≠超市，结合“order”才是餐厅）。\n\n#### 类型3：数字信息抓取（计算+单位）\n例：W: How much is the T-shirt? M: It's 80 yuan each, but if you buy two, it's 150 yuan in total.\n- 题干提问：How much will the woman pay for two T-shirts?\n- 关键信息：80 yuan each（单件80）、two=150 yuan（两件150）→ 答案150；\n- 信号词：how much/yuan/two/in total；\n- 易错点：直接选80，忽略“买两件”的折扣计算。\n\n#### 类型4：人物关系推断（称呼+场景）\n例：W: Tom, you didn't finish your homework again. Come to my office after class. M: Sorry, Miss Li. I will do it right now.\n- 题干提问：What's the relationship between the two speakers?\n- 关键信息：homework（作业）、Miss Li（李老师）、after class（课后）→ 老师和学生（teacher and student）；\n- 信号词：homework/teacher/student/office；\n- 易错点：混淆“Miss”（老师/女士）和“Mom”（妈妈）。\n\n#### 类型5：言外之意推断（语气+转折）\n例：W: Let's go to the park this afternoon. M: I'd love to, but I have to finish my English test paper first.\n- 题干提问：What does the man mean?\n- 关键信息：I'd love to（愿意）+ but（转折）+ finish test paper（完成试卷）→ 男士不能去公园（He can't go to the park）；\n- 信号词：but/however；\n- 易错点：只听“I'd love to”，忽略转折后的真实意图。\n\n#### 类型6：天气与活动推断（场景+逻辑）\n例：W: It's raining heavily outside. Do you still want to go hiking? M: No, let's stay at home and watch TV instead.\n- 题干提问：What will they do?\n- 关键信息：raining heavily（下大雨）+ no（不去徒步）+ stay at home（待在家）+ watch TV（看电视）→ 在家看电视；\n- 信号词：rain/hiking/stay at home；\n- 易错点：忽略天气对活动的影响，误选“go hiking”。\n\n#### 类型7：建议类推断（委婉语气）\n例：W: I'm bad at listening. What should I do? M: Why not listen to English songs every day? It's helpful.\n- 题干提问：What's the man's suggestion?\n- 关键信息：Why not...?（建议句式）+ listen to English songs（听英文歌）→ 每天听英文歌；\n- 信号词：Why not/How about/You should；\n- 易错点：混淆“问题”和“建议”，误答“她听力不好”。\n\n#### 类型8：原因与结果推断（因果信号词）\n例：W: Why are you late for school? M: Because my bike broke down on the way.\n- 题干提问：Why is the boy late?\n- 关键信息：Why（原因提问）+ because（原因）+ bike broke down（自行车坏了）→ 自行车在路上坏了；\n- 信号词：why/because/so；\n- 易错点：答非所问，如只说“上学迟到”，不说原因。\n\n### 听力解题技巧（中考专用）\n1. **预读标记**：听前用10秒圈题干关键词（when/where/how many），选项标差异（如A医院、B学校）；\n2. **速记数字**：听到时间/数字时，快速写在草稿纸（如7:15→715，80元→80），避免遗忘；\n3. **忽略干扰**：遇到听不懂的单词，不要停，继续听后面内容（中考听力不会考生僻词，干扰词不影响核心信息）；\n4. **抓转折词**：but/however后是重点（如“I like it, but it's too expensive”→重点是“贵”）；\n5. **语气判断**：升调表疑问，降调表肯定，委婉语气（Why not）表建议；\n6. **上下文验证**：听完后，结合题干和听到的信息，验证选项（如地点题，结合多个信号词“menu+order”才是餐厅）。\n\n### 听力避坑指南\n1. 不要只听单个单词（如“milk”≠超市，需结合场景）；\n2. 数字题注意“加减计算”（如“提前10分钟”“买两件打折”）；\n3. 转折词but/however后才是真实意图，不要被前半句误导；\n4. 人物关系题要结合“称呼+场景”（如“Miss Li+homework”=老师）；\n5. 推断题不要“主观猜测”，要基于录音内容（如没提“生气”，就不要选“他很生气”）；\n6. 注意“同义替换”（如“go to see a doctor”=“go to the hospital”）。",
+          "examples": [
+            {
+              "sentence": "W: It's very hot today. I want to eat an ice cream. M: Me too. Let's go to the supermarket to buy some. Q: What do they want to do?",
+              "translation": "女：今天很热。我想吃冰淇淋。男：我也是。我们去超市买一些吧。问：他们想做什么？",
+              "analysis": "① 核心考点：活动推断+天气；② 关键信号词：hot/ice cream/go to the supermarket/buy；③ 活动判断：去超市买冰淇淋；④ 易错点：只说“想吃冰淇淋”，不说“去超市买”；⑤ 解题技巧：抓“Let's go to...”后的具体行动。"
+            },
+            {
+              "sentence": "W: I failed my English test again. I'm so sad. M: Don't worry. You should practice more and ask the teacher for help. Q: What's the man's advice?",
+              "translation": "女：我的英语考试又不及格了。我好难过。男：别担心。你应该多练习，向老师求助。问：男士的建议是什么？",
+              "analysis": "① 核心考点：建议类+情绪；② 关键信号词：failed/sad/You should/practice more/ask teacher for help；③ 建议判断：多练习+向老师求助；④ 易错点：答“她考试不及格”（情绪），而非建议；⑤ 解题技巧：抓You should后的内容。"
+            },
+            {
+              "sentence": "W: Why are you so happy today? M: Because I got a new bike from my parents as a birthday gift. Q: Why is the man happy?",
+              "translation": "女：你今天为什么这么开心？男：因为我父母送了我一辆新自行车作为生日礼物。问：男士为什么开心？",
+              "analysis": "① 核心考点：原因推断+情绪；② 关键信号词：happy/because/new bike/birthday gift；③ 原因判断：收到父母送的新自行车；④ 易错点：只说“开心”，不说原因；⑤ 解题技巧：because后是核心原因。"
+            },
+            {
+              "sentence": "W: How many students are there in your class? M: There are 45 students, 20 boys and the rest are girls. Q: How many girls are there in the class?",
+              "translation": "女：你们班有多少学生？男：有45个学生，20个男生，剩下的是女生。问：班里有多少女生？",
+              "analysis": "① 核心考点：数字计算（总数-部分）；② 关键信号词：how many/45 students/20 boys；③ 计算逻辑：45-20=25；④ 易错点：直接选20（男生数）；⑤ 解题技巧：标记总数和部分数，计算差值。"
+            },
+            {
+              "sentence": "W: Good afternoon, doctor. My son has a fever and coughs a lot. M: Let me check. He needs to take some medicine and rest at home for 3 days. Q: What's the relationship between the two speakers?",
+              "translation": "女：下午好，医生。我儿子发烧，咳嗽得厉害。男：让我检查一下。他需要吃药，在家休息3天。问：两位说话者是什么关系？",
+              "analysis": "① 核心考点：人物关系+场景；② 关键信号词：doctor/fever/cough/take medicine；③ 关系判断：医生和病人家属（doctor and patient's mother）；④ 易错点：误选“母子”（女士是孩子妈妈，不是病人）；⑤ 解题技巧：结合职业（doctor）和场景（看病）判断。"
+            },
+            {
+              "sentence": "W: When is your birthday, Jack? M: It's on October 15th, but my parents will celebrate it on October 14th because I have a test on the 15th. Q: When will Jack celebrate his birthday?",
+              "translation": "女：杰克，你的生日是什么时候？男：10月15日，但我父母会在10月14日庆祝，因为我15日有考试。问：杰克将什么时候庆祝生日？",
+              "analysis": "① 核心考点：时间细节+转折；② 关键信号词：October 15th/but/October 14th/celebrate；③ 时间判断：10月14日；④ 易错点：选10月15日（生日当天，不是庆祝时间）；⑤ 解题技巧：but后是庆祝时间。"
+            },
+            {
+              "sentence": "W: Where did you go on vacation last week? M: I went to Beijing with my family. We visited the Great Wall and the Palace Museum. Q: What did the man do on vacation?",
+              "translation": "女：你上周去哪里度假了？男：我和家人去了北京。我们参观了长城和故宫。问：男士度假时做了什么？",
+              "analysis": "① 核心考点：活动推断+地点；② 关键信号词：vacation/Beijing/visited the Great Wall/Palace Museum；③ 活动判断：参观长城和故宫；④ 易错点：只说“去北京”，不说具体活动；⑤ 解题技巧：抓动词（visited）后的具体内容。"
+            },
+            {
+              "sentence": "W: The price of this book is 25 yuan. Do you have a discount? M: If you have a student card, you can get it for 20 yuan. W: Great! I have my student card. Q: How much will the woman pay for the book?",
+              "translation": "女：这本书25元。有折扣吗？男：如果你有学生证，可以20元买到。女：太好了！我有学生证。问：女士要付多少钱买这本书？",
+              "analysis": "① 核心考点：数字+折扣条件；② 关键信号词：25 yuan/student card/20 yuan/have student card；③ 价格判断：20元；④ 易错点：选25元（忽略学生证折扣）；⑤ 解题技巧：听条件（student card）和对应价格。"
+            },
+            {
+              "sentence": "W: I'm going to the cinema to watch a movie. Would you like to come? M: I'd love to, but I have to help my mom cook dinner. Q: What will the man do?",
+              "translation": "女：我要去电影院看电影。你想来吗？男：我想去，但我得帮我妈妈做饭。问：男士要做什么？",
+              "analysis": "① 核心考点：行动推断+转折；② 关键信号词：but/help mom cook dinner；③ 行动判断：帮妈妈做饭；④ 易错点：选“去看电影”（只听I'd love to）；⑤ 解题技巧：but后是最终行动。"
+            },
+            {
+              "sentence": "W: What's the weather like tomorrow? M: It will be windy in the morning, and it will rain in the afternoon. Q: What will the weather be like tomorrow afternoon?",
+              "translation": "女：明天天气怎么样？男：早上有风，下午会下雨。问：明天下午天气怎么样？",
+              "analysis": "① 核心考点：天气细节+时间；② 关键信号词：weather/tomorrow morning/windy/afternoon/rain；③ 天气判断：下雨（rainy）；④ 易错点：选“有风”（早上的天气，不是下午）；⑤ 解题技巧：抓时间词（afternoon）对应的天气。"
+            },
+            {
+              "sentence": "W: I can't find my schoolbag. Did you see it? M: It's on the chair in the classroom, next to your desk. Q: Where is the woman's schoolbag?",
+              "translation": "女：我找不到我的书包了。你看到了吗？男：它在教室的椅子上，你的桌子旁边。问：女士的书包在哪里？",
+              "analysis": "① 核心考点：地点细节（精准位置）；② 关键信号词：on the chair/in the classroom/next to desk；③ 位置判断：教室椅子上（桌子旁）；④ 易错点：只说“教室”，不说具体位置；⑤ 解题技巧：记多层方位词（in/on/next to）。"
+            },
+            {
+              "sentence": "W: How do you usually go to school? M: I usually walk, but when it rains, I take the bus. Q: How does the man go to school when it rains?",
+              "translation": "女：你通常怎么去上学？男：我通常走路，但下雨的时候我坐公交。问：下雨时男士怎么去上学？",
+              "analysis": "① 核心考点：交通方式+条件；② 关键信号词：walk/but/when it rains/take bus；③ 方式判断：公交（bus）；④ 易错点：选“走路”（通常方式，不是下雨时）；⑤ 解题技巧：抓条件（when it rains）对应的方式。"
+            },
+            {
+              "sentence": "W: My computer doesn't work. Can you help me fix it? M: I'm sorry, I don't know how to fix computers. You can ask Tom for help. Q: What does the man suggest the woman do?",
+              "translation": "女：我的电脑坏了。你能帮我修吗？男：抱歉，我不知道怎么修电脑。你可以找汤姆帮忙。问：男士建议女士做什么？",
+              "analysis": "① 核心考点：建议类+拒绝；② 关键信号词：can't fix/You can ask Tom for help；③ 建议判断：找汤姆修电脑；④ 易错点：只说“男士不会修”，不说建议；⑤ 解题技巧：抓“You can...”后的建议。"
+            },
+            {
+              "sentence": "W: Why did you arrive at the meeting late? M: Because the traffic was very heavy and I waited for the bus for 20 minutes. Q: Why was the man late for the meeting?",
+              "translation": "女：你为什么开会迟到了？男：因为交通很拥堵，我等公交等了20分钟。问：男士为什么开会迟到？",
+              "analysis": "① 核心考点：原因推断（多重原因）；② 关键信号词：Why/because/traffic heavy/waited for bus 20 minutes；③ 原因判断：交通拥堵+等公交久；④ 易错点：只说一个原因（如交通堵）；⑤ 解题技巧：听because后的所有原因。"
+            },
+            {
+              "sentence": "W: How much water do you drink every day? M: I drink 8 glasses of water every day, but today I only drank 5 glasses. Q: How many glasses of water did the man drink today?",
+              "translation": "女：你每天喝多少水？男：我每天喝8杯水，但今天只喝了5杯。问：男士今天喝了多少杯水？",
+              "analysis": "① 核心考点：数字对比+转折；② 关键信号词：8 glasses every day/but/today/5 glasses；③ 数字判断：5杯；④ 易错点：选8杯（每天量，不是今天）；⑤ 解题技巧：but后是今天的数量。"
+            },
+            {
+              "sentence": "W: Hello, may I book a table for two people at 7 pm tonight? M: Sure, ma'am. What's your name, please? Q: Where is the conversation happening?",
+              "translation": "女：你好，我能预订今晚7点两个人的桌子吗？男：当然，女士。请问您的名字是什么？问：对话发生在哪里？",
+              "analysis": "① 核心考点：地点推断（预订场景）；② 关键信号词：book a table/two people/7 pm；③ 地点判断：餐厅（restaurant）；④ 易错点：误选“酒店”（book a table是餐厅订位，不是酒店）；⑤ 解题技巧：book a table是餐厅核心信号词。"
+            },
+            {
+              "sentence": "W: What's wrong with you, Peter? You look tired. M: I stayed up late last night to finish my project. Q: Why does Peter look tired?",
+              "translation": "女：彼得，你怎么了？你看起来很累。男：我昨晚熬夜完成我的项目。问：彼得为什么看起来很累？",
+              "analysis": "① 核心考点：原因推断+状态；② 关键信号词：tired/stayed up late/finish project；③ 原因判断：熬夜完成项目；④ 易错点：只说“看起来累”，不说原因；⑤ 解题技巧：抓动词短语（stayed up late）。"
+            },
+            {
+              "sentence": "W: Let's go swimming this weekend. M: That's a good idea, but I have to visit my grandparents in the countryside. Q: What will the man do this weekend?",
+              "translation": "女：我们这个周末去游泳吧。男：好主意，但我得去乡下看望我的祖父母。问：男士这个周末要做什么？",
+              "analysis": "① 核心考点：周末活动+转折；② 关键信号词：weekend/but/visit grandparents/countryside；③ 活动判断：看望乡下的祖父母；④ 易错点：选“去游泳”（只听good idea）；⑤ 解题技巧：but后是周末的实际活动。"
+            },
+            {
+              "sentence": "W: How much is the ticket for the zoo? M: It's 30 yuan for adults and half price for children. W: I need one adult ticket and two children's tickets. Q: How much will the woman pay in total?",
+              "translation": "女：动物园的门票多少钱？男：成人30元，儿童半价。女：我需要一张成人票和两张儿童票。问：女士总共要付多少钱？",
+              "analysis": "① 核心考点：数字计算（半价+总数）；② 关键信号词：30 yuan adults/half price children/1 adult/2 children；③ 计算逻辑：30 + (15×2) = 60元；④ 易错点：忘记儿童票是半价（15元），算成30×3=90元；⑤ 解题技巧：先算儿童票价格，再求和。"
+            },
+            {
+              "sentence": "W: Who is the woman in the photo? M: She is my aunt. She is a teacher in a primary school. Q: What's the woman's job in the photo?",
+              "translation": "女：照片里的这个女人是谁？男：她是我的姑姑。她是一所小学的老师。问：照片里的女人的工作是什么？",
+              "analysis": "① 核心考点：职业推断+人物关系；② 关键信号词：aunt/teacher/primary school；③ 职业判断：小学老师（primary school teacher）；④ 易错点：答“姑姑”（关系），而非职业；⑤ 解题技巧：抓职业关键词（teacher）。"
+            },
+            {
+              "sentence": "W: It's 6 o'clock now. The train will leave in 40 minutes. We need to hurry. M: Don't worry. We can get to the station in 20 minutes. Q: What time will the train leave?",
+              "translation": "女：现在6点了。火车将在40分钟后发车。我们得快点。男：别担心。我们20分钟内能到车站。问：火车什么时候发车？",
+              "analysis": "① 核心考点：时间计算（未来时间）；② 关键信号词：6 o'clock/in 40 minutes；③ 计算逻辑：6:00 + 40分钟 = 6:40；④ 易错点：选6:20（到车站时间）；⑤ 解题技巧：区分“发车时间”和“到车站时间”。"
+            },
+            {
+              "sentence": "W: I want to buy a new dress for my sister's birthday. M: The red one is nice, but the blue one is more suitable for her age. Q: Which dress does the man suggest the woman buy?",
+              "translation": "女：我想给我妹妹买一条新裙子作为生日礼物。男：红色的很好，但蓝色的更适合她的年龄。问：男士建议女士买哪条裙子？",
+              "analysis": "① 核心考点：选择推断+转折；② 关键信号词：red/nice/but/blue/more suitable；③ 选择判断：蓝色裙子（blue one）；④ 易错点：选红色（只听nice，忽略but后的建议）；⑤ 解题技巧：but后是推荐的选择。"
+            },
+            {
+              "sentence": "W: Why do you like living in the countryside? M: Because the air is fresh and it's quiet there. Q: Why does the man like living in the countryside?",
+              "translation": "女：你为什么喜欢住在乡下？男：因为那里空气新鲜，而且很安静。问：男士为什么喜欢住在乡下？",
+              "analysis": "① 核心考点：原因推断（多重原因）；② 关键信号词：Why/because/air fresh/quiet；③ 原因判断：空气新鲜+安静；④ 易错点：只说一个原因；⑤ 解题技巧：听because后的所有原因（and连接）。"
+            },
+            {
+              "sentence": "W: How many lessons do you have in the morning? M: I have four lessons, from 8 am to 12 pm. Each lesson is 45 minutes. Q: How long is each lesson?",
+              "translation": "女：你上午有几节课？男：我有四节课，从早上8点到12点。每节课45分钟。问：每节课多长时间？",
+              "analysis": "① 核心考点：数字细节（直接信息）；② 关键信号词：how long/each lesson/45 minutes；③ 时长判断：45分钟；④ 易错点：计算总时长（4小时），而非单节课时长；⑤ 解题技巧：抓“each lesson”对应的数字。"
+            },
+            {
+              "sentence": "W: Hello, this is the hotel reception. May I help you? M: I want to check out tomorrow morning. Can I get my bill now? Q: Where is the man now?",
+              "translation": "女：你好，这里是酒店前台。我能帮您吗？男：我想明天早上退房。我现在能拿我的账单吗？问：男士现在在哪里？",
+              "analysis": "① 核心考点：地点推断（酒店场景）；② 关键信号词：hotel reception/check out/bill；③ 地点判断：酒店（hotel）；④ 易错点：误选“餐厅”（bill也可指餐厅账单，但check out是酒店核心词）；⑤ 解题技巧：check out/reception是酒店信号词。"
+            },
+            {
+              "sentence": "W: What time does the bus leave for the zoo? M: It leaves at 8:00, but you need to arrive 15 minutes earlier to buy a ticket. Q: When should the woman arrive at the bus station?",
+              "translation": "女：去动物园的公交车什么时候发车？男：8点发车，但你需要提前15分钟到车站买票。问：女士应该什么时候到达公交车站？",
+              "analysis": "① 核心考点：抓时间细节+时间计算；② 关键信号词：What time、leave at 8:00、15 minutes earlier；③ 听力抓取：8:00 - 15分钟 = 7:45；④ 融合能力：数字速记（8:00、15）+ 时间逻辑（earlier表提前）+ 排除干扰（8:00是发车时间，不是到达时间）。"
+            },
+            {
+              "sentence": "W: Excuse me, can you tell me where I can buy a map of the city? M: Sure, the bookstore on the second floor of the mall sells all kinds of maps. Q: Where does the man suggest the woman go?",
+              "translation": "女：打扰一下，你能告诉我在哪里可以买到城市地图吗？男：当然，商场二楼的书店卖各种各样的地图。问：男士建议女士去哪里？",
+              "analysis": "① 核心考点：抓地点细节+场景推断；② 关键信号词：where、buy a map、bookstore、second floor、mall；③ 听力抓取：地点是“商场二楼的书店”；④ 融合能力：地点信号词聚焦（bookstore/mall）+ 场景特征词匹配（buy a map对应书店）+ 排除干扰（只说mall或second floor不完整）。"
+            },
+            {
+              "sentence": "W: I want to go to the park this weekend. Do you want to come with me? M: I'd love to, but I have to visit my grandparents in the countryside. Q: Will the man go to the park with the woman?",
+              "translation": "女：这个周末我想去公园。你想和我一起去吗？男：我很想去，但我得去乡下看望我的祖父母。问：男士会和女士一起去公园吗？",
+              "analysis": "① 核心考点：推断言外之意+转折词；② 关键信号词：want to go to the park、I'd love to、but、visit grandparents；③ 听力抓取：男士不会去；④ 融合能力：转折词（but表拒绝）+ 委婉语气（I'd love to表愿意但不能）+ 排除干扰（不是“不确定”或“会去”）。"
+            },
+            {
+              "sentence": "W: Can you help me carry this box to my office? It's too heavy. M: Of course. Which floor is your office on? Q: Where are the two speakers now?",
+              "translation": "女：你能帮我把这个箱子搬到我的办公室吗？太重了。男：当然。你的办公室在几楼？问：两位说话者现在在哪里？",
+              "analysis": "① 核心考点：推断场景+上下文；② 关键信号词：carry this box、office、which floor；③ 听力抓取：在大楼里（如办公楼/写字楼）；④ 融合能力：场景特征词（office/floor）+ 动作（carry box）+ 排除干扰（不是“家里”或“公园”）。"
+            },
+            {
+              "sentence": "W: How often do you exercise, Mike? M: I exercise three times a week. I run on Monday and Wednesday, and swim on Saturday. Q: How often does Mike swim?",
+              "translation": "女：迈克，你多久锻炼一次？男：我每周锻炼三次。我周一和周三跑步，周六游泳。问：迈克多久游泳一次？",
+              "analysis": "① 核心考点：抓频率细节+时间；② 关键信号词：How often、three times a week、run on Monday/Wednesday、swim on Saturday；③ 听力抓取：每周一次（周六）；④ 融合能力：频率信号词（How often）+ 时间细节（Saturday）+ 排除干扰（three times a week是总锻炼频率，不是游泳频率）。"
+            },
+            {
+              "sentence": "W: The concert starts at 7:30. We need to leave home at 6:45 to get there on time. M: But my watch is 10 minutes slow. Let's leave at 6:35 instead. Q: What time is it now according to the man's watch?",
+              "translation": "女：音乐会7:30开始。我们需要6:45出门才能准时到。男：但我的手表慢了10分钟。我们还是6:35出门吧。问：根据男士的手表，现在几点？",
+              "analysis": "① 核心考点：抓时间细节+时间逻辑；② 关键信号词：start at 7:30、leave at 6:45、watch is 10 minutes slow、leave at 6:35；③ 听力抓取：男士手表显示的时间=计划出门时间（6:45）- 10分钟=6:35（此时计划出门时间还没到，所以现在时间早于6:35，核心考点是“手表慢10分钟”）；④ 融合能力：时间速记（7:30、6:45、10 minutes slow、6:35）+ 时间逻辑（slow表慢）+ 排除干扰（6:45是正常时间的出门时间）。"
+            },
+            {
+              "sentence": "W: I bought a new dress yesterday. It cost me 120 yuan. M: 120 yuan? That's too expensive. You could have bought a better one for 80 yuan in that shop near our school. Q: What does the man think of the woman's dress?",
+              "translation": "女：我昨天买了一条新裙子。花了120元。男：120元？太贵了。你本可以在我们学校附近的那家店花80元买一条更好的。问：男士觉得女士的裙子怎么样？",
+              "analysis": "① 核心考点：推断观点+语气；② 关键信号词：120 yuan、too expensive、better one for 80 yuan；③ 听力抓取：男士觉得裙子太贵，不值；④ 融合能力：语气（惊讶/不满）+ 对比词（120 vs 80）+ 排除干扰（不是“好看”或“便宜”）。"
+            },
+            {
+              "sentence": "W: My bike is broken. I have to walk to school tomorrow. M: Why not ask your brother to fix it? He's good at repairing bikes. Q: What's the man's suggestion?",
+              "translation": "女：我的自行车坏了。我明天不得不步行去上学。男：为什么不找你哥哥修呢？他擅长修自行车。问：男士的建议是什么？",
+              "analysis": "① 核心考点：推断建议+建议信号词；② 关键信号词：bike is broken、walk to school、Why not、fix it、brother；③ 听力抓取：建议找女士的哥哥修自行车；④ 融合能力：建议信号词（Why not）+ 动作词（fix）+ 排除干扰（不是“步行上学”或“买新自行车”）。"
+            },
+            {
+              "sentence": "W: How much is this T-shirt? M: It's 50 yuan, but if you buy two, it's 80 yuan in total. Q: How much does one T-shirt cost if the woman buys two?",
+              "translation": "女：这件T恤多少钱？男：50元一件，但如果买两件，总共80元。问：如果女士买两件，一件T恤多少钱？",
+              "analysis": "① 核心考点：抓数字细节+数字计算；② 关键信号词：How much、50 yuan、two、80 yuan in total；③ 听力抓取：80 ÷ 2 = 40元；④ 融合能力：数字速记（50、2、80）+ 数字逻辑（in total表总计）+ 排除干扰（50元是单件原价，不是优惠后价格）。"
+            }                        
+          ],
+          "exercises": [
+            {
+              "question": "W: It's very cold today. I want to drink some hot tea. M: Me too. Let's go to the teahouse near our school. Q: What do they want to do?",
+              "options": {"A": "Drink hot tea at home", "B": "Go to the teahouse to drink hot tea", "C": "Go to school"},
+              "answer": "B",
+              "explanation": "① 核心考点：活动推断；② 信号词：cold/hot tea/go to teahouse；③ 活动判断：去茶馆喝热茶；④ 易错点：选A（go to teahouse≠在家）。"
+            },
+            {
+              "question": "W: I forgot to bring my umbrella today. It's raining now. M: Don't worry. You can use mine, or we can wait for the rain to stop. Q: What's the man's advice?",
+              "options": {"A": "Use his umbrella or wait for rain to stop", "B": "Buy a new umbrella", "C": "Run home in the rain"},
+              "answer": "A",
+              "explanation": "① 核心考点：建议类；② 信号词：You can use mine/or/wait for rain to stop；③ 建议判断：用他的伞或等雨停；④ 易错点：选B（未提及买伞）。"
+            },
+            {
+              "question": "W: Why are you so busy these days? M: Because I have to prepare for the sports meeting and finish my homework. Q: Why is the man busy?",
+              "options": {"A": "He has to prepare for the sports meeting", "B": "He has to finish homework", "C": "Both A and B"},
+              "answer": "C",
+              "explanation": "① 核心考点：多重原因；② 信号词：because/prepare for sports meeting/finish homework；③ 原因判断：既要备赛也要写作业；④ 易错点：只选A或B，忽略and连接的两个原因。"
+            },
+            {
+              "question": "W: How many apples do you need? M: I need 10 apples, but I only bought 6 this morning. Q: How many apples does the man still need?",
+              "options": {"A": "4", "B": "6", "C": "10"},
+              "answer": "A",
+              "explanation": "① 核心考点：数字计算；② 信号词：need 10/bought 6；③ 计算：10-6=4；④ 易错点：选10（需要的总数），不是还需要的数量。"
+            },
+            {
+              "question": "W: Open your mouth and say 'Ah'. You have a sore throat. M: Is it serious, doctor? Q: What's the relationship between the two speakers?",
+              "options": {"A": "Doctor and patient", "B": "Teacher and student", "C": "Parent and child"},
+              "answer": "A",
+              "explanation": "① 核心考点：人物关系；② 信号词：open mouth/sore throat/doctor；③ 关系判断：医生和病人；④ 易错点：选C（sore throat≠亲子场景）。"
+            },
+            {
+              "question": "W: My birthday is on July 8th, but we will celebrate it on July 9th because I have a trip on the 8th. Q: When will the woman celebrate her birthday?",
+              "options": {"A": "July 8th", "B": "July 9th", "C": "July 10th"},
+              "answer": "B",
+              "explanation": "① 核心考点：时间细节；② 信号词：but/celebrate on July 9th/because trip on 8th；③ 时间判断：7月9日；④ 易错点：选A（生日当天，不是庆祝时间）。"
+            },
+            {
+              "question": "W: Where did you go yesterday afternoon? M: I went to the park and played badminton with my friend. Q: What did the man do yesterday afternoon?",
+              "options": {"A": "Went to the park", "B": "Played badminton with friend", "C": "Both A and B"},
+              "answer": "C",
+              "explanation": "① 核心考点：活动细节；② 信号词：went to park/played badminton with friend；③ 活动判断：去公园+和朋友打羽毛球；④ 易错点：只选A或B，忽略and连接的两个活动。"
+            },
+            {
+              "question": "W: The toy car is 50 yuan. If you have a member card, you can save 10 yuan. W: I have a member card. Q: How much will the woman pay for the toy car?",
+              "options": {"A": "50 yuan", "B": "40 yuan", "C": "10 yuan"},
+              "answer": "B",
+              "explanation": "① 核心考点：数字折扣；② 信号词：50 yuan/member card/save 10 yuan；③ 计算：50-10=40；④ 易错点：选10（省的钱），不是支付的钱。"
+            },
+            {
+              "question": "W: I'm going to the supermarket to buy some fruit. Do you want to come? M: I want to, but I have to walk my dog first. Q: What will the man do first?",
+              "options": {"A": "Go to the supermarket", "B": "Walk his dog", "C": "Buy some fruit"},
+              "answer": "B",
+              "explanation": "① 核心考点：行动顺序；② 信号词：but/have to walk my dog first；③ 行动判断：先遛狗；④ 易错点：选A（只听want to，忽略first）。"
+            },
+            {
+              "question": "W: What's the weather like on Sunday? M: It will be cloudy in the morning and sunny in the afternoon. Q: What will the weather be like on Sunday afternoon?",
+              "options": {"A": "Cloudy", "B": "Sunny", "C": "Rainy"},
+              "answer": "B",
+              "explanation": "① 核心考点：天气细节；② 信号词：Sunday afternoon/sunny；③ 天气判断：晴天；④ 易错点：选A（早上的天气）。"
+            },
+            {
+              "question": "W: Where is my pen? I can't find it. M: It's under the desk, in your schoolbag. Q: Where is the woman's pen?",
+              "options": {"A": "On the desk", "B": "Under the desk in the schoolbag", "C": "In the pencil case"},
+              "answer": "B",
+              "explanation": "① 核心考点：精准位置；② 信号词：under the desk/in schoolbag；③ 位置判断：书桌下的书包里；④ 易错点：只说under the desk，忽略in schoolbag。"
+            },
+            {
+              "question": "W: How do you go to the park usually? M: I usually ride a bike, but when it's hot, I take a taxi. Q: How does the man go to the park when it's hot?",
+              "options": {"A": "By bike", "B": "By taxi", "C": "On foot"},
+              "answer": "B",
+              "explanation": "① 核心考点：交通方式+条件；② 信号词：but/when it's hot/take taxi；③ 方式判断：打车；④ 易错点：选A（通常方式，不是热天）。"
+            }            
+          ]
+        },
+        {
+          "id": "listening_skills_3",
+          "title": "3-中考听力核心解析（综合运用精准获取能力）",
+          "content": "### 听力的核心定义\n中考听力并非单纯“能听到”，而是**结合语音、语境、逻辑的综合信息获取能力**（如捕捉时间/地点/数字等细节、通过语气推断言外之意），是中考英语的必考题型（占分比约20%），也是学生容易因“漏细节、误推断”丢分的模块。\n\n### 听力的解题原则（万能方法）\n#### 原则1：先看题干，预判考点\n听录音前30秒，快速扫读题干和选项，圈出关键词（如when/where/how many/who），预判要捕捉的信息类型（时间？地点？人物关系？），避免听的时候“盲目抓内容”。\n- 题干关键词：when（时间）、where（地点）、how much（数字）、relationship（人物关系）、suggestion（建议）；\n- 选项对比：圈出选项间的差异（如A是8点，B是9点；A是医院，B是学校），重点听差异点。\n\n#### 原则2：抓“信号词”，锁定细节\n听力录音中，信号词是提示关键信息的“路标”，记住以下信号词对应的信息类型：\n- 时间信号词：at/in/on/by/before/after/until/ago/later（如at 7:30、after school、two days ago）；\n- 地点信号词：in/on/at/from/to/near/next to/opposite（如in the library、next to the park、from Beijing）；\n- 数字信号词：基数词（one/two/100）、序数词（first/second）、分数（half/one third）、价格（yuan/dollar）、年龄（years old）；\n- 人物关系信号词：dad/mom/teacher/student/doctor/patient/waiter/customer（如call me mom、my math teacher）；\n- 逻辑信号词：but/however/so/because/why（表转折/因果，提示言外之意）。\n\n#### 原则3：辨“语气/语调”，推断意图\n中考听力常考“言外之意”，需通过说话者的语气、语调判断情绪或意图：\n- 升调：疑问、不确定、惊讶（如“Really?”“Is that so?”）；\n- 降调：肯定、命令、陈述事实（如“He is late.”“Do it now.”）；\n- 委婉语气：表建议/拒绝（如“Why not...?”“I'm afraid I can't.”）；\n- 抱怨语气：表不满（如“It's too noisy!”“I can't stand it.”）。\n\n### 中考高频听力类型（核心考点）\n#### 类型1：时间细节捕捉（最常考）\n例：W: When will the movie start? M: It starts at 7:15, but we need to arrive 10 minutes early.\n- 题干提问：What time do they need to arrive?\n- 关键信息：7:15（电影开始时间）+ 10 minutes early（提前10分钟）→ 7:05；\n- 信号词：when/at/early；\n- 易错点：混淆“开始时间”和“到达时间”，忽略数字加减。\n\n#### 类型2：地点推断（语境+信号词）\n例：W: Can I have a look at the menu? I want to order a beef burger and a cup of milk. M: Sure, wait a minute.\n- 题干提问：Where is the conversation happening?\n- 关键信息：menu（菜单）、order（点餐）、beef burger（牛肉汉堡）→ 餐厅（restaurant）；\n- 信号词：menu/order/food/drink；\n- 易错点：仅靠单个词判断（如“milk”≠超市，结合“order”才是餐厅）。\n\n#### 类型3：数字信息抓取（计算+单位）\n例：W: How much is the T-shirt? M: It's 80 yuan each, but if you buy two, it's 150 yuan in total.\n- 题干提问：How much will the woman pay for two T-shirts?\n- 关键信息：80 yuan each（单件80）、two=150 yuan（两件150）→ 答案150；\n- 信号词：how much/yuan/two/in total；\n- 易错点：直接选80，忽略“买两件”的折扣计算。\n\n#### 类型4：人物关系推断（称呼+场景）\n例：W: Tom, you didn't finish your homework again. Come to my office after class. M: Sorry, Miss Li. I will do it right now.\n- 题干提问：What's the relationship between the two speakers?\n- 关键信息：homework（作业）、Miss Li（李老师）、after class（课后）→ 老师和学生（teacher and student）；\n- 信号词：homework/teacher/student/office；\n- 易错点：混淆“Miss”（老师/女士）和“Mom”（妈妈）。\n\n#### 类型5：言外之意推断（语气+转折）\n例：W: Let's go to the park this afternoon. M: I'd love to, but I have to finish my English test paper first.\n- 题干提问：What does the man mean?\n- 关键信息：I'd love to（愿意）+ but（转折）+ finish test paper（完成试卷）→ 男士不能去公园（He can't go to the park）；\n- 信号词：but/however；\n- 易错点：只听“I'd love to”，忽略转折后的真实意图。\n\n#### 类型6：天气与活动推断（场景+逻辑）\n例：W: It's raining heavily outside. Do you still want to go hiking? M: No, let's stay at home and watch TV instead.\n- 题干提问：What will they do?\n- 关键信息：raining heavily（下大雨）+ no（不去徒步）+ stay at home（待在家）+ watch TV（看电视）→ 在家看电视；\n- 信号词：rain/hiking/stay at home；\n- 易错点：忽略天气对活动的影响，误选“go hiking”。\n\n#### 类型7：建议类推断（委婉语气）\n例：W: I'm bad at listening. What should I do? M: Why not listen to English songs every day? It's helpful.\n- 题干提问：What's the man's suggestion?\n- 关键信息：Why not...?（建议句式）+ listen to English songs（听英文歌）→ 每天听英文歌；\n- 信号词：Why not/How about/You should；\n- 易错点：混淆“问题”和“建议”，误答“她听力不好”。\n\n#### 类型8：原因与结果推断（因果信号词）\n例：W: Why are you late for school? M: Because my bike broke down on the way.\n- 题干提问：Why is the boy late?\n- 关键信息：Why（原因提问）+ because（原因）+ bike broke down（自行车坏了）→ 自行车在路上坏了；\n- 信号词：why/because/so；\n- 易错点：答非所问，如只说“上学迟到”，不说原因。\n\n### 听力解题技巧（中考专用）\n1. **预读标记**：听前用10秒圈题干关键词（when/where/how many），选项标差异（如A医院、B学校）；\n2. **速记数字**：听到时间/数字时，快速写在草稿纸（如7:15→715，80元→80），避免遗忘；\n3. **忽略干扰**：遇到听不懂的单词，不要停，继续听后面内容（中考听力不会考生僻词，干扰词不影响核心信息）；\n4. **抓转折词**：but/however后是重点（如“I like it, but it's too expensive”→重点是“贵”）；\n5. **语气判断**：升调表疑问，降调表肯定，委婉语气（Why not）表建议；\n6. **上下文验证**：听完后，结合题干和听到的信息，验证选项（如地点题，结合多个信号词“menu+order”才是餐厅）。\n\n### 听力避坑指南\n1. 不要只听单个单词（如“milk”≠超市，需结合场景）；\n2. 数字题注意“加减计算”（如“提前10分钟”“买两件打折”）；\n3. 转折词but/however后才是真实意图，不要被前半句误导；\n4. 人物关系题要结合“称呼+场景”（如“Miss Li+homework”=老师）；\n5. 推断题不要“主观猜测”，要基于录音内容（如没提“生气”，就不要选“他很生气”）；\n6. 注意“同义替换”（如“go to see a doctor”=“go to the hospital”）。",
+          "examples": [
+            {
+              "sentence": "W: Good morning, Mr. Smith. I didn't finish my homework because I was ill yesterday. M: It's OK, Lily. You can hand it in tomorrow. Q: What's the relationship between the two speakers?",
+              "translation": "女：早上好，史密斯先生。我昨天生病了，所以没完成作业。男：没关系，莉莉。你可以明天交。问：两位说话者之间是什么关系？",
+              "analysis": "① 核心考点：抓人物关系细节+场景特征词；② 关键信号词：Mr. Smith、Lily、homework、hand in；③ 听力抓取：homework（作业）+ hand in（上交）= 师生关系；④ 融合能力：人物称呼（Mr.）+ 场景特征词（homework）+ 排除干扰（不是亲友/医患关系）。"
+            },
+            {
+              "sentence": "W: Look outside! It's raining heavily. Do you think it will stop this afternoon? M: I don't think so. The weather report says it will rain until tomorrow morning. Q: What's the weather like now?",
+              "translation": "女：看外面！雨下得很大。你觉得今天下午会停吗？男：我觉得不会。天气预报说明天早上才会停。问：现在天气怎么样？",
+              "analysis": "① 核心考点：抓天气细节+语气推断；② 关键信号词：raining heavily、weather report、until tomorrow morning；③ 听力抓取：现在正在下大雨；④ 融合能力：天气词汇（raining heavily）+ 语气（I don't think so表否定）+ 排除干扰（不是“将要下雨”或“已经停了”）。"
+            },
+            {
+              "sentence": "W: I'm so tired. I have a math test tomorrow and I haven't studied yet. M: You should stop watching TV and review your notes first. Q: What does the man suggest the woman do?",
+              "translation": "女：我太累了。我明天有数学考试，但还没复习。男：你应该别看电视了，先复习你的笔记。问：男士建议女士做什么？",
+              "analysis": "① 核心考点：推断建议+建议信号词；② 关键信号词：tired、math test、haven't studied、should、stop watching TV、review notes；③ 听力抓取：建议是“停止看电视，复习笔记”；④ 融合能力：建议信号词（should）+ 动作动词（stop/review）+ 排除干扰（不是“休息”或“看电视”）。"
+            },
+            {
+              "sentence": "W: Can I have a look at the menu, please? I'd like to order some food. M: Sure, here you are. Our special today is beef noodles. Q: Where are the two speakers?",
+              "translation": "女：请问我能看一下菜单吗？我想点些吃的。男：当然，给你。我们今天的特色菜是牛肉面。问：两位说话者在哪里？",
+              "analysis": "① 核心考点：推断场景+场景特征词；② 关键信号词：menu、order some food、special、beef noodles；③ 听力抓取：场景是餐厅；④ 融合能力：场景特征词（menu/order food）+ 逻辑推断（点食物对应餐厅）+ 排除干扰（不是超市/厨房）。"
+            },
+            {
+              "sentence": "W: I think the movie is really boring. M: Oh, really? I thought it was the most interesting movie I've ever seen. Q: What does the man think of the movie?",
+              "translation": "女：我觉得这部电影真的很无聊。男：哦，真的吗？我觉得这是我看过的最有趣的电影。问：男士觉得这部电影怎么样？",
+              "analysis": "① 核心考点：推断观点+语气；② 关键信号词：boring、really、most interesting；③ 听力抓取：男士认为电影很有趣；④ 融合能力：语气（Oh, really?表惊讶）+ 对比词（boring vs interesting）+ 排除干扰（不是“无聊”或“一般”）。"
+            },
+            {
+              "sentence": "W: My phone is broken. I need to make a call to my mom. M: You can use my phone. It's in my bag. Q: What does the woman need to do?",
+              "translation": "女：我的手机坏了。我需要给我妈妈打个电话。男：你可以用我的手机。它在我的包里。问：女士需要做什么？",
+              "analysis": "① 核心考点：抓动作细节+推断意图；② 关键信号词：phone is broken、need to make a call、use my phone；③ 听力抓取：女士需要给妈妈打电话；④ 融合能力：动作信号词（make a call）+ 上下文（手机坏了=需要借手机打电话）+ 排除干扰（不是“修手机”或“找妈妈”）。"
+            },
+            {
+              "sentence": "W: When is your birthday, Tom? M: It's on July 10th. But my parents will celebrate it on July 9th because they are busy on the 10th. Q: When will Tom's parents celebrate his birthday?",
+              "translation": "女：汤姆，你的生日是什么时候？男：7月10日。但我父母会在7月9日庆祝，因为他们10日很忙。问：汤姆的父母会什么时候庆祝他的生日？",
+              "analysis": "① 核心考点：抓时间细节+转折词；② 关键信号词：birthday、July 10th、But、July 9th、busy on the 10th；③ 听力抓取：7月9日；④ 融合能力：时间速记（10th、9th）+ 转折词（But表重点）+ 排除干扰（10th是生日，不是庆祝时间）。"
+            },
+            {
+              "sentence": "W: How many students are there in your class, Jack? M: There are 45 students in total. 20 are girls and the rest are boys. Q: How many boys are there in Jack's class?",
+              "translation": "女：杰克，你们班有多少学生？男：总共有45名学生。20名是女生，剩下的是男生。问：杰克的班里有多少男生？",
+              "analysis": "① 核心考点：抓数字细节+数字计算；② 关键信号词：How many、45 in total、20 girls、the rest boys；③ 听力抓取：45 - 20 = 25；④ 融合能力：数字速记（45、20）+ 数字逻辑（the rest表剩余）+ 排除干扰（20是女生数量，不是男生）。"
+            },
+            {
+              "sentence": "W: Hello, this is Mary. Can I speak to John? M: Sorry, he's not at home. He went to the library to borrow some books. Q: Where is John now?",
+              "translation": "女：你好，我是玛丽。我能和约翰说话吗？男：对不起，他不在家。他去图书馆借书了。问：约翰现在在哪里？",
+              "analysis": "① 核心考点：抓地点细节+电话场景；② 关键信号词：speak to John、not at home、library、borrow books；③ 听力抓取：图书馆；④ 融合能力：地点信号词（library）+ 电话场景特征（Can I speak to...）+ 排除干扰（不是“家”或“书店”）。"
+            },
+            {
+              "sentence": "W: I feel very hot. Can you open the window? M: But it's windy outside. Let's turn on the fan instead. Q: What does the man suggest doing?",
+              "translation": "女：我觉得很热。你能打开窗户吗？男：但外面刮风。我们还是开风扇吧。问：男士建议做什么？",
+              "analysis": "① 核心考点：推断建议+转折词；② 关键信号词：hot、open the window、But、windy、turn on the fan；③ 听力抓取：建议开风扇；④ 融合能力：转折词（But表拒绝开窗）+ 建议词（Let's）+ 排除干扰（不是“开窗”或“出门”）。"
+            },
+            {
+              "sentence": "W: Dad, I failed my English exam again. M: Don't worry, dear. You just need to practice more and ask your teacher for help. Q: What's the relationship between the two speakers?",
+              "translation": "女：爸爸，我的英语考试又不及格了。男：别担心，亲爱的。你只需要多练习，向老师求助。问：两位说话者之间是什么关系？",
+              "analysis": "① 核心考点：抓人物关系细节+称呼；② 关键信号词：Dad、dear、failed exam、practice more；③ 听力抓取：父女/父女（亲子）关系；④ 融合能力：称呼（Dad）+ 语气（安慰）+ 排除干扰（不是师生/朋友关系）。"
+            },
+            {
+              "sentence": "W: The temperature today is 25℃. Will it be hotter tomorrow? M: Yes, the weather report says it will be 30℃ tomorrow. Q: What will the temperature be tomorrow?",
+              "translation": "女：今天的气温是25摄氏度。明天会更热吗？男：是的，天气预报说明天会是30摄氏度。问：明天的气温会是多少？",
+              "analysis": "① 核心考点：抓数字（温度）细节+比较级；② 关键信号词：temperature、25℃、hotter、30℃ tomorrow；③ 听力抓取：30℃；④ 融合能力：数字速记（25、30）+ 比较级（hotter）+ 排除干扰（25℃是今天的温度）。"
+            },
+            {
+              "sentence": "W: How long have you lived in this city, Mr. Brown? M: I have lived here for 10 years. I came here in 2013 after I left my hometown. Q: When did Mr. Brown come to this city?",
+              "translation": "女：布朗先生，你在这座城市住了多久了？男：我在这里住了10年。我2013年离开家乡后就来了这里。问：布朗先生什么时候来到这座城市的？",
+              "analysis": "① 核心考点：抓时间细节+现在完成时；② 关键信号词：How long、10 years、came here in 2013；③ 听力抓取：2013年；④ 融合能力：时间速记（10 years、2013）+ 时态（have lived表持续，came表过去动作）+ 排除干扰（10年是居住时长，不是来的时间）。"
+            },
+            {
+              "sentence": "W: Excuse me, I'm looking for the train to Shanghai. Which platform is it on? M: It's on Platform 5. The train will leave in 15 minutes. Q: Where is the woman now?",
+              "translation": "女：打扰一下，我在找去上海的火车。它在哪个站台？男：在5号站台。火车15分钟后发车。问：女士现在在哪里？",
+              "analysis": "① 核心考点：推断场景+场景特征词；② 关键信号词：train to Shanghai、platform、leave in 15 minutes；③ 听力抓取：火车站；④ 融合能力：场景特征词（train/platform）+ 动作（looking for the train）+ 排除干扰（不是“汽车站”或“机场”）。"
+            },
+            {
+              "sentence": "W: I don't like this jacket. It's too small for me. M: Would you like to try on a larger size? We have size L and XL. Q: What does the man ask the woman to do?",
+              "translation": "女：我不喜欢这件夹克。对我来说太小了。男：你想试穿大一号的吗？我们有L码和XL码。问：男士让女士做什么？",
+              "analysis": "① 核心考点：推断建议+购物场景；② 关键信号词：jacket、too small、try on、larger size、size L/XL；③ 听力抓取：建议试穿大一号的夹克；④ 融合能力：购物场景特征词（jacket/size/try on）+ 建议语气（Would you like to）+ 排除干扰（不是“买L码”或“换颜色”）。"
+            },
+            {
+              "sentence": "W: Who is that girl next to Tom? M: She's his cousin. She came to visit him from Beijing yesterday. Q: What's the relationship between Tom and the girl?",
+              "translation": "女：汤姆旁边的那个女孩是谁？男：她是他的表妹。她昨天从北京来看他。问：汤姆和那个女孩是什么关系？",
+              "analysis": "① 核心考点：抓人物关系细节+称呼；② 关键信号词：that girl next to Tom、cousin、came to visit him；③ 听力抓取：堂/表兄妹关系；④ 融合能力：亲属称呼（cousin）+ 上下文（visit him）+ 排除干扰（不是“同学”或“姐姐”）。"
+            },
+            {
+              "sentence": "W: Why didn't you come to the party last night? M: I was going to come, but my little sister suddenly had a fever, so I had to look after her at home.",
+              "translation": "女：你昨晚为什么没来参加派对？男：我本来打算来的，但我的小妹妹突然发烧了，所以我不得不在家照顾她。",
+              "analysis": "① 主干：男士解释没来派对的原因；② 推断1（结果）：未参加派对；③ 推断2（原因）：妹妹发烧，需照顾；④ 考点：考查因果推断，信号词Why didn't/but/so。"
+            },
+            {
+              "sentence": "W: Where can I get a cup of coffee? M: There is a coffee shop on the first floor of the building. It opens at 8 a.m. and closes at 9 p.m.",
+              "translation": "女：我在哪里能买到一杯咖啡？男：这栋楼的一楼有一家咖啡店。它早上8点开门，晚上9点关门。",
+              "analysis": "① 主干：男士告知女士咖啡店的位置和营业时间；② 细节1（地点）：first floor of the building；③ 细节2（营业时间）：8 a.m. -9 p.m.；④ 考点：考查地点+时间细节，信号词where/first floor/open/close。"
+            },
+            {
+              "sentence": "W: Do you think we should take a taxi to the airport? M: I don't think so. The subway is faster and cheaper. It takes only 30 minutes and costs 5 yuan.",
+              "translation": "女：你觉得我们应该打车去机场吗？男：我不这么认为。地铁更快更便宜，只需要30分钟，花费5元。",
+              "analysis": "① 主干：男士建议去机场的交通方式；② 推断1（建议）：take the subway；③ 细节2（优势）：faster, cheaper, 30 minutes, 5 yuan；④ 考点：考查建议推断+数字细节，信号词I don't think so/faster/cheaper/takes/costs。"
+            },
+            {
+              "sentence": "W: How many lessons do you have in the morning? M: I have Chinese at 8:00, math at 9:00, English at 10:00 and music at 11:00. So four lessons in total.",
+              "translation": "女：你上午有几节课？男：我8点上语文，9点上数学，10点上英语，11点上音乐课。所以总共有四节课。",
+              "analysis": "① 主干：男士说明上午的课程；② 细节1（课程/时间）：语文8:00、数学9:00、英语10:00、音乐11:00；③ 细节2（总数）：4节；④ 考点：考查课程+时间+数字细节，信号词how many/at/total。"
+            },
+            {
+              "sentence": "W: My computer doesn't work. Can you help me fix it? M: I'm not good at fixing computers. You can ask Jack for help. He is good at it.",
+              "translation": "女：我的电脑坏了，你能帮我修一下吗？男：我不擅长修电脑。你可以找杰克帮忙，他擅长这个。",
+              "analysis": "① 主干：女士求助修电脑，男士推荐他人；② 推断1（男士态度）：无法帮忙；③ 推断2（建议）：ask Jack for help；④ 考点：考查求助回应+建议推断，信号词doesn't work/fix/not good at/ask...for help。"
+            },
+            {
+              "sentence": "W: When is your birthday? M: My birthday is on October 1st. It's also National Day. My parents will hold a party for me at home.",
+              "translation": "女：你的生日是什么时候？男：我的生日在10月1日，也是国庆节。我父母会在家为我举办一个派对。",
+              "analysis": "① 主干：男士说明生日时间和庆祝方式；② 细节1（时间）：October 1st（National Day）；③ 细节2（庆祝方式）：party at home；④ 考点：考查时间+事件细节，信号词when/birthday/hold a party。"
+            },
+            {
+              "sentence": "W: How much did you spend on the new schoolbag? M: I bought it for 90 yuan, but it was 120 yuan last week. It's on sale now.",
+              "translation": "女：你买这个新书包花了多少钱？男：我花90元买的，但上周它卖120元，现在打折了。",
+              "analysis": "① 主干：男士说明书包的价格；② 细节1（现价）：90元；③ 细节2（原价）：120元；④ 考点：考查数字细节+价格对比，信号词how much/spend/on sale。"
+            },
+            {
+              "sentence": "W: What are you going to do after school? M: I'm going to the library to borrow some books first, then I will go to the sports center to play basketball with my friends.",
+              "translation": "女：放学后你打算做什么？男：我打算先去图书馆借一些书，然后去体育中心和我的朋友打篮球。",
+              "analysis": "① 主干：男士说明放学后的行程；② 细节1（行程1）：library（borrow books）；③ 细节2（行程2）：sports center（play basketball）；④ 考点：考查地点+动作细节，信号词after school/first/then。"
+            },
+            {
+              "sentence": "W: The film is very boring. I want to leave now. M: Wait a minute. The best part of the film will start in 5 minutes. You won't regret it.",
+              "translation": "女：这部电影很无聊，我现在想走。男：等一下，电影最精彩的部分5分钟后就要开始了，你不会后悔的。",
+              "analysis": "① 主干：女士想离场，男士挽留；② 推断1（男士态度）：建议留下；③ 细节2（原因）：best part starts in 5 minutes；④ 考点：考查语气推断+时间细节，信号词boring/leave/Wait a minute/in 5 minutes。"
+            },
+            {
+              "sentence": "W: How far is it from your home to the park? M: It's about 2 kilometers. I usually walk there, and it takes me about 20 minutes.",
+              "translation": "女：从你家到公园有多远？男：大约2公里。我通常步行去那里，大约需要20分钟。",
+              "analysis": "① 主干：男士说明家到公园的距离和出行方式；② 细节1（距离）：2 kilometers；③ 细节2（时间/方式）：walk，20 minutes；④ 考点：考查距离+时间+方式细节，信号词how far/walk/takes。"
+            },
+            {
+              "sentence": "W: I forgot to bring my umbrella today. It's raining heavily now. M: Don't worry. I have an extra umbrella. You can take it with you.",
+              "translation": "女：我今天忘记带伞了，现在雨下得很大。男：别担心，我有一把多余的伞，你可以拿去用。",
+              "analysis": "① 主干：女士忘带伞，男士提供帮助；② 推断1（男士态度）：愿意借伞；③ 细节2（原因）：extra umbrella；④ 考点：考查语气推断+细节，信号词forgot/raining heavily/Don't worry/extra。"
+            },
+            {
+              "sentence": "W: What time do you usually go to bed? M: I usually go to bed at 9:30 p.m., but on weekends I go to bed at 10:30 p.m. because I watch TV for an hour more.",
+              "translation": "女：你通常几点睡觉？男：我通常晚上9点半睡觉，但周末我晚上10点半睡觉，因为我多看一个小时电视。",
+              "analysis": "① 主干：男士说明睡觉时间；② 细节1（平常时间）：9:30 p.m.；③ 细节2（周末时间/原因）：10:30 p.m.，watch TV 1 hour more；④ 考点：考查时间细节+原因，信号词usually/on weekends/because。"
+            },
+            {
+              "sentence": "W: How many people came to your birthday party? M: There were 10 friends, my parents and my grandparents. So 14 people in all.",
+              "translation": "女：有多少人来参加你的生日派对？男：有10个朋友，我的父母和祖父母。总共有14个人。",
+              "analysis": "① 主干：男士说明生日派对的人数；② 细节1（拆分）：10 friends + parents(2) + grandparents(2)；③ 细节2（总数）：14；④ 考点：考查数字计算+细节，信号词how many/in all。"
+            },
+            {
+              "sentence": "W: I want to buy a ticket to Guangzhou. When is the next train? M: The next train is at 10:20 a.m. It will arrive in Guangzhou at 3:20 p.m.",
+              "translation": "女：我想买一张去广州的票，下一班火车是什么时候？男：下一班火车是上午10点20分，下午3点20分到达广州。",
+              "analysis": "① 主干：男士说明去广州的火车时间；② 细节1（发车时间）：10:20 a.m.；③ 细节2（到达时间）：3:20 p.m.；④ 考点：考查时间细节+行程，信号词next train/arrive in。"
+            },
+            {
+              "sentence": "W: The shirt is too small for me. Do you have a bigger size? M: Sorry, we only have size M and S now. Size L is sold out. You can come back tomorrow.",
+              "translation": "女：这件衬衫对我来说太小了，你们有大一点的尺码吗？男：抱歉，我们现在只有M码和S码，L码卖完了。你可以明天再来。",
+              "analysis": "① 主干：女士换尺码，男士说明库存；② 推断1（结果）：无法买到大码；③ 细节2（建议）：come back tomorrow；④ 考点：考查需求回应+推断，信号词too small/bigger size/sold out/come back。"
+            },
+            {
+              "sentence": "W: What's your favorite season? M: My favorite season is autumn. The weather is cool and I can pick apples with my family on the farm.",
+              "translation": "女：你最喜欢的季节是什么？男：我最喜欢的季节是秋天。天气凉爽，我可以和家人在农场摘苹果。",
+              "analysis": "① 主干：男士说明最喜欢的季节及原因；② 细节1（季节）：autumn；③ 细节2（原因）：cool weather, pick apples on the farm；④ 考点：考查喜好细节+原因，信号词favorite season/because。"
+            },
+            {
+              "sentence": "W: How long have you learned English? M: I started to learn English when I was 6 years old. Now I'm 14, so I have learned it for 8 years.",
+              "translation": "女：你学英语多久了？男：我6岁开始学英语，现在我14岁了，所以我已经学了8年了。",
+              "analysis": "① 主干：男士说明学英语的时长；② 细节1（起始年龄）：6岁；③ 细节2（时长计算）：14-6=8年；④ 考点：考查数字计算+时长，信号词how long/started/when I was。"
+            },
+            {
+              "sentence": "W: Did you see the football match yesterday? M: I wanted to watch it, but my TV was broken. I listened to it on the radio instead.",
+              "translation": "女：你昨天看足球比赛了吗？男：我想看，但我的电视坏了。我改听收音机转播了。",
+              "analysis": "① 主干：男士说明看比赛的方式；② 推断1（结果）：未看电视直播；③ 细节2（替代方式）：listened on the radio；④ 考点：考查行为推断+细节，信号词wanted to/but/instead。"
+            } 
+          ],
+          "exercises": [
+            {
+              "question": "W: My bike is broken. I can't go to school. M: Don't worry. I can give you a ride, or you can take the school bus. Q: What does the man suggest the woman do?",
+              "options": {"A": "Fix her bike", "B": "Take his ride or the school bus", "C": "Walk to school"},
+              "answer": "B",
+              "explanation": "① 核心考点：建议类；② 信号词：I can give you a ride/or/school bus；③ 建议判断：坐他的车或校车；④ 易错点：选A（未提及修车）。"
+            },
+            {
+              "question": "W: Why did you miss the train? M: Because I missed the bus to the station and arrived 15 minutes late. Q: Why did the man miss the train?",
+              "options": {"A": "He missed the bus to the station", "B": "He arrived late", "C": "Both A and B"},
+              "answer": "C",
+              "explanation": "① 核心考点：因果关系；② 信号词：because/missed bus/arrived late；③ 原因判断：错过公交导致迟到，进而错过火车；④ 易错点：只选A或B，忽略因果链。"
+            },
+            {
+              "question": "W: How many bottles of juice do you have? M: I have 8 bottles, but I need 12 for the party. Q: How many more bottles does the man need?",
+              "options": {"A": "4", "B": "8", "C": "12"},
+              "answer": "A",
+              "explanation": "① 核心考点：数字计算；② 信号词：have 8/need 12；③ 计算：12-8=4；④ 易错点：选12（需要的总数），不是还需要的数量。"
+            },
+            {
+              "question": "W: I'd like to book a room for two nights, from Friday to Sunday. M: OK, single room or double room? Q: Where is the conversation happening?",
+              "options": {"A": "In a hotel", "B": "In a restaurant", "C": "In a shop"},
+              "answer": "A",
+              "explanation": "① 核心考点：地点推断；② 信号词：book a room/two nights/single room/double room；③ 地点判断：酒店；④ 易错点：选B（book≠餐厅订位）。"
+            },
+            {
+              "question": "W: You look sad. What's wrong? M: I lost my favorite pen that my dad gave me. Q: Why does the man look sad?",
+              "options": {"A": "He lost his pen", "B": "His dad was angry with him", "C": "He can't find his dad"},
+              "answer": "A",
+              "explanation": "① 核心考点：原因推断；② 信号词：sad/lost favorite pen/dad gave me；③ 原因判断：丢了爸爸送的钢笔；④ 易错点：选B（未提及爸爸生气）。"
+            },
+            {
+              "question": "W: Let's have a picnic in the park on Saturday. M: Great! But I have to clean my room first, then we can go. Q: What will the man do first on Saturday?",
+              "options": {"A": "Have a picnic", "B": "Clean his room", "C": "Go to the park"},
+              "answer": "B",
+              "explanation": "① 核心考点：行动顺序；② 信号词：but/clean room first/then go；③ 行动判断：先打扫房间；④ 易错点：选A（只听great，忽略first）。"
+            },
+            {
+              "question": "W: The ticket for the movie is 40 yuan for adults and free for children under 6. W: I need two adult tickets and one child ticket (5 years old). Q: How much will the woman pay in total?",
+              "options": {"A": "40 yuan", "B": "80 yuan", "C": "120 yuan"},
+              "answer": "B",
+              "explanation": "① 核心考点：数字计算（免费）；② 信号词：40 yuan adults/free under 6/2 adults/1 child (5)；③ 计算：40×2=80（儿童免费）；④ 易错点：选120（算上儿童票）。"
+            },
+            {
+              "question": "W: What's your uncle's job? M: He is a driver. He drives a bus in our city. Q: What's the man's uncle's job?",
+              "options": {"A": "A teacher", "B": "A bus driver", "C": "A doctor"},
+              "answer": "B",
+              "explanation": "① 核心考点：职业推断；② 信号词：driver/drives a bus；③ 职业判断：公交车司机；④ 易错点：选A（未提及老师）。"
+            },
+            {
+              "question": "W: It's 9:15 now. The class starts in 15 minutes. We need to go quickly. M: Don't worry. We can get to school in 10 minutes. Q: What time does the class start?",
+              "options": {"A": "9:15", "B": "9:25", "C": "9:30"},
+              "answer": "C",
+              "explanation": "① 核心考点：时间计算；② 信号词：9:15/in 15 minutes；③ 计算：9:15+15分钟=9:30；④ 易错点：选B（到学校时间）。"
+            }            
+          ]
+        },
+        {
+          "id": "listening_skills_4",
+          "title": "4-中考听力核心解析（综合运用精准获取能力）",
+          "content": "### 听力的核心定义\n中考听力并非单纯“能听到”，而是**结合语音、语境、逻辑的综合信息获取能力**（如捕捉时间/地点/数字等细节、通过语气推断言外之意），是中考英语的必考题型（占分比约20%），也是学生容易因“漏细节、误推断”丢分的模块。\n\n### 听力的解题原则（万能方法）\n#### 原则1：先看题干，预判考点\n听录音前30秒，快速扫读题干和选项，圈出关键词（如when/where/how many/who），预判要捕捉的信息类型（时间？地点？人物关系？），避免听的时候“盲目抓内容”。\n- 题干关键词：when（时间）、where（地点）、how much（数字）、relationship（人物关系）、suggestion（建议）；\n- 选项对比：圈出选项间的差异（如A是8点，B是9点；A是医院，B是学校），重点听差异点。\n\n#### 原则2：抓“信号词”，锁定细节\n听力录音中，信号词是提示关键信息的“路标”，记住以下信号词对应的信息类型：\n- 时间信号词：at/in/on/by/before/after/until/ago/later（如at 7:30、after school、two days ago）；\n- 地点信号词：in/on/at/from/to/near/next to/opposite（如in the library、next to the park、from Beijing）；\n- 数字信号词：基数词（one/two/100）、序数词（first/second）、分数（half/one third）、价格（yuan/dollar）、年龄（years old）；\n- 人物关系信号词：dad/mom/teacher/student/doctor/patient/waiter/customer（如call me mom、my math teacher）；\n- 逻辑信号词：but/however/so/because/why（表转折/因果，提示言外之意）。\n\n#### 原则3：辨“语气/语调”，推断意图\n中考听力常考“言外之意”，需通过说话者的语气、语调判断情绪或意图：\n- 升调：疑问、不确定、惊讶（如“Really?”“Is that so?”）；\n- 降调：肯定、命令、陈述事实（如“He is late.”“Do it now.”）；\n- 委婉语气：表建议/拒绝（如“Why not...?”“I'm afraid I can't.”）；\n- 抱怨语气：表不满（如“It's too noisy!”“I can't stand it.”）。\n\n### 中考高频听力类型（核心考点）\n#### 类型1：时间细节捕捉（最常考）\n例：W: When will the movie start? M: It starts at 7:15, but we need to arrive 10 minutes early.\n- 题干提问：What time do they need to arrive?\n- 关键信息：7:15（电影开始时间）+ 10 minutes early（提前10分钟）→ 7:05；\n- 信号词：when/at/early；\n- 易错点：混淆“开始时间”和“到达时间”，忽略数字加减。\n\n#### 类型2：地点推断（语境+信号词）\n例：W: Can I have a look at the menu? I want to order a beef burger and a cup of milk. M: Sure, wait a minute.\n- 题干提问：Where is the conversation happening?\n- 关键信息：menu（菜单）、order（点餐）、beef burger（牛肉汉堡）→ 餐厅（restaurant）；\n- 信号词：menu/order/food/drink；\n- 易错点：仅靠单个词判断（如“milk”≠超市，结合“order”才是餐厅）。\n\n#### 类型3：数字信息抓取（计算+单位）\n例：W: How much is the T-shirt? M: It's 80 yuan each, but if you buy two, it's 150 yuan in total.\n- 题干提问：How much will the woman pay for two T-shirts?\n- 关键信息：80 yuan each（单件80）、two=150 yuan（两件150）→ 答案150；\n- 信号词：how much/yuan/two/in total；\n- 易错点：直接选80，忽略“买两件”的折扣计算。\n\n#### 类型4：人物关系推断（称呼+场景）\n例：W: Tom, you didn't finish your homework again. Come to my office after class. M: Sorry, Miss Li. I will do it right now.\n- 题干提问：What's the relationship between the two speakers?\n- 关键信息：homework（作业）、Miss Li（李老师）、after class（课后）→ 老师和学生（teacher and student）；\n- 信号词：homework/teacher/student/office；\n- 易错点：混淆“Miss”（老师/女士）和“Mom”（妈妈）。\n\n#### 类型5：言外之意推断（语气+转折）\n例：W: Let's go to the park this afternoon. M: I'd love to, but I have to finish my English test paper first.\n- 题干提问：What does the man mean?\n- 关键信息：I'd love to（愿意）+ but（转折）+ finish test paper（完成试卷）→ 男士不能去公园（He can't go to the park）；\n- 信号词：but/however；\n- 易错点：只听“I'd love to”，忽略转折后的真实意图。\n\n#### 类型6：天气与活动推断（场景+逻辑）\n例：W: It's raining heavily outside. Do you still want to go hiking? M: No, let's stay at home and watch TV instead.\n- 题干提问：What will they do?\n- 关键信息：raining heavily（下大雨）+ no（不去徒步）+ stay at home（待在家）+ watch TV（看电视）→ 在家看电视；\n- 信号词：rain/hiking/stay at home；\n- 易错点：忽略天气对活动的影响，误选“go hiking”。\n\n#### 类型7：建议类推断（委婉语气）\n例：W: I'm bad at listening. What should I do? M: Why not listen to English songs every day? It's helpful.\n- 题干提问：What's the man's suggestion?\n- 关键信息：Why not...?（建议句式）+ listen to English songs（听英文歌）→ 每天听英文歌；\n- 信号词：Why not/How about/You should；\n- 易错点：混淆“问题”和“建议”，误答“她听力不好”。\n\n#### 类型8：原因与结果推断（因果信号词）\n例：W: Why are you late for school? M: Because my bike broke down on the way.\n- 题干提问：Why is the boy late?\n- 关键信息：Why（原因提问）+ because（原因）+ bike broke down（自行车坏了）→ 自行车在路上坏了；\n- 信号词：why/because/so；\n- 易错点：答非所问，如只说“上学迟到”，不说原因。\n\n### 听力解题技巧（中考专用）\n1. **预读标记**：听前用10秒圈题干关键词（when/where/how many），选项标差异（如A医院、B学校）；\n2. **速记数字**：听到时间/数字时，快速写在草稿纸（如7:15→715，80元→80），避免遗忘；\n3. **忽略干扰**：遇到听不懂的单词，不要停，继续听后面内容（中考听力不会考生僻词，干扰词不影响核心信息）；\n4. **抓转折词**：but/however后是重点（如“I like it, but it's too expensive”→重点是“贵”）；\n5. **语气判断**：升调表疑问，降调表肯定，委婉语气（Why not）表建议；\n6. **上下文验证**：听完后，结合题干和听到的信息，验证选项（如地点题，结合多个信号词“menu+order”才是餐厅）。\n\n### 听力避坑指南\n1. 不要只听单个单词（如“milk”≠超市，需结合场景）；\n2. 数字题注意“加减计算”（如“提前10分钟”“买两件打折”）；\n3. 转折词but/however后才是真实意图，不要被前半句误导；\n4. 人物关系题要结合“称呼+场景”（如“Miss Li+homework”=老师）；\n5. 推断题不要“主观猜测”，要基于录音内容（如没提“生气”，就不要选“他很生气”）；\n6. 注意“同义替换”（如“go to see a doctor”=“go to the hospital”）。",
+          "examples": [
+            {
+              "sentence": "W: It's snowing outside. Do you think we can go skiing tomorrow? M: If the snow stops tonight, we can go. But if it continues, we have to stay at home. Q: What will they do if it snows all night?",
+              "translation": "女：外面正在下雪。你觉得我们明天能去滑雪吗？男：如果今晚雪停了，我们就能去。但如果雪一直下，我们就得待在家里。问：如果雪下一整晚，他们会做什么？",
+              "analysis": "① 核心考点：推断结果+条件状语从句；② 关键信号词：snowing、go skiing、If the snow stops、if it continues、stay at home；③ 听力抓取：待在家里；④ 融合能力：条件信号词（If）+ 逻辑（continues=stay at home）+ 排除干扰（不是“去滑雪”或“不确定”）。"
+            },
+            {
+              "sentence": "W: How much did you pay for your new phone? M: I paid 3000 yuan for it. But my sister bought the same phone for 2800 yuan last month. Q: How much more did the man pay than his sister?",
+              "translation": "女：你的新手机花了多少钱？男：我花了3000元。但我姐姐上个月买了同款手机只花了2800元。问：男士比他姐姐多花了多少钱？",
+              "analysis": "① 核心考点：抓数字细节+数字计算；② 关键信号词：How much、3000 yuan、2800 yuan、more than；③ 听力抓取：3000 - 2800 = 200元；④ 融合能力：数字速记（3000、2800）+ 比较词（more than）+ 排除干扰（2800是姐姐花的钱，不是差价）。"
+            },
+            {
+              "sentence": "W: I called you at 9:00 last night, but you didn't answer. Where were you? M: I was at the gym. I was playing basketball with my friends. Q: What was the man doing at 9:00 last night?",
+              "translation": "女：我昨晚9点给你打电话，但你没接。你在哪里？男：我在健身房。我当时正和朋友们打篮球。问：男士昨晚9点在做什么？",
+              "analysis": "① 核心考点：抓动作细节+过去进行时；② 关键信号词：called you at 9:00 last night、gym、playing basketball；③ 听力抓取：在健身房和朋友打篮球；④ 融合能力：时间信号词（9:00 last night）+ 时态（was playing表过去进行）+ 排除干扰（不是“接电话”或“在回家的路上”）。"
+            },
+            {
+              "sentence": "W: The teacher said we will have a test next week. M: Next week? I thought it was next month. I need to start studying right now. Q: How does the man feel?",
+              "translation": "女：老师说我们下周有考试。男：下周？我以为是下个月。我现在就得开始学习了。问：男士感觉怎么样？",
+              "analysis": "① 核心考点：推断情绪+语气；② 关键信号词：test next week、thought it was next month、start studying right now；③ 听力抓取：惊讶、着急；④ 融合能力：语气（疑问/惊讶）+ 动作（start studying right now）+ 排除干扰（不是“开心”或“生气”）。"
+            },
+            {
+              "sentence": "W: I need to buy some fruit for the party. Do you know a good place to buy it? M: The supermarket near the park has fresh fruit and it's cheaper than the one near our home. Q: Which supermarket does the man suggest?",
+              "translation": "女：我需要为派对买些水果。你知道哪里有好地方买吗？男：公园附近的那家超市有新鲜的水果，而且比我们家附近的那家便宜。问：男士建议去哪家超市？",
+              "analysis": "① 核心考点：抓地点细节+比较级；② 关键信号词：buy some fruit、supermarket near the park、cheaper than the one near our home；③ 听力抓取：公园附近的超市；④ 融合能力：地点信号词（near the park）+ 比较级（cheaper）+ 排除干扰（不是“家附近的超市”）。"
+            },
+            {
+              "sentence": "W: What's your favorite subject, Peter? M: I like math best. But my sister likes English better than math. Q: What subject does Peter's sister like best?",
+              "translation": "女：彼得，你最喜欢的科目是什么？男：我最喜欢数学。但我姐姐比起数学更喜欢英语。问：彼得的姐姐最喜欢什么科目？",
+              "analysis": "① 核心考点：抓细节+比较级；② 关键信号词：favorite subject、math best、sister likes English better than math；③ 听力抓取：英语；④ 融合能力：比较词（better than）+ 上下文（best对应better than）+ 排除干扰（不是“数学”）。"
+            },
+            {
+              "sentence": "W: The plane will take off at 10:00. We have to arrive at the airport at least 2 hours early. M: It's 7:30 now. Let's leave home in 10 minutes. Q: When will they leave home?",
+              "translation": "女：飞机10点起飞。我们至少要提前2小时到达机场。男：现在7点半了。我们10分钟后出门吧。问：他们什么时候出门？",
+              "analysis": "① 核心考点：抓时间细节+时间计算；② 关键信号词：take off at 10:00、2 hours early、7:30 now、leave in 10 minutes；③ 听力抓取：7:30 + 10分钟 = 7:40；④ 融合能力：时间速记（10:00、2 hours、7:30、10 minutes）+ 时间逻辑（in 10 minutes表10分钟后）+ 排除干扰（10:00是起飞时间，不是出门时间）。"
+            },
+            {
+              "sentence": "W: Do you want to go to the cinema with me tonight? There's a new action movie. M: I don't like action movies. I prefer comedies. Q: What kind of movies does the man like?",
+              "translation": "女：你今晚想和我一起去看电影吗？有一部新的动作片。男：我不喜欢动作片。我更喜欢喜剧片。问：男士喜欢什么类型的电影？",
+              "analysis": "① 核心考点：推断喜好+对比词；② 关键信号词：cinema、action movie、don't like、prefer comedies；③ 听力抓取：喜剧片；④ 融合能力：喜好信号词（prefer）+ 对比词（action vs comedies）+ 排除干扰（不是“动作片”或“纪录片”）。"
+            },
+            {
+              "sentence": "W: My computer doesn't work. I can't finish my homework. M: You can ask Tom to help you. He knows a lot about computers. Q: What's Tom good at?",
+              "translation": "女：我的电脑坏了。我没法完成作业。男：你可以找汤姆帮忙。他懂很多关于电脑的知识。问：汤姆擅长什么？",
+              "analysis": "① 核心考点：抓细节+推断能力；② 关键信号词：computer doesn't work、ask Tom to help、knows a lot about computers；③ 听力抓取：电脑（维修/相关知识）；④ 融合能力：上下文（电脑坏了=汤姆擅长修电脑）+ 排除干扰（不是“做作业”或“玩电脑游戏”）。"
+            },
+            {
+              "sentence": "W: What's your father's job, Lisa? M: He's a doctor. He works in a big hospital in our city. He helps sick people every day. Q: What does Lisa's father do?",
+              "translation": "女：莉萨，你爸爸是做什么工作的？男：他是一名医生。他在我们城市的一家大医院工作。他每天帮助病人。问：莉萨的爸爸是做什么的？",
+              "analysis": "① 核心考点：抓职业细节+场景；② 关键信号词：father's job、doctor、works in a hospital、helps sick people；③ 听力抓取：医生；④ 融合能力：职业词汇（doctor）+ 工作地点（hospital）+ 排除干扰（不是“老师”或“警察”）。"
+            },
+            {
+              "sentence": "W: It's very hot today. I want to eat an ice cream. M: But you have a cold. You shouldn't eat cold food. You can eat some fruit instead. Q: What does the man tell the woman not to do?",
+              "translation": "女：今天很热。我想吃冰淇淋。男：但你感冒了。你不应该吃冷的食物。你可以吃些水果代替。问：男士告诉女士不要做什么？",
+              "analysis": "① 核心考点：推断禁止行为+转折词；② 关键信号词：hot、eat an ice cream、But、have a cold、shouldn't eat cold food；③ 听力抓取：不要吃冰淇淋（冷的食物）；④ 融合能力：否定建议（shouldn't）+ 原因（have a cold）+ 排除干扰（不是“吃水果”或“出门”）。"
+            },
+            {
+              "sentence": "W: How much time do you spend on your homework every day? M: I spend about 2 hours on Chinese, 1 hour on math, and 30 minutes on English. Q: How much time does the man spend on English homework every day?",
+              "translation": "女：你每天花多少时间做作业？男：我语文花大约2小时，数学1小时，英语30分钟。问：男士每天花多少时间做英语作业？",
+              "analysis": "① 核心考点：抓时间细节+学科；② 关键信号词：How much time、2 hours on Chinese、1 hour on math、30 minutes on English；③ 听力抓取：30分钟；④ 融合能力：时间速记（2 hours、1 hour、30 minutes）+ 学科（English）+ 排除干扰（2小时/1小时是语文/数学的时间）。"
+            },
+            {
+              "sentence": "W: I lost my key. I can't open the door of my house. M: Don't worry. I can help you call a locksmith. He can open the door for you. Q: What will the man do to help the woman?",
+              "translation": "女：我的钥匙丢了。我打不开家门。男：别担心。我可以帮你打电话给锁匠。他可以帮你开门。问：男士会做什么来帮助女士？",
+              "analysis": "① 核心考点：推断帮助方式+场景；② 关键信号词：lost my key、can't open the door、call a locksmith、open the door；③ 听力抓取：帮女士打电话给锁匠；④ 融合能力：场景（丢钥匙=找锁匠）+ 动作（call a locksmith）+ 排除干扰（不是“帮她找钥匙”或“撞门”）。"
+            },
+            {
+              "sentence": "W: What color is your new bag? M: It's blue. I like blue best. My old bag was red. Q: What color is the man's new bag?",
+              "translation": "女：你的新包是什么颜色的？男：是蓝色的。我最喜欢蓝色。我的旧包是红色的。问：男士的新包是什么颜色的？",
+              "analysis": "① 核心考点：抓颜色细节+对比；② 关键信号词：new bag、blue、like blue best、old bag was red；③ 听力抓取：蓝色；④ 融合能力：颜色词汇（blue/red）+ 对比（new vs old）+ 排除干扰（红色是旧包的颜色）。"
+            },
+            {
+              "sentence": "W: The sports meeting will be held next Monday. But it will rain that day. M: Then it will be put off until next Wednesday. Q: When will the sports meeting be held?",
+              "translation": "女：运动会将在下周一举行。但那天会下雨。男：那么它将推迟到下周三。问：运动会将在什么时候举行？",
+              "analysis": "① 核心考点：抓时间细节+动词短语；② 关键信号词：sports meeting、next Monday、rain、put off until next Wednesday；③ 听力抓取：下周三；④ 融合能力：时间速记（next Monday、next Wednesday）+ 短语（put off表推迟）+ 排除干扰（下周一原计划时间，不是实际时间）。"
+            },
+            {
+              "sentence": "W: I'm going to buy a gift for my mother's birthday. Do you have any ideas? M: You can buy her a scarf. She likes beautiful scarves. Q: What does the man suggest the woman buy?",
+              "translation": "女：我要给我妈妈买生日礼物。你有什么主意吗？男：你可以给她买一条围巾。她喜欢漂亮的围巾。问：男士建议女士买什么？",
+              "analysis": "① 核心考点：推断建议+场景；② 关键信号词：buy a gift、mother's birthday、suggest、scarf、likes beautiful scarves；③ 听力抓取：一条围巾；④ 融合能力：建议信号词（can buy）+ 场景（生日礼物）+ 排除干扰（不是“鲜花”或“手表”）。"
+            },
+            {
+              "sentence": "W: How many lessons do you have in the morning? M: I have four lessons. The first lesson starts at 8:00 and the last one finishes at 11:30. Q: What time does the last lesson finish in the morning?",
+              "translation": "女：你上午有几节课？男：我有四节课。第一节课8点开始，最后一节课11点半结束。问：上午最后一节课什么时候结束？",
+              "analysis": "① 核心考点：抓时间细节+数量；② 关键信号词：How many lessons、four lessons、first lesson starts at 8:00、last one finishes at 11:30；③ 听力抓取：11:30；④ 融合能力：时间信号词（finishes）+ 数量（four lessons）+ 排除干扰（8:00是第一节课开始时间）。"
+            },
+            {
+              "sentence": "W: I saw a movie with my friend yesterday. It was very interesting. M: I saw it last week. I think it's the best movie I've ever seen. Q: When did the man see the movie?",
+              "translation": "女：我昨天和朋友看了一部电影。非常有趣。男：我上周看的。我觉得这是我看过的最好的电影。问：男士什么时候看的这部电影？",
+              "analysis": "① 核心考点：抓时间细节+对比；② 关键信号词：saw a movie、yesterday、last week、best movie；③ 听力抓取：上周；④ 融合能力：时间词汇（yesterday/last week）+ 对比（女士昨天，男士上周）+ 排除干扰（昨天是女士看的时间）。"
+            },
+            {
+              "sentence": "W: My favorite food is noodles. What about you? M: I like rice better than noodles. And I like dumplings best of all. Q: What's the man's favorite food?",
+              "translation": "女：我最喜欢的食物是面条。你呢？男：比起面条我更喜欢米饭。而且我最喜欢饺子。问：男士最喜欢的食物是什么？",
+              "analysis": "① 核心考点：抓喜好细节+比较级；② 关键信号词：favorite food、noodles、like rice better than noodles、like dumplings best；③ 听力抓取：饺子；④ 融合能力：喜好信号词（best）+ 比较级（better than）+ 排除干扰（米饭是次喜欢，面条是不喜欢）。"
+            },
+            {
+              "sentence": "W: The library is open from 9:00 a.m. to 6:00 p.m. on weekdays. M: I want to go there to borrow some books. I will go there at 7:00 p.m. today. Q: Will the library be open when the man goes there?",
+              "translation": "女：图书馆工作日的开放时间是上午9点到下午6点。男：我想去那里借些书。我今天晚上7点去。问：男士去的时候图书馆会开吗？",
+              "analysis": "① 核心考点：推断结果+时间对比；② 关键信号词：open from 9:00 a.m. to 6:00 p.m.、go there at 7:00 p.m.；③ 听力抓取：不会开；④ 融合能力：时间对比（6:00 p.m.关门 vs 7:00 p.m.去）+ 逻辑推断（7点已关门）+ 排除干扰（不是“不确定”或“会开”）。"
+            },
+            {
+              "sentence": "W: Who won the singing competition yesterday? M: Lily won it. She sang a beautiful song and all the judges liked her. Q: Who won the singing competition?",
+              "translation": "女：昨天谁赢得了歌唱比赛？男：莉莉赢了。她唱了一首好听的歌，所有评委都喜欢她。问：谁赢得了歌唱比赛？",
+              "analysis": "① 核心考点：抓人物细节+过去时；② 关键信号词：won the singing competition、yesterday、Lily won it、sang a beautiful song；③ 听力抓取：莉莉；④ 融合能力：人物名词（Lily）+ 动作（won）+ 排除干扰（不是“评委”或“其他选手”）。"
+            },
+            {
+              "sentence": "W: I need to go to the bank to withdraw some money. M: The bank is closed today because it's a holiday. You can go there tomorrow. Q: Why can't the woman go to the bank today?",
+              "translation": "女：我需要去银行取些钱。男：今天银行关门了，因为是节假日。你可以明天去。问：女士今天为什么不能去银行？",
+              "analysis": "① 核心考点：推断原因+场景；② 关键信号词：go to the bank、closed today、holiday、go there tomorrow；③ 听力抓取：因为今天是节假日，银行关门了；④ 融合能力：原因信号词（because）+ 场景（bank closed）+ 排除干扰（不是“没带身份证”或“银行人多”）。"
+            },
+            {
+              "sentence": "W: How tall is your brother? M: He is 1.75 meters tall. I am 1.70 meters tall. He is taller than me. Q: How tall is the man's brother?",
+              "translation": "女：你哥哥有多高？男：他1.75米高。我1.70米高。他比我高。问：男士的哥哥有多高？",
+              "analysis": "① 核心考点：抓数字（身高）细节+比较级；② 关键信号词：How tall、brother、1.75 meters、1.70 meters、taller than me；③ 听力抓取：1.75米；④ 融合能力：数字速记（1.75、1.70）+ 比较级（taller）+ 排除干扰（1.70米是男士的身高）。"
+            },
+            {
+              "sentence": "W: I'm going to take a trip to the mountains this summer. M: The mountains are very beautiful in summer. But you should be careful of the wild animals. Q: What's the man's warning to the woman?",
+              "translation": "女：今年夏天我要去山里旅行。男：山里夏天很美。但你要小心野生动物。问：男士对女士的警告是什么？",
+              "analysis": "① 核心考点：推断警告+转折词；② 关键信号词：take a trip to the mountains、beautiful、But、be careful of wild animals；③ 听力抓取：警告女士小心野生动物；④ 融合能力：警告信号词（be careful of）+ 转折词（But）+ 排除干扰（不是“注意天气”或“带食物”）。"
+            },
+            {
+              "sentence": "W: What did you buy in the supermarket? M: I bought some apples, a bottle of milk, and a loaf of bread. I didn't buy any meat because it was too expensive. Q: What didn't the man buy in the supermarket?",
+              "translation": "女：你在超市买了什么？男：我买了一些苹果、一瓶牛奶和一条面包。我没买肉，因为太贵了。问：男士在超市没买什么？",
+              "analysis": "① 核心考点：抓细节+否定词；② 关键信号词：buy in the supermarket、apples、milk、bread、didn't buy meat、expensive；③ 听力抓取：肉；④ 融合能力：否定词（didn't buy）+ 物品（meat）+ 排除干扰（苹果/牛奶/面包是买了的）。"
+            },
+            {
+              "sentence": "W: The English class starts at 9:00. Why are you late? M: I missed the bus. I had to walk to school. It took me a long time. Q: Why is the man late for English class?",
+              "translation": "女：英语课9点开始。你为什么迟到了？男：我错过了公交车。我不得不步行去上学。花了我很长时间。问：男士为什么英语课迟到了？",
+              "analysis": "① 核心考点：推断原因+过去时；② 关键信号词：late for English class、missed the bus、walk to school、took a long time；③ 听力抓取：因为错过了公交车，步行上学花了很长时间；④ 融合能力：原因信号词（Why）+ 过去时动词（missed/had to walk）+ 排除干扰（不是“起晚了”或“堵车”）。"
+            },
+            {
+              "sentence": "W: Do you like to watch TV in your free time? M: I used to watch TV every day, but now I like to read books instead. I think reading is more interesting. Q: What does the man like to do now in his free time?",
+              "translation": "女：你喜欢在空闲时间看电视吗？男：我以前每天都看电视，但现在我更喜欢看书。我觉得看书更有趣。问：男士现在空闲时间喜欢做什么？",
+              "analysis": "① 核心考点：抓细节+时态对比；② 关键信号词：used to watch TV、now、like to read books、reading is more interesting；③ 听力抓取：看书；④ 融合能力：时态对比（used to vs now）+ 喜好（like to read books）+ 排除干扰（看电视是以前的爱好）。"
+            },
+            {
+              "sentence": "W: What time does the train leave for Shanghai? M: It leaves at 8:15, but we need to arrive at the station 30 minutes earlier to check in.",
+              "translation": "女：去上海的火车几点发车？男：8点15分发车，但我们需要提前30分钟到车站检票。",
+              "analysis": "① 主干：男女讨论火车发车时间和进站时间；② 细节1（核心数字）：发车时间8:15；③ 细节2（计算数字）：进站时间=8:15-30分钟=7:45；④ 考点：考查时间细节抓取+简单计算，信号词what time/at/earlier。"
+            },
+            {
+              "sentence": "W: Where did you go yesterday afternoon? M: I first went to the bookstore to buy a dictionary, then I went to the park to meet my friend.",
+              "translation": "女：你昨天下午去哪里了？男：我先去书店买了本字典，然后去公园见了我的朋友。",
+              "analysis": "① 主干：男士说明昨天下午的行程；② 细节1（地点1）：bookstore（目的：buy a dictionary）；③ 细节2（地点2）：park（目的：meet my friend）；④ 考点：考查地点细节+动作匹配，信号词where/first/then。"
+            },
+            {
+              "sentence": "W: How much is this T-shirt? M: It's 50 yuan each, and if you buy two, it's 80 yuan in total.",
+              "translation": "女：这件T恤多少钱？男：每件50元，如果你买两件，一共80元。",
+              "analysis": "① 主干：男女讨论T恤价格；② 细节1（单价）：50元/件；③ 细节2（优惠价）：两件80元（每件40元）；④ 考点：考查数字细节+价格计算，信号词how much/each/in total。"
+            },
+            {
+              "sentence": "W: Who is the woman talking to your father? M: She is my father's colleague, and she is also my English teacher at school.",
+              "translation": "女：和你爸爸说话的那个女人是谁？男：她是我爸爸的同事，也是我在学校的英语老师。",
+              "analysis": "① 主干：男士介绍与父亲交谈的女性身份；② 细节1（人物关系1）：father's colleague；③ 细节2（人物关系2）：my English teacher；④ 考点：考查人物关系细节，信号词who/colleague/teacher。"
+            },
+            {
+              "sentence": "W: What's the weather like tomorrow? M: The radio says it will rain in the morning, but it will be sunny in the afternoon.",
+              "translation": "女：明天天气怎么样？男：收音机说早上会下雨，但下午会放晴。",
+              "analysis": "① 主干：男士说明明天的天气；② 细节1（上午天气）：rain；③ 细节2（下午天气）：sunny；④ 考点：考查天气细节+时间匹配，信号词weather/tomorrow/morning/afternoon。"
+            },
+            {
+              "sentence": "W: I want to buy a new phone, but I don't have enough money. M: Why not ask your parents for help? Or you can save money for a month first.",
+              "translation": "女：我想买一部新手机，但我没有足够的钱。男：为什么不向你父母求助呢？或者你可以先攒一个月的钱。",
+              "analysis": "① 主干：女士缺钱买手机，男士给出建议；② 推断1（建议1）：ask parents for help；③ 推断2（建议2）：save money for a month；④ 考点：考查语气推断（建议），信号词Why not/Or。"
+            },
+            {
+              "sentence": "W: Excuse me, can you tell me how to get to the nearest bank? M: Go straight along this street, turn right at the second crossing, and you'll see it on your left.",
+              "translation": "女：打扰一下，你能告诉我怎么去最近的银行吗？男：沿着这条街直走，在第二个十字路口右转，你会看到它在你的左边。",
+              "analysis": "① 主干：女士问路，男士指路；② 细节1（路线1）：go straight along this street；③ 细节2（路线2）：turn right at the second crossing；④ 考点：考查地点/路线细节，信号词how to get to/straight/turn right/crossing。"
+            },
+            {
+              "sentence": "W: Did you finish your homework yesterday? M: I wanted to finish it, but I had to help my mom cook dinner, so I only finished half of it.",
+              "translation": "女：你昨天完成作业了吗？男：我本来想完成的，但我得帮我妈妈做饭，所以我只完成了一半。",
+              "analysis": "① 主干：男士解释未完成作业的原因；② 推断1（结果）：只完成一半作业；③ 推断2（原因）：帮妈妈做饭；④ 考点：考查因果逻辑推断，信号词but/so。"
+            },
+            {
+              "sentence": "W: How many students are there in your class? M: There are 45 students, 20 boys and the rest are girls.",
+              "translation": "女：你们班有多少学生？男：有45个学生，20个男生，剩下的是女生。",
+              "analysis": "① 主干：男士说明班级人数；② 细节1（总人数）：45；③ 细节2（计算）：女生人数=45-20=25；④ 考点：考查数字细节+计算，信号词how many/the rest。"
+            },
+            {
+              "sentence": "W: I feel so hot. Can I open the window? M: I'm afraid not. It's windy outside, and you may catch a cold.",
+              "translation": "女：我感觉好热，我能开窗吗？男：恐怕不行。外面在刮风，你可能会感冒。",
+              "analysis": "① 主干：女士想开窗，男士拒绝；② 推断1（男士态度）：拒绝开窗；③ 推断2（原因）：外面刮风，怕女士感冒；④ 考点：考查语气推断（委婉拒绝），信号词I'm afraid not/because。"
+            },
+            {
+              "sentence": "W: The movie starts at 7:00. Let's hurry up! M: Don't worry. We still have 20 minutes. And it takes us only 10 minutes to get to the cinema.",
+              "translation": "女：电影7点开始，我们快点！男：别担心，我们还有20分钟。而且我们到电影院只需要10分钟。",
+              "analysis": "① 主干：男女讨论看电影的时间；② 细节1（现在时间）：7:00-20分钟=6:40；③ 细节2（剩余时间）：到影院后还剩20-10=10分钟；④ 考点：考查时间计算+细节，信号词starts/hurry up/still have/takes。"
+            },
+            {
+              "sentence": "W: My phone number is 13856789012. Can you call me later? M: Sorry, I can't remember it. Can you say it again slowly? I'll write it down.",
+              "translation": "女：我的电话号码是13856789012，你能稍后给我打电话吗？男：抱歉，我记不住，你能慢点再说一遍吗？我会记下来。",
+              "analysis": "① 主干：女士留电话号码，男士要求重复；② 细节1（核心信息）：电话号码13856789012；③ 推断2（男士需求）：需要女士慢速重复号码；④ 考点：考查数字细节+语气推断，信号词phone number/say it again slowly/write down。"
+            },
+            {
+              "sentence": "W: What's wrong with you? You look sad. M: I failed the English test. I only got 60 points, but I need at least 80 to pass the exam.",
+              "translation": "女：你怎么了？你看起来很伤心。男：我英语考试不及格。我只得了60分，但我至少需要80分才能通过考试。",
+              "analysis": "① 主干：男士说明伤心的原因；② 细节1（分数）：60分；③ 细节2（及格线）：80分；④ 考点：考查数字细节+因果推断，信号词sad/failed/only/at least。"
+            },
+            {
+              "sentence": "W: Where was Tom yesterday? I didn't see him at school. M: He was ill in hospital. His mother took him to see the doctor in the morning.",
+              "translation": "女：汤姆昨天在哪里？我在学校没看到他。男：他生病住院了。他妈妈早上带他去看医生了。",
+              "analysis": "① 主干：男士说明汤姆昨天不在学校的原因；② 细节1（地点）：hospital；③ 细节2（原因）：ill；④ 考点：考查地点+原因推断，信号词where/didn't see/ill/in hospital。"
+            },
+            {
+              "sentence": "W: I want to take a bus to the zoo. Which bus should I take? M: You can take Bus No. 105. It stops right at the zoo gate. Bus No. 208 is also OK, but you need to walk 5 minutes after getting off.",
+              "translation": "女：我想坐公交车去动物园，我应该坐哪一路？男：你可以坐105路，它正好停在动物园门口。208路也可以，但你下车后需要走5分钟。",
+              "analysis": "① 主干：男士给女士推荐去动物园的公交车；② 细节1（最优选择）：Bus No.105（直达）；③ 细节2（备选）：Bus No.208（需步行5分钟）；④ 考点：考查数字+路线细节，信号词which bus/No.105/No.208/walk。"
+            },
+            {
+              "sentence": "W: Do you like playing basketball? M: I used to like it, but now I like playing football better. I play football with my classmates every afternoon.",
+              "translation": "女：你喜欢打篮球吗？男：我以前喜欢，但现在我更喜欢踢足球。我每天下午都和同学踢足球。",
+              "analysis": "① 主干：男士说明喜欢的运动变化；② 推断1（现在喜好）：football；③ 细节2（时间/伙伴）：every afternoon，classmates；④ 考点：考查喜好推断+细节，信号词used to/but now/better/every afternoon。"
+            },
+            {
+              "sentence": "W: How much water should I drink every day? M: The doctor says you should drink at least 8 glasses of water a day. It's good for your health.",
+              "translation": "女：我每天应该喝多少水？男：医生说你每天至少应该喝8杯水，这对你的健康有好处。",
+              "analysis": "① 主干：男士告知女士每日喝水量；② 细节1（数字）：8 glasses；③ 细节2（建议来源）：doctor；④ 考点：考查数字细节+建议，信号词how much/at least/doctor says。"
+            },
+            {
+              "sentence": "W: When did you arrive in Beijing? M: I arrived at 8:00 p.m. on Friday. I took a train from Shanghai and it took me 12 hours.",
+              "translation": "女：你什么时候到北京的？男：我周五晚上8点到的。我从上海坐火车来的，花了12个小时。",
+              "analysis": "① 主干：男士说明到北京的时间和行程；② 细节1（到达时间）：8:00 p.m. Friday；③ 细节2（出发时间推算）：8:00 p.m. -12小时=8:00 a.m. Friday；④ 考点：考查时间细节+计算，信号词arrive/took。"
+            },
+            {
+              "sentence": "W: Is this book yours, Mike? M: No, it's not mine. Mine is on the desk. It may be Lucy's. She lost her book yesterday.",
+              "translation": "女：迈克，这本书是你的吗？男：不，不是我的。我的在桌子上。它可能是露西的，她昨天丢了她的书。",
+              "analysis": "① 主干：男士说明书的归属；② 推断1（归属）：Lucy's；③ 细节2（证据）：Lucy lost her book yesterday；④ 考点：考查归属推断+细节，信号词No/mine/may be/lost。"
+            },
+            {
+              "sentence": "W: The concert will be held next Friday. Do you want to go with me? M: I'd love to, but I have to take an exam on that day. What about next Saturday?",
+              "translation": "女：音乐会下周五举行，你想和我一起去吗？男：我想去，但我那天要考试。下周六怎么样？",
+              "analysis": "① 主干：女士邀请男士听音乐会，男士提议改时间；② 推断1（男士态度）：想去但无法去（周五）；③ 推断2（建议）：next Saturday；④ 考点：考查邀请回应+时间推断，信号词I'd love to/but/What about。"
+            },
+            {
+              "sentence": "W: How many apples do we need to make the apple pie? M: We need 5 apples. I have already bought 3, so we need to buy 2 more.",
+              "translation": "女：做苹果派我们需要多少个苹果？男：我们需要5个。我已经买了3个，所以我们还需要买2个。",
+              "analysis": "① 主干：男士说明做苹果派需要的苹果数量；② 细节1（总需求）：5个；③ 细节2（还需购买）：5-3=2个；④ 考点：考查数字计算+细节，信号词how many/already/buy more。"
+            },
+            {
+              "sentence": "W: What's the temperature today? M: It's 25 degrees Celsius in the morning, and it will rise to 30 degrees in the afternoon.",
+              "translation": "女：今天气温多少度？男：早上25摄氏度，下午会升到30摄氏度。",
+              "analysis": "① 主干：男士说明今日气温；② 细节1（上午温度）：25℃；③ 细节2（下午温度）：30℃；④ 考点：考查数字+时间细节，信号词temperature/morning/afternoon/rise to。"
+            },
+            {
+              "sentence": "W: I'm going to the supermarket to buy some fruit. Do you need anything? M: Could you buy a kilo of bananas and two kilos of oranges for me? I'll give you the money later.",
+              "translation": "女：我要去超市买些水果，你需要什么吗？男：你能帮我买一公斤香蕉和两公斤橙子吗？我稍后给你钱。",
+              "analysis": "① 主干：女士帮男士带水果，男士说明需求；② 细节1（物品1/数量）：1 kilo of bananas；③ 细节2（物品2/数量）：2 kilos of oranges；④ 考点：考查物品+数字细节，信号词buy/a kilo of/two kilos of。"
+            }           
+          ],
+          "exercises": [
+            {
+              "question": "W: Which shirt do you think is better, the white one or the black one? M: The white one is clean, but the black one is more durable. I suggest the black one. Q: Which shirt does the man suggest?",
+              "options": {"A": "The white one", "B": "The black one", "C": "Both"},
+              "answer": "B",
+              "explanation": "① 核心考点：选择推断；② 信号词：but/black more durable/suggest black；③ 选择判断：黑色的；④ 易错点：选A（只听clean，忽略suggest）。"
+            },
+            {
+              "question": "W: Why do you like reading books? M: Because books can make me happy and I can learn a lot of knowledge. Q: Why does the man like reading books?",
+              "options": {"A": "Books make him happy", "B": "He can learn knowledge", "C": "Both A and B"},
+              "answer": "C",
+              "explanation": "① 核心考点：多重原因；② 信号词：because/make happy/learn knowledge；③ 原因判断：既开心又学知识；④ 易错点：只选A或B，忽略and连接的原因。"
+            },
+            {
+              "question": "W: How long do you watch TV every day? M: I watch TV for 1 hour in the morning and 2 hours in the evening. Q: How long does the man watch TV every day in total?",
+              "options": {"A": "1 hour", "B": "2 hours", "C": "3 hours"},
+              "answer": "C",
+              "explanation": "① 核心考点：时长计算；② 信号词：1 hour morning/2 hours evening；③ 计算：1+2=3；④ 易错点：选1或2（单时段时长）。"
+            },
+            {
+              "question": "W: Good evening, sir. Can I help you with your luggage? M: Yes, please. I want to check in to my room. Q: Where is the man now?",
+              "options": {"A": "In a hotel", "B": "At the airport", "C": "In a train station"},
+              "answer": "A",
+              "explanation": "① 核心考点：地点推断；② 信号词：luggage/check in to room；③ 地点判断：酒店；④ 易错点：选B（check in≠机场值机）。"
+            },
+            {
+              "question": "W: What time does the plane to Guangzhou take off? M: It takes off at 10:50, and you need to arrive at the airport 2 hours earlier. Q: What time should the woman arrive at the airport?",
+              "options": {"A": "8:50", "B": "10:50", "C": "12:50"},
+              "answer": "A",
+              "explanation": "① 核心考点：时间计算（提前到达）；② 信号词：10:50/take off/2 hours earlier；③ 计算：10:50-2小时=8:50；④ 易错点：选10:50（起飞时间）。"
+            },
+            {
+              "question": "W: I want to buy some medicine for my headache. M: The medicine is on the second floor, next to the pharmacy counter. Q: Where is the conversation probably taking place?",
+              "options": {"A": "In a hospital", "B": "In a supermarket", "C": "In a drugstore"},
+              "answer": "C",
+              "explanation": "① 核心考点：地点推断；② 信号词：buy medicine/headache/pharmacy counter；③ 地点判断：药店（drugstore）；④ 易错点：选A（buy medicine≠医院，医院是看病不是买药）。"
+            },
+            {
+              "question": "W: The T-shirt is 90 yuan, and the shorts are 60 yuan. If you buy both, it's 130 yuan. W: I'll take both. Q: How much will the woman save if she buys both?",
+              "options": {"A": "10 yuan", "B": "20 yuan", "C": "130 yuan"},
+              "answer": "B",
+              "explanation": "① 核心考点：数字计算（省的钱）；② 信号词：90+60=150/130；③ 计算：150-130=20；④ 易错点：选130（支付的钱），不是省的钱。"
+            },
+            {
+              "question": "W: Can you help me with my homework, uncle? M: Sure, nephew. Let's do it together. Q: What's the relationship between the two speakers?",
+              "options": {"A": "Uncle and nephew", "B": "Brother and sister", "C": "Teacher and student"},
+              "answer": "A",
+              "explanation": "① 核心考点：人物关系；② 信号词：uncle/nephew；③ 关系判断：叔侄；④ 易错点：选C（homework≠师生场景）。"
+            },
+            {
+              "question": "W: Do you want to eat pizza for dinner? M: Pizza is delicious, but I want to eat noodles today. Q: What does the man want to eat for dinner?",
+              "options": {"A": "Pizza", "B": "Noodles", "C": "Both"},
+              "answer": "B",
+              "explanation": "① 核心考点：言外之意；② 信号词：but/want to eat noodles；③ 意图判断：想吃面条；④ 易错点：选A（只听delicious，忽略but）。"
+            },
+            {
+              "question": "W: The wind is strong today. Let's fly a kite in the park. M: Good idea! I'll get my kite and meet you at the park gate. Q: What will they do today?",
+              "options": {"A": "Fly a kite in the park", "B": "Go to the park gate", "C": "Buy a kite"},
+              "answer": "A",
+              "explanation": "① 核心考点：活动推断；② 信号词：wind strong/fly kite in park/good idea；③ 活动判断：在公园放风筝；④ 易错点：选B（公园门口是见面地点，不是活动）。"
+            }            
+          ]
+        }
+      ]
+    }
+  ]
+}

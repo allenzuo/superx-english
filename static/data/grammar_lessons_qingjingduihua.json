@@ -1,0 +1,1772 @@
+{
+  "grammar_topics": [
+    {
+      "id": "situational_communication",
+      "name": "情景交际-十大场景全掌握",
+      "icon": "chat",
+      "color": "#e74c3c",
+      "lessons": [
+        {
+          "id": "situational_communication_1",
+          "title": "1-日常问候与道别",
+          "content": "### 日常问候与道别的核心定义\n情景交际中的“日常问候与道别”是英语交际最基础的模块，涵盖见面打招呼、回应问候、日常告别及相关礼貌表达，是中考情景交际单选、补全对话的高频基础考点，侧重考查不同场景下的地道表达，而非单纯的字面翻译。\n\n### 核心问候类型及用法（中考必考）\n#### 1. 基础通用问候（不分时间）\n- **核心表达**：Hello!/Hi!（你好！）、How do you do?（初次见面，你好！）、Nice/Glad/Pleased to meet you.（很高兴见到你）；\n- **回应方式**：\n  ✅ Hello!/Hi!（回应Hello/Hi）；\n  ✅ How do you do?（回应How do you do?，切记不用I’m fine回答）；\n  ✅ Nice/Glad/Pleased to meet you, too.（回应Nice to meet you）。\n\n#### 2. 按时间的问候（高频）\n- **早上好/下午好/晚上好**：Good morning!（上午12点前）、Good afternoon!（12点-18点）、Good evening!（18点后，问候语）；\n- **回应**：直接重复对应问候语即可，如Good morning! → Good morning!\n- **易混点**：Good night! 不是“晚上好”，而是“晚安”（告别语，睡前使用）。\n\n#### 3. 询问身体状况的问候\n- **核心表达**：How are you?（你好吗？，熟人之间）、How are you doing?（你最近怎么样？，美式口语）、How is it going?（近况如何？，通用）；\n- **回应方式**（按语气分类）：\n  ✅ 很好：Fine, thank you./I’m fine, thanks. And you?（最基础，中考必考）；Very well, thanks.；Pretty good.；\n  ✅ 一般：Not bad.；Just so so.；\n  ✅ 不好：Terrible.；I’m not feeling well.。\n\n#### 4. 道别类表达（场景化记忆）\n- **通用告别**：Goodbye!/Bye!/See you!（再见！）、See you later/tomorrow/soon!（回头见/明天见/待会儿见）；\n- **正式告别**：Goodbye.、Have a nice/good day!（祝你今天愉快！）、Take care!（保重！，亲友间）；\n- **睡前告别**：Good night!（晚安！，仅睡前用，不可用于晚上见面问候）。\n\n### 易混易错点（中考高频丢分点）\n1. ❌ 错：How do you do? → I’m fine.；✅ 对：How do you do? → How do you do?（初次见面的固定回应）；\n2. ❌ 错：晚上见面说Good night!；✅ 对：晚上见面说Good evening!，睡前说Good night!；\n3. ❌ 错：回应How are you? 直接说Good.；✅ 对：需加感谢，如Good, thank you.；\n4. ❌ 错：See you. 回应Bye bye.（不地道）；✅ 对：See you. → See you. / See you later.。\n\n### 场景化使用注意事项\n1. 初次见面优先用How do you do? / Nice to meet you.，熟人见面用How are you?；\n2. 职场/正式场合用Good morning/afternoon，朋友间可用Hi/Hello；\n3. 告别时，对陌生人/客户用Have a nice day!，对亲友用Take care!。",
+          "examples": [
+            {
+              "sentence": "—How do you do? —How do you do?",
+              "translation": "—你好！（初次见面）—你好！",
+              "analysis": "How do you do? 是初次见面的正式问候语，回应必须重复该表达，不能用I’m fine回答，这是中考易错题。"
+            },
+            {
+              "sentence": "—Good morning, Mr. Li! —Good morning, Tom!",
+              "translation": "—早上好，李老师！—早上好，汤姆！",
+              "analysis": "按时间的问候语回应需直接重复，Good morning对应上午场景，是最基础的交际表达。"
+            },
+            {
+              "sentence": "—How are you today? —Pretty good, thanks. And you?",
+              "translation": "—你今天好吗？—相当好，谢谢。你呢？",
+              "analysis": "How are you? 用于熟人之间，回应需包含“状态+感谢”，并可反问对方，是中考核心回应格式。"
+            },
+            {
+              "sentence": "—See you tomorrow! —See you tomorrow!",
+              "translation": "—明天见！—明天见！",
+              "analysis": "See you+时间的告别语，回应需对应时间，保持一致，属于日常高频交际表达。"
+            },
+            {
+              "sentence": "—Good night, mom! —Good night, baby!",
+              "translation": "—晚安，妈妈！—晚安，宝贝！",
+              "analysis": "Good night 仅用于睡前告别，不可用于晚上见面问候，易与Good evening混淆，是中考易错点。"
+            },
+            {
+              "sentence": "—Nice to meet you, Lucy. —Nice to meet you, too, Jack.",
+              "translation": "—很高兴见到你，露西。—我也很高兴见到你，杰克。",
+              "analysis": "Nice to meet you. 的固定回应是加too，是初次见面的核心交际表达，中考常考。"
+            },
+            {
+              "sentence": "—How is it going? —Not bad. Thanks for asking.",
+              "translation": "—近况如何？—还不错。谢谢你的关心。",
+              "analysis": "How is it going? 是美式口语中常用的问候语，回应可灵活说Not bad/Great等，需加感谢。"
+            },
+            {
+              "sentence": "—Have a good day! —Thank you. You too.",
+              "translation": "—祝你今天愉快！—谢谢。你也一样。",
+              "analysis": "Have a good day! 是正式场合的告别语，回应需先感谢，再回祝对方，是中考礼貌表达考点。"
+            },
+            {
+              "sentence": "—Take care! —You too. Keep in touch!",
+              "translation": "—保重！—你也是。保持联系！",
+              "analysis": "Take care! 用于亲友间的告别，回应需回祝，搭配Keep in touch更地道，属于情景交际拓展考点。"
+            },
+            {
+              "sentence": "—Good evening, sir! —Good evening! Can I help you?",
+              "translation": "—晚上好，先生！—晚上好！我能为你效劳吗？",
+              "analysis": "Good evening 用于晚上见面问候，区别于睡前的Good night，是中考易混点核心例题。"
+            }
+          ],
+          "exercises": [
+            {
+              "question": "—How do you do? —___",
+              "options": {"A": "I’m fine, thanks.", "B": "How do you do?", "C": "Nice to meet you."},
+              "answer": "B",
+              "explanation": "How do you do? 是初次见面的固定问候语，回应必须重复该表达，A是回应How are you?的，C是初次见面的问候语而非回应。"
+            },
+            {
+              "question": "—Good night, dad! —___",
+              "options": {"A": "Good evening!", "B": "Good night, son!", "C": "How are you?"},
+              "answer": "B",
+              "explanation": "Good night 是睡前告别语，回应需对应使用Good night，A是晚上见面的问候语，C是询问身体状况，均不匹配。"
+            },
+            {
+              "question": "—How are you? —___",
+              "options": {"A": "Fine, thank you. And you?", "B": "How do you do?", "C": "Good night."},
+              "answer": "A",
+              "explanation": "How are you? 用于熟人之间询问身体状况，回应需包含“状态+感谢”，并可反问对方，B是初次见面问候，C是睡前告别，均错误。"
+            },
+            {
+              "question": "—Nice to meet you. —___",
+              "options": {"A": "Thank you.", "B": "Nice to meet you, too.", "C": "I’m OK."},
+              "answer": "B",
+              "explanation": "Nice to meet you. 的固定回应是加too，表“我也很高兴见到你”，A用于感谢，C用于回应How are you?，均不匹配。"
+            },
+            {
+              "question": "—___ —Good morning, Miss Wang!",
+              "options": {"A": "Good afternoon!", "B": "Good morning, students!", "C": "Good night!"},
+              "answer": "B",
+              "explanation": "回应是Good morning，因此问候语也需用Good morning，A是下午问候，C是睡前告别，均错误。"
+            },
+            {
+              "question": "—See you soon! —___",
+              "options": {"A": "See you soon!", "B": "Thank you.", "C": "I’m fine."},
+              "answer": "A",
+              "explanation": "See you soon! 是告别语，回应需重复该表达，B用于感谢，C用于回应How are you?，均不匹配。"
+            },
+            {
+              "question": "—How is it going? —___",
+              "options": {"A": "How do you do?", "B": "Not bad.", "C": "Good night."},
+              "answer": "B",
+              "explanation": "How is it going? 询问近况，回应可灵活说Not bad/Pretty good等，A是初次见面问候，C是睡前告别，均错误。"
+            },
+            {
+              "question": "—Have a nice day! —___",
+              "options": {"A": "You too.", "B": "How are you?", "C": "See you later."},
+              "answer": "A",
+              "explanation": "Have a nice day! 是告别时的祝福，回应需回祝对方，用You too.（你也一样），B是问候，C是告别语但不匹配祝福语境，均错误。"
+            },
+            {
+              "question": "—Take care! —___",
+              "options": {"A": "Thank you. You too.", "B": "I’m fine, thanks.", "C": "Good morning."},
+              "answer": "A",
+              "explanation": "Take care! 是亲友间的告别祝福，回应需先感谢再回祝，B回应How are you?，C是上午问候，均错误。"
+            },
+            {
+              "question": "—Good evening, Lily! —___",
+              "options": {"A": "Good night, Tom!", "B": "Good evening, Tom!", "C": "How do you do?"},
+              "answer": "B",
+              "explanation": "Good evening 是晚上见面的问候语，回应需重复，A是睡前告别，C是初次见面问候，均错误。"
+            },
+            {
+              "question": "—Hi, Mike! —___",
+              "options": {"A": "Good night!", "B": "Hi, Jim!", "C": "Thank you."},
+              "answer": "B",
+              "explanation": "Hi是通用非正式问候，回应需用Hi/Hello，A是睡前告别，C是感谢，均错误。"
+            },
+            {
+              "question": "—I’m not feeling well today. —___",
+              "options": {"A": "I’m sorry to hear that.", "B": "How do you do?", "C": "Good night."},
+              "answer": "A",
+              "explanation": "对方说身体不舒服，需表达同情，用I’m sorry to hear that.，B是初次见面问候，C是睡前告别，均错误。"
+            },
+            {
+              "question": "—___ —Just so so.",
+              "options": {"A": "How are you doing?", "B": "Good morning!", "C": "See you tomorrow."},
+              "answer": "A",
+              "explanation": "Just so so.（一般般）是回应近况的，因此问句需用How are you doing?，B是问候，C是告别，均错误。"
+            },
+            {
+              "question": "—Goodbye, teacher! —___",
+              "options": {"A": "Hello!", "B": "Goodbye, students!", "C": "How are you?"},
+              "answer": "B",
+              "explanation": "Goodbye是通用告别语，回应需重复，A是问候，C是询问身体状况，均错误。"
+            },
+            {
+              "question": "—___ —Pretty good, thanks.",
+              "options": {"A": "How is it going?", "B": "Good evening!", "C": "Good night!"},
+              "answer": "A",
+              "explanation": "Pretty good, thanks. 是回应近况的，因此问句需用How is it going?，B是晚上问候，C是睡前告别，均错误。"
+            },
+            {
+              "question": "—Nice to meet you, Mr. Brown. —___",
+              "options": {"A": "I’m fine, thanks.", "B": "Nice to meet you, too.", "C": "Good morning."},
+              "answer": "B",
+              "explanation": "Nice to meet you. 的固定回应是加too，A回应How are you?，C是上午问候，均错误。"
+            },
+            {
+              "question": "—Have a good weekend! —___",
+              "options": {"A": "Thank you. You too.", "B": "How do you do?", "C": "See you soon."},
+              "answer": "A",
+              "explanation": "Have a good weekend! 是周末祝福，回应需感谢并回祝，B是初次见面问候，C是告别语，均错误。"
+            },
+            {
+              "question": "—Good night, grandma! —___",
+              "options": {"A": "Good evening!", "B": "Good night, my dear!", "C": "How are you?"},
+              "answer": "B",
+              "explanation": "Good night 是睡前告别，回应需对应，A是晚上见面问候，C是询问身体状况，均错误。"
+            },
+            {
+              "question": "—How are you, Linda? —___",
+              "options": {"A": "See you later.", "B": "Terrible. I have a cold.", "C": "Good morning."},
+              "answer": "B",
+              "explanation": "How are you? 询问身体状况，Terrible. I have a cold.（糟透了，我感冒了）是合理回应，A是告别，C是问候，均错误。"
+            },
+            {
+              "question": "—Hi, Li Lei! How are you? —___",
+              "options": {"A": "Hi, Zhang Wei! Fine, thanks.", "B": "How do you do?", "C": "Good night."},
+              "answer": "A",
+              "explanation": "回应Hi需先回Hi，再回应How are you?，用Fine, thanks.，B是初次见面问候，C是睡前告别，均错误。"
+            }
+          ]
+        },
+        {
+          "id": "situational_communication_2",
+          "title": "2-感谢、道歉与回应",
+          "content": "### 感谢、道歉与回应的核心定义\n“感谢、道歉与回应”是情景交际的核心模块，涵盖表达感谢、接受感谢、拒绝感谢、表达道歉、接受道歉、拒绝道歉等场景化表达，中考侧重考查不同语气（正式/非正式）、不同场景（日常/职场）下的地道用法，而非逐字翻译。\n\n### 一、感谢类表达（按正式程度分类）\n#### 1. 基础感谢（日常通用）\n- 核心表达：Thank you.（谢谢你）、Thanks.（谢谢，更随意）、Thanks a lot.（非常感谢）、Thank you very much.（非常感谢，比Thanks a lot稍正式）；\n- 拓展表达：Thanks for...（感谢……）、Thank you for doing sth.（感谢你做某事），中考高频搭配：\n  ✅ Thanks for your help.（感谢你的帮助）；\n  ✅ Thank you for lending me your pen.（感谢你借我钢笔）。\n\n#### 2. 正式感谢（职场/陌生人）\n- 核心表达：I really appreciate it.（我真的很感激）、I’m grateful to you.（我很感激你）、Thank you for your kindness.（感谢你的好意）。\n\n#### 3. 感谢的回应（中考必考，分两类）\n- 通用回应（不限场景）：You’re welcome.（不客气，最基础）、That’s OK/all right.（没关系/不客气）；\n- 非正式回应（朋友/熟人）：Not at all.（不客气）、It’s nothing.（没什么）、My pleasure.（我的荣幸）、No problem.（没问题，美式口语）；\n- 正式回应（职场/陌生人）：It’s my pleasure.（我的荣幸，比My pleasure更正式）、You’re most welcome.（非常乐意效劳）。\n\n### 二、道歉类表达（按歉意程度分类）\n#### 1. 基础道歉（轻微过失）\n- 核心表达：Sorry.（对不起，随意）、I’m sorry.（对不起，稍正式）、Excuse me.（打扰一下/抱歉，用于麻烦别人、问路、打断等场景）；\n- 易混点：Sorry. 侧重“道歉（做错事）”，Excuse me. 侧重“打扰（无过错）”，如：\n  ✅ Sorry, I’m late.（对不起，我迟到了——做错事）；\n  ✅ Excuse me, where is the library?（打扰一下，图书馆在哪——麻烦别人）。\n\n#### 2. 深度道歉（严重过失）\n- 核心表达：I’m really sorry.（我真的很抱歉）、I’m so sorry for...（我为……深感抱歉）、I apologize for...（我为……道歉，正式）、Please forgive me.（请原谅我）；\n- 中考高频搭配：\n  ✅ I’m so sorry for breaking your cup.（我为打碎你的杯子深感抱歉）；\n  ✅ I apologize for my mistake.（我为我的错误道歉）。\n\n#### 3. 道歉的回应（中考必考，分两类）\n- 接受道歉（原谅对方）：That’s OK/all right.（没关系）、Never mind.（别在意）、It doesn’t matter.（没关系，最基础）、No problem.（没事，美式）；\n- 委婉拒绝道歉（不原谅，极少考，了解即可）：I’m afraid I can’t forgive you.（恐怕我不能原谅你）、It’s unforgivable.（这是不可原谅的）。\n\n### 易混易错点（中考高频丢分点）\n1. ❌ 错：用Sorry. 问路；✅ 对：问路用Excuse me.（Sorry仅用于做错事道歉）；\n2. ❌ 错：回应感谢用It doesn’t matter.；✅ 对：回应感谢用You’re welcome.，It doesn’t matter. 仅回应道歉；\n3. ❌ 错：Thank you for help.；✅ 对：Thank you for your help./Thank you for helping me.（for后接名词/动名词）；\n4. ❌ 错：Excuse me, I broke your ruler.；✅ 对：Sorry, I broke your ruler.（做错事用Sorry）。\n\n### 场景化使用注意事项\n1. 麻烦别人（问路、借东西、打断）用Excuse me.，做错事（迟到、弄坏东西）用Sorry/I’m sorry.；\n2. 朋友间回应感谢可用No problem./It’s nothing.，职场用You’re most welcome./It’s my pleasure.；\n3. for后接感谢/道歉的原因时，需接名词或动名词（doing），这是语法融合考查点（介词+动名词）。",
+          "examples": [
+            {
+              "sentence": "—Thank you for your help. —You’re welcome.",
+              "translation": "—感谢你的帮助。—不客气。",
+              "analysis": "Thank you for+名词（your help）是感谢的核心结构，You’re welcome. 是回应感谢的最基础表达，中考必考。"
+            },
+            {
+              "sentence": "—Sorry, I’m late for class. —It doesn’t matter. Come in, please.",
+              "translation": "—对不起，我上课迟到了。—没关系。请进。",
+              "analysis": "Sorry 用于做错事（迟到）道歉，It doesn’t matter. 是回应道歉的核心表达，区别于回应感谢的You’re welcome.。"
+            },
+            {
+              "sentence": "—Excuse me, where is the nearest bank? —It’s over there, next to the park.",
+              "translation": "—打扰一下，最近的银行在哪里？—就在那边，公园旁边。",
+              "analysis": "Excuse me 用于麻烦别人（问路），无过错，是中考易混点，需与Sorry区分。"
+            },
+            {
+              "sentence": "—Thank you for lending me your bike. —My pleasure.",
+              "translation": "—感谢你借我你的自行车。—我的荣幸。",
+              "analysis": "Thank you for+动名词（lending）是语法融合考点（介词for+动名词），My pleasure. 是熟人间回应感谢的地道表达。"
+            },
+            {
+              "sentence": "—I’m really sorry for breaking your window. —Never mind. I can fix it.",
+              "translation": "—我真的很抱歉打碎了你的窗户。—别在意。我可以修好它。",
+              "analysis": "I’m really sorry for+动名词（breaking）用于深度道歉，Never mind. 是回应道歉的委婉表达，中考高频。"
+            },
+            {
+              "sentence": "—Thanks a lot for the gift. —That’s all right.",
+              "translation": "—非常感谢这份礼物。—不客气。",
+              "analysis": "Thanks a lot 是加强语气的感谢，That’s all right. 可回应感谢（不客气）或道歉（没关系），需结合语境判断。"
+            },
+            {
+              "sentence": "—I apologize for my carelessness. —It’s OK. Be careful next time.",
+              "translation": "—我为我的粗心道歉。—没事。下次小心点。",
+              "analysis": "I apologize for+名词（my carelessness）是正式道歉表达，It’s OK. 是口语化回应道歉的表达，中考常考。"
+            },
+            {
+              "sentence": "—Excuse me, can I use your phone? —Sure, here you are.",
+              "translation": "—打扰一下，我能用一下你的手机吗？—当然，给你。",
+              "analysis": "Excuse me 用于请求帮助（麻烦别人），无过错，区别于做错事的Sorry，是核心易混点。"
+            },
+            {
+              "sentence": "—Thank you very much for saving my dog. —You’re most welcome.",
+              "translation": "—非常感谢你救了我的狗。—非常乐意效劳。",
+              "analysis": "Thank you very much 是正式感谢，You’re most welcome. 是正式回应感谢的表达，适用于职场/陌生人场景。"
+            },
+            {
+              "sentence": "—Sorry, I forgot to bring your book. —No problem. I can use another one.",
+              "translation": "—对不起，我忘了带你的书。—没事。我可以用另一本。",
+              "analysis": "Sorry 用于做错事（忘带东西）道歉，No problem. 是美式口语中回应道歉的地道表达，中考拓展考点。"
+            }
+          ],
+          "exercises": [
+            {
+              "question": "—Thank you for helping me with my English. —___",
+              "options": {"A": "It doesn’t matter.", "B": "You’re welcome.", "C": "Sorry."},
+              "answer": "B",
+              "explanation": "回应感谢需用You’re welcome.，A用于回应道歉，C用于道歉，均错误。"
+            },
+            {
+              "question": "—___ —Excuse me, where is the bus stop?",
+              "options": {"A": "Thank you.", "B": "Sorry.", "C": "Hello!"},
+              "answer": "C",
+              "explanation": "对方问路前先打招呼，用Hello!，A是感谢，B是道歉，均不匹配问路的开头语境。"
+            },
+            {
+              "question": "—I’m sorry for losing your pen. —___",
+              "options": {"A": "You’re welcome.", "B": "It doesn’t matter.", "C": "Thank you."},
+              "answer": "B",
+              "explanation": "回应道歉需用It doesn’t matter.，A用于回应感谢，C用于感谢，均错误。"
+            },
+            {
+              "question": "—Thanks a lot for the ticket. —___",
+              "options": {"A": "My pleasure.", "B": "Sorry.", "C": "Excuse me."},
+              "answer": "A",
+              "explanation": "回应感谢可用My pleasure.（我的荣幸），B用于道歉，C用于打扰别人，均错误。"
+            },
+            {
+              "question": "—___ —Sorry, I can’t hear you clearly.",
+              "options": {"A": "Thank you.", "B": "Pardon?", "C": "Excuse me."},
+              "answer": "B",
+              "explanation": "没听清对方的话，用Pardon?（请再说一遍），A是感谢，C是打扰别人，均错误；注意：Sorry也可表没听清，但选项中B更贴合。"
+            },
+            {
+              "question": "—Thank you very much. —___",
+              "options": {"A": "No problem.", "B": "I’m sorry.", "C": "Excuse me."},
+              "answer": "A",
+              "explanation": "No problem. 是美式口语中回应感谢的地道表达，B用于道歉，C用于打扰别人，均错误。"
+            },
+            {
+              "question": "—Excuse me, can I sit here? —___",
+              "options": {"A": "You’re welcome.", "B": "Yes, please.", "C": "It doesn’t matter."},
+              "answer": "B",
+              "explanation": "Excuse me 用于请求许可（坐座位），回应Yes, please.（可以，请坐），A回应感谢，C回应道歉，均错误。"
+            },
+            {
+              "question": "—I’m really sorry for being late again. —___",
+              "options": {"A": "Never mind.", "B": "Thank you.", "C": "You’re welcome."},
+              "answer": "A",
+              "explanation": "Never mind. 是回应深度道歉的委婉表达，B是感谢，C回应感谢，均错误。"
+            },
+            {
+              "question": "—Thanks for ___ me to the party. —My pleasure.",
+              "options": {"A": "invite", "B": "inviting", "C": "invited"},
+              "answer": "B",
+              "explanation": "for是介词，后接动名词（doing），因此用inviting，这是语法融合考点（介词+动名词），A是动词原形，C是过去式，均错误。"
+            },
+            {
+              "question": "—___ —I’m sorry, I broke your vase.",
+              "options": {"A": "What’s wrong?", "B": "Thank you.", "C": "Excuse me."},
+              "answer": "A",
+              "explanation": "对方道歉并说明做错事，问句需询问“怎么了”，用What’s wrong?，B是感谢，C是打扰别人，均错误。"
+            },
+            {
+              "question": "—Thank you for your advice. —___",
+              "options": {"A": "It’s my pleasure.", "B": "Sorry.", "C": "Excuse me."},
+              "answer": "A",
+              "explanation": "It’s my pleasure. 是正式回应感谢的表达，适用于接受建议的场景，B用于道歉，C用于打扰别人，均错误。"
+            },
+            {
+              "question": "—Excuse me, how can I get to the hospital? —___",
+              "options": {"A": "You’re welcome.", "B": "Go straight and turn left.", "C": "It doesn’t matter."},
+              "answer": "B",
+              "explanation": "Excuse me 用于问路，回应需给指路信息，A回应感谢，C回应道歉，均错误。"
+            },
+            {
+              "question": "—I apologize for my mistake. —___",
+              "options": {"A": "That’s all right.", "B": "Thank you.", "C": "Hello!"},
+              "answer": "A",
+              "explanation": "That’s all right. 可回应正式道歉，B是感谢，C是问候，均错误。"
+            },
+            {
+              "question": "—Thanks a lot. You’re so kind. —___",
+              "options": {"A": "I’m sorry.", "B": "It’s nothing.", "C": "Excuse me."},
+              "answer": "B",
+              "explanation": "It’s nothing. 是熟人间回应感谢的表达（没什么），A用于道歉，C用于打扰别人，均错误。"
+            },
+            {
+              "question": "—Sorry, I can’t help you with your homework. —___",
+              "options": {"A": "Thank you anyway.", "B": "You’re welcome.", "C": "It doesn’t matter."},
+              "answer": "A",
+              "explanation": "对方因无法帮忙道歉，回应需说“还是谢谢你”（Thank you anyway.），B回应感谢，C回应道歉（做错事的道歉），均错误。"
+            },
+            {
+              "question": "—Excuse me, ___ you pass me the salt? —Sure, here you are.",
+              "options": {"A": "may", "B": "can", "C": "must"},
+              "answer": "B",
+              "explanation": "Excuse me 用于请求帮助，can you... 是礼貌请求的表达，may用于第一人称（May I...），must表必须，均错误；这是语法融合考点（情态动词表请求）。"
+            },
+            {
+              "question": "—Thank you for the delicious dinner. —___",
+              "options": {"A": "You’re most welcome.", "B": "Sorry.", "C": "Excuse me."},
+              "answer": "A",
+              "explanation": "You’re most welcome. 是正式回应感谢的表达，适用于晚餐感谢场景，B用于道歉，C用于打扰别人，均错误。"
+            },
+            {
+              "question": "—I’m so sorry for ___ your plan. —It’s OK. We can make a new one.",
+              "options": {"A": "ruin", "B": "ruining", "C": "ruined"},
+              "answer": "B",
+              "explanation": "for是介词，后接动名词（doing），因此用ruining，A是动词原形，C是过去式，均错误；语法融合考点：介词+动名词。"
+            },
+            {
+              "question": "—Excuse me, is this your bag? —___",
+              "options": {"A": "Yes, it is. Thank you.", "B": "You’re welcome.", "C": "It doesn’t matter."},
+              "answer": "A",
+              "explanation": "Excuse me 用于确认物品归属，回应需先回答再感谢，B回应感谢，C回应道歉，均错误。"
+            },
+            {
+              "question": "—Sorry, I forgot your birthday. —___",
+              "options": {"A": "Thank you.", "B": "No problem. Let’s celebrate it tomorrow.", "C": "Excuse me."},
+              "answer": "B",
+              "explanation": "No problem. 回应道歉并提出解决方案，A是感谢，C是打扰别人，均错误。"
+            }
+          ]
+        },
+        {
+          "id": "situational_communication_3",
+          "title": "3-请求、建议与许可",
+          "content": "### 请求、建议与许可的核心定义\n“请求、建议与许可”是情景交际中语法融合度最高的模块，涵盖向他人提出请求、给出建议、征求/给予许可等场景，中考不仅考查地道表达，还融合情态动词（can/may/could/should）、提建议的句式（Why not/How about）等语法点，是单选、补全对话的高频难点考点。\n\n### 一、请求类表达（按礼貌程度分类）\n#### 1. 基础请求（熟人/非正式）\n- 核心句式：Can you...?（你能……吗？）、Could you...?（你能……吗？，比Can you更礼貌）、Can I...?（我能……吗？）；\n- 中考高频例句：\n  ✅ Can you help me carry the box?（你能帮我搬箱子吗？）；\n  ✅ Could you open the window?（你能开窗吗？，更礼貌）。\n\n#### 2. 正式请求（职场/陌生人）\n- 核心句式：May I...?（我可以……吗？，表许可请求）、Would you mind doing sth.?（你介意做某事吗？）、Would you please do sth.?（请你做某事好吗？）；\n- 易混点：Would you mind doing sth.? 的回应（中考必考）：\n  ✅ 不介意：Not at all./Of course not./Certainly not.；\n  ✅ 介意：I’m sorry, but I can’t./I’m afraid I can’t.。\n\n#### 3. 请求的回应（分“同意”和“拒绝”）\n- 同意请求：Sure./Certainly./Of course./Yes, please./No problem.；\n- 拒绝请求（礼貌）：Sorry, I can’t. + 原因（如I have to do my homework.）、I’m afraid I can’t. + 原因；\n- 禁忌：直接说No.（不礼貌，中考不考）。\n\n### 二、建议类表达（中考核心，按句式分类）\n#### 1. 基础提建议句式（高频）\n- Why not do sth.?（为什么不做某事？）= Why don’t you do sth.?（你为什么不做某事？），后接动词原形；\n  ✅ Why not go to the park? = Why don’t you go to the park?（为什么不去公园？）；\n- Let’s do sth.（让我们做某事吧），后接动词原形；\n  ✅ Let’s watch a movie tonight.（今晚我们看电影吧）；\n- Shall we do sth.?（我们做某事好吗？），后接动词原形；\n  ✅ Shall we have lunch together?（我们一起吃午饭好吗？）。\n\n#### 2. 拓展提建议句式（易错）\n- How about/What about doing sth.?（做某事怎么样？），后接动名词（doing）；\n  ✅ How about going shopping?（去购物怎么样？）；\n- You should/had better do sth.（你应该/最好做某事），should/had better后接动词原形；\n  ✅ You should study hard.（你应该努力学习）；\n  ✅ You’d better not go out at night.（你最好不要晚上出门，had better否定式：had better not do）。\n\n#### 3. 建议的回应\n- 同意建议：Good idea!/That’s a good idea!/Sounds great!/All right./OK.；\n- 拒绝建议（礼貌）：That’s a good idea, but... + 原因（如I have no time.）、I’m afraid not. + 原因。\n\n### 三、许可类表达（融合情态动词）\n#### 1. 征求许可\n- May I...?（最正式）、Can I...?（非正式）、Could I...?（更礼貌，不表过去）；\n  ✅ May I use your computer?（我可以用你的电脑吗？）；\n\n#### 2. 给予/拒绝许可\n- 给予许可：Yes, you may./Yes, you can./Sure./Of course.；\n- 拒绝许可：No, you may not./I’m afraid you can’t./Sorry, you can’t. + 原因；\n- 易混点：Could I...? 的回应不用could，用can/may（Could仅表礼貌，不表过去）；\n  ✅ —Could I borrow your book? —Yes, you can.（不用Yes, you could.）。\n\n### 易混易错点（中考高频丢分点）\n1. ❌ 错：Why not to go?；✅ 对：Why not go?（Why not后接动词原形）；\n2. ❌ 错：How about go?；✅ 对：How about going?（How about后接动名词）；\n3. ❌ 错：Would you mind to open the door?；✅ 对：Would you mind opening the door?（mind后接动名词）；\n4. ❌ 错：—Could I use your pen? —Yes, you could.；✅ 对：Yes, you can.（Could表礼貌，回应用can）；\n5. ❌ 错：You had better to eat more fruit.；✅ 对：You had better eat more fruit.（had better后接动词原形）。\n\n### 语法融合考点总结\n1. 提建议句式的动词形式：Why not/Let’s/Shall we后接原形，How about后接动名词；\n2. 情态动词表请求/许可：Could表礼貌（非过去），回应用can；May表正式许可；\n3. mind/had better的用法：mind+doing，had better+原形（否定：had better not+原形）。",
+          "examples": [
+            {
+              "sentence": "—Could you help me with my math? —Sure, no problem.",
+              "translation": "—你能帮我学数学吗？—当然，没问题。",
+              "analysis": "Could you...? 是礼貌请求，Sure, no problem. 是同意请求的地道表达；Could仅表礼貌，不表过去，中考易混点。"
+            },
+            {
+              "sentence": "—Why not go for a walk after dinner? —That’s a good idea!",
+              "translation": "—晚饭后为什么不去散步呢？—好主意！",
+              "analysis": "Why not后接动词原形（go），是提建议的核心句式，That’s a good idea! 是同意建议的基础回应。"
+            },
+            {
+              "sentence": "—May I use your phone? —Yes, you can. Here you are.",
+              "translation": "—我可以用一下你的手机吗？—可以，给你。",
+              "analysis": "May I...? 是正式征求许可，回应可用can（更口语化），不用may也可，中考常考这种灵活回应。"
+            },
+            {
+              "sentence": "—Would you mind opening the window? —Not at all. I’ll do it right now.",
+              "translation": "—你介意开窗吗？—一点也不。我马上开。",
+              "analysis": "Would you mind后接动名词（opening），Not at all. 是“不介意”的核心回应，中考高频考点。"
+            },
+            {
+              "sentence": "—How about watching a movie this weekend? —Sounds great! I love movies.",
+              "translation": "—这周末看电影怎么样？—听起来太棒了！我喜欢电影。",
+              "analysis": "How about后接动名词（watching），Sounds great! 是同意建议的口语化回应，中考常考。"
+            },
+            {
+              "sentence": "—You’d better not play computer games too much. —OK, I’ll listen to you.",
+              "translation": "—你最好不要玩太多电脑游戏。—好的，我会听你的。",
+              "analysis": "had better的否定式是had better not+动词原形（play），是提建议的否定句式，中考易错点。"
+            },
+            {
+              "sentence": "—Shall we go to the zoo tomorrow? —I’m afraid not. I have to visit my grandma.",
+              "translation": "—我们明天去动物园好吗？—恐怕不行。我得去看望我奶奶。",
+              "analysis": "Shall we...? 提建议，I’m afraid not. + 原因是礼貌拒绝建议的表达，中考核心回应方式。"
+            },
+            {
+              "sentence": "—Could I borrow your bike? —Sorry, I can’t. I need it this afternoon.",
+              "translation": "—我能借你的自行车吗？—对不起，不行。我下午要用。",
+              "analysis": "Could I...? 礼貌请求，拒绝时需说Sorry, I can’t. + 原因，不用could回应，且不能直接说No.。"
+            },
+            {
+              "sentence": "—Let’s clean the classroom together. —All right. Let’s start now.",
+              "translation": "—我们一起打扫教室吧。—好的。我们现在开始。",
+              "analysis": "Let’s... 提建议，All right. 是同意建议的基础回应，后接行动更地道。"
+            },
+            {
+              "sentence": "—Would you please turn down the TV? —Sure, I’ll do it at once.",
+              "translation": "—请你把电视声音调小一点好吗？—当然，我马上调。",
+              "analysis": "Would you please后接动词原形（turn down），是正式请求的句式，Sure是同意请求的回应，中考拓展考点。"
+            }
+          ],
+          "exercises": [
+            {
+              "question": "—___ go to the cinema with me tonight? —Good idea!",
+              "options": {"A": "Why not", "B": "How about", "C": "Why don’t"},
+              "answer": "A",
+              "explanation": "Why not后接动词原形（go），提建议，符合答语Good idea!；How about后接动名词（going），Why don’t后需加you（Why don’t you），均错误。"
+            },
+            {
+              "question": "—Could I use your dictionary? —___",
+              "options": {"A": "Yes, you could.", "B": "Yes, you can.", "C": "No, you couldn’t."},
+              "answer": "B",
+              "explanation": "Could I...? 表礼貌请求，回应不用could，用can；直接说No, you couldn’t. 不礼貌，且语法错误，因此选B。"
+            },
+            {
+              "question": "—Would you mind ___ the music? It’s too loud. —Not at all.",
+              "options": {"A": "turn down", "B": "turning down", "C": "to turn down"},
+              "answer": "B",
+              "explanation": "mind后接动名词（doing），因此用turning down；A是动词原形，C是不定式，均错误；语法融合考点：mind+动名词。"
+            },
+            {
+              "question": "—___ we go for a picnic this Sunday? —Sounds great!",
+              "options": {"A": "Shall", "B": "Can", "C": "Must"},
+              "answer": "A",
+              "explanation": "Shall we...? 是提建议的核心句式，符合答语Sounds great!；Can表能力/请求，Must表必须，均错误。"
+            },
+            {
+              "question": "—You’d better ___ late for school again. —Sorry, I won’t.",
+              "options": {"A": "not be", "B": "not to be", "C": "don’t be"},
+              "answer": "A",
+              "explanation": "had better的否定式是had better not+动词原形（be），因此用not be；B是不定式，C是助动词+原形，均错误；语法融合考点：had better的否定形式。"
+            },
+            {
+              "question": "—Can you pass me the book? —___",
+              "options": {"A": "Yes, I could.", "B": "Sure, here you are.", "C": "It doesn’t matter."},
+              "answer": "B",
+              "explanation": "Can you...? 是基础请求，Sure, here you are. 是同意请求的地道回应；A中could错误（回应不用could），C回应道歉，均错误。"
+            },
+            {
+              "question": "—How about ___ swimming this afternoon? —OK, let’s go.",
+              "options": {"A": "go", "B": "going", "C": "to go"},
+              "answer": "B",
+              "explanation": "How about后接动名词（doing），因此用going；A是动词原形，C是不定式，均错误；语法融合考点：How about+动名词。"
+            },
+            {
+              "question": "—May I leave now? —___ You haven’t finished your homework yet.",
+              "options": {"A": "Yes, you may.", "B": "No, you needn’t.", "C": "I’m afraid you can’t."},
+              "answer": "C",
+              "explanation": "对方征求许可，根据后句“没完成作业”，需礼貌拒绝，用I’m afraid you can’t.；A是同意（与语境矛盾），B中needn’t表“不必”，与语境不符，均错误。"
+            },
+            {
+              "question": "—Why don’t you ___ English every morning? —Good idea! I will.",
+              "options": {"A": "read", "B": "reading", "C": "to read"},
+              "answer": "A",
+              "explanation": "Why don’t you后接动词原形（read），提建议；B是动名词，C是不定式，均错误；语法融合考点：Why don’t you+原形。"
+            },
+            {
+              "question": "—Let’s ___ basketball after school. —All right.",
+              "options": {"A": "play", "B": "playing", "C": "to play"},
+              "answer": "A",
+              "explanation": "Let’s后接动词原形（play），提建议；B是动名词，C是不定式，均错误；语法融合考点：Let’s+原形。"
+            },
+            {
+              "question": "—Would you please ___ the door? It’s cold outside. —OK, I will.",
+              "options": {"A": "close", "B": "closing", "C": "to close"},
+              "answer": "A",
+              "explanation": "Would you please后接动词原形（close），正式请求；B是动名词，C是不定式，均错误；语法融合考点：Would you please+原形。"
+            },
+            {
+              "question": "—Shall we buy some fruit for grandma? —___ She likes fruit very much.",
+              "options": {"A": "I’m afraid not.", "B": "That’s a good idea!", "C": "You’re welcome."},
+              "answer": "B",
+              "explanation": "Shall we...? 提建议，根据后句“奶奶喜欢水果”，回应同意，用That’s a good idea!；A是拒绝，C回应感谢，均错误。"
+            },
+            {
+              "question": "—Could you tell me the way to the station? —___",
+              "options": {"A": "Sorry, I’m new here.", "B": "Yes, you could.", "C": "Thank you."},
+              "answer": "A",
+              "explanation": "Could you...? 请求指路，拒绝时需礼貌说Sorry+原因（我是新来的）；B中could错误，C是感谢，均错误。"
+            },
+            {
+              "question": "—You should ___ more water every day. —Thank you for your advice.",
+              "options": {"A": "drink", "B": "drinking", "C": "to drink"},
+              "answer": "A",
+              "explanation": "should后接动词原形（drink），提建议；B是动名词，C是不定式，均错误；语法融合考点：情态动词should+原形。"
+            },
+            {
+              "question": "—Would you mind smoking here? —___ It’s a non-smoking area.",
+              "options": {"A": "Not at all.", "B": "Of course not.", "C": "I’m sorry, but you can’t."},
+              "answer": "C",
+              "explanation": "对方问“介意在这抽烟吗？”，根据后句“无烟区”，需介意并拒绝，用I’m sorry, but you can’t.；A和B均表“不介意”，与语境矛盾，均错误。"
+            },
+            {
+              "question": "—How about going hiking this weekend? —___ I have to look after my sister.",
+              "options": {"A": "Good idea!", "B": "That’s a good idea, but...", "C": "You’re welcome."},
+              "answer": "B",
+              "explanation": "对方提建议，根据后句“要照顾妹妹”，需礼貌拒绝，用That’s a good idea, but...+原因；A是同意（与语境矛盾），C回应感谢，均错误。"
+            },
+            {
+              "question": "—May I borrow your ruler? —___ Here you are.",
+              "options": {"A": "No, you can’t.", "B": "Sure.", "C": "It doesn’t matter."},
+              "answer": "B",
+              "explanation": "May I...? 征求许可，根据后句“给你”，回应同意，用Sure.；A是拒绝（与语境矛盾），C回应道歉，均错误。"
+            },
+            {
+              "question": "—Why not ___ a letter to your pen pal? —I will do it tonight.",
+              "options": {"A": "write", "B": "writing", "C": "to write"},
+              "answer": "A",
+              "explanation": "Why not后接动词原形（write），提建议；B是动名词，C是不定式，均错误；语法融合考点：Why not+原形。"
+            },
+            {
+              "question": "—Could you help me clean the room? —___ I’m busy with my homework now.",
+              "options": {"A": "Sure, no problem.", "B": "Sorry, I can’t.", "C": "Yes, I can."},
+              "answer": "B",
+              "explanation": "Could you...? 请求帮忙，根据后句“忙作业”，礼貌拒绝，用Sorry, I can’t.；A和C均是同意（与语境矛盾），均错误。"
+            },
+            {
+              "question": "—Let’s not ___ video games all day. It’s bad for our eyes. —OK, I agree.",
+              "options": {"A": "play", "B": "playing", "C": "to play"},
+              "answer": "A",
+              "explanation": "Let’s not后接动词原形（play），提否定建议；B是动名词，C是不定式，均错误；语法融合考点：Let’s not+原形。"
+            }
+          ]
+        },
+        {
+          "id": "situational_communication_1",
+          "title": "4-学习场景",
+          "content": "### 学习场景情景交际核心定义\n学习场景情景交际是指在课堂、图书馆、课后请教、考试交流等学习相关场景下，遵循英语语言习惯的口语/书面交流规范，涵盖提问、答疑、请求帮助、表达观点、反馈评价等核心功能，是中考英语听力、补全对话、书面表达的高频考点，需掌握不同功能对应的固定句式和应答逻辑。\n\n### 学习场景核心交际功能（中考必考分类）\n#### 功能1：课堂提问与回答\n##### 提问句式（学生向老师）\n- 基础版：Could you explain... again?（您能再解释一下……吗？）、What does... mean?（……是什么意思？）、How do you spell...?（您怎么拼写……？）\n- 进阶版：Could you give us some examples to illustrate...?（您能举些例子说明……吗？）、Is there another way to understand...?（有没有另一种理解……的方式？）\n##### 应答句式（老师向学生）\n- 肯定解答：Sure! Let me break it down for you.（当然！我给你拆解一下。）、The word... means... and it’s used in...（……这个词的意思是……，常用于……）\n- 引导思考：Good question! Why don’t you try to figure it out with your deskmate first?（好问题！你先和同桌试着推导一下？）\n\n#### 功能2：课后请教与求助\n##### 求助句式\n- 委婉请求：I wonder if you could help me with my English homework.（我想知道你能否帮我看下英语作业。）、I’m stuck on... Could you give me a hand?（我卡在……上了，你能帮个忙吗？）\n- 紧急求助：I really need your help with... I can’t work it out by myself.（我真的需要你帮忙……，我自己搞不定。）\n##### 应答句式\n- 同意帮助：No problem! Let’s go through it step by step.（没问题！我们一步步来看。）、I’d be glad to help. What exactly is the issue?（我很乐意帮忙，具体问题是什么？）\n- 婉拒并建议：I’m sorry, I’m busy right now. But you can ask Mr. Li—he’s an expert in this area.（抱歉，我现在很忙。但你可以问李老师，他是这方面的专家。）\n\n#### 功能3：表达学习观点与反馈\n##### 表达掌握/未掌握\n- 掌握：I’ve fully understood...（我完全理解……了。）、I can apply this grammar rule to different sentences now.（我现在能把这个语法规则用到不同句子里了。）\n- 未掌握：I’m still confused about...（我还是搞不懂……）、I find it hard to distinguish... from...（我发现很难区分……和……）\n##### 评价学习内容/效果\n- 正面评价：This method is really effective for memorizing words.（这个方法记单词真的有效。）、The lecture was very informative and easy to follow.（这个讲座信息量很大，也容易理解。）\n- 负面评价：The exercise is too difficult for us at this stage.（这个练习对现阶段的我们来说太难了。）、The explanation was unclear, so most of us didn’t get it.（讲解不清楚，所以我们大部分人都没听懂。）\n\n#### 功能4：考试/作业相关交流\n##### 询问考试/作业信息\n- When is the English exam going to take place?（英语考试什么时候举行？）、What’s the deadline for the book report?（读书报告的截止日期是什么时候？）\n##### 表达考试/作业感受\n- 考前：I’m nervous about the final exam. I haven’t reviewed all the grammar points.（我对期末考试很紧张，还没复习完所有语法点。）\n- 考后：I think I did well in the listening part, but I messed up the reading comprehension.（我觉得听力部分做得不错，但阅读理解搞砸了。）\n\n### 学习场景交际易混点（中考易错）\n1. 中文直译成英语的误区：如“你能教我这个单词吗？”错译→Can you teach me this word? 正确→Could you teach me how to use this word in sentences?（英语更强调“使用”，而非单纯“教单词”）；\n2. 语气委婉度：向老师求助时，需用Could/Would而非Can/Will，如Could you help me? 比Can you help me? 更礼貌；\n3. 应答逻辑：拒绝求助时，需先道歉+说明原因+给出替代建议，不可直接说“No”。",
+          "examples": [
+            {
+              "sentence": "Student: Could you explain the difference between present perfect and simple past tense again, sir?\nTeacher: Absolutely! The present perfect focuses on the result up to now, while the simple past refers to a specific time in the past. For example, \"I have finished my homework\" means the homework is done now, and \"I finished my homework yesterday\" points to a past time.",
+              "translation": "学生：老师，您能再解释一下现在完成时和一般过去时的区别吗？\n老师：当然！现在完成时强调到现在为止的结果，而一般过去时指过去的某个具体时间。比如，“I have finished my homework”表示作业现在已经做完了，而“I finished my homework yesterday”指向过去的某个时间。",
+              "analysis": "学生用Could you explain... again? 是课堂提问的礼貌句式，符合向老师求助的语气规范；老师用Absolutely! 肯定应答，随后用对比解释+举例的方式解答，符合教学场景的应答逻辑。"
+            },
+            {
+              "sentence": "A: I’m stuck on the cloze test. I can’t decide which preposition to use here. Could you give me a hand?\nB: No problem! Let’s look at the context first. The sentence is \"He is interested ___ painting\", so the preposition should be \"in\" because \"be interested in\" is a fixed phrase.",
+              "translation": "A：我卡在完形填空上了，不知道这里该用哪个介词。你能帮个忙吗？\nB：没问题！我们先看上下文。句子是“He is interested ___ painting”，所以介词应该用in，因为“be interested in”是固定搭配。",
+              "analysis": "A用I’m stuck on... Could you give me a hand? 是课后求助的经典句式，语气委婉；B用No problem! 同意帮助，随后通过分析语境+固定搭配解答，符合学习场景的帮助逻辑。"
+            },
+            {
+              "sentence": "Student: I’m still confused about when to use “a” and “an” with words starting with “u”.\nTeacher: Good question! It depends on the phonetic sound, not the letter. For example, “a useful book” (/ˈjuːsfl/) uses “a” because /j/ is a consonant sound, while “an umbrella” (/ʌmˈbrelə/) uses “an” because /ʌ/ is a vowel sound.",
+              "translation": "学生：我还是搞不懂在以u开头的单词前什么时候用a，什么时候用an。\n老师：好问题！这取决于音素而非字母。比如，“a useful book”（/ˈjuːsfl/）用a，因为/j/是辅音音素；而“an umbrella”（/ʌmˈbrelə/）用an，因为/ʌ/是元音音素。",
+              "analysis": "学生用I’m still confused about... 表达未掌握的困惑，符合学习场景的反馈逻辑；老师先肯定问题（Good question!），再给出核心规则+举例，是教学场景的标准应答方式。"
+            },
+            {
+              "sentence": "A: What’s the deadline for the English composition? I forgot to write it down.\nB: It’s due next Friday. And remember, the topic is “My Favorite Learning Method”, so make sure it’s about 150 words.\nA: Thanks a lot! I’ll finish it on time.",
+              "translation": "A：英语作文的截止日期是什么时候？我忘了记下来。\nB：下周五截止。而且要记住，主题是《我最喜欢的学习方法》，所以确保字数在150词左右。\nA：太感谢了！我会按时完成的。",
+              "analysis": "A用What’s the deadline for...? 询问作业信息，是学习场景的常用句式；B不仅回答问题，还补充作业要求，符合交流的完整性逻辑；A用Thanks a lot! 礼貌致谢，是基础交际规范。"
+            },
+            {
+              "sentence": "A: I’m sorry, I can’t help you with your physics homework right now—I’m preparing for my English exam. But you can ask Zhang Wei; he’s really good at physics.\nB: That’s okay. Thank you anyway. I’ll go find him.",
+              "translation": "A：抱歉，我现在没法帮你看物理作业——我在准备英语考试。但你可以问张伟，他物理特别好。\nB：没关系，还是谢谢你。我去找他。",
+              "analysis": "A拒绝求助时，先道歉（I’m sorry）+说明原因（preparing for my English exam）+给出替代建议（ask Zhang Wei），符合英语礼貌拒绝的逻辑；B用That’s okay. Thank you anyway. 礼貌回应，避免尴尬。"
+            },
+            {
+              "sentence": "Student: I think the grammar exercises you assigned are too hard. Most of us can’t finish them without checking the answer key.\nTeacher: Thank you for your feedback! I’ll adjust the difficulty level for the next assignment and explain the key points in class tomorrow.",
+              "translation": "学生：我觉得您布置的语法练习太难了，我们大部分人不看答案都做不完。\n老师：谢谢你的反馈！我会调整下次作业的难度，并且明天在课堂上讲解重点。",
+              "analysis": "学生用I think... 表达对作业的负面评价，语气客观不生硬；老师用Thank you for your feedback! 正面回应，随后给出具体调整措施，符合师生交流的反馈逻辑。"
+            },
+            {
+              "sentence": "A: How do you spell “accommodation”? I always mix up the double letters.\nB: It’s A-C-C-O-M-M-O-D-A-T-I-O-N. Remember, there are two Cs and two Ms in the middle—that’s the tricky part.\nA: Got it! Thanks for reminding me.",
+              "translation": "A：“accommodation”怎么拼？我总把双字母搞混。\nB：是A-C-C-O-M-M-O-D-A-T-I-O-N。记住，中间有两个C和两个M，这是易错点。\nA：懂了！谢谢你提醒我。",
+              "analysis": "A用How do you spell...? 询问拼写，是学习场景的基础提问句式；B拆分拼写并指出易错点，解答精准；A用Got it! 表示掌握，是简洁的反馈句式。"
+            },
+            {
+              "sentence": "Student: I’ve fully understood how to use relative clauses after your explanation. I can make up my own sentences now.\nTeacher: Great to hear that! Let’s test it—could you make a sentence with “who” as the relative pronoun?\nStudent: Sure! “The girl who is reading a book is my deskmate.”",
+              "translation": "学生：听了您的讲解，我完全理解定语从句怎么用了，现在能自己造句了。\n老师：太好了！我们来检验一下——你能用who作关系代词造个句子吗？\n学生：当然！“The girl who is reading a book is my deskmate.”",
+              "analysis": "学生用I’ve fully understood... 表达掌握知识点，是积极的学习反馈；老师用Great to hear that! 肯定反馈，随后通过提问检验掌握程度，符合课堂互动逻辑。"
+            },
+            {
+              "sentence": "A: I’m nervous about the upcoming English listening test. I always miss the key words.\nB: Don’t worry! You can practice by listening to English news for 15 minutes every day. It helps improve your listening speed and attention to details.\nA: That’s a good idea! I’ll start doing that tomorrow.",
+              "translation": "A：我对即将到来的英语听力考试很紧张，我总错过关键词。\nB：别担心！你可以每天听15分钟英语新闻来练习，这能提高你的听力速度和对细节的关注度。\nA：好主意！我明天就开始。",
+              "analysis": "A用I’m nervous about... 表达考前焦虑，符合考试场景的情绪表达；B用Don’t worry! 安抚情绪，随后给出具体练习建议，是有效的安慰+解决方案逻辑。"
+            },
+            {
+              "sentence": "A: How was your English mid-term exam?\nB: I did well in the writing part, but I messed up the multiple-choice questions about articles. I confused “the” and zero article in some fixed phrases.\nA: That’s a common mistake! You should make a list of those phrases to memorize them.",
+              "translation": "A：你的英语期中考试怎么样？\nB：写作部分做得不错，但冠词的选择题搞砸了，我把一些固定搭配里的the和零冠词搞混了。\nA：这是个常见错误！你应该把这些搭配列个清单记下来。",
+              "analysis": "A用How was...? 询问考后感受，是日常交流句式；B用did well in... but messed up... 对比表达考试情况，符合真实交流的逻辑；A指出错误共性并给出解决建议，贴合学习场景的互助逻辑。"
+            }
+          ],
+          "exercises": [
+            {
+              "question": "Student: ___ you explain the usage of subjunctive mood in detail, Professor? I can’t get it at all.\nTeacher: Of course! Let’s start with its basic structure...",
+              "options": {"A": "Can", "B": "Could", "C": "Will"},
+              "answer": "B",
+              "explanation": "向教授（长辈/权威）求助时，需用Could表示委婉礼貌，Can语气太直接，Will表将来，不符合“请求解释”的语境，因此选B。"
+            },
+            {
+              "question": "A: I’m stuck on the reading comprehension. The author’s attitude is hard to judge. ___?\nB: Let’s analyze the key adjectives and adverbs in the passage—they usually show the author’s feelings.",
+              "options": {"A": "Could you give me a hand", "B": "What’s your opinion about it", "C": "How do you finish it quickly"},
+              "answer": "A",
+              "explanation": "A前文说“卡在阅读理解上，难以判断作者态度”，后文B回应“我们来分析文章里的关键词”，说明A是请求帮助，Could you give me a hand（你能帮个忙吗）符合语境；B（你对此有什么看法）和C（你怎么做得这么快）均不符合求助逻辑。"
+            },
+            {
+              "question": "Student: I still don’t understand why ___ use “an” before “honest” but “a” before “university”.\nTeacher: Because it depends on phonetic sounds, not letters—“honest” starts with /ɒ/ (vowel) and “university” starts with /j/ (consonant).",
+              "options": {"A": "we should", "B": "should we", "C": "we must"},
+              "answer": "A",
+              "explanation": "宾语从句需用陈述语序（主语+谓语），因此排除B（疑问语序）；must表“必须”，语气强硬，此处学生是询问“为什么应该用”，should表“应该”更贴合学习场景的疑问语气，故选A。"
+            },
+            {
+              "question": "A: What’s the ___ for the research paper? I need to plan my time.\nB: It’s due on the last day of this month, and it should be at least 2000 words.",
+              "options": {"A": "deadline", "B": "time", "C": "date"},
+              "answer": "A",
+              "explanation": "deadline特指“任务/作业的截止日期”，符合“研究论文需要规划时间”的语境；time（时间）和date（日期）均为泛称，无法精准表达“截止时间”，故选A。"
+            },
+            {
+              "question": "A: I’m sorry, I can’t help you with your homework now—I have to attend a meeting. ___ ask Lisa? She’s good at this subject.\nB: Thank you anyway. I’ll go to her.",
+              "options": {"A": "Why don’t you", "B": "You’d better", "C": "You should"},
+              "answer": "A",
+              "explanation": "拒绝帮助后给出替代建议时，Why don’t you（你为什么不）语气委婉，符合英语礼貌交流逻辑；You’d better（你最好）和You should（你应该）语气偏强硬，缺乏委婉性，故选A。"
+            },
+            {
+              "question": "Student: I think the new vocabulary list is ___ difficult for us. We can only remember 10 words a day at most.\nTeacher: I’ll reduce the number of words and add more examples to help you.",
+              "options": {"A": "too", "B": "so", "C": "very"},
+              "answer": "A",
+              "explanation": "too+形容词+for sb表示“对某人来说太……”，符合“词汇表对我们来说太难，每天最多记10个”的语境；so需搭配that从句（so difficult that...），very仅表“非常”，无“超出能力范围”的含义，故选A。"
+            },
+            {
+              "question": "A: How do you ___ “entrepreneur”? I always spell it wrong.\nB: E-N-T-R-E-P-R-E-N-E-U-R. Remember the two Es and two Rs in the middle.",
+              "options": {"A": "say", "B": "speak", "C": "spell"},
+              "answer": "C",
+              "explanation": "后文B给出了单词的字母拼写，说明A是询问“怎么拼写”，spell（拼写）符合语境；say（说，后接内容）、speak（说，后接语言）均不符合，故选C。"
+            },
+            {
+              "question": "Student: I’ve ___ understood the difference between active and passive voice. Can I do some exercises to practice?\nTeacher: Excellent! I’ll give you a worksheet right now.",
+              "options": {"A": "full", "B": "fully", "C": "complete"},
+              "answer": "B",
+              "explanation": "需用副词修饰动词understood，fully（完全地，副词）符合语法规则；full（满的，形容词）、complete（完整的，形容词）均无法修饰动词，故选B。"
+            },
+            {
+              "question": "A: I’m really ___ about the final exam. I haven’t reviewed the modal verbs yet.\nB: Take it easy! You can focus on the core usages first—can/could for ability, may/might for permission.",
+              "options": {"A": "worried", "B": "excited", "C": "happy"},
+              "answer": "A",
+              "explanation": "后文A说“还没复习情态动词”，B回应“别紧张”，说明A是焦虑的，worried（担心的）符合语境；excited（兴奋的）、happy（开心的）均与语境相反，故选A。"
+            },
+            {
+              "question": "A: How did you ___ in the English speaking test?\nB: I did well in the self-introduction, but I messed up the impromptu speech because I ran out of ideas.",
+              "options": {"A": "make", "B": "do", "C": "get"},
+              "answer": "B",
+              "explanation": "do well/badly in... 是固定搭配，表“在……中做得好/差”，符合“询问口语考试表现”的语境；make和get无此搭配，故选B。"
+            },
+            {
+              "question": "Student: Could you give me some ___ to improve my writing skills?\nTeacher: Read more English articles and keep a diary in English every day—consistency is key.",
+              "options": {"A": "advices", "B": "suggestion", "C": "suggestions"},
+              "answer": "C",
+              "explanation": "advice是不可数名词，无复数形式，排除A；suggestion是可数名词，some后接可数名词复数或不可数名词，因此选C（suggestions）。"
+            },
+            {
+              "question": "A: I find it hard to ___ the main idea of a long passage quickly.\nB: Try to read the first and last sentence of each paragraph—they usually summarize the main point.",
+              "options": {"A": "find out", "B": "look for", "C": "discover"},
+              "answer": "A",
+              "explanation": "find out强调“通过分析/思考找出（抽象事物，如主旨）”，符合“快速找出长文章主旨”的语境；look for强调“寻找的动作”，discover强调“发现未知事物”，均不符合，故选A。"
+            },
+            {
+              "question": "Teacher: Good question! Why don’t you ___ to figure out the rule with your group members first?\nStudent: OK! We’ll discuss it and report back to you in 5 minutes.",
+              "options": {"A": "try", "B": "to try", "C": "trying"},
+              "answer": "A",
+              "explanation": "Why don’t you后接动词原形，是固定句式，表建议，因此选A（try）；to try（不定式）、trying（动名词）均不符合语法规则。"
+            },
+            {
+              "question": "A: I’m sorry I can’t attend the study group tonight. I have to take care of my sick mother.\nB: ___. We’ll share the notes with you tomorrow.",
+              "options": {"A": "That’s all right", "B": "You’re welcome", "C": "It’s my pleasure"},
+              "answer": "A",
+              "explanation": "A道歉无法参加学习小组并说明原因，B应表示“没关系”，That’s all right符合语境；You’re welcome和It’s my pleasure均用于回应感谢，不符合道歉回应逻辑，故选A。"
+            },
+            {
+              "question": "Student: The explanation in the textbook is ___ unclear that I can’t understand the usage of phrasal verbs.\nTeacher: I’ll use more real-life examples to explain them in class tomorrow.",
+              "options": {"A": "such", "B": "so", "C": "too"},
+              "answer": "B",
+              "explanation": "so+形容词+that从句（如此……以至于）是固定句式，符合“课本解释太不清楚，以至于不懂短语动词用法”的语境；such后接名词（such+adj+n+that），too后接to do（too+adj+to do），均不符合，故选B。"
+            },
+            {
+              "question": "A: What do you think of the grammar lecture given by Mr. Smith?\nB: It was ___ informative that I took over 20 pages of notes.\nA: I agree! I learned a lot about complex sentences.",
+              "options": {"A": "so", "B": "very", "C": "enough"},
+              "answer": "A",
+              "explanation": "so+形容词+that从句是固定结构，表“如此……以至于”，符合“讲座信息量太大，记了20多页笔记”的语境；very仅表“非常”，无“结果”含义；enough需放在形容词后（informative enough），均不符合，故选A。"
+            },
+            {
+              "question": "Student: I ___ finish my homework on time yesterday because I had a bad headache.\nTeacher: It’s okay. You can hand it in tomorrow morning.",
+              "options": {"A": "couldn’t", "B": "can’t", "C": "mustn’t"},
+              "answer": "A",
+              "explanation": "yesterday是过去时间，需用过去式，couldn’t（can’t的过去式）符合语境；can’t是现在时，mustn’t表“禁止”，均不符合“昨天头疼没按时完成作业”的逻辑，故选A。"
+            },
+            {
+              "question": "A: I think we should ___ more time on listening practice to pass the exam.\nB: I agree. Listening is the weakest part for most of us.",
+              "options": {"A": "spend", "B": "take", "C": "cost"},
+              "answer": "A",
+              "explanation": "spend+时间+on sth是固定搭配，主语是人，符合“我们应该花更多时间在听力练习上”的语境；take的结构是It takes sb time to do sth，cost的主语是物，均不符合，故选A。"
+            },
+            {
+              "question": "Student: Could you tell me ___ I can improve my vocabulary quickly?\nTeacher: Using flashcards and reading English novels are both effective ways.",
+              "options": {"A": "how", "B": "what", "C": "why"},
+              "answer": "A",
+              "explanation": "后文老师给出“提高词汇量的方法”，说明学生是询问“如何快速提高词汇量”，how（如何）符合语境；what（什么）需接宾语，why（为什么）询问原因，均不符合，故选A。"
+            },
+            {
+              "question": "A: I messed up the exam because I made a lot of mistakes in tense usage.\nB: ___. You can make a tense chart to review regularly, and it will help a lot.",
+              "options": {"A": "That’s a shame", "B": "Congratulations", "C": "Never mind"},
+              "answer": "C",
+              "explanation": "A说“考试搞砸了，时态错了很多”，B应先安慰再给建议，Never mind（没关系）符合语境；That’s a shame（太可惜了）仅表惋惜，无安慰含义；Congratulations（恭喜）与语境相反，故选C。"
+            }
+          ]
+        },
+        {
+          "id": "situational_communication_2",
+          "title": "5-学校场景",
+          "content": "### 学校场景情景交际核心定义\n学校场景情景交际涵盖校园日常（打招呼、问候、道别）、校园事务（请假、申请、通知）、校园活动（邀请、拒绝、反馈）、师生/同学互动（表扬、批评、安慰）等场景的英语交流规范，需掌握不同场景的固定句式、语气差异（正式/非正式）和文化习惯，是中考英语补全对话、听力短对话的核心考点。\n\n### 学校场景核心交际功能（中考必考分类）\n#### 功能1：校园日常互动（非正式）\n##### 打招呼与问候\n- 基础版：Hi/Hello! How are you doing?（嗨！最近怎么样？）、What’s up?（最近忙啥？，非正式）、How was your weekend?（周末过得怎么样？）\n- 应答版：Pretty good! I went to the library to study.（挺好的！我去图书馆学习了。）、Not bad! Just finished my homework.（还行！刚写完作业。）\n##### 道别与祝福\n- 基础版：See you later!（回头见！）、Have a nice day!（祝你今天愉快！）、Good luck with your exam!（祝你考试顺利！）\n- 应答版：You too!（你也一样！）、Thanks! See you tomorrow.（谢谢！明天见。）\n\n#### 功能2：校园事务沟通（正式/半正式）\n##### 请假（学生向老师）\n- 基础版：I’m writing to ask for a day off because...（我写信请假一天，因为……）、Could I take sick leave today? I have a high fever.（我今天能请病假吗？我发高烧了。）\n- 进阶版：I apologize for missing class, but I need to take 3 days off to look after my sick grandmother.（很抱歉缺课，但我需要请3天假照顾生病的奶奶。）\n##### 申请（学生向学校/老师）\n- 申请加入社团：I’d like to apply to join the English club. I’m good at public speaking and want to practice more.（我想申请加入英语社团，我擅长演讲，想多练习。）\n- 申请调换座位：Could I request to change my seat? I sit next to the window and the sunlight distracts me from studying.（我能申请调换座位吗？我坐在窗边，阳光影响我学习。）\n##### 通知与传达\n- 老师向学生：Attention, please! There will be a school trip to the museum next Friday.（请注意！下周五学校组织去博物馆的研学活动。）\n- 学生之间传达：The teacher said we need to bring our ID cards to the exam tomorrow.（老师说我们明天考试要带身份证。）\n\n#### 功能3：校园活动互动\n##### 邀请参与活动\n- 基础版：Would you like to join us for the sports meeting?（你愿意参加运动会吗？）、How about going to the school concert this evening?（今晚去看学校音乐会怎么样？）\n- 进阶版：We’re organizing an English speech contest. Would you be interested in taking part?（我们在组织英语演讲比赛，你有兴趣参加吗？）\n##### 接受/拒绝邀请\n- 接受：I’d love to! What time does it start?（我很乐意！什么时候开始？）、That sounds great! I’ll be there on time.（听起来很棒！我会准时到。）\n- 拒绝：I’m sorry, I can’t. I have to attend a tutoring session.（抱歉，我去不了。我得参加辅导课。）、I’d love to, but I’m busy with my project deadline.（我很想去，但我要赶项目截止日期。）\n\n#### 功能4：师生/同学评价与反馈\n##### 表扬与鼓励\n- 老师对学生：You did an excellent job on your presentation!（你的展示做得非常好！）、Keep up the good work!（继续加油！）\n- 同学之间：You’re really good at English writing! Can you give me some tips?（你英语写作真厉害！能给我些建议吗？）\n##### 批评与提醒\n- 老师对学生：You need to pay more attention to your homework—there are too many careless mistakes.（你要多注意作业，粗心错误太多了。）、I expect you to be on time for class next time.（我希望你下次上课准时。）\n- 同学之间：You shouldn’t copy others’ homework—it’s against school rules.（你不该抄作业，这违反校规。）\n##### 安慰与支持\n- 基础版：Don’t be upset! Everyone makes mistakes in exams.（别难过！每个人考试都会犯错。）、Cheer up! You can do better next time.（振作起来！下次你能做得更好。）\n- 进阶版：I know you’re stressed about the final exam, but take it step by step—we can review together.（我知道你期末考压力大，但一步一步来，我们可以一起复习。）\n\n### 学校场景交际易混点（中考易错）\n1. 语气差异：日常同学互动用非正式句式（What’s up?），向老师/学校申请用正式句式（I’d like to apply to...），不可混用；\n2. 请假逻辑：英语请假需先道歉（apologize for...）+说明原因+明确请假时长+承诺补做功课，不可只说“我要请假”；\n3. 邀请回应：拒绝邀请需先表达“想去”（I’d love to）+but+说明原因，不可直接说“No”，符合英语礼貌习惯；\n4. 文化差异：英语中“表扬他人”后，对方会说“Thank you”，而非中文的“过奖了”，如“You did well!” → “Thank you!”。",
+          "examples": [
+            {
+              "sentence": "Student A: Hi! What’s up? I haven’t seen you in the cafeteria for days.\nStudent B: Not bad! I’ve been busy with the school science fair project. How about you?\nStudent A: Pretty good! Just finished my math homework. Want to grab a coffee after class?\nStudent B: Sure! Let’s meet at the coffee shop near the library at 4 pm.",
+              "translation": "学生A：嗨！最近忙啥？好几天没在食堂看到你了。\n学生B：还行！一直在忙学校科技展的项目。你呢？\n学生A：挺好的！刚写完数学作业。课后要不要喝杯咖啡？\n学生B：好啊！我们下午4点在图书馆附近的咖啡店见。",
+              "analysis": "学生之间用What’s up?/Not bad!/Pretty good! 等非正式句式打招呼，符合校园日常互动的语气；Want to grab a coffee? 是非正式邀请，Sure! 爽快接受，贴合同学间轻松的交流氛围。"
+            },
+            {
+              "sentence": "Student: Mr. Brown, I’m sorry to interrupt you, but I need to ask for two days off. My mother is ill and I have to take care of her at home.\nMr. Brown: I’m sorry to hear that. You can take the leave, but make sure to catch up with the lessons when you come back. I’ll ask your deskmate to share the notes with you.\nStudent: Thank you so much, Mr. Brown! I’ll finish all the homework before returning to school.",
+              "translation": "学生：布朗老师，很抱歉打扰您，我需要请两天假。我妈妈生病了，我得在家照顾她。\n布朗老师：听到这个消息我很抱歉。你可以请假，但回来后一定要补上课程。我会让你同桌把笔记分享给你。\n学生：非常感谢您，布朗老师！我会在返校前完成所有作业。",
+              "analysis": "学生请假时先道歉（sorry to interrupt）+说明原因（mother is ill）+明确时长（two days off），符合正式请假的逻辑；老师先表达同情（sorry to hear that）+同意请假+提出补课要求，是师生间正式沟通的规范；学生最后致谢并承诺补作业，完成完整的请假沟通闭环。"
+            },
+            {
+              "sentence": "Teacher: Attention, everyone! The school will hold an English drama competition next month. If you’re interested, please sign up at the office by this Friday.\nStudent 1: What’s the theme of the competition?\nTeacher: It’s “Friendship and Growth”. You can form a group of 3-5 people to participate.\nStudent 2: That sounds interesting! I want to join with my classmates.",
+              "translation": "老师：各位注意！学校下个月将举办英语戏剧比赛。如果感兴趣，请本周五前到办公室报名。\n学生1：比赛的主题是什么？\n老师：主题是“友谊与成长”。你们可以组成3-5人的小组参赛。\n学生2：听起来很有意思！我想和同学一起参加。",
+              "analysis": "老师用Attention, everyone! 发布通知，是校园正式通知的固定开头；学生1询问比赛细节（theme），符合学生接收通知后的正常反馈；学生2用That sounds interesting! 表达兴趣并提出参赛意愿，贴合校园活动互动逻辑。"
+            },
+            {
+              "sentence": "A: Would you like to join our team for the school basketball game this Saturday? We need one more player.\nB: I’d love to, but I have to attend my piano lesson. It’s a weekly class and I can’t miss it.\nA: That’s a pity! Maybe you can join us next time. Good luck with your lesson!\nB: Thanks! Good luck with the game too!",
+              "translation": "A：你愿意加入我们队参加这周六的校篮球赛吗？我们还缺一个队员。\nB：我很想去，但我要上钢琴课。这是每周一次的课，我不能缺。\nA：太可惜了！那下次你再加入吧。祝你上课顺利！\nB：谢谢！也祝你们比赛顺利！",
+              "analysis": "A用Would you like to...? 礼貌邀请参加校园活动；B拒绝时先表达意愿（I’d love to）+but+说明原因（piano lesson），符合英语礼貌拒绝的逻辑；A表达惋惜并祝福，B回谢并祝福，完成完整的邀请-拒绝互动闭环。"
+            },
+            {
+              "sentence": "Teacher: Lisa, your essay on environmental protection is excellent! You did a lot of research and your arguments are very persuasive.\nLisa: Thank you, Ms. Green! I spent a week collecting data and writing it.\nTeacher: Keep up the good work! I believe you can do even better in your next writing assignment.\nLisa: I will! Thank you for your encouragement.",
+              "translation": "老师：莉萨，你的环保主题作文太棒了！你做了很多调研，论点也很有说服力。\n莉萨：谢谢您，格林老师！我花了一周时间收集资料和写作。\n老师：继续加油！我相信你下次写作能做得更好。\n莉萨：我会的！谢谢您的鼓励。",
+              "analysis": "老师用excellent! 表扬学生，并用Keep up the good work! 鼓励，是师生表扬的固定句式；莉萨用Thank you 回应表扬，符合英语文化习惯（中文常说“过奖了”，但英语需直接致谢）；最后莉萨承诺继续努力，完成表扬-回应的互动逻辑。"
+            },
+            {
+              "sentence": "A: I failed the math test again. I’m so upset. I studied really hard but still didn’t do well.\nB: Don’t be upset! Math is tricky, but you just need to find the right learning method. Let’s go over the test paper together after class—I can help you analyze the mistakes.\nA: Thank you so much! That means a lot to me.\nB: No problem! We’re classmates, and we should help each other.",
+              "translation": "A：我数学考试又不及格了，好难过。我真的很努力学了，但还是没考好。\nB：别难过！数学确实难，但你只是需要找到正确的学习方法。课后我们一起看下试卷吧，我帮你分析错误。\nA：太谢谢你了！这对我来说太重要了。\nB：没问题！我们是同学，就该互相帮助。",
+              "analysis": "A用I failed... I’m so upset. 表达考试失利的情绪，符合校园场景的真实交流；B先用Don’t be upset! 安慰，再分析问题（find the right method）+给出具体帮助（go over the test paper），是有效的安慰+支持逻辑；A致谢，B回应“同学互助”，贴合校园同学间的互动氛围。"
+            },
+            {
+              "sentence": "Student: Could I apply to change my dormitory? My roommate stays up late every night and I can’t sleep well, which affects my study.\nTeacher: I understand your situation. Please fill out this application form and explain the details. We’ll review it and get back to you within 3 days.\nStudent: Thank you very much! I hope to get a positive reply soon.\nTeacher: We’ll do our best to solve your problem.",
+              "translation": "学生：我能申请调换宿舍吗？我的室友每晚熬夜，我睡不好，影响学习。\n老师：我理解你的情况。请填写这份申请表，说明详细情况。我们会审核，并在3天内给你回复。\n学生：非常感谢！我希望尽快得到正面答复。\n老师：我们会尽力解决你的问题。",
+              "analysis": "学生用Could I apply to...? 正式申请调换宿舍，并说明原因（roommate stays up late），符合校园事务申请的逻辑；老师先表示理解+给出具体操作（fill out the form）+明确回复时间，是学校事务处理的规范回应；学生致谢并表达期待，老师承诺解决问题，完成申请-回应的闭环。"
+            },
+            {
+              "sentence": "A: Have a nice weekend! I’m going to the bookstore to buy some English novels.\nB: You too! I’m planning to go to the school playground to play badminton with my friends.\nA: Sounds fun! Don’t forget to bring water—it’s going to be hot tomorrow.\nB: Thanks for reminding me! See you on Monday.",
+              "translation": "A：祝你周末愉快！我要去书店买些英语小说。\nB：你也一样！我打算和朋友去学校操场打羽毛球。\nA：听起来很有意思！别忘了带水，明天会很热。\nB：谢谢你提醒我！周一见。",
+              "analysis": "A用Have a nice weekend! 祝福，B用You too! 回应，是校园道别祝福的固定句式；A补充提醒（Don’t forget to bring water），B致谢并道别，符合同学间日常互动的温馨逻辑。"
+            },
+            {
+              "sentence": "Teacher: Tom, you were late for class again this morning. You need to be more punctual—being late disrupts the class and your own learning.\nTom: I’m sorry, Ms. Lee. I missed the school bus because I got up late. I promise it won’t happen again.\nTeacher: I hope so. Make sure to set your alarm earlier tomorrow.\nTom: I will. Thank you for your reminder.",
+              "translation": "老师：汤姆，你今天早上又上课迟到了。你要更守时——迟到会扰乱课堂，也影响你自己的学习。\n汤姆：对不起，李老师。我起晚了没赶上校车。我保证不会再发生了。\n老师：希望如此。明天一定要早点设闹钟。\n汤姆：我会的。谢谢您的提醒。",
+              "analysis": "老师批评学生迟到时，先指出问题（late again）+说明危害（disrupts the class），语气客观不生硬；汤姆道歉+说明原因+承诺改进，符合学生认错的逻辑；老师给出具体建议（set your alarm earlier），汤姆致谢，完成批评-认错的互动闭环。"
+            },
+            {
+              "sentence": "A: We’re organizing a volunteer activity to clean up the school garden this Sunday. Would you be interested in joining us?\nB: That’s a great idea! I’m always willing to do something for the school. What time should we meet?\nA: At 9 am at the school gate. Please bring a pair of gloves and a trash bag.\nB: OK! I’ll be there on time. I’ll also ask my roommate to join us.",
+              "translation": "A：我们在组织这周日清理校园花园的志愿活动，你有兴趣参加吗？\nB：好主意！我一直愿意为学校做点事。我们几点集合？\nA：早上9点在校门口。请带一副手套和一个垃圾袋。\nB：好的！我会准时到。我也会叫室友一起参加。",
+              "analysis": "A用Would you be interested in...? 正式邀请参加校园志愿活动；B用That’s a great idea! 积极接受，并询问细节（What time），符合接受邀请后的正常反馈；A告知集合时间和准备物品，B承诺准时并邀请他人，贴合校园志愿活动的互动逻辑。"
+            }
+          ],
+          "exercises": [
+            {
+              "question": "A: Hi! ___? I haven’t seen you in the classroom for two days.\nB: I was sick and stayed at home to rest. I just got better today.",
+              "options": {"A": "What’s wrong with you", "B": "How are you doing", "C": "What’s up"},
+              "answer": "C",
+              "explanation": "What’s up是同学间非正式的问候语，表“最近忙啥/怎么了”，符合“两天没见，询问原因”的语境；What’s wrong with you语气偏生硬，易误解为“你出什么毛病了”；How are you doing仅表“最近怎么样”，无“询问缺席原因”的隐含逻辑，故选C。"
+            },
+            {
+              "question": "Student: Mr. White, I’m writing to ___ a week off because I need to go back home to attend my grandmother’s 80th birthday.\nTeacher: I understand. Please fill out the leave form and get it signed by the head teacher.",
+              "options": {"A": "ask for", "B": "look for", "C": "pay for"},
+              "answer": "A",
+              "explanation": "ask for a day/week off是固定搭配，表“请一天/一周假”，符合“向老师请假回家参加奶奶80大寿”的语境；look for（寻找）、pay for（支付）均不符合，故选A。"
+            },
+            {
+              "question": "Teacher: Attention, please! There ___ a parents’ meeting in the school hall next Monday evening.\nStudents: OK! We’ll inform our parents as soon as possible.",
+              "options": {"A": "will have", "B": "will be", "C": "is going to have"},
+              "answer": "B",
+              "explanation": "there be句型的将来时是there will be/there is/are going to be，不能与have混用，因此排除A和C，选B。"
+            },
+            {
+              "question": "A: Would you like to go to the school art exhibition with me this afternoon?\nB: ___, but I have to finish my art homework first. I can meet you at the exhibition hall at 4 pm.\nA: No problem! I’ll wait for you there.",
+              "options": {"A": "I’m sorry", "B": "I’d love to", "C": "That’s all right"},
+              "answer": "B",
+              "explanation": "B后文说“但我要先完成美术作业，4点在展厅见”，说明B愿意去，只是需要先完成作业，I’d love to（我很想去）符合语境；I’m sorry（抱歉）用于拒绝，That’s all right（没关系）用于回应道歉/感谢，均不符合，故选B。"
+            },
+            {
+              "question": "Teacher: You ___ an amazing job on your English speech! Your pronunciation is perfect and your content is moving.\nStudent: Thank you, sir! I practiced it for a whole week.",
+              "options": {"A": "did", "B": "do", "C": "have done"},
+              "answer": "A",
+              "explanation": "老师表扬学生的演讲，演讲是过去完成的动作，用一般过去时did符合语境；do是现在时，have done是现在完成时，强调“到现在的结果”，此处仅表扬过去的表现，故选A。"
+            },
+            {
+              "question": "A: I’m so sad. I didn’t get into the school English club.\nB: ___. You can try again next semester. And your English is really good—just be more confident next time.\nA: Thanks for your encouragement. I’ll try my best.",
+              "options": {"A": "Cheer up", "B": "Congratulations", "C": "It’s my pleasure"},
+              "answer": "A",
+              "explanation": "A因没加入英语社团难过，B应安慰并鼓励，Cheer up（振作起来）符合语境；Congratulations（恭喜）与语境相反，It’s my pleasure（我的荣幸）用于回应感谢，均不符合，故选A。"
+            },
+            {
+              "question": "Student: Could I ___ to change my seat? I sit in the back row and can’t hear the teacher clearly.\nTeacher: Let me check the seat plan. I can move you to the middle row if it’s available.",
+              "options": {"A": "request", "B": "require", "C": "reply"},
+              "answer": "A",
+              "explanation": "request to do sth表“请求做某事”，语气委婉，符合“向老师申请调换座位”的语境；require（要求）语气强硬，reply（回复）不符合“申请”逻辑，故选A。"
+            },
+            {
+              "question": "A: Have a great time at the school camping trip!\nB: ___! I’ll take lots of photos and share them with you when I come back.\nA: That’s great! I’m looking forward to seeing them.",
+              "options": {"A": "You too", "B": "Thank you", "C": "Never mind"},
+              "answer": "B",
+              "explanation": "A祝福B露营愉快，B应致谢，Thank you符合语境；You too（你也一样）用于回应“彼此都能享受的祝福”（如Have a nice day），但A不参加露营，故不适用；Never mind（没关系）用于回应道歉，不符合，故选B。"
+            },
+            {
+              "question": "Teacher: You ___ copy others’ homework, Jack. It’s against the school rules and you won’t learn anything by doing that.\nJack: I’m sorry, Ms. Wang. I won’t do it again. I was too lazy to finish it by myself.",
+              "options": {"A": "needn’t", "B": "shouldn’t", "C": "mustn’t"},
+              "answer": "C",
+              "explanation": "mustn’t表“禁止”，语气强硬，符合“老师批评抄作业，指出违反校规”的语境；needn’t（不必）、shouldn’t（不应该）语气较弱，无法体现“校规禁止”的严肃性，故选C。"
+            },
+            {
+              "question": "A: We’re planning a school picnic next month. How about ___ some fruit and snacks to share with classmates?\nB: That’s a good idea! I can bring some apples and cookies.",
+              "options": {"A": "bring", "B": "bringing", "C": "to bring"},
+              "answer": "B",
+              "explanation": "How about后接动名词（doing），是固定句式，表建议，因此选B（bringing）；bring（动词原形）、to bring（不定式）均不符合语法规则。"
+            },
+            {
+              "question": "Student: I apologize ___ missing the sports meeting yesterday. I had a sudden stomachache and went to the hospital.\nTeacher: It’s okay. I hope you’re feeling better now. You can ask your classmates about the results.",
+              "options": {"A": "to", "B": "for", "C": "with"},
+              "answer": "B",
+              "explanation": "apologize for doing sth是固定搭配，表“为做某事道歉”，符合“为错过运动会道歉并说明原因”的语境；apologize to sb（向某人道歉），apologize不与with搭配，故选B。"
+            },
+            {
+              "question": "A: I heard the school library ___ a new rule—we can borrow 5 books at a time instead of 3.\nB: That’s wonderful! I can borrow more English storybooks to read during the holiday.",
+              "options": {"A": "has made", "B": "will make", "C": "made"},
+              "answer": "A",
+              "explanation": "A说“听说图书馆制定了新规则”，新规则是已经制定且现在生效的（可以借5本书），用现在完成时has made强调“过去的动作对现在的影响”；will make（将来时）、made（过去时，仅表过去动作，无现在影响）均不符合，故选A。"
+            },
+            {
+              "question": "Teacher: Keep ___ the good work, Lily! Your progress in English reading is remarkable.\nLily: Thank you, Ms. Zhang! I’ll keep reading for 30 minutes every day.",
+              "options": {"A": "up", "B": "on", "C": "off"},
+              "answer": "A",
+              "explanation": "keep up the good work是固定短语，表“继续加油”，符合老师鼓励学生的语境；keep on后接doing（keep on doing sth），keep off（远离）均不符合，故选A。"
+            },
+            {
+              "question": "A: I’m stressed out about the school talent show. I’m afraid I’ll forget my lines when I perform.\nB: ___. Just take a deep breath and practice more—you’ll do great!\nA: Thanks! I’ll try my best to calm down.",
+              "options": {"A": "Take it easy", "B": "That’s a shame", "C": "You’re right"},
+              "answer": "A",
+              "explanation": "A因才艺表演紧张，担心忘词，B应安慰并给出建议，Take it easy（别紧张）符合语境；That’s a shame（太可惜了）、You’re right（你是对的）均无安慰含义，故选A。"
+            },
+            {
+              "question": "Student: I’d like to apply ___ the school English newspaper as a reporter. I love writing and want to practice my English.\nTeacher: Great! Please submit your application form and a sample article by next Wednesday.",
+              "options": {"A": "for", "B": "to", "C": "join"},
+              "answer": "B",
+              "explanation": "apply to... as... 表“申请成为……的一员”，符合“申请成为校英语报记者”的语境；apply for sth（申请某物，如apply for a position），join是动词，不能直接接在apply后，故选B。"
+            },
+            {
+              "question": "A: See you later! I’m going to the school gym to play basketball with my friends.\nB: ___! Don’t play for too long—you have a math test tomorrow.\nA: I won’t! Thanks for reminding me.",
+              "options": {"A": "Good luck", "B": "Have fun", "C": "Congratulations"},
+              "answer": "B",
+              "explanation": "A说要去体育馆打篮球，B应祝其玩得开心，Have fun符合语境；Good luck（祝你好运）用于考试/比赛前，Congratulations（恭喜）用于庆祝成功，均不符合，故选B。"
+            },
+            {
+              "question": "Teacher: You ___ be on time for the morning reading class, students. It’s an important time to practice your English pronunciation.\nStudents: We will, Ms. Chen! We’ll arrive at school 10 minutes earlier from tomorrow.",
+              "options": {"A": "should", "B": "must", "C": "can"},
+              "answer": "B",
+              "explanation": "must表“必须”，语气强硬，符合“老师强调早读课必须准时，指出其重要性”的语境；should（应该）语气较弱，can（可以）不符合“要求准时”的逻辑，故选B。"
+            },
+            {
+              "question": "A: Why not ___ the school music club? You’re really good at playing the guitar.\nB: That’s a good suggestion! I’ll go to the club office to sign up tomorrow.",
+              "options": {"A": "join", "B": "to join", "C": "joining"},
+              "answer": "A",
+              "explanation": "Why not后接动词原形，是固定句式，表建议，因此选A（join）；to join（不定式）、joining（动名词）均不符合语法规则。"
+            },
+            {
+              "question": "Student: I missed the school bus this morning, ___ I had to take a taxi to school. That’s why I was late.\nTeacher: You should set two alarms to make sure you get up on time next time.",
+              "options": {"A": "so", "B": "because", "C": "but"},
+              "answer": "A",
+              "explanation": "前文“错过校车”是原因，后文“打车上学”是结果，so（因此）表因果关系，符合语境；because（因为）表原因，but（但是）表转折，均不符合，故选A。"
+            },
+            {
+              "question": "A: I think the school should build more reading corners for students to read books during breaks.\nB: ___. It will provide us with a more comfortable place to study and relax.\nA: I’ll write a suggestion letter to the head teacher and see if it can be done.",
+              "options": {"A": "I disagree", "B": "I agree", "C": "I don’t think so"},
+              "answer": "B",
+              "explanation": "B后文说“这会给我们提供更舒适的学习放松场所”，说明B同意A的建议，I agree符合语境；I disagree（我不同意）、I don’t think so（我不这么认为）均与语境相反，故选B。"
+            }
+          ]
+        },
+        {
+          "id": "situational_communication_school_01",
+          "title": "6-学校场景2",
+          "content": "### 学校场景情景交际核心定义\n学校场景情景交际是覆盖校园日常互动、校园事务办理、校园活动参与、师生/同学间评价反馈等全维度的英语交流规范，核心特点是**分场景区分语气（非正式/正式）** ——同学间日常交流偏轻松informal，向老师/学校申请事务偏正式formal，同时需遵循英语礼貌表达逻辑，是中考英语听力短对话、补全对话、书面表达的高频考点。\n\n### 学校场景核心交际功能（中考必考分类）\n#### 功能1：校园日常互动（非正式）\n##### 1.1 打招呼与问候（同学间）\n- 基础句式：Hi/Hello! How are you doing?（嗨！最近怎么样？）、What’s up?（最近忙啥？）、How was your weekend?（周末过得怎么样？）\n- 应答句式：Pretty good!（挺好的！）、Not bad!（还行！）、Just so-so.（一般般。）\n- 易错点：避免中文直译成“How do you do?”（仅初次见面用，日常不用）\n\n##### 1.2 道别与祝福\n- 基础句式：See you later!（回头见！）、Have a nice day!（祝你今天愉快！）、Good luck with your exam!（祝你考试顺利！）\n- 应答句式：You too!（你也一样！）、Thanks! See you tomorrow.（谢谢！明天见。）\n\n#### 功能2：校园事务沟通（正式/半正式）\n##### 2.1 请假（学生→老师）\n- 核心逻辑：道歉+说明原因+明确时长+承诺补做功课\n- 基础句式：I’m sorry to ask for a day off because I have a high fever.（抱歉请假一天，我发高烧了。）\n- 进阶句式：I apologize for missing class, but I need 3 days off to look after my sick grandmother. I’ll catch up with all lessons when I return.（很抱歉缺课，但我需请3天假照顾生病的奶奶，返校后会补上所有课程。）\n- 易错点：不可只说“I want to take a leave”，必须说明原因+后续安排\n\n##### 2.2 申请（调座位/入社团/换宿舍）\n- 核心逻辑：礼貌请求+说明理由+表达配合\n- 基础句式：Could I request to change my seat? I sit next to the window and the sunlight distracts me.（我能申请调座位吗？我坐窗边，阳光影响我学习。）\n- 进阶句式：I’d like to apply to join the English club. I’m good at public speaking and willing to participate in club activities regularly.（我想申请加入英语社团，我擅长演讲且愿意定期参加社团活动。）\n\n##### 2.3 通知与传达\n- 老师→学生：Attention, please! There will be a school trip next Friday.（请注意！下周五有校园研学活动。）\n- 学生间传达：The teacher said we need to bring ID cards to the exam tomorrow.（老师说我们明天考试要带身份证。）\n\n#### 功能3：校园活动互动\n##### 3.1 邀请参与活动\n- 礼貌句式：Would you like to join the sports meeting with us?（你愿意和我们一起参加运动会吗？）、How about going to the school concert tonight?（今晚去看校园音乐会怎么样？）\n- 进阶句式：We’re organizing an English speech contest—would you be interested in taking part?（我们在组织英语演讲比赛，你有兴趣参加吗？）\n\n##### 3.2 接受/拒绝邀请\n- 接受：I’d love to! What time does it start?（我很乐意！几点开始？）\n- 拒绝（核心礼貌逻辑：先表意愿+but+说明原因）：I’d love to, but I have to attend a tutoring session.（我很想去，但我要上辅导课。）\n- 易错点：不可直接说“No”，必须委婉拒绝\n\n#### 功能4：师生/同学评价与反馈\n##### 4.1 表扬与鼓励\n- 老师→学生：You did an excellent job!（你做得非常好！）、Keep up the good work!（继续加油！）\n- 同学间：You’re really good at English writing! Can you give me some tips?（你英语写作超棒！能给我些建议吗？）\n- 文化差异：英语中被表扬需回应“Thank you”，而非中文的“过奖了”\n\n##### 4.2 批评与提醒\n- 老师→学生：You need to be more punctual—being late disrupts the class.（你要更守时，迟到会扰乱课堂。）\n- 同学间：You shouldn’t copy homework—it’s against school rules.（你不该抄作业，这违反校规。）\n\n##### 4.3 安慰与支持\n- 基础句式：Don’t be upset! Everyone makes mistakes in exams.（别难过！每个人考试都会犯错。）\n- 进阶句式：Cheer up! We can review together for the final exam.（振作起来！我们可以一起复习期末考。）",
+          "examples": [
+            {
+              "sentence": "Student A: Hi! What’s up? I haven’t seen you in the cafeteria for days.\nStudent B: Not bad! I’ve been busy with the school science fair project. How about you?\nStudent A: Pretty good! Just finished my math homework. Want to grab a coffee after class?\nStudent B: Sure! Let’s meet at the coffee shop near the library at 4 pm.",
+              "translation": "学生A：嗨！最近忙啥？好几天没在食堂看到你了。\n学生B：还行！一直在忙学校科技展的项目。你呢？\n学生A：挺好的！刚写完数学作业。课后要不要喝杯咖啡？\n学生B：好啊！我们下午4点在图书馆附近的咖啡店见。",
+              "analysis": "同学间用“What’s up?/Not bad!/Pretty good!”等非正式句式打招呼，符合校园日常轻松的交流氛围；“Want to grab a coffee?”是非正式邀请，“Sure!”爽快接受，贴合学生间的沟通习惯。"
+            },
+            {
+              "sentence": "Student: Mr. Brown, I’m sorry to interrupt you, but I need to ask for two days off. My mother is ill and I have to take care of her at home.\nMr. Brown: I’m sorry to hear that. You can take the leave, but make sure to catch up with the lessons when you come back. I’ll ask your deskmate to share the notes with you.\nStudent: Thank you so much, Mr. Brown! I’ll finish all the homework before returning to school.",
+              "translation": "学生：布朗老师，很抱歉打扰您，我需要请两天假。我妈妈生病了，我得在家照顾她。\n布朗老师：听到这个消息我很抱歉。你可以请假，但回来后一定要补上课程。我会让你同桌把笔记分享给你。\n学生：非常感谢您，布朗老师！我会在返校前完成所有作业。",
+              "analysis": "学生请假遵循“道歉+原因+时长”的正式逻辑；老师先表达同情，再同意请假并提出补课要求，体现师生沟通的严谨性；学生致谢并承诺补作业，完成完整的请假沟通闭环。"
+            },
+            {
+              "sentence": "Teacher: Attention, everyone! The school will hold an English drama competition next month. If you’re interested, please sign up at the office by this Friday.\nStudent 1: What’s the theme of the competition?\nTeacher: It’s “Friendship and Growth”. You can form a group of 3-5 people to participate.\nStudent 2: That sounds interesting! I want to join with my classmates.",
+              "translation": "老师：各位注意！学校下个月将举办英语戏剧比赛。如果感兴趣，请本周五前到办公室报名。\n学生1：比赛的主题是什么？\n老师：主题是“友谊与成长”。你们可以组成3-5人的小组参赛。\n学生2：听起来很有意思！我想和同学一起参加。",
+              "analysis": "老师用“Attention, everyone!”发布正式通知，是校园通知的固定开头；学生1追问细节（主题），学生2表达参赛意愿，符合学生接收通知后的正常反馈逻辑。"
+            },
+            {
+              "sentence": "A: Would you like to join our team for the school basketball game this Saturday? We need one more player.\nB: I’d love to, but I have to attend my piano lesson. It’s a weekly class and I can’t miss it.\nA: That’s a pity! Maybe you can join us next time. Good luck with your lesson!\nB: Thanks! Good luck with the game too!",
+              "translation": "A：你愿意加入我们队参加这周六的校篮球赛吗？我们还缺一个队员。\nB：我很想去，但我要上钢琴课。这是每周一次的课，我不能缺。\nA：太可惜了！那下次你再加入吧。祝你上课顺利！\nB：谢谢！也祝你们比赛顺利！",
+              "analysis": "A用“Would you like to...?”礼貌邀请；B拒绝时遵循“先表意愿+but+原因”的礼貌逻辑，避免直接说“No”；双方互相祝福，符合校园活动互动的友好氛围。"
+            },
+            {
+              "sentence": "Teacher: Lisa, your essay on environmental protection is excellent! You did a lot of research and your arguments are very persuasive.\nLisa: Thank you, Ms. Green! I spent a week collecting data and writing it.\nTeacher: Keep up the good work! I believe you can do even better in your next writing assignment.\nLisa: I will! Thank you for your encouragement.",
+              "translation": "老师：莉萨，你的环保主题作文太棒了！你做了很多调研，论点也很有说服力。\n莉萨：谢谢您，格林老师！我花了一周时间收集资料和写作。\n老师：继续加油！我相信你下次写作能做得更好。\n莉萨：我会的！谢谢您的鼓励。",
+              "analysis": "老师用“excellent!/Keep up the good work!”表扬并鼓励学生；莉萨用“Thank you”回应表扬（符合英语文化习惯），而非中文的“过奖了”，是核心易错点的正确示范。"
+            },
+            {
+              "sentence": "A: I failed the math test again. I’m so upset. I studied really hard but still didn’t do well.\nB: Don’t be upset! Math is tricky, but you just need to find the right learning method. Let’s go over the test paper together after class—I can help you analyze the mistakes.\nA: Thank you so much! That means a lot to me.\nB: No problem! We’re classmates, and we should help each other.",
+              "translation": "A：我数学考试又不及格了，好难过。我真的很努力学了，但还是没考好。\nB：别难过！数学确实难，但你只是需要找到正确的学习方法。课后我们一起看下试卷吧，我帮你分析错误。\nA：太谢谢你了！这对我来说太重要了。\nB：没问题！我们是同学，就该互相帮助。",
+              "analysis": "A表达考试失利的负面情绪，B先用“Don’t be upset!”安慰，再分析问题+给出具体帮助（一起看试卷），是校园安慰的有效逻辑，避免只说“别难过”却无实际行动。"
+            },
+            {
+              "sentence": "Student: Could I apply to change my dormitory? My roommate stays up late every night and I can’t sleep well, which affects my study.\nTeacher: I understand your situation. Please fill out this application form and explain the details. We’ll review it and get back to you within 3 days.\nStudent: Thank you very much! I hope to get a positive reply soon.\nTeacher: We’ll do our best to solve your problem.",
+              "translation": "学生：我能申请调换宿舍吗？我的室友每晚熬夜，我睡不好，影响学习。\n老师：我理解你的情况。请填写这份申请表，说明详细情况。我们会审核，并在3天内给你回复。\n学生：非常感谢！我希望尽快得到正面答复。\n老师：我们会尽力解决你的问题。",
+              "analysis": "学生用“Could I apply to...?”正式申请调宿舍，说明具体理由；老师先表示理解，再给出明确操作步骤（填申请表）和回复时间，符合校园事务办理的规范流程。"
+            },
+            {
+              "sentence": "A: Have a nice weekend! I’m going to the bookstore to buy some English novels.\nB: You too! I’m planning to go to the school playground to play badminton with my friends.\nA: Sounds fun! Don’t forget to bring water—it’s going to be hot tomorrow.\nB: Thanks for reminding me! See you on Monday.",
+              "translation": "A：祝你周末愉快！我要去书店买些英语小说。\nB：你也一样！我打算和朋友去学校操场打羽毛球。\nA：听起来很有意思！别忘了带水，明天会很热。\nB：谢谢你提醒我！周一见。",
+              "analysis": "A用“Have a nice weekend!”祝福，B用“You too!”回应（校园道别祝福的固定搭配）；A补充贴心提醒，B致谢并道别，体现同学间的温馨互动。"
+            },
+            {
+              "sentence": "Teacher: Tom, you were late for class again this morning. You need to be more punctual—being late disrupts the class and your own learning.\nTom: I’m sorry, Ms. Lee. I missed the school bus because I got up late. I promise it won’t happen again.\nTeacher: I hope so. Make sure to set your alarm earlier tomorrow.\nTom: I will. Thank you for your reminder.",
+              "translation": "老师：汤姆，你今天早上又上课迟到了。你要更守时——迟到会扰乱课堂，也影响你自己的学习。\n汤姆：对不起，李老师。我起晚了没赶上校车。我保证不会再发生了。\n老师：希望如此。明天一定要早点设闹钟。\n汤姆：我会的。谢谢您的提醒。",
+              "analysis": "老师批评迟到时，先指出问题+说明危害（而非单纯指责），语气客观；汤姆道歉+说明原因+承诺改进，符合学生认错的正确逻辑；老师给出具体改进建议，完成批评-认错的闭环。"
+            },
+            {
+              "sentence": "A: We’re organizing a volunteer activity to clean up the school garden this Sunday. Would you be interested in joining us?\nB: That’s a great idea! I’m always willing to do something for the school. What time should we meet?\nA: At 9 am at the school gate. Please bring a pair of gloves and a trash bag.\nB: OK! I’ll be there on time. I’ll also ask my roommate to join us.",
+              "translation": "A：我们在组织这周日清理校园花园的志愿活动，你有兴趣参加吗？\nB：好主意！我一直愿意为学校做点事。我们几点集合？\nA：早上9点在校门口。请带一副手套和一个垃圾袋。\nB：好的！我会准时到。我也会叫室友一起参加。",
+              "analysis": "A用“Would you be interested in...?”正式邀请参加志愿活动；B积极接受并追问细节（时间），A告知具体要求，B承诺准时并邀请他人，贴合校园志愿活动的互动逻辑。"
+            }
+          ],
+          "exercises": [
+            {
+              "question": "A: Hi! ___? I haven’t seen you in the classroom for two days.\nB: I was sick and stayed at home to rest. I just got better today.",
+              "options": {"A": "What’s wrong with you", "B": "How are you doing", "C": "What’s up"},
+              "answer": "C",
+              "explanation": "What’s up是同学间非正式的问候语，表“最近忙啥/怎么了”，自然贴合“两天没见，询问缺席原因”的语境；What’s wrong with you语气偏生硬，易被误解为“你出毛病了”；How are you doing仅泛泛问“最近怎么样”，无“询问缺席原因”的隐含逻辑。"
+            },
+            {
+              "question": "Student: Mr. White, I’m writing to ___ a week off because I need to go back home to attend my grandmother’s 80th birthday.\nTeacher: I understand. Please fill out the leave form and get it signed by the head teacher.",
+              "options": {"A": "ask for", "B": "look for", "C": "pay for"},
+              "answer": "A",
+              "explanation": "ask for a day/week off是固定搭配，表“请一天/一周假”，精准匹配“向老师请假回家参加奶奶大寿”的语境；look for（寻找）、pay for（支付）均与“请假”无关。"
+            },
+            {
+              "question": "Teacher: Attention, please! There ___ a parents’ meeting in the school hall next Monday evening.\nStudents: OK! We’ll inform our parents as soon as possible.",
+              "options": {"A": "will have", "B": "will be", "C": "is going to have"},
+              "answer": "B",
+              "explanation": "there be句型的将来时只能是there will be/there is/are going to be，不能与have混用，因此排除A和C；这是中考高频易错点，需牢记“there be不与have连用”。"
+            },
+            {
+              "question": "A: Would you like to go to the school art exhibition with me this afternoon?\nB: ___, but I have to finish my art homework first. I can meet you at the exhibition hall at 4 pm.\nA: No problem! I’ll wait for you there.",
+              "options": {"A": "I’m sorry", "B": "I’d love to", "C": "That’s all right"},
+              "answer": "B",
+              "explanation": "B后文说“但我要先完成美术作业，4点在展厅见”，说明B愿意去只是需要先完成作业，I’d love to（我很想去）符合“委婉回应邀请”的逻辑；I’m sorry用于直接拒绝，That’s all right用于回应道歉/感谢，均不符合语境。"
+            },
+            {
+              "question": "Teacher: You ___ an amazing job on your English speech! Your pronunciation is perfect and your content is moving.\nStudent: Thank you, sir! I practiced it for a whole week.",
+              "options": {"A": "did", "B": "do", "C": "have done"},
+              "answer": "A",
+              "explanation": "老师表扬的是学生“过去完成的演讲”，用一般过去时did符合语境；do是现在时，have done是现在完成时（强调到现在的结果），此处仅表扬过去的表现，无需强调“现在的影响”。"
+            },
+            {
+              "question": "A: I’m so sad. I didn’t get into the school English club.\nB: ___. You can try again next semester. And your English is really good—just be more confident next time.\nA: Thanks for your encouragement. I’ll try my best.",
+              "options": {"A": "Cheer up", "B": "Congratulations", "C": "It’s my pleasure"},
+              "answer": "A",
+              "explanation": "A因没加入社团难过，B需要安慰并鼓励，Cheer up（振作起来）精准贴合语境；Congratulations（恭喜）与语境完全相反，It’s my pleasure（我的荣幸）用于回应感谢，均不适用。"
+            },
+            {
+              "question": "Student: Could I ___ to change my seat? I sit in the back row and can’t hear the teacher clearly.\nTeacher: Let me check the seat plan. I can move you to the middle row if it’s available.",
+              "options": {"A": "request", "B": "require", "C": "reply"},
+              "answer": "A",
+              "explanation": "request to do sth表“礼貌请求做某事”，符合“向老师申请调座位”的正式且委婉的语气；require（要求）语气强硬，有“命令”感，不符合学生对老师的沟通礼仪；reply（回复）与“申请”逻辑无关。"
+            },
+            {
+              "question": "A: Have a great time at the school camping trip!\nB: ___! I’ll take lots of photos and share them with you when I come back.\nA: That’s great! I’m looking forward to seeing them.",
+              "options": {"A": "You too", "B": "Thank you", "C": "Never mind"},
+              "answer": "B",
+              "explanation": "A祝福B露营愉快，B应先致谢，Thank you符合英语礼貌习惯；You too（你也一样）仅适用于“彼此都能享受的祝福”（如Have a nice day），但A不参加露营，故不适用；Never mind（没关系）用于回应道歉，不符合。"
+            },
+            {
+              "question": "Teacher: You ___ copy others’ homework, Jack. It’s against the school rules and you won’t learn anything by doing that.\nJack: I’m sorry, Ms. Wang. I won’t do it again. I was too lazy to finish it by myself.",
+              "options": {"A": "needn’t", "B": "shouldn’t", "C": "mustn’t"},
+              "answer": "C",
+              "explanation": "mustn’t表“禁止”，语气强硬，符合“老师批评抄作业，强调违反校规”的严肃性；needn’t（不必）、shouldn’t（不应该）语气较弱，无法体现“校规禁止”的核心态度。"
+            },
+            {
+              "question": "A: We’re planning a school picnic next month. How about ___ some fruit and snacks to share with classmates?\nB: That’s a good idea! I can bring some apples and cookies.",
+              "options": {"A": "bring", "B": "bringing", "C": "to bring"},
+              "answer": "B",
+              "explanation": "How about后必须接动名词（doing），是固定句式（表建议），因此选bringing；这是中考基础语法考点，需牢记“How about doing sth”的结构。"
+            },
+            {
+              "question": "Student: I apologize ___ missing the sports meeting yesterday. I had a sudden stomachache and went to the hospital.\nTeacher: It’s okay. I hope you’re feeling better now. You can ask your classmates about the results.",
+              "options": {"A": "to", "B": "for", "C": "with"},
+              "answer": "B",
+              "explanation": "apologize for doing sth是固定搭配，表“为做某事道歉”，符合“为错过运动会道歉并说明原因”的语境；apologize to sb（向某人道歉），apologize不与with搭配。"
+            },
+            {
+              "question": "A: I heard the school library ___ a new rule—we can borrow 5 books at a time instead of 3.\nB: That’s wonderful! I can borrow more English storybooks to read during the holiday.",
+              "options": {"A": "has made", "B": "will make", "C": "made"},
+              "answer": "A",
+              "explanation": "新规则“已经制定且现在生效”（可以借5本书），用现在完成时has made强调“过去的动作对现在的影响”；will make（将来时）、made（过去时，仅表过去动作，无现在影响）均不符合。"
+            },
+            {
+              "question": "Teacher: Keep ___ the good work, Lily! Your progress in English reading is remarkable.\nLily: Thank you, Ms. Zhang! I’ll keep reading for 30 minutes every day.",
+              "options": {"A": "up", "B": "on", "C": "off"},
+              "answer": "A",
+              "explanation": "keep up the good work是固定短语，表“继续加油”，是老师鼓励学生的经典句式；keep on后接doing（keep on doing sth），keep off（远离）均不符合语境。"
+            },
+            {
+              "question": "A: I’m stressed out about the school talent show. I’m afraid I’ll forget my lines when I perform.\nB: ___. Just take a deep breath and practice more—you’ll do great!\nA: Thanks! I’ll try my best to calm down.",
+              "options": {"A": "Take it easy", "B": "That’s a shame", "C": "You’re right"},
+              "answer": "A",
+              "explanation": "A因才艺表演紧张、担心忘词，B需要安慰并给出建议，Take it easy（别紧张）贴合语境；That’s a shame（太可惜了）、You’re right（你是对的）均无安慰含义。"
+            },
+            {
+              "question": "Student: I’d like to apply ___ the school English newspaper as a reporter. I love writing and want to practice my English.\nTeacher: Great! Please submit your application form and a sample article by next Wednesday.",
+              "options": {"A": "for", "B": "to", "C": "join"},
+              "answer": "B",
+              "explanation": "apply to... as... 表“申请成为……的一员”，符合“申请成为校英语报记者”的语境；apply for sth（申请某物，如apply for a position），join是动词，不能直接接在apply后。"
+            },
+            {
+              "question": "A: See you later! I’m going to the school gym to play basketball with my friends.\nB: ___! Don’t play for too long—you have a math test tomorrow.\nA: I won’t! Thanks for reminding me.",
+              "options": {"A": "Good luck", "B": "Have fun", "C": "Congratulations"},
+              "answer": "B",
+              "explanation": "A说要去体育馆打篮球，B应祝其玩得开心，Have fun符合语境；Good luck（祝你好运）用于考试/比赛前，Congratulations（恭喜）用于庆祝成功，均不适用。"
+            },
+            {
+              "question": "Teacher: You ___ be on time for the morning reading class, students. It’s an important time to practice your English pronunciation.\nStudents: We will, Ms. Chen! We’ll arrive at school 10 minutes earlier from tomorrow.",
+              "options": {"A": "should", "B": "must", "C": "can"},
+              "answer": "B",
+              "explanation": "must表“必须”，语气强硬，符合“老师强调早读课必须准时，指出其重要性”的语境；should（应该）语气较弱，can（可以）不符合“要求准时”的逻辑。"
+            },
+            {
+              "question": "A: Why not ___ the school music club? You’re really good at playing the guitar.\nB: That’s a good suggestion! I’ll go to the club office to sign up tomorrow.",
+              "options": {"A": "join", "B": "to join", "C": "joining"},
+              "answer": "A",
+              "explanation": "Why not后接动词原形，是表建议的固定句式，因此选join；这是中考高频考点，需牢记“Why not do sth”的结构。"
+            },
+            {
+              "question": "Student: I missed the school bus this morning, ___ I had to take a taxi to school. That’s why I was late.\nTeacher: You should set two alarms to make sure you get up on time next time.",
+              "options": {"A": "so", "B": "because", "C": "but"},
+              "answer": "A",
+              "explanation": "前文“错过校车”是原因，后文“打车上学”是结果，so（因此）表因果关系，符合语境；because（因为）表原因，but（但是）表转折，均不符合。"
+            },
+            {
+              "question": "A: I think the school should build more reading corners for students to read books during breaks.\nB: ___. It will provide us with a more comfortable place to study and relax.\nA: I’ll write a suggestion letter to the head teacher and see if it can be done.",
+              "options": {"A": "I disagree", "B": "I agree", "C": "I don’t think so"},
+              "answer": "B",
+              "explanation": "B后文说“这会给我们提供更舒适的学习放松场所”，说明B同意A的建议，I agree符合语境；I disagree（我不同意）、I don’t think so（我不这么认为）均与语境相反。"
+            }
+          ]
+        },
+        {
+          "id": "situational_10",
+          "title": "7-就医场景",
+          "content": "### 就医场景核心定义\n就医场景是情景交际中实用性极强的类型，涵盖症状描述、医生问诊、医嘱传达三大核心模块，核心考查一般现在时（描述常态症状）、现在完成时（描述持续症状）、情态动词（医嘱的“应该/禁止”）、条件状语从句（遵医嘱的结果）的融合运用，是中考情景对话、书面表达的高频场景考点。\n\n### 症状描述核心用法（患者视角）\n#### 1. 基础症状描述（非正式/初步说明）\n- 核心句式：I feel+形容词（身体感受），核心语法：feel为系动词，后接形容词作表语；\n  例：I feel sick/tired/headache.（我感觉不舒服/累/头疼。）→ 注意：headache是名词，正确表达为I have a headache.（我头疼。）\n- 常见症状固定表达（中考必考）：\n  - 感冒：I have a cold./I’ve got a bad cold.（我感冒了/重感冒。）\n  - 发烧：I have a fever./My temperature is high.（我发烧了/体温高。）\n  - 咳嗽：I have a cough./I’ve been coughing a lot.（我咳嗽/一直咳得厉害。）\n  - 疼痛：I have a pain in+部位./My+部位+hurts.（我某个部位疼。）；\n    例：I have a pain in my stomach./My stomach hurts.（我胃疼。）\n\n#### 2. 持续/加重症状描述（精准说明）\n- 核心句式：I have been+doing sth+for/since...（我已经……多久了），核心语法：现在完成进行时，强调症状持续；\n  例：I have been having a sore throat for three days.（我嗓子疼已经三天了。）\n- 拓展：The pain started+时间/场景（疼痛从……开始）；\n  例：The stomachache started yesterday morning.（胃疼从昨天早上开始的。）\n\n### 医生问诊核心用法（医生视角）\n#### 1. 基础问诊（确认症状）\n- 核心句式：What’s wrong with you?/What’s the matter with you?（你怎么了？），通用且非正式，中考必考；\n- 拓展：How long have you been like this?（你这样多久了？），核心语法：现在完成时，询问症状持续时间；\n  例：How long have you had this headache?（你头疼多久了？）\n\n#### 2. 精准问诊（排查原因）\n- 核心句式：Do you have any other symptoms?（你还有其他症状吗？），一般现在时，any用于疑问句表“任何”；\n- 拓展：Did you take any medicine?/Have you taken any medicine?（你吃药了吗？），一般过去时/现在完成时均可，现在完成时更强调对现在的影响；\n  例：Have you taken any medicine for the fever?（你吃退烧药了吗？）\n\n### 医嘱传达核心用法（医生视角）\n#### 1. 基础医嘱（应该/禁止）\n- 核心句式：You should/ought to do sth（你应该做某事）/You shouldn’t do sth（你不应该做某事），情态动词后接动词原形；\n  例：You should rest more./You shouldn’t stay up late.（你应该多休息/别熬夜。）\n- 拓展：You need to do sth（你需要做某事）/You don’t need to do sth（你不需要做某事）；\n  例：You need to drink plenty of water.（你需要多喝水。）\n\n#### 2. 具体医嘱（用药/检查）\n- 核心句式：Take this medicine+频率/剂量（吃这个药，……），祈使句，take为动词原形；\n  例：Take this medicine three times a day after meals.（这个药一天三次，饭后吃。）\n- 拓展：You need to have a check-up/an X-ray.（你需要做检查/拍X光片。）；\n  例：You need to have a blood test.（你需要验血。）\n\n#### 3. 康复建议（条件/结果）\n- 核心句式：If you follow the advice, you’ll get better soon.（如果你遵医嘱，很快就会好。），核心语法：if引导条件状语从句，主将从现；\n  例：If you take the medicine on time, you’ll recover in a week.（如果你按时吃药，一周内会康复。）\n\n### 易混易错点（中考必考）\n1. I feel headache（错误）vs I have a headache（正确）：headache是名词，需用have a+病症名词；feel后接形容词（I feel dizzy. 我头晕。）；\n2. How long have you been like this? 需用现在完成时，不可用一般过去时；\n3. take medicine（吃药）是固定搭配，不可用eat medicine；\n4. 条件状语从句“主将从现”：if从句用一般现在时，主句用一般将来时，易混用时态；\n5. 症状持续用现在完成进行时（have been doing），易与一般现在时混淆。",
+          "examples": [
+            {
+              "sentence": "—What’s the matter with you? —I have a bad cold and a fever.",
+              "translation": "—你怎么了？—我重感冒还发烧。",
+              "analysis": "医生基础问诊场景，What’s the matter with you是中考必考句式；have a bad cold/fever是固定病症表达，have后接a+病症名词，符合语法规则。"
+            },
+            {
+              "sentence": "—How long have you been like this? —I have been coughing for two days.",
+              "translation": "—你这样多久了？—我咳嗽已经两天了。",
+              "analysis": "医生询问症状持续时间，用现在完成时How long have you been...；答语用现在完成进行时have been coughing，强调咳嗽持续，for two days是时间状语，中考易考时态搭配。"
+            },
+            {
+              "sentence": "—My stomach hurts badly. What should I do? —You should rest and take this medicine twice a day.",
+              "translation": "—我胃疼得厉害。我该怎么办？—你应该休息，这个药一天吃两次。",
+              "analysis": "患者描述疼痛（My stomach hurts，hurt为动词，主语单数用hurts）；医生医嘱用should+动词原形rest/take，take medicine是固定搭配，twice a day表频率，符合就医场景表达。"
+            },
+            {
+              "sentence": "—Have you taken any medicine for the headache? —No, I haven’t. I just drank some water.",
+              "translation": "—你吃头疼药了吗？—没有。我只喝了点水。",
+              "analysis": "医生精准问诊，用现在完成时Have you taken...，强调对现在的影响；答语用haven’t（现在完成时否定），drank是drink的过去式，表过去的动作，语法融合考查。"
+            },
+            {
+              "sentence": "—If you follow my advice, you’ll get better in a few days. —Thank you, doctor.",
+              "translation": "—如果你遵医嘱，几天内就会好。—谢谢你，医生。",
+              "analysis": "医生给出康复建议，if引导条件状语从句，从句用一般现在时follow，主句用一般将来时will get better，“主将从现”是中考核心语法点；in a few days表“几天内”，符合语境。"
+            },
+            {
+              "sentence": "—I have a pain in my back. It started this morning. —Let me check. You need to have an X-ray.",
+              "translation": "—我背疼。从今天早上开始的。—我检查一下。你需要拍X光片。",
+              "analysis": "患者描述疼痛（have a pain in my back，固定表达），started用一般过去时表疼痛开始的时间；医生建议检查（need to have an X-ray，need to后接动词原形，X-ray开头元音音素用an）。"
+            },
+            {
+              "sentence": "—You shouldn’t eat spicy food or drink cold water. It will make your throat worse. —I see. I’ll follow your advice.",
+              "translation": "—你不应该吃辣的食物或喝冷水。会让你的嗓子更严重。—我知道了。我会遵医嘱。",
+              "analysis": "医生禁止性医嘱，shouldn’t+动词原形eat/drink，or连接并列禁止项；will make用一般将来时，表“将会导致的结果”，符合语境和语法。"
+            },
+            {
+              "sentence": "—I feel dizzy and I’ve been vomiting since yesterday. —You have a stomach virus. Take this medicine after meals.",
+              "translation": "—我头晕，从昨天开始一直呕吐。—你得了肠胃病毒。这个药饭后吃。",
+              "analysis": "患者描述复合症状，feel dizzy（feel+形容词），have been vomiting（现在完成进行时）+since yesterday（时间点）；医生诊断后用祈使句Take this medicine，after meals表服药时间，中考常考此类场景化表达。"
+            },
+            {
+              "sentence": "—Do you have any other symptoms besides the cough? —Yes, I also have a sore throat.",
+              "translation": "—除了咳嗽你还有其他症状吗？—有，我还嗓子疼。",
+              "analysis": "医生精准问诊，Do you have any other symptoms?（一般现在时，any表“任何”）；besides表“除了……还有”，have a sore throat（固定表达），符合就医场景的问答逻辑。"
+            },
+            {
+              "sentence": "—You need to rest at home for a week and avoid strenuous exercise. —OK. I won’t go to work until I recover.",
+              "translation": "—你需要在家休息一周，避免剧烈运动。—好的。我康复前不会去上班。",
+              "analysis": "医生具体医嘱，need to+动词原形rest/avoid，for a week表时长；患者回应用not...until...（直到……才），recover为动词“康复”，语法融合考查。"
+            }
+          ],
+          "exercises": [
+            {
+              "question": "—What’s wrong ___ you? —I have a headache.",
+              "options": {"A": "with", "B": "for", "C": "to"},
+              "answer": "A",
+              "explanation": "What’s wrong with you是固定问诊句式，with表“关于”；for和to均无此搭配，语法错误。"
+            },
+            {
+              "question": "—How long ___ you ___ like this? —For two days.",
+              "options": {"A": "did; be", "B": "have; been", "C": "do; be"},
+              "answer": "B",
+              "explanation": "询问症状持续时间，用现在完成时have been；A选项did后接动词原形be（were），C选项do后接be，均不符合现在完成时规则。"
+            },
+            {
+              "question": "—My leg ___. I can’t walk well. —You should see a doctor at once.",
+              "options": {"A": "hurt", "B": "hurts", "C": "hurting"},
+              "answer": "B",
+              "explanation": "主语My leg是单数，谓语动词用第三人称单数hurts；hurt是原形（主语复数/第一二人称），hurting是现在分词（需加be），均错误。"
+            },
+            {
+              "question": "—Have you ___ any medicine for the fever? —No, I haven’t.",
+              "options": {"A": "take", "B": "taking", "C": "taken"},
+              "answer": "C",
+              "explanation": "现在完成时的一般疑问句，have后接过去分词taken；take是原形，taking是现在分词，均不符合。"
+            },
+            {
+              "question": "—If you ___ the medicine on time, you’ll get better soon. —I will.",
+              "options": {"A": "take", "B": "takes", "C": "will take"},
+              "answer": "A",
+              "explanation": "if条件状语从句“主将从现”，从句用一般现在时，主语you后接动词原形take；takes是第三人称单数，will take是将来时，均错误。"
+            },
+            {
+              "question": "—I have a ___ in my chest. It’s hard to breathe. —Let me listen to your lungs.",
+              "options": {"A": "pain", "B": "hurt", "C": "ache"},
+              "answer": "A",
+              "explanation": "have a pain in+部位是固定表达“某个部位疼”；hurt是动词（My chest hurts），ache多与具体部位搭配（stomachache/headache），chest pain是固定说法，故A正确。"
+            },
+            {
+              "question": "—You ___ eat ice cream. It will make your cold worse. —I won’t, thank you.",
+              "options": {"A": "should", "B": "shouldn’t", "C": "need"},
+              "answer": "B",
+              "explanation": "根据“It will make your cold worse”可知禁止吃冰淇淋，用shouldn’t；should表“应该”，need表“需要”，均不符合语境。"
+            },
+            {
+              "question": "—I ___ a cold for three days. What should I do? —Take this medicine and rest more.",
+              "options": {"A": "have had", "B": "have", "C": "had"},
+              "answer": "A",
+              "explanation": "for three days是现在完成时标志，have had a cold表“感冒持续三天”；have是一般现在时，had是一般过去时，均不匹配时间状语。"
+            },
+            {
+              "question": "—Take this medicine ___ a day after breakfast and dinner. —OK. I’ll remember.",
+              "options": {"A": "two times", "B": "twice", "C": "second"},
+              "answer": "B",
+              "explanation": "表“一天两次”用twice a day，是固定表达；two times不规范，second是序数词（第二），均错误。"
+            },
+            {
+              "question": "—Do you have any other ___? —Yes, I also feel tired all the time.",
+              "options": {"A": "symptom", "B": "symptoms", "C": "symptom’s"},
+              "answer": "B",
+              "explanation": "any后接可数名词复数symptoms（症状）；symptom是单数，symptom’s是所有格，均不符合语法规则。"
+            },
+            {
+              "question": "—I feel ___. I think I have a fever. —Let me take your temperature.",
+              "options": {"A": "fever", "B": "hot", "C": "headache"},
+              "answer": "B",
+              "explanation": "feel是系动词，后接形容词hot（感觉热）；fever和headache是名词，正确表达为have a fever/headache，故B正确。"
+            },
+            {
+              "question": "—You need ___ a blood test to check your health. —OK. I’ll do it tomorrow.",
+              "options": {"A": "to have", "B": "have", "C": "having"},
+              "answer": "A",
+              "explanation": "need to do sth是固定结构“需要做某事”，to后接动词原形have；have是原形，having是动名词，均不符合。"
+            },
+            {
+              "question": "—The toothache ___ yesterday night. It’s very painful now. —You need to see a dentist.",
+              "options": {"A": "start", "B": "started", "C": "has started"},
+              "answer": "B",
+              "explanation": "yesterday night是一般过去时标志，谓语动词用started；start是原形，has started是现在完成时，均不匹配时间状语。"
+            },
+            {
+              "question": "—If you rest well, you ___ recover in a week. —I hope so.",
+              "options": {"A": "will", "B": "would", "C": "are"},
+              "answer": "A",
+              "explanation": "if条件状语从句“主将从现”，主句用一般将来时will recover；would是过去将来时，are后接recovering，均错误。"
+            },
+            {
+              "question": "—What should I do for my sore throat? —You should drink ___ water and speak less.",
+              "options": {"A": "plenty of", "B": "many", "C": "a few"},
+              "answer": "A",
+              "explanation": "water是不可数名词，plenty of可修饰可数/不可数名词；many和a few仅修饰可数名词复数，均错误。"
+            }
+          ]
+        },
+        {
+          "id": "situational_11",
+          "title": "8-工作场景",
+          "content": "### 工作场景交际核心定义\n工作场景情景交际是职场中（求职、办公、沟通工作、离职等）的英语语言交互，核心融合**一般现在时/过去时/将来时、情态动词、被动语态、宾语从句、祈使句、虚拟语气** 等语法，是中考、职场英语的高频考查点，需掌握不同场景的固定句式和语法适配逻辑。\n\n### 核心语法融合场景及用法\n#### 场景1：求职面试（融合一般现在时、情态动词、现在完成时、宾语从句）\n1. **自我介绍（一般现在时表常态）**：I work as a sales manager in a small company.（我在一家小公司担任销售经理，表当前职业状态）；\n2. **能力描述（情态动词can/could/be able to）**：I can speak fluent English and I am able to use office software skillfully.（我能说流利的英语，且能熟练使用办公软件，can表现阶段能力，be able to可表后天习得的能力）；\n3. **工作经历（现在完成时/一般过去时）**：I have worked in the IT industry for 5 years.（我在IT行业工作了5年，现在完成时表从过去持续到现在）；I served as a project leader last year.（我去年担任项目负责人，一般过去时表过去具体动作）；\n4. **询问期望（宾语从句）**：Could you tell me what salary you expect?（你能告诉我你期望的薪资是多少吗？，what引导宾语从句，陈述语序）。\n\n#### 场景2：日常办公沟通（融合祈使句、被动语态、将来时、条件状语从句）\n1. **下达/请求任务（祈使句/情态动词）**：Please finish the report before 5 pm.（请在下午5点前完成报告，祈使句表请求）；Could you send the file to my email?（你能把文件发到我邮箱吗？，could表委婉请求）；\n2. **工作汇报（被动语态）**：The project has been completed on time.（这个项目已按时完成，被动语态强调动作承受者）；\n3. **计划安排（一般将来时/进行时表将来）**：We will hold a meeting tomorrow morning.（我们明天上午要开会，will表客观计划）；I am attending a training course next week.（我下周要参加培训课，现在进行时表已确定的将来计划）；\n4. **条件沟通（条件状语从句）**：If you finish the task ahead of time, you can take a day off.（如果你提前完成任务，就可以休一天假，主将从现）。\n\n#### 场景3：工作问题沟通（融合虚拟语气、过去进行时、原因状语从句）\n1. **问题解释（过去进行时表过去正在进行）**：I was checking the data when the computer crashed.（电脑死机时我正在核对数据，过去进行时+when表过去动作中断）；\n2. **建议/遗憾（虚拟语气）**：If I had known the deadline, I would have finished it earlier.（如果我知道截止日期，我早就完成了，虚拟语气表与过去事实相反）；You should ask for help if you have difficulties.（你有困难应该求助，should表建议）；\n3. **说明原因（原因状语从句）**：I can’t attend the meeting because I have to deal with an urgent matter.（我不能参会，因为我要处理一件紧急事务，because引导原因状语从句）。\n\n#### 场景4：离职/调岗沟通（融合情态动词、现在完成时、不定式）\n1. **提出离职（委婉表达+不定式）**：I intend to resign from my position next month because I want to pursue further study.（我打算下个月辞职，因为我想继续深造，intend to do表计划，不定式作宾语）；\n2. **回应离职（情态动词）**：You may stay for another two weeks to hand over your work.（你可以再留两周交接工作，may表许可）；\n3. **总结工作（现在完成时）**：I have learned a lot from this company in the past three years.（过去三年我从这家公司学到了很多，现在完成时表过去动作对现在的影响）。\n\n### 易混语法点辨析（易错核心）\n1. **can/could/be able to**：can表先天/现阶段能力，could表过去能力或委婉请求，be able to可用于各种时态（如will be able to）；\n2. **一般将来时will/be going to/be doing**：will表客观计划，be going to表主观打算/有迹象的将来，be doing表已确定的将来；\n3. **虚拟语气（与过去事实相反）**：If+主语+had done, 主语+would/could/might+have done，易误写成If I knew..., I would...（这是与现在事实相反，需区分时间维度）；\n4. **宾语从句语序**：易误写Could you tell me what is your salary? 正确：Could you tell me what your salary is?（陈述语序：引导词+主语+谓语）。",
+          "examples": [
+            {
+              "sentence": "Could you tell me what responsibilities you had in your previous job?",
+              "translation": "你能告诉我你在之前的工作中承担了哪些职责吗？",
+              "analysis": "核心融合宾语从句语法，what引导宾语从句，从句用陈述语序（you had）；previous job提示用一般过去时had，could表委婉请求，符合求职面试场景的语气和语法要求。"
+            },
+            {
+              "sentence": "If the new plan is approved by the manager, we will start to implement it next week.",
+              "translation": "如果新计划被经理批准，我们下周将开始实施。",
+              "analysis": "融合被动语态（is approved）和条件状语从句（主将从现）：从句用一般现在时的被动，主句用will+动词原形；implement前的to是不定式作宾语，符合办公沟通中计划安排的语法逻辑。"
+            },
+            {
+              "sentence": "I was preparing the presentation when the power went out, so I couldn’t finish it on time.",
+              "translation": "我正在准备演示文稿时突然停电了，所以没能按时完成。",
+              "analysis": "融合过去进行时（was preparing）+when引导的时间状语从句（went out表过去瞬间动作）；couldn’t表过去能力不足，清晰解释工作问题的成因，语法适配场景逻辑。"
+            },
+            {
+              "sentence": "I would have informed you of the meeting change if I had received the notice earlier.",
+              "translation": "如果我早点收到通知，我就会告诉你会议变更的事了。",
+              "analysis": "融合虚拟语气（与过去事实相反）：从句had received，主句would have informed；inform sb of sth是固定搭配，此句是工作沟通中表达“遗憾未及时通知”的典型语法应用。"
+            },
+            {
+              "sentence": "She has been working as a human resources specialist since 2018 and she can handle employee recruitment independently.",
+              "translation": "她从2018年起一直担任人力资源专员，并且能独立处理员工招聘工作。",
+              "analysis": "融合现在完成进行时（has been working，表从过去持续到现在且仍在进行）和情态动词can（表现阶段能力）；human resources specialist是职场固定表达，语法与场景高度适配。"
+            },
+            {
+              "sentence": "Please submit your weekly work report to the department head before this Friday afternoon.",
+              "translation": "请在本周五下午前将你的周工作报告提交给部门主管。",
+              "analysis": "融合祈使句（Please submit...）和不定式（to the department head，表动作对象）；weekly work report是办公固定表达，祈使句符合职场中“下达任务”的语气要求。"
+            },
+            {
+              "sentence": "I am going to apply for a transfer to the marketing department because I am interested in market research.",
+              "translation": "我打算申请调到市场部，因为我对市场调研感兴趣。",
+              "analysis": "融合be going to（表主观调岗打算）和原因状语从句（because引导）；apply for a transfer是职场固定表达，语法精准适配“调岗沟通”场景。"
+            },
+            {
+              "sentence": "The annual performance review will be carried out next month, so everyone should prepare their self-evaluation reports.",
+              "translation": "年度绩效考核将于下月开展，因此每个人都应准备自我评价报告。",
+              "analysis": "融合一般将来时的被动语态（will be carried out，强调动作承受者）和情态动词should（表职场中的建议/要求）；annual performance review是职场固定术语，语法适配办公沟通场景。"
+            },
+            {
+              "sentence": "Could you explain why the sales figures have decreased sharply in the past quarter?",
+              "translation": "你能解释一下为什么过去一个季度销售额大幅下降吗？",
+              "analysis": "融合情态动词could（委婉请求）、宾语从句（why引导，陈述语序the sales figures have decreased）和现在完成时（have decreased，表过去动作对现在的影响），是工作问题沟通的典型语法应用。"
+            },
+            {
+              "sentence": "If I were the manager, I would adjust the working hours to improve employees’ work-life balance.",
+              "translation": "如果我是经理，我会调整工作时间以改善员工的工作生活平衡。",
+              "analysis": "融合虚拟语气（与现在事实相反：If I were..., I would...）和不定式（to improve...，表目的）；work-life balance是职场固定表达，虚拟语气适配“工作建议”场景。"
+            }
+          ],
+          "exercises": [
+            {
+              "question": "— Could you tell me ___ in your last company?\n— I was responsible for customer relationship management.",
+              "options": {"A": "what your responsibility was", "B": "what was your responsibility", "C": "what your responsibility is"},
+              "answer": "A",
+              "explanation": "核心考查宾语从句的语序和时态：宾语从句需用陈述语序（排除B）；last company提示用一般过去时（was），排除C。此题为求职场景的易错题，易错点是混淆宾语从句语序和时态。"
+            },
+            {
+              "question": "If the contract ___ by the client tomorrow, we ___ the project next Monday.",
+              "options": {"A": "is signed; will start", "B": "will be signed; start", "C": "signs; will start"},
+              "answer": "A",
+              "explanation": "核心考查被动语态和条件状语从句“主将从现”：contract与sign是被动关系（排除C）；从句用一般现在时的被动（is signed），主句用一般将来时（will start），排除B。此题为办公场景难题，易错点是被动语态与主将从现的融合运用。"
+            },
+            {
+              "question": "I ___ the financial statement when the phone rang, so I ___ it yet.",
+              "options": {"A": "was checking; haven’t finished", "B": "checked; didn’t finish", "C": "am checking; don’t finish"},
+              "answer": "A",
+              "explanation": "核心考查过去进行时和现在完成时：when the phone rang提示前半句用过去进行时（was checking，表过去正在做）；yet提示后半句用现在完成时的否定（haven’t finished，表动作未完成）。易错点是混淆过去进行时和一般过去时，以及yet的时态适配。"
+            },
+            {
+              "question": "— I’m sorry I missed the meeting yesterday.\n— If you ___ the reminder email, you ___ late.",
+              "options": {"A": "had read; wouldn’t have been", "B": "read; wouldn’t be", "C": "have read; won’t be"},
+              "answer": "A",
+              "explanation": "核心考查虚拟语气（与过去事实相反）：yesterday提示是过去的虚拟，从句用had done（had read），主句用wouldn’t have done（wouldn’t have been）。此题为难题，易错点是区分与现在/过去事实相反的虚拟语气结构。"
+            },
+            {
+              "question": "She ___ in the company for 8 years by the end of this year and she ___ to apply for a promotion.",
+              "options": {"A": "will have worked; is going", "B": "has worked; will go", "C": "worked; goes"},
+              "answer": "A",
+              "explanation": "核心考查将来完成时和be going to：by the end of this year提示用将来完成时（will have worked，表到未来时间点完成的动作）；be going to表主观打算（申请晋升），符合职场场景逻辑。易错点是将来完成时的时间标志词适配。"
+            },
+            {
+              "question": "___ the monthly progress report to me before noon, or we will miss the deadline.",
+              "options": {"A": "To send", "B": "Send", "C": "Sending"},
+              "answer": "B",
+              "explanation": "核心考查祈使句：or连接的并列句，前半句需用祈使句（动词原形开头），表职场中的“要求/指令”。易错点是混淆祈使句和非谓语动词。"
+            },
+            {
+              "question": "— Could you handle the client negotiation alone?\n— Yes, I ___. I ___ similar negotiations many times before.",
+              "options": {"A": "can; have handled", "B": "could; handled", "C": "am able to; handle"},
+              "answer": "A",
+              "explanation": "核心考查情态动词can和现在完成时：could提问表委婉，回答用can（表现阶段能力）；many times before提示用现在完成时（have handled，表过去经历对现在的影响）。易错点是could提问的回答形式和时态适配。"
+            },
+            {
+              "question": "The new employee training ___ by the HR department every year and all new staff ___ attend it.",
+              "options": {"A": "is organized; must", "B": "organizes; should", "C": "was organized; can"},
+              "answer": "A",
+              "explanation": "核心考查被动语态和情态动词：training与organize是被动关系（排除B）；every year提示用一般现在时的被动（is organized）；must表职场中“必须”的要求，符合场景逻辑，排除C。易错点是被动语态时态和情态动词语气的适配。"
+            },
+            {
+              "question": "I intend ___ my resignation next week because I ___ a better job offer from a multinational company.",
+              "options": {"A": "to submit; have received", "B": "submitting; received", "C": "submit; will receive"},
+              "answer": "A",
+              "explanation": "核心考查不定式和现在完成时：intend to do是固定搭配（打算做某事，排除B/C）；have received表过去收到offer（对现在辞职的影响），符合离职场景逻辑。易错点是intend的固定搭配和时态逻辑。"
+            },
+            {
+              "question": "— Why ___ you attend the project kick-off meeting yesterday?\n— Because I ___ to the airport to pick up a foreign client.",
+              "options": {"A": "didn’t; was sent", "B": "don’t; am sent", "C": "haven’t; have been sent"},
+              "answer": "A",
+              "explanation": "核心考查一般过去时和被动语态：yesterday提示用一般过去时（didn’t）；I与send是被动关系（被派去接机），用was sent。易错点是时态标志词和被动语态的融合。"
+            },
+            {
+              "question": "If I ___ more time, I ___ the detailed business plan for the new product last week.",
+              "options": {"A": "had had; would have finished", "B": "had; would finish", "C": "have; will finish"},
+              "answer": "A",
+              "explanation": "核心考查虚拟语气（与过去事实相反）：last week提示是过去的虚拟，从句用had had（have的过去完成时），主句用would have finished。此题为难题，易错点是虚拟语气中动词的过去完成时变形。"
+            },
+            {
+              "question": "Our team ___ a meeting with the suppliers at 2 pm tomorrow, so we ___ prepare the negotiation materials now.",
+              "options": {"A": "is having; should", "B": "will have; must to", "C": "has; had better"},
+              "answer": "A",
+              "explanation": "核心考查现在进行时表将来和情态动词：tomorrow且是已确定的会议，用is having（现在进行时表将来）；should表“应该”，符合现在准备材料的逻辑；must后接动词原形（排除B），had better后接动词原形但时态不符（排除C）。易错点是现在进行时表将来的用法和情态动词搭配。"
+            },
+            {
+              "question": "Could you explain ___ the production efficiency ___ so low recently?",
+              "options": {"A": "why; is", "B": "why is; /", "C": "what; is"},
+              "answer": "A",
+              "explanation": "核心考查宾语从句语序和连接词：explain后接宾语从句，用陈述语序（排除B）；“效率为什么低”用why引导（排除C），recently提示用一般现在时is。易错点是宾语从句连接词和语序的融合。"
+            },
+            {
+              "question": "— I heard you ___ for a transfer to the overseas branch.\n— Yes, I ___ the application form to my supervisor yesterday.",
+              "options": {"A": "are applying; submitted", "B": "applied; have submitted", "C": "apply; submit"},
+              "answer": "A",
+              "explanation": "核心考查现在进行时和一般过去时：“正在申请调岗”用are applying（表现阶段动作）；yesterday提示用一般过去时submitted（提交申请）。易错点是现在进行时表现阶段动作和过去时时间标志词的适配。"
+            },
+            {
+              "question": "The work ___ by the end of this month, so we ___ work overtime this week.",
+              "options": {"A": "must be finished; have to", "B": "must finish; need", "C": "will finish; should to"},
+              "answer": "A",
+              "explanation": "核心考查被动语态和情态动词：work与finish是被动关系（排除B/C）；must be finished表“必须被完成”，have to表“不得不加班”，符合职场场景逻辑。易错点是被动语态和情态动词的搭配（need后接to do，should后接动词原形）。"
+            },
+            {
+              "question": "If she ___ the manager’s instructions clearly, she ___ the mistake in the order form.",
+              "options": {"A": "had understood; wouldn’t have made", "B": "understood; wouldn’t make", "C": "understands; won’t make"},
+              "answer": "A",
+              "explanation": "核心考查虚拟语气（与过去事实相反）：“如果她清楚理解指令，就不会犯错误”是过去的虚拟，从句had understood，主句wouldn’t have made。此题为易错题，易错点是虚拟语气与过去事实相反的结构记忆。"
+            },
+            {
+              "question": "— When ___ you ___ the annual work summary to the general manager?\n— I ___ it by next Monday.",
+              "options": {"A": "will; submit; will have submitted", "B": "do; submit; have submitted", "C": "did; submit; submitted"},
+              "answer": "A",
+              "explanation": "核心考查一般将来时和将来完成时：第一句问“将何时提交”用will submit；by next Monday提示第二句用将来完成时will have submitted（表到下周一完成）。易错点是将来完成时的时间标志词和用法。"
+            },
+            {
+              "question": "___ careful when you deal with the confidential documents, or you will face disciplinary action.",
+              "options": {"A": "Be", "B": "To be", "C": "Being"},
+              "answer": "A",
+              "explanation": "核心考查祈使句：or连接的并列句，前半句需用祈使句（Be careful），表职场中的“警告/要求”。易错点是祈使句与非谓语动词的区分。"
+            },
+            {
+              "question": "He ___ as a technical engineer since he graduated from university and he ___ solve complex technical problems independently now.",
+              "options": {"A": "has worked; can", "B": "worked; could", "C": "is working; may"},
+              "answer": "A",
+              "explanation": "核心考查现在完成时和情态动词：since引导的时间状语从句提示用现在完成时has worked（从毕业到现在）；now提示用can（表现阶段能力），could表过去能力（排除B），may表“可能”（语气不符，排除C）。易错点是since的时态适配和情态动词语气区分。"
+            },
+            {
+              "question": "— I’m worried about the upcoming job interview.\n— You ___ calm down and you ___ highlight your strengths clearly.",
+              "options": {"A": "should; must", "B": "would; should", "C": "must to; can"},
+              "answer": "A",
+              "explanation": "核心考查情态动词语气：should表“应该冷静”，must表“必须清晰突出优势”，符合求职面试前的建议逻辑；would表“将会”（语气不符，排除B），must后接动词原形（排除C）。易错点是情态动词语气强度的区分和搭配。"
+            }
+          ]
+        },
+        {
+          "id": "situational_21",
+          "title": "9-问路场景",
+          "content": "### 问路场景交际核心定义\n问路场景情景交际是出行中（询问路线、指引方向、确认位置、表达迷路等）的英语语言交互，核心融合**一般现在时、祈使句、介词短语、定语从句、宾语从句、现在进行时、情态动词** 等语法，是中考、日常交际英语的高频考查点，需掌握方向表达的固定介词和语法适配逻辑。\n\n### 核心语法融合场景及用法\n#### 场景1：询问路线（融合宾语从句、情态动词、介词短语、一般现在时）\n1. **基础问路（情态动词could/would表委婉+宾语从句）**：Could you tell me how I can get to the nearest subway station?（你能告诉我怎么去最近的地铁站吗？，how引导宾语从句，陈述语序）；\n2. **确认位置（一般现在时+介词短语）**：Is the museum far from here?（博物馆离这儿远吗？，far from是方位介词短语，一般现在时表客观位置）；\n3. **具体问路（疑问词+不定式）**：Excuse me, where to find a public restroom?（打扰一下，哪里能找到公共卫生间？，where to do是疑问词+不定式的简洁问路结构）。\n\n#### 场景2：指引方向（融合祈使句、介词短语、现在进行时、定语从句）\n1. **基础指引（祈使句+介词短语）**：Go straight along this street and turn left at the second crossing.（沿着这条街直走，在第二个十字路口左转，祈使句表指令，along/at是方位介词）；\n2. **位置描述（现在进行时表正在发生+介词）**：You are walking past a supermarket, then turn right.（你正经过一家超市，然后右转，现在进行时表行进中的动作）；\n3. **精准指引（定语从句）**：The hotel that you are looking for is on the opposite side of the park.（你找的那家酒店在公园对面，that引导定语从句修饰hotel）；\n4. **距离表达（数量+单位+from/to）**：It’s about 500 meters from here to the bus stop.（从这儿到公交站大约500米，from...to...表距离范围）。\n\n#### 场景3：表达迷路/确认路线（融合现在完成时、情态动词、条件状语从句）\n1. **表达迷路（现在完成时/情态动词）**：I think I have lost my way. Could you help me?（我想我迷路了，你能帮我吗？，have lost表过去动作对现在的影响）；\n2. **确认路线（一般疑问句+宾语从句）**：Am I going in the right direction to the railway station?（我往火车站走的方向对吗？，现在进行时表行进动作）；\n3. **备选路线（条件状语从句）**：If you miss the bus, you can take a taxi to get there.（如果你错过公交车，可以打车去那儿，主将从现）。\n\n#### 场景4：交通方式搭配（融合介词by/on/in、不定式）\n1. **交通方式表达（by+交通工具/on foot）**：You can get there by bus or on foot.（你可以坐公交或步行去那儿，by+交通工具零冠词）；\n2. **具体车次/路线（on/in+限定词+交通工具）**：Take the No.10 bus and get off at the library stop.（坐10路公交，在图书馆站下车，the+序数词+bus表具体车次）；\n3. **目的表达（不定式to do）**：I take the subway to work every day.（我每天坐地铁上班，to work表目的）。\n\n### 易混语法点辨析（易错核心）\n1. **介词by/on/in的交通搭配**：by+交通工具（零冠词：by bus）；on+小型交通工具（on a bike/on the train）；in+封闭交通工具（in a car/in the taxi）；\n2. **宾语从句vs疑问词+不定式**：Could you tell me how to get there?=Could you tell me how I can get there?（疑问词+不定式更简洁，适用于日常问路）；\n3. **祈使句的否定式**：Don’t turn right at the first crossing.（别在第一个路口右转，Don’t+动词原形）；\n4. **现在进行时表行进动作**：You are approaching the destination.（你快到目的地了，现在进行时表行进中的状态，而非单纯现在动作）。",
+          "examples": [
+            {
+              "sentence": "Could you tell me which bus I should take to get to the city center?",
+              "translation": "你能告诉我该坐哪路公交车去市中心吗？",
+              "analysis": "核心融合情态动词could（委婉问路）、宾语从句（which bus I should take，陈述语序）和不定式to get to（表目的）；which bus表具体车次，符合问路场景的精准提问逻辑，语法适配日常问路表达。"
+            },
+            {
+              "sentence": "Walk along this road for about 10 minutes and you will see a hospital on your right.",
+              "translation": "沿着这条路走大约10分钟，你会看到右边有一家医院。",
+              "analysis": "融合祈使句（Walk along...）、介词短语（along this road/on your right）和一般将来时（will see）；for about 10 minutes表时间距离，符合指引方向的语法和场景逻辑。"
+            },
+            {
+              "question": "I have walked for half an hour, but I still can’t find the bookstore. I think I have lost my way.",
+              "translation": "我已经走了半个小时，但还是找不到那家书店，我想我迷路了。",
+              "analysis": "融合现在完成时（have walked/have lost，表过去动作对现在的影响）、but引导的转折句和情态动词can’t（表能力不足）；lost my way是迷路的固定表达，语法适配“迷路场景”的情绪和逻辑。"
+            },
+            {
+              "sentence": "The coffee shop that you want to go to is across from the cinema, just next to the post office.",
+              "translation": "你想去的那家咖啡店在电影院对面，就在邮局旁边。",
+              "analysis": "融合定语从句（that you want to go to修饰coffee shop）和方位介词短语（across from/next to）；定语从句精准限定“想去的咖啡店”，符合指引方向的精准性要求。"
+            },
+            {
+              "sentence": "If you go straight until you reach the traffic lights, you will find the subway station on your left.",
+              "translation": "如果你一直直走到红绿灯处，就会发现地铁站在你的左边。",
+              "analysis": "融合条件状语从句（主将从现：go straight/will find）、until引导的时间状语从句和方位介词短语（on your left）；until表“直到”，精准描述行进节点，语法适配指引路线的逻辑。"
+            },
+            {
+              "sentence": "Excuse me, is there a gas station near here? I need to refuel my car.",
+              "translation": "打扰一下，这附近有加油站吗？我需要给我的车加油。",
+              "analysis": "融合一般现在时的一般疑问句（is there...）、方位介词near here和不定式to refuel（表目的）；Excuse me是问路的礼貌开头，符合日常交际的语气和语法逻辑。"
+            },
+            {
+              "sentence": "You can get to the airport by light rail, and it takes about 40 minutes.",
+              "translation": "你可以坐轻轨去机场，大约需要40分钟。",
+              "analysis": "融合情态动词can（表建议）、介词by+交通工具（by light rail，零冠词）和一般现在时（takes表客观耗时）；light rail是交通专有名词，语法适配“交通方式建议”场景。"
+            },
+            {
+              "sentence": "Don’t turn left at the bridge; the correct direction is to turn right and go up the hill.",
+              "translation": "不要在桥那里左转，正确的方向是右转然后上山。",
+              "analysis": "融合祈使句的否定式（Don’t turn...）、不定式to turn right（表主语补足语）和介词短语（at the bridge/up the hill）；否定祈使句用于纠正路线，符合指引方向的场景需求。"
+            },
+            {
+              "sentence": "Am I heading in the right way to the national park? I heard it’s about 20 kilometers from here.",
+              "translation": "我往国家公园走的方向对吗？我听说离这儿大约20公里。",
+              "analysis": "融合现在进行时（am heading，表行进动作）、宾语从句（it’s about...，heard的宾语）和介词短语（from here）；heading表“行进”，是问路中确认方向的典型语法应用。"
+            },
+            {
+              "sentence": "Take the elevator to the third floor and the exit leading to the bus station is on your left.",
+              "translation": "坐电梯到三楼，通往公交站的出口就在你的左边。",
+              "analysis": "融合祈使句（Take the elevator...）、介词to（to the third floor）和现在分词leading to（作定语修饰exit）；leading to表“通往”，精准描述出口属性，语法适配室内指路场景。"
+            }
+          ],
+          "exercises": [
+            {
+              "question": "— Could you tell me ___ to the railway station?\n— Go straight and take the second turning on the right.",
+              "options": {"A": "how can I get", "B": "how to get", "C": "how I got"},
+              "answer": "B",
+              "explanation": "核心考查疑问词+不定式和宾语从句语序：tell后可接how to do（简洁结构）或how I can get（宾语从句，陈述语序），排除A；问路是问当前路线，不用一般过去时（排除C）。易错点是混淆宾语从句语序和疑问词+不定式结构。"
+            },
+            {
+              "question": "___ along this street for 5 minutes, and you ___ the supermarket on your left.",
+              "options": {"A": "Walking; see", "B": "Walk; will see", "C": "To walk; saw"},
+              "answer": "B",
+              "explanation": "核心考查祈使句和一般将来时：and连接的并列句，前半句用祈使句（Walk开头），后半句用一般将来时will see（表走之后的结果）。易错点是祈使句与非谓语动词的区分。"
+            },
+            {
+              "question": "I ___ for an hour, but I ___ the hotel I booked online yet. I think I’m lost.",
+              "options": {"A": "have walked; haven’t found", "B": "walked; didn’t find", "C": "am walking; don’t find"},
+              "answer": "A",
+              "explanation": "核心考查现在完成时：for an hour和yet都是现在完成时的标志词，have walked表持续动作，haven’t found表动作未完成，符合“迷路”场景的时态逻辑。易错点是现在完成时的时间标志词适配。"
+            },
+            {
+              "question": "The museum ___ we want to visit is about 2 kilometers ___ the bus station.",
+              "options": {"A": "that; from", "B": "where; away", "C": "which; to"},
+              "answer": "A",
+              "explanation": "核心考查定语从句和介词：第一空that引导定语从句（修饰museum，作visit的宾语），where作状语（排除B）；第二空from表“距离……”，2 kilometers from the bus station（离公交站2公里），to表“到……”（逻辑不符，排除C）。易错点是定语从句关系词和距离介词的融合。"
+            },
+            {
+              "question": "If you ___ the No.5 bus, you ___ the zoo in 15 minutes.",
+              "options": {"A": "take; will reach", "B": "will take; reach", "C": "took; would reach"},
+              "answer": "A",
+              "explanation": "核心考查条件状语从句“主将从现”：从句用一般现在时take，主句用一般将来时will reach；C是虚拟语气（无虚拟语境，排除），B违反主将从现（排除）。易错点是主将从现的规则和虚拟语气的区分。"
+            },
+            {
+              "question": "— Excuse me, ___ a bank near here?\n— Yes, there’s one at the corner of the street.",
+              "options": {"A": "is it", "B": "is there", "C": "are there"},
+              "answer": "B",
+              "explanation": "核心考查there be句型的一般疑问句：询问“某地有某物”用Is there a...？（a bank是单数，排除C）；it指代具体事物（排除A）。易错点是there be句型和it的区分。"
+            },
+            {
+              "question": "You can get to the shopping mall ___ subway or ___ foot.",
+              "options": {"A": "by; on", "B": "in; by", "C": "on; in"},
+              "answer": "A",
+              "explanation": "核心考查交通方式的介词搭配：by+交通工具（by subway，零冠词）；on foot是固定搭配（步行）。易错点是by/on/in的交通搭配混淆。"
+            },
+            {
+              "question": "___ turn right at the first crossing, or you will miss the museum.",
+              "options": {"A": "Not", "B": "Don’t", "C": "No"},
+              "answer": "B",
+              "explanation": "核心考查祈使句的否定式：否定祈使句用Don’t+动词原形开头，表“不要做某事”；Not需搭配助动词（排除A），No后接名词（排除C）。易错点是否定祈使句的结构。"
+            },
+            {
+              "question": "I ___ to the bus stop when I realized I ___ in the wrong direction.",
+              "options": {"A": "was walking; was going", "B": "walked; went", "C": "am walking; am going"},
+              "answer": "A",
+              "explanation": "核心考查过去进行时：when I realized提示主句和从句都用过去进行时（was walking/was going），表“正在走向公交站时，意识到走反方向”，符合迷路场景的动作逻辑。易错点是过去进行时的语境适配。"
+            },
+            {
+              "question": "The exit ___ to the train station is closed, so we have to take another way.",
+              "options": {"A": "lead", "B": "leading", "C": "leads"},
+              "answer": "B",
+              "explanation": "核心考查现在分词作定语：the exit与lead是主动关系（exit leading to the train station，通往火车站的出口），现在分词作后置定语；A是动词原形（无谓语语境，排除），C是谓语动词（一个句子不能有两个谓语，排除）。易错点是现在分词作定语和谓语动词的区分。"
+            },
+            {
+              "question": "— How far ___ from your home to the airport?\n— It’s about 30 kilometers and I usually go there ___ car.",
+              "options": {"A": "is it; in", "B": "it is; by", "C": "are they; on"},
+              "answer": "A",
+              "explanation": "核心考查it指代距离和交通介词：第一空it指代“从家到机场的距离”（单数，排除C），疑问句用is it（排除B）；第二空in a car=by car（此处有car前无冠词，用in）。易错点是it指代距离和in/by的交通搭配。"
+            },
+            {
+              "question": "Could you show me ___ I can find a public toilet in this shopping center?",
+              "options": {"A": "when", "B": "where", "C": "why"},
+              "answer": "B",
+              "explanation": "核心考查宾语从句连接词：询问“在哪里找公共卫生间”用where引导；when表时间（排除A），why表原因（排除C），均不符合问路场景逻辑。易错点是连接词的场景适配。"
+            },
+            {
+              "question": "Walk ___ the park and cross the river ___ the bridge, then you’ll see the hotel.",
+              "options": {"A": "past; over", "B": "through; across", "C": "across; through"},
+              "answer": "B",
+              "explanation": "核心考查方位介词：walk through the park（穿过公园，内部穿过用through）；cross the river across the bridge（从桥上穿过河，across表“从表面穿过”）；past表“经过”（排除A），through表“内部穿过”（桥是表面，排除C）。此题为难题，易错点是through/across/past的介词辨析。"
+            },
+            {
+              "question": "I think I ___ my way. Could you tell me if the bus stop ___ near the hospital?",
+              "options": {"A": "lose; is", "B": "have lost; is", "C": "lost; was"},
+              "answer": "B",
+              "explanation": "核心考查现在完成时和一般现在时：have lost表“已经迷路”（过去动作对现在的影响）；if引导的宾语从句询问客观位置，用一般现在时is（排除C）；A的lose是原形（无时态适配，排除）。易错点是现在完成时的语境和宾语从句的时态。"
+            },
+            {
+              "question": "Take the elevator ___ the 10th floor and the office ___ you’re looking for is Room 1008.",
+              "options": {"A": "to; that", "B": "at; where", "C": "for; which"},
+              "answer": "A",
+              "explanation": "核心考查介词和定语从句：take the elevator to the 10th floor（坐电梯到10楼，to表方向）；that引导定语从句（修饰office，作looking for的宾语）；where作状语（排除B），for表目的（排除C）。易错点是介词方向和定语从句关系词的融合。"
+            },
+            {
+              "question": "If it ___ rain tomorrow, we ___ walk to the scenic spot instead of taking a bus.",
+              "options": {"A": "won’t; will", "B": "doesn’t; will", "C": "didn’t; would"},
+              "answer": "B",
+              "explanation": "核心考查条件状语从句“主将从现”：从句用一般现在时doesn’t rain（否定），主句用will walk；A违反主将从现（排除），C是虚拟语气（无虚拟语境，排除）。易错点是主将从现的否定形式。"
+            },
+            {
+              "question": "— Which is the shortest way ___ the bus station?\n— You can take a shortcut ___ the alley behind the supermarket.",
+              "options": {"A": "to; through", "B": "for; past", "C": "of; across"},
+              "answer": "A",
+              "explanation": "核心考查介词：the way to...（去……的路，固定搭配）；through the alley（穿过小巷，内部穿过用through）；for表目的（排除B），of表所属（排除C）。易错点是固定搭配和介词辨析。"
+            },
+            {
+              "question": "You ___ turn left when you see the red sign, otherwise you ___ get lost.",
+              "options": {"A": "must; will", "B": "can; would", "C": "should; must"},
+              "answer": "A",
+              "explanation": "核心考查情态动词和一般将来时：must表“必须”（指引路线的强制要求）；otherwise后用will get lost（将会迷路，一般将来时）；would表虚拟（排除B），must后接动词原形（排除C）。易错点是情态动词语气和时态的适配。"
+            },
+            {
+              "question": "The bus ___ I take to work every day stops ___ the city square.",
+              "options": {"A": "that; at", "B": "which; in", "C": "who; on"},
+              "answer": "A",
+              "explanation": "核心考查定语从句和方位介词：that引导定语从句（修饰bus，指物，排除C）；stop at the city square（在城市广场停靠，小地点用at），in表大地点（排除B）。易错点是定语从句关系词和地点介词的融合。"
+            },
+            {
+              "question": "— I’m going to the airport. ___ is it from here?\n— About 10 miles. You’d better go there ___ taxi.",
+              "options": {"A": "How long; by", "B": "How far; by", "C": "How soon; in"},
+              "answer": "B",
+              "explanation": "核心考查疑问词和交通介词：How far表“距离多远”（About 10 miles提示，排除A的How long（时间）、C的How soon（多久后））；by taxi是固定搭配（排除C）。易错点是疑问词的场景适配和交通介词搭配。"
+            }
+          ]
+        },
+        {
+          "id": "situational_31",
+          "title": "10-旅游场景",
+          "content": "### 旅游场景交际核心定义\n旅游场景情景交际是出行旅游中（预订酒店/机票、咨询景点、描述行程、投诉反馈、表达感受等）的英语语言交互，核心融合**一般将来时/过去时/现在进行时、情态动词、被动语态、定语从句、虚拟语气、现在完成时** 等语法，是中考、日常交际英语的高频考查点，需掌握旅游专属句式和语法融合逻辑。\n\n### 核心语法融合场景及用法\n#### 场景1：预订/咨询（融合一般将来时、情态动词、宾语从句、被动语态）\n1. **预订酒店/机票（一般将来时/被动语态）**：I want to book a double room for two nights next week.（我想预订下周两晚的双人间，一般将来时表计划）；This flight has been booked up, so you need to choose another one.（这趟航班已被订满，你需要选另一趟，被动语态表动作承受者）；\n2. **咨询景点（情态动词+宾语从句）**：Could you recommend some scenic spots that are worth visiting?（你能推荐一些值得去的景点吗？，that引导定语从句，could表委婉）；\n3. **确认预订（一般疑问句+现在完成时）**：Have you confirmed my hotel reservation?（你确认我的酒店预订了吗？，现在完成时表动作是否完成）。\n\n#### 场景2：行程描述（融合现在进行时、一般过去时、现在完成时、介词短语）\n1. **当前行程（现在进行时）**：We are visiting the ancient town today and we will go to the lake tomorrow.（我们今天正在游览古镇，明天要去湖边，现在进行时表当前动作）；\n2. **过去行程（一般过去时）**：We took a boat tour on the lake yesterday and it was amazing.（我们昨天在湖上坐船游览，体验很棒，一般过去时表过去具体动作）；\n3. **累计行程（现在完成时）**：We have traveled to three cities in this country so far.（到目前为止，我们已经去了这个国家的三个城市，现在完成时表累计动作）；\n4. **时间/地点介词（in/on/at/for）**：We will stay in Paris for 5 days in July.（我们七月将在巴黎待5天，for表时长，in表月份）。\n\n#### 场景3：表达感受/评价（融合形容词比较级/最高级、情态动词、虚拟语气）\n1. **评价景点（最高级/比较级）**：This is the most beautiful beach I have ever seen.（这是我见过的最美的海滩，最高级+现在完成时）；The food here is more delicious than that in my hometown.（这里的食物比我家乡的好吃，比较级）；\n2. **表达遗憾（虚拟语气）**：If I had known the museum was closed today, I wouldn’t have come here early.（如果我知道博物馆今天闭馆，就不会早来这儿了，虚拟语气表与过去事实相反）；\n3. **表达建议（情态动词should/could）**：You should try the local snacks; they are very special.（你应该尝尝当地小吃，很有特色，should表建议）。\n\n#### 场景4：问题/投诉（融合原因状语从句、被动语态、情态动词）\n1. **投诉问题（被动语态+原因状语从句）**：The room I booked was not cleaned properly, so I want to change another one.（我订的房间没被打扫干净，所以我想换一间，被动语态表动作承受者）；\n2. **寻求帮助（情态动词+不定式）**：Could you help me find my lost luggage? I left it in the hotel lobby.（你能帮我找丢失的行李吗？我把它落在酒店大堂了，could表委婉请求）；\n3. **表达不满（一般过去时+宾语从句）**：I complained that the tour guide didn’t explain the historical sites clearly.（我投诉导游没把历史景点讲清楚，that引导宾语从句）。\n\n#### 场景5：返程/总结（融合一般将来时、现在完成时、不定式）\n1. **返程计划（一般将来时）**：We will take the high-speed train back to Beijing the day after tomorrow.（我们后天坐高铁回北京，一般将来时表计划）；\n2. **总结行程（现在完成时）**：We have had a wonderful trip and we will remember it forever.（我们度过了很棒的旅行，会永远记得，现在完成时表动作对现在的影响）；\n3. **纪念品购买（不定式）**：I bought some souvenirs to send to my family and friends.（我买了些纪念品送给家人朋友，不定式表目的）。\n\n### 易混语法点辨析（易错核心）\n1. **现在完成时的时间标志词**：so far/up to now/since/for+时长，表“到目前为止”，是旅游场景描述累计行程的核心时态；\n2. **虚拟语气在旅游遗憾场景的应用**：与过去事实相反（If I had done..., I would have done...），易误写成与现在事实相反的结构；\n3. **被动语态在预订/投诉场景的应用**：book/reserve/clean等动词的被动（be booked/cleaned），易误写成主动形式；\n4. **比较级/最高级的修饰词**：much/far+比较级（much more beautiful），the+最高级+定语从句（the most interesting place I have been to），易遗漏the或定语从句的时态。",
+          "examples": [
+            {
+              "sentence": "I have booked a single room with a sea view for three nights, and I wonder if the room has been prepared already.",
+              "translation": "我已经预订了三晚的海景单人间，想知道房间是否已经准备好。",
+              "analysis": "融合现在完成时（have booked，表已完成的预订）、介词短语（with a sea view修饰room）、宾语从句（if the room has been prepared，陈述语序）和被动语态（has been prepared，表房间被准备）；wonder表委婉询问，符合旅游预订确认的场景逻辑。"
+            },
+            {
+              "sentence": "We are hiking in the mountain now and we will camp by the stream tonight if the weather is good.",
+              "translation": "我们现在正在山里徒步，如果天气好的话，今晚将在小溪边露营。",
+              "analysis": "融合现在进行时（are hiking，表当前行程）、条件状语从句（主将从现：will camp/is good）和介词短语（in the mountain/by the stream）；hiking/camping是旅游专属动作，语法适配户外行程描述。"
+            },
+            {
+              "sentence": "This is the most impressive cultural relic I have ever seen during my travel in Europe.",
+              "translation": "这是我在欧洲旅行期间见过的最令人印象深刻的文物。",
+              "analysis": "融合形容词最高级（the most impressive）、定语从句（I have ever seen修饰relic）和现在完成时（have ever seen，表到目前为止的经历）；cultural relic是旅游专属词汇，语法适配景点评价场景。"
+            },
+            {
+              "question": "If I had checked the weather forecast before the trip, I wouldn’t have forgotten to bring a raincoat.",
+              "translation": "如果我旅行前查看了天气预报，就不会忘记带雨衣了。",
+              "analysis": "融合虚拟语气（与过去事实相反：had checked/wouldn’t have forgotten）、before引导的时间状语和不定式to bring（表忘记做的事）；raincoat是旅游必备物品，虚拟语气适配“旅行遗憾”场景。"
+            },
+            {
+              "sentence": "The tour bus was delayed for two hours because of the heavy rain, so we missed the opening of the scenic spot.",
+              "translation": "旅游大巴因为大雨延误了两个小时，所以我们错过了景点的开园时间。",
+              "analysis": "融合被动语态（was delayed，表大巴被延误）、原因状语从句（because of+名词短语）和一般过去时（missed，表过去结果）；tour bus/scenic spot是旅游专属词汇，语法适配行程问题描述。"
+            },
+            {
+              "sentence": "Could you recommend a local restaurant where we can try authentic traditional food?",
+              "translation": "你能推荐一家我们可以品尝正宗传统美食的当地餐厅吗？",
+              "analysis": "融合情态动词could（委婉请求）、定语从句（where引导，修饰restaurant）和情态动词can（表能力）；authentic traditional food是旅游饮食咨询的核心表达，语法适配咨询场景。"
+            },
+            {
+              "sentence": "We have traveled to five European countries so far and we have learned a lot about different cultures.",
+              "translation": "到目前为止，我们已经去了五个欧洲国家，并且了解了很多不同的文化。",
+              "analysis": "融合现在完成时（have traveled/have learned，表累计行程和收获）、so far（现在完成时标志词）和介词短语（to five European countries）；different cultures是旅游总结的核心内容，语法适配行程总结场景。"
+            },
+            {
+              "sentence": "I want to buy some hand-made crafts to send to my colleagues, and they are made by local artisans.",
+              "translation": "我想买些手工工艺品送给同事，这些工艺品是当地工匠做的。",
+              "analysis": "融合不定式to send（表购买目的）、被动语态（are made，表工艺品被制作）和定语从句（省略that，修饰crafts）；hand-made crafts是旅游纪念品专属表达，语法适配购物场景。"
+            },
+            {
+              "sentence": "The hotel receptionist apologized that the swimming pool was under repair and we couldn’t use it during our stay.",
+              "translation": "酒店前台道歉说游泳池正在维修，我们入住期间无法使用。",
+              "explanation": "融合宾语从句（that引导，apologized的宾语）、过去进行时（was under repair，表过去持续的状态）和情态动词couldn’t（表过去能力不足）；swimming pool/hotel receptionist是旅游住宿专属词汇，语法适配投诉/反馈场景。"
+            },
+            {
+              "sentence": "We will take the evening flight back home tomorrow and we are looking forward to sharing our travel photos with our family.",
+              "translation": "我们明天将坐晚班机回家，并且期待和家人分享我们的旅行照片。",
+              "analysis": "融合一般将来时（will take，表返程计划）、现在进行时（are looking forward to，表当前心情）和动名词sharing（look forward to+doing）；travel photos/evening flight是旅游返程专属表达，语法适配返程计划场景。"
+            }
+          ],
+          "exercises": [
+            {
+              "question": "— I ___ a twin room for four nights starting from next Monday.\n— OK, your reservation ___ and we will keep the room for you.",
+              "options": {"A": "book; is confirmed", "B": "have booked; has been confirmed", "C": "will book; confirmed"},
+              "answer": "B",
+              "explanation": "核心考查现在完成时和被动语态：第一空have booked表“已完成预订”（对现在的影响）；第二空reservation与confirm是被动关系，用has been confirmed（已被确认）。易错点是现在完成时的语境和被动语态的时态适配。"
+            },
+            {
+              "question": "This is the most beautiful mountain village I ___ in my life. I ___ here for three days and don’t want to leave.",
+              "options": {"A": "saw; stayed", "B": "have seen; have stayed", "C": "see; am staying"},
+              "answer": "B",
+              "explanation": "核心考查最高级+现在完成时和现在完成时：the most beautiful提示第一空用have seen（到目前为止的经历）；for three days提示第二空用have stayed（持续的动作）。易错点是最高级搭配的时态和现在完成时的时间标志词。"
+            },
+            {
+              "question": "If we ___ the early bus to the scenic spot, we ___ the crowded peak time now.",
+              "options": {"A": "had taken; wouldn’t be facing", "B": "took; wouldn’t face", "C": "take; won’t face"},
+              "answer": "A",
+              "explanation": "核心考查混合虚拟语气：从句用had taken（与过去事实相反），主句用wouldn’t be facing（与现在事实相反，现在进行时表当前正面临）。此题为难题，易错点是混合虚拟语气的时态搭配。"
+            },
+            {
+              "question": "The guide suggested that we ___ the ancient temple in the morning when it’s not hot.",
+              "options": {"A": "visit", "B": "visited", "C": "will visit"},
+              "answer": "A",
+              "explanation": "核心考查虚拟语气（suggest后的宾语从句）：suggest表“建议”时，从句用(should)do，should可省略，用visit。易错点是suggest后宾语从句的虚拟语气结构。"
+            },
+            {
+              "question": "We ___ in the coastal city for a week and we ___ all the famous beaches so far.",
+              "options": {"A": "have stayed; have visited", "B": "stayed; visited", "C": "are staying; visit"},
+              "answer": "A",
+              "explanation": "核心考查现在完成时：for a week和so far都是现在完成时的标志词，have stayed表持续停留，have visited表累计游览，符合旅游行程描述的时态逻辑。易错点是现在完成时的多个时间标志词适配。"
+            },
+            {
+              "question": "— Could you tell me ___ to get to the national park from the hotel?\n— You can take a shuttle bus which ___ every hour.",
+              "options": {"A": "how; leaves", "B": "how can I; leaves", "C": "when; leave"},
+              "answer": "A",
+              "explanation": "核心考查宾语从句语序和定语从句：第一空how to get（疑问词+不定式，或how I can get，排除B）；第二空which引导定语从句（修饰bus，单数，用leaves，排除C）。易错点是宾语从句语序和定语从句的主谓一致。"
+            },
+            {
+              "question": "The hotel room I booked ___ properly, so I asked the staff ___ it again.",
+              "options": {"A": "wasn’t cleaned; to clean", "B": "didn’t clean; clean", "C": "isn’t cleaned; cleaning"},
+              "answer": "A",
+              "explanation": "核心考查被动语态和不定式：room与clean是被动关系（排除B）；booked提示用一般过去时的被动wasn’t cleaned；ask sb to do是固定搭配（要求某人做某事），用to clean。易错点是被动语态时态和ask的固定搭配。"
+            },
+            {
+              "question": "The local snacks are ___ than I expected, and I think they are ___ in this region.",
+              "options": {"A": "delicious; the most delicious", "B": "more delicious; the most delicious", "C": "more delicious; most delicious"},
+              "answer": "B",
+              "explanation": "核心考查比较级和最高级：than提示用比较级more delicious；in this region提示用最高级the most delicious（最高级前必须加the，排除C）。易错点是比较级的标志词和最高级的the。"
+            },
+            {
+              "question": "By the end of this trip, we ___ three historical museums and two art galleries.",
+              "options": {"A": "will visit", "B": "will have visited", "C": "visited"},
+              "answer": "B",
+              "explanation": "核心考查将来完成时：By the end of this trip（到旅行结束时）是将来完成时的标志词，用will have visited（表到未来时间点完成的动作）。易错点是将来完成时的时间标志词和用法。"
+            },
+            {
+              "question": "I ___ my passport in the hotel lobby, but luckily the staff ___ it and kept it for me.",
+              "options": {"A": "left; found", "B": "forgot; found", "C": "left; has found"},
+              "answer": "A",
+              "explanation": "核心考查一般过去时和动词辨析：leave表“把某物落在某地”（forget表“忘记做某事”，排除B）；kept提示用一般过去时found（排除C）。易错点是leave/forget的辨析和时态适配。"
+            },
+            {
+              "question": "— How long ___ you ___ in this town?\n— For five days. We ___ here until next Sunday.",
+              "options": {"A": "have; stayed; will stay", "B": "did; stay; stay", "C": "are; staying; stayed"},
+              "answer": "A",
+              "explanation": "核心考查现在完成时和一般将来时：For five days提示第一空用have stayed（持续停留）；until next Sunday提示第二空用will stay（将来计划）。易错点是不同时态的时间标志词适配。"
+            },
+            {
+              "question": "The travel agency apologized that the planned hiking trip ___ because of the bad weather.",
+              "options": {"A": "cancelled", "B": "was cancelled", "C": "has cancelled"},
+              "answer": "B",
+              "explanation": "核心考查被动语态：trip与cancel是被动关系（被取消，排除A/C）；apologized提示用一般过去时的被动was cancelled。易错点是被动语态的识别和时态适配。"
+            },
+            {
+              "question": "You ___ take a camera with you when you visit the castle; the views ___ amazing photos.",
+              "options": {"A": "should; make", "B": "can; makes", "C": "must to; make"},
+              "answer": "A",
+              "explanation": "核心考查情态动词和主谓一致：should表“建议”（符合旅游场景的建议逻辑）；views是复数，用make（排除B）；must后接动词原形（排除C）。易错点是情态动词搭配和主谓一致。"
+            },
+            {
+              "question": "This is the small town ___ I mentioned to you, where we ___ a lot of fun last summer.",
+              "options": {"A": "that; had", "B": "where; have", "C": "which; have had"},
+              "answer": "A",
+              "explanation": "核心考查定语从句和一般过去时：第一空that引导定语从句（修饰town，作mentioned的宾语）；last summer提示第二空用had（一般过去时，排除B/C）。易错点是定语从句关系词和时态的融合。"
+            },
+            {
+              "question": "If I ___ more time, I ___ all the hidden scenic spots in this area.",
+              "options": {"A": "have; will visit", "B": "had; would visit", "C": "had had; would have visited"},
+              "answer": "B",
+              "explanation": "核心考查虚拟语气（与现在事实相反）：“如果我有更多时间，就会游览所有隐藏景点”是现在的虚拟，从句用had，主句用would visit；A是真实条件句（无虚拟语境，排除），C是与过去事实相反（排除）。易错点是虚拟语气的时态匹配。"
+            },
+            {
+              "question": "We ___ the sunrise at the top of the mountain yesterday, and it ___ the most beautiful sunrise I have ever seen.",
+              "options": {"A": "watched; was", "B": "have watched; is", "C": "watch; was"},
+              "answer": "A",
+              "explanation": "核心考查一般过去时：yesterday提示第一空用watched（排除B/C）；第二空was表过去的评价（与yesterday一致）。易错点是过去时的时间标志词和时态一致。"
+            },
+            {
+              "question": "The souvenir shop ___ we bought the hand-made jewelry is located ___ the entrance of the scenic spot.",
+              "options": {"A": "where; at", "B": "that; in", "C": "which; on"},
+              "answer": "A",
+              "explanation": "核心考查定语从句和方位介词：第一空where引导定语从句（修饰shop，作地点状语）；at the entrance是固定搭配（在入口处，排除B/C）。易错点是定语从句关系词和固定介词搭配。"
+            },
+            {
+              "question": "— I’m going to book a flight to Spain.\n— You ___ book in advance, because flights to Spain ___ usually fully booked in summer.",
+              "options": {"A": "had better; are", "B": "should to; is", "C": "must; was"},
+              "answer": "A",
+              "explanation": "核心考查情态动词和一般现在时：had better表“最好”（符合预订建议逻辑）；flights是复数，用are（排除B/C）；should后接动词原形（排除B），was是过去时（排除C）。易错点是情态动词搭配和主谓一致。"
+            },
+            {
+              "question": "So far, we ___ to the zoo, the art museum and the science center, but we ___ the botanical garden yet.",
+              "options": {"A": "have been; haven’t visited", "B": "went; didn’t visit", "C": "are going; don’t visit"},
+              "answer": "A",
+              "explanation": "核心考查现在完成时：so far和yet都是现在完成时的标志词，have been表“去过”，haven’t visited表“尚未游览”，符合旅游行程累计的时态逻辑。易错点是现在完成时的多个标志词适配。"
+            },
+            {
+              "question": "The reason we missed the tour group is ___ we ___ the meeting point on time.",
+              "options": {"A": "that; didn’t reach", "B": "why; haven’t reached", "C": "because; won’t reach"},
+              "answer": "A",
+              "explanation": "核心考查表语从句和一般过去时：The reason is that...是固定结构（排除B/C）；missed提示用一般过去时didn’t reach。易错点是The reason的固定句型和时态适配。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

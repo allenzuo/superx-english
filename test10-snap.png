@@ -1,0 +1,15 @@
+- generic [ref=e3]:
+  - generic [ref=e8]: 单词本
+  - generic [ref=e15]:
+    - generic [ref=e18] [cursor=pointer]:
+      - img [ref=e20]
+      - generic [ref=e21]: 首页
+    - generic [ref=e23] [cursor=pointer]:
+      - img [ref=e25]
+      - generic [ref=e26]: 单词本
+    - generic [ref=e28] [cursor=pointer]:
+      - img [ref=e30]
+      - generic [ref=e31]: 错题本
+    - generic [ref=e33] [cursor=pointer]:
+      - img [ref=e35]
+      - generic [ref=e36]: 我的

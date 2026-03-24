@@ -1,0 +1,549 @@
+{
+  "grammar_topics": [
+    {
+      "id": "modal_verbs",
+      "name": "6-情态动词-三节课深度解析",
+      "icon": "square",
+      "color": "#e74c3c",
+      "lessons": [
+        {
+          "id": "modal_verbs_1",
+          "title": "1-情态动词的核心定义与基础特征",
+          "content": "### 情态动词的核心定义\n情态动词（Modal Verb）是一类特殊的助动词，本身有一定的**情感/态度含义**（如“能、可以、必须、应该、可能”等），不能单独作谓语，需和**动词原形**（不带to）连用，共同构成句子的谓语部分，是初中英语语法的核心考点，中考单选、完形、语篇填空均会高频考查。\n\n### 情态动词的基础特征（中考必考易错点）\n1. **无人称和数的变化**：不管主语是单数/复数、第一/二/三人称，情态动词形式不变；\n   例：He can swim. / They can swim.（can无变化）；错→He cans swim.\n2. **后接动词原形**：必须跟不带to的动词原形，不能接动名词、不定式（除个别特殊结构）；\n   例：She must finish homework first.（finish用原形）；错→She must to finish homework.\n3. **否定式直接加not**：多数情态动词的否定形式为“情态动词+not”，部分有缩写（can’t/cannot, mustn’t, shouldn’t等）；\n   例：I cannot (can’t) speak French. / You mustn’t run in the hallways.\n4. **疑问式直接提至句首**：一般疑问句将情态动词放句首，回答也用对应的情态动词；\n   例：Can you dance? → Yes, I can. / No, I can’t.\n5. **无被动形式**：情态动词不能用于被动语态，若需表被动，需用“情态动词+be+过去分词”；\n   例：The work must be finished today.（be+finished表被动）。\n\n### 初中阶段核心情态动词分类（按功能）\n| 类别       | 核心情态动词       | 核心含义                 | 中考考查频率 |\n|------------|--------------------|--------------------------|--------------|\n| 能力/许可  | can/could, may/might | 能、可以、可能           | ★★★★★        |\n| 义务/责任  | must, should, ought to | 必须、应该               | ★★★★★        |\n| 推测/判断  | may/might, can/could, must, should | 可能、一定、应该（表推测） | ★★★★☆        |\n| 意愿/请求  | will/would, shall/should | 将要、愿意、请求         | ★★★☆☆        |\n| 必要性     | need, have to      | 需要、不得不             | ★★★★☆        |",
+          "examples": [
+            {
+              "sentence": "I can play the piano very well.",
+              "translation": "我钢琴弹得很好。",
+              "analysis": "can表“能力”，无人称变化，后接动词原形play；此处表主语“我”具备弹钢琴的能力，是can的基础用法。"
+            },
+            {
+              "sentence": "You must not eat in the classroom.",
+              "translation": "你不许在教室里吃东西。",
+              "analysis": "must的否定式是must not（缩写mustn’t），表“禁止”，后接动词原形eat；针对校园规则的禁止性表达，是中考常考场景。"
+            },
+            {
+              "sentence": "Can he speak Chinese? — No, he can’t.",
+              "translation": "他会说中文吗？——不，他不会。",
+              "analysis": "一般疑问句将can提至句首，回答用can/can’t；核心考查情态动词的疑问式和答语规则。"
+            },
+            {
+              "sentence": "The homework should be handed in before 8 o’clock.",
+              "translation": "作业应该在8点前上交。",
+              "analysis": "should表“应该”，需表被动时用“should+be+过去分词（handed in）”；情态动词被动结构是中考难点。"
+            },
+            {
+              "sentence": "They may go to the park this weekend.",
+              "translation": "他们这个周末可能去公园。",
+              "analysis": "may表“可能性”，无人称变化（主语they，may不变），后接动词原形go；表不确定的推测。"
+            },
+            {
+              "sentence": "She has to get up early to catch the bus.",
+              "translation": "她不得不早起赶公交。",
+              "analysis": "have to表“不得不”，有人称变化（主语she，用has to），区别于must（无人称变化）；核心考查have to与must的差异。"
+            },
+            {
+              "sentence": "Would you like to drink a cup of tea?",
+              "translation": "你想喝杯茶吗？",
+              "analysis": "would表“委婉请求/意愿”，是will的过去式，但此处无过去含义，仅表礼貌；后接like to do是固定搭配（例外：情态动词后接to）。"
+            },
+            {
+              "sentence": "He might be late for school because of the rain.",
+              "translation": "因为下雨，他可能上学迟到。",
+              "analysis": "might是may的过去式，表“可能性”，语气比may更弱；后接动词原形be，表推测。"
+            },
+            {
+              "sentence": "We should help our parents do housework at home.",
+              "translation": "我们应该在家帮父母做家务。",
+              "analysis": "should表“责任/建议”，后接动词原形help；中考常考表“建议”的用法，搭配help sb do sth。"
+            },
+            {
+              "sentence": "Need we finish the work today? — Yes, we must.",
+              "translation": "我们需要今天完成工作吗？——是的，必须完成。",
+              "analysis": "need作情态动词时，疑问式提至句首，回答用must（不用need）；核心考查need的情态动词用法。"
+            }
+          ],
+          "exercises": [
+            {
+              "question": "— ___ you swim? — Yes, I can. And I ___ swim very fast.",
+              "options": {"A": "Can; can", "B": "May; may", "C": "Must; must"},
+              "answer": "A",
+              "explanation": "第一空表“能力”，用can构成一般疑问句；第二空也表“能力”，can无人称变化，符合“情态动词+动词原形”规则。"
+            },
+            {
+              "question": "She ___ play the guitar when she was five years old.",
+              "options": {"A": "can", "B": "could", "C": "must"},
+              "answer": "B",
+              "explanation": "when she was five表过去时间，could是can的过去式，表“过去的能力”；can用于现在，must表“必须”，均不符合语境。"
+            },
+            {
+              "question": "You ___ talk loudly in the library. It’s against the rules.",
+              "options": {"A": "mustn’t", "B": "shouldn’t", "C": "needn’t"},
+              "answer": "A",
+              "explanation": "图书馆禁止大声说话，mustn’t表“禁止”，语气最强；shouldn’t表“不应该”，needn’t表“不必”，均不符合“禁止”的语义。"
+            },
+            {
+              "question": "The little boy ___ speak English very well, though he is only six.",
+              "options": {"A": "must", "B": "can", "C": "should"},
+              "answer": "B",
+              "explanation": "此处表“能力”，指小男孩有说英语的能力，can表“能、会”；must表“必须”，should表“应该”，均不符合语义。"
+            },
+            {
+              "question": "— ___ I use your pen? — Sure, here you are.",
+              "options": {"A": "Must", "B": "Need", "C": "May"},
+              "answer": "C",
+              "explanation": "表“委婉请求许可”，用may；must表“必须”，need表“需要”，均不符合“请求借笔”的语境。"
+            },
+            {
+              "question": "We ___ finish our homework before watching TV, our teacher says.",
+              "options": {"A": "should", "B": "can", "C": "might"},
+              "answer": "A",
+              "explanation": "老师要求先完成作业，should表“应该”，符合“责任/建议”的语义；can表“能力”，might表“可能”，均不符合。"
+            },
+            {
+              "question": "The work ___ be finished by tomorrow morning, or we will be punished.",
+              "options": {"A": "must", "B": "may", "C": "could"},
+              "answer": "A",
+              "explanation": "or we will be punished表“否则会受惩罚”，must表“必须”，语气最强，符合语境；may/could表“可能”，语义过弱。"
+            },
+            {
+              "question": "— Need I clean the room now? — No, you ___. You can do it this afternoon.",
+              "options": {"A": "mustn’t", "B": "needn’t", "C": "shouldn’t"},
+              "answer": "B",
+              "explanation": "need作情态动词时，否定回答用needn’t（不必）；mustn’t表“禁止”，shouldn’t表“不应该”，均不符合答语语义。"
+            },
+            {
+              "question": "He ___ be at home, because the light in his room is on.",
+              "options": {"A": "must", "B": "can", "C": "may"},
+              "answer": "A",
+              "explanation": "the light is on是明确证据，must表“肯定推测”（可能性90%以上）；may表“可能”（50%左右），can表推测时一般用于否定/疑问句，均不符合。"
+            },
+            {
+              "question": "Lily ___ walk to school, but today she ___ take a bus because she is late.",
+              "options": {"A": "can; has to", "B": "must; can", "C": "should; may"},
+              "answer": "A",
+              "explanation": "第一空表“能力”，can walk to school（能步行上学）；第二空表“不得不”，has to有人称变化（主语she），符合“迟到所以不得不坐车”的语境。"
+            },
+            {
+              "question": "— Would you like to go shopping with me? — Yes, I ___.",
+              "options": {"A": "would", "B": "will", "C": "can"},
+              "answer": "A",
+              "explanation": "Would you like...?的肯定回答用Yes, I would.；will表“将要”，can表“能力”，均不符合固定答语规则。"
+            },
+            {
+              "question": "The classroom ___ be cleaned every day to keep it tidy.",
+              "options": {"A": "should", "B": "should to", "C": "should be"},
+              "answer": "C",
+              "explanation": "classroom和clean是被动关系（教室被打扫），情态动词的被动结构是“情态动词+be+过去分词”，故用should be cleaned；B选项多了to，违反“情态动词+动词原形”规则。"
+            },
+            {
+              "question": "You ___ worry about me. I can look after myself well.",
+              "options": {"A": "needn’t", "B": "mustn’t", "C": "shouldn’t"},
+              "answer": "A",
+              "explanation": "I can look after myself表“能照顾自己”，故前句表“不必担心”，needn’t表“不必”；mustn’t表“禁止”，shouldn’t表“不应该”，均不符合。"
+            },
+            {
+              "question": "___ he ___ to finish the work today?",
+              "options": {"A": "Does; have", "B": "Must; have", "C": "Need; has"},
+              "answer": "A",
+              "explanation": "have to作“不得不”讲时，有人称/数变化，疑问句需用助动词do/does；B选项must后接动词原形，应为must finish；C选项need作情态动词后接原形，应为Need he have。"
+            },
+            {
+              "question": "It’s raining outside. We ___ stay at home instead of going out.",
+              "options": {"A": "might", "B": "should", "C": "can"},
+              "answer": "B",
+              "explanation": "下雨时“应该”待在家里，should表“建议/合理的选择”；might表“可能”，can表“能力”，均不符合语境。"
+            },
+            {
+              "question": "— May I go out to play football after dinner? — No, you ___. You have to finish your homework first.",
+              "options": {"A": "may not", "B": "can’t", "C": "needn’t"},
+              "answer": "B",
+              "explanation": "May I...?的否定回答不用may not（语气弱），用can’t/mustn’t（语气明确）；needn’t表“不必”，不符合“禁止出去玩”的语境。"
+            },
+            {
+              "question": "She ___ speak Japanese before, but now she ___ speak it very well.",
+              "options": {"A": "couldn’t; can", "B": "can’t; could", "C": "mustn’t; can"},
+              "answer": "A",
+              "explanation": "before表过去，用couldn’t（can的过去否定式）表“过去不能”；now表现在，用can表“现在能”，符合时间对比的语境。"
+            },
+            {
+              "question": "We ___ protect the environment, it’s our duty.",
+              "options": {"A": "must", "B": "may", "C": "could"},
+              "answer": "A",
+              "explanation": "protect the environment是“责任”，must表“必须”，强调义务；may/could表“可能”，不符合“责任”的语义。"
+            },
+            {
+              "question": "— Can I wear jeans to the party? — I’m afraid you ___. The party is very formal.",
+              "options": {"A": "can’t", "B": "needn’t", "C": "shouldn’t"},
+              "answer": "A",
+              "explanation": "Can I...?的否定回答用can’t，表“不可以”；the party is formal（正式）说明“不能穿牛仔裤”，符合语义；needn’t表“不必”，shouldn’t表“不应该”，语气不如can’t明确。"
+            },
+            {
+              "question": "Tom ___ be in the classroom, I saw him go to the playground just now.",
+              "options": {"A": "mustn’t", "B": "can’t", "C": "shouldn’t"},
+              "answer": "B",
+              "explanation": "saw him go to the playground表“看到他去操场了”，故“不可能在教室”，can’t表“否定推测”（可能性0）；mustn’t表“禁止”，shouldn’t表“不应该”，均不符合推测语义。"
+            }
+          ]
+        },
+        {
+          "id": "modal_verbs_2",
+          "title": "2-情态动词的细分用法（能力/许可/请求）",
+          "content": "### 核心用法1：表“能力”——can/could\n#### 基础规则\n- **can**：用于**现在/一般情况**的能力，表“能、会”，无人称变化；\n  例：I can ride a bike. / My sister can draw pictures.\n- **could**：① 用于**过去**的能力（过去式）；② 表“能力”时语气比can更委婉（不表过去）；\n  例：He could swim when he was 4.（过去能力）；Could you help me?（委婉请求，不表过去）。\n#### 易错点\n- 表“具体某次能力”不用can/could，用be able to；\n  例：He was able to finish the task in one hour.（具体某次成功做到）；错→He could finish the task in one hour.\n- can’t表“不能”，区别于may not（不可以）、mustn’t（禁止）。\n\n### 核心用法2：表“许可/请求”——may/might/can/could\n#### 基础规则（按语气从强到弱）\n| 情态动词 | 用法场景                          | 例句                          |\n|----------|-----------------------------------|-------------------------------|\n| may      | 正式场合表“许可”，或委婉请求      | May I use your phone?（请求）；You may leave now.（许可） |\n| might    | 比may语气更弱，表“可能的许可”      | You might go home early if you finish work. |\n| can      | 日常口语表“许可/请求”，语气随意    | Can I open the window?（请求）；You can watch TV after dinner.（许可） |\n| could    | 比can更委婉，不表过去，用于礼貌请求 | Could you pass the salt?（委婉请求） |\n#### 易错点\n- May I...?的回答：肯定→Yes, you may./Sure./Of course.；否定→No, you can’t./No, you mustn’t.（不用may not）；\n- Can I...?的回答：肯定→Yes, you can.；否定→No, you can’t./No, you mustn’t.\n\n### 核心用法3：表“意愿/委婉请求”——will/would\n#### 基础规则\n- **will**：① 表“意愿/决心”（现在）；② 表“将要”（将来）；③ 用于第二人称疑问句表“请求”；\n  例：I will help you.（意愿）；Will you close the door?（请求）。\n- **would**：① will的过去式，表“过去的意愿”；② 比will更委婉，用于请求（无过去含义）；\n  例：He said he would come.（过去意愿）；Would you like a cup of coffee?（委婉请求）。\n#### 固定搭配\n- Would you like to do...?（你想做……吗？）→ 回答：Yes, I’d like to./No, thanks.\n- Will you please do...?（请你做……好吗？）→ 回答：Sure./Of course./Sorry, I can’t.\n\n### 核心用法4：表“必要性”——need/have to\n#### 基础规则\n| 情态动词 | 词性特征                | 含义                | 例句                          |\n|----------|-------------------------|---------------------|-------------------------------|\n| need     | 情态动词/实义动词       | 必要、需要          | 情态：Need we go now?；实义：We need to go now. |\n| have to  | 实义动词（有人称变化）  | 不得不、必须        | I have to get up early.；She has to work late. |\n#### 核心差异（中考必考）\n- **must vs have to**：\n  ① must表“主观认为必须”，have to表“客观条件迫使不得不”；\n    例：I must study hard.（自己想）；I have to study hard.（父母/考试要求）；\n  ② must无人称变化，have to有人称/时态变化（has to/had to/will have to）；\n  ③ must的否定：mustn’t（禁止）；have to的否定：don’t/doesn’t have to（不必）。\n- **need的两种用法**：\n  ① 情态动词：仅用于否定/疑问句，后接原形 → Need I go? / You needn’t go.\n  ② 实义动词：可用于肯定/否定/疑问句，后接to do → I need to go. / He doesn’t need to go.",
+          "examples": [
+            {
+              "sentence": "I can’t lift this heavy box, could you help me?",
+              "translation": "我搬不动这个重箱子，你能帮我吗？",
+              "analysis": "第一空can’t表“现在没能力”；第二空could表“委婉请求”，不表过去，比can更礼貌，符合日常交际场景。"
+            },
+            {
+              "sentence": "May I leave the classroom early? — No, you mustn’t. The class isn’t over yet.",
+              "translation": "我能早点离开教室吗？——不行，禁止离开。课还没结束。",
+              "analysis": "May I...?表“请求许可”，否定回答用mustn’t（语气强硬，表禁止），不用may not；the class isn’t over是禁止的原因。"
+            },
+            {
+              "question": "He could play the violin when he was seven years old.",
+              "translation": "他七岁时就会拉小提琴了。",
+              "analysis": "could是can的过去式，表“过去的能力”，when he was seven明确时间为过去，符合could表过去能力的规则。"
+            },
+            {
+              "sentence": "You can watch TV for 30 minutes after you finish your homework.",
+              "translation": "你完成作业后可以看30分钟电视。",
+              "analysis": "can表“日常许可”，语气随意，符合家长对孩子的许可场景；后接动词原形watch，符合情态动词规则。"
+            },
+            {
+              "sentence": "Would you like to go to the cinema with me this evening?",
+              "translation": "今晚你愿意和我一起去看电影吗？",
+              "analysis": "Would you like to do...?是固定搭配，表“委婉邀请”，would无过去含义，仅表礼貌；回答需用Yes, I’d like to. / No, thanks."
+            },
+            {
+              "sentence": "I have to take care of my little sister, because my parents are out.",
+              "translation": "我不得不照顾我的小妹妹，因为我父母出去了。",
+              "analysis": "have to表“客观迫使”（父母不在家），有人称变化（主语I，用have to）；区别于must（主观必须），符合语境。"
+            },
+            {
+              "sentence": "She doesn’t have to go to school today, it’s Sunday.",
+              "translation": "她今天不必去上学，今天是周日。",
+              "analysis": "have to的否定式是don’t/doesn’t have to（不必），主语she用doesn’t have to；it’s Sunday是“不必上学”的客观原因。"
+            },
+            {
+              "sentence": "Need we hand in the report tomorrow? — No, we needn’t. We can hand it in the day after tomorrow.",
+              "translation": "我们需要明天交报告吗？——不，不必。我们可以后天交。",
+              "analysis": "need作情态动词，用于疑问句（Need we...?），否定回答用needn’t（不必）；符合need情态动词的用法规则。"
+            },
+            {
+              "sentence": "I must finish the project on time, it’s my responsibility.",
+              "translation": "我必须按时完成这个项目，这是我的责任。",
+              "analysis": "must表“主观认为必须”（自己的责任），无人称变化，后接动词原形finish；区别于have to（客观迫使）。"
+            },
+            {
+              "sentence": "Could you please speak more slowly? I can’t follow you.",
+              "translation": "你能说慢一点吗？我跟不上。",
+              "analysis": "Could you please...?是固定句式，表“委婉请求”，could比can更礼貌；后接动词原形speak，符合规则。"
+            }
+          ],
+          "exercises": [
+            {
+              "question": "— ___ you help me carry the box? It’s too heavy. — Sure, I’d love to.",
+              "options": {"A": "Can", "B": "Must", "C": "Need"},
+              "answer": "A",
+              "explanation": "表“请求帮助”，用can（日常口语）；must表“必须”，need表“需要”，均不符合“请求”的语义。"
+            },
+            {
+              "question": "My grandfather ___ walk fast when he was young, but now he ___ walk without a stick.",
+              "options": {"A": "can; can’t", "B": "could; can’t", "C": "could; couldn’t"},
+              "answer": "B",
+              "explanation": "when he was young表过去，用could（can的过去式）表“过去能”；now表现在，用can’t表“现在不能”，符合时间对比的语境。"
+            },
+            {
+              "question": "— May I use your computer? — Sorry, you ___. I’m using it now.",
+              "options": {"A": "may not", "B": "can’t", "C": "needn’t"},
+              "answer": "B",
+              "explanation": "May I...?的否定回答不用may not（语气模糊），用can’t（明确表“不可以”）；I’m using it now是“不能借”的原因，符合语义；needn’t表“不必”，不符合。"
+            },
+            {
+              "question": "You ___ wear a seat belt when you drive a car. It’s a rule.",
+              "options": {"A": "have to", "B": "can", "C": "may"},
+              "answer": "A",
+              "explanation": "it’s a rule表“客观规则”，have to表“客观迫使不得不”；can表“能力”，may表“许可”，均不符合“规则要求”的语义。"
+            },
+            {
+              "question": "— Would you like ___ to the park with us? — Yes, I’d like to.",
+              "options": {"A": "go", "B": "to go", "C": "going"},
+              "answer": "B",
+              "explanation": "Would you like to do...?是固定搭配，后接不定式to do；go是原形，going是动名词，均不符合规则。"
+            },
+            {
+              "question": "We ___ hurry up, or we will miss the train.",
+              "options": {"A": "must", "B": "may", "C": "could"},
+              "answer": "A",
+              "explanation": "or we will miss the train表“否则错过火车”，must表“主观必须”，强调紧迫性；may/could表“可能”，语义过弱。"
+            },
+            {
+              "question": "She ___ speak French fluently, but she ___ speak German at all.",
+              "options": {"A": "can; can’t", "B": "could; couldn’t", "C": "must; mustn’t"},
+              "answer": "A",
+              "explanation": "第一空表“现在的能力”（能说流利法语），用can；第二空not...at all表“一点也不”，用can’t（不能说德语）；mustn’t表“禁止”，不符合语义。"
+            },
+            {
+              "question": "— Need I clean the blackboard today? — No, you ___. Li Ming will do it.",
+              "options": {"A": "mustn’t", "B": "needn’t", "C": "shouldn’t"},
+              "answer": "B",
+              "explanation": "need作情态动词时，否定回答用needn’t（不必）；Li Ming will do it是“不必打扫”的原因；mustn’t表“禁止”，shouldn’t表“不应该”，均不符合。"
+            },
+            {
+              "question": "___ you please turn down the music? My baby is sleeping.",
+              "options": {"A": "Could", "B": "Must", "C": "Need"},
+              "answer": "A",
+              "explanation": "Could you please...?表“委婉请求”，符合“请求关小音乐”的礼貌语境；must表“必须”，need表“需要”，均不符合。"
+            },
+            {
+              "question": "He ___ go to school yesterday, because he was ill.",
+              "options": {"A": "didn’t have to", "B": "mustn’t", "C": "can’t"},
+              "answer": "A",
+              "explanation": "yesterday表过去，was ill表“生病”，故“不必上学”，have to的过去否定式是didn’t have to；mustn’t表“禁止”，can’t表“现在不能”，均不符合过去时间和语义。"
+            },
+            {
+              "question": "You ___ smoke in the hospital. It’s dangerous for patients.",
+              "options": {"A": "mustn’t", "B": "needn’t", "C": "shouldn’t"},
+              "answer": "A",
+              "explanation": "医院“禁止”吸烟，mustn’t表“禁止”，语气最强；needn’t表“不必”，shouldn’t表“不应该”，均不如mustn’t符合“禁止”的语义。"
+            },
+            {
+              "question": "I ___ swim when I was three years old, it’s amazing.",
+              "options": {"A": "can", "B": "could", "C": "must"},
+              "answer": "B",
+              "explanation": "when I was three表过去，could是can的过去式，表“过去的能力”；can用于现在，must表“必须”，均不符合。"
+            },
+            {
+              "question": "— Can I park my car here? — Yes, you ___. There is a parking lot over there.",
+              "options": {"A": "can", "B": "may", "C": "must"},
+              "answer": "A",
+              "explanation": "Can I...?的肯定回答用Yes, you can.；may表“许可”但不符合答语规则，must表“必须”，均不符合。"
+            },
+            {
+              "question": "We ___ finish the work today, we have enough time to do it tomorrow.",
+              "options": {"A": "mustn’t", "B": "don’t have to", "C": "can’t"},
+              "answer": "B",
+              "explanation": "have enough time tomorrow表“明天有时间”，故“不必今天完成”，don’t have to表“不必”；mustn’t表“禁止”，can’t表“不能”，均不符合。"
+            },
+            {
+              "question": "___ I ask you a personal question? — Of course, go ahead.",
+              "options": {"A": "Must", "B": "May", "C": "Need"},
+              "answer": "B",
+              "explanation": "表“委婉请求问私人问题”，用may；must表“必须”，need表“需要”，均不符合“委婉请求”的语境。"
+            },
+            {
+              "question": "She ___ to finish the homework before 9 o’clock, her mother is strict with her.",
+              "options": {"A": "has", "B": "must", "C": "need"},
+              "answer": "A",
+              "explanation": "have to表“客观迫使”（妈妈严格），主语she用has to；must后接原形（finish），不能接to；need作实义动词需用needs to，均不符合。"
+            },
+            {
+              "question": "Will you ___ me a favor? I need to move to a new house.",
+              "options": {"A": "do", "B": "to do", "C": "doing"},
+              "answer": "A",
+              "explanation": "Will you...?后接动词原形，do me a favor是固定搭配（帮忙）；to do是不定式，doing是动名词，均不符合情态动词规则。"
+            },
+            {
+              "question": "— Could I borrow your dictionary? — Yes, you ___. Here you are.",
+              "options": {"A": "could", "B": "can", "C": "may"},
+              "answer": "B",
+              "explanation": "Could I...?的肯定回答不用could（语气弱），用can（明确表“可以”）；may表“许可”但不符合答语规则，故选B。"
+            },
+            {
+              "question": "They ___ go camping last weekend, because it rained heavily.",
+              "options": {"A": "couldn’t", "B": "can’t", "C": "mustn’t"},
+              "answer": "A",
+              "explanation": "last weekend表过去，rained heavily表“下大雨”，故“不能去露营”，couldn’t是can’t的过去式；can’t用于现在，mustn’t表“禁止”，均不符合。"
+            },
+            {
+              "question": "You ___ worry about your exam, you have prepared well for it.",
+              "options": {"A": "needn’t", "B": "mustn’t", "C": "shouldn’t"},
+              "answer": "A",
+              "explanation": "have prepared well表“准备充分”，故“不必担心考试”，needn’t表“不必”；mustn’t表“禁止”，shouldn’t表“不应该”，均不符合语义。"
+            }
+          ]
+        },
+        {
+          "id": "modal_verbs_3",
+          "title": "3-情态动词表推测的用法与易混辨析",
+          "content": "### 情态动词表推测的核心规则\n情态动词表“推测”时，根据**语气强弱（可能性大小）** 分为“肯定推测、否定推测、不确定推测”，是中考语法的难点，常结合语境考查，需重点区分不同情态动词的推测语气。\n\n### 分类1：肯定推测（可能性从高到低）\n| 情态动词 | 可能性 | 用法场景                          | 例句                          |\n|----------|--------|-----------------------------------|-------------------------------|\n| must     | 90%+   | 有明确证据，表“一定、肯定”        | The light is on, he must be at home. |\n| should   | 80%    | 按常理推测，表“应该、按理来说”    | He should be here by now, he left early. |\n| may      | 50%    | 无明确证据，表“可能、也许”        | He may be late, the traffic is heavy. |\n| might    | 30%    | 比may语气更弱，表“或许、可能”      | She might come to the party, but I’m not sure. |\n| could    | 30%    | 与might语气相当，表“可能”          | It could rain this afternoon. |\n#### 易错点\n- must表肯定推测时，仅用于**肯定句**，否定/疑问句不用must；\n  例：错→Must he be at home? / He mustn’t be at home.\n- should表推测时，强调“按逻辑/常理应该”，区别于表“建议”的should；\n  例：He should pass the exam（推测：他应该能通过）；He should study hard（建议：他应该努力）。\n\n### 分类2：否定推测（可能性从高到低）\n| 情态动词 | 可能性 | 用法场景                          | 例句                          |\n|----------|--------|-----------------------------------|-------------------------------|\n| can’t    | 0%     | 有明确证据，表“不可能”            | He can’t be ill, I saw him playing basketball just now. |\n| may not  | 50%    | 无明确证据，表“可能不”            | He may not come to school today, he has a cold. |\n| might not| 30%    | 比may not语气更弱，表“或许不”      | She might not like the gift, I don’t know her taste. |\n#### 易错点\n- mustn’t**不表推测**，仅表“禁止”，否定推测必须用can’t；\n  例：错→He mustn’t be at home.（应改为He can’t be at home.）；\n- can’t表否定推测时，语气绝对，需有明确证据支撑。\n\n### 分类3：疑问推测\n仅用**can/could**表“疑问推测”，表“可能吗？”，不用must/may/might；\n例：Can he be in the office?（他可能在办公室吗？）；Could it be true?（这可能是真的吗？）。\n\n### 情态动词表推测的时态规则\n1. **对现在/当前情况推测**：情态动词+动词原形（be/do）；\n   例：She must be happy.（be表状态）；He may know the answer.（know表动作）。\n2. **对正在进行的动作推测**：情态动词+be+doing；\n   例：They must be watching TV now.（正在看电视）。\n3. **对过去情况推测**：情态动词+have+过去分词；\n   例：He must have finished the work.（已经完成工作）；She can’t have left, her bag is here.（不可能离开）。\n\n### 初中阶段情态动词易混辨析（中考必考）\n#### 1. can/could\n- 表能力：can（现在）/could（过去）；\n- 表请求：could（委婉）/can（日常）；\n- 表推测：could（可能，语气弱）/can（仅用于否定/疑问句）。\n\n#### 2. may/might\n- 表许可：may（正式）/might（更委婉）；\n- 表推测：may（可能）/might（更弱）；\n- 否定：may not（可能不）/might not（或许不）（均不表禁止）。\n\n#### 3. must/have to\n- 表必须：must（主观）/have to（客观）；\n- 否定：mustn’t（禁止）/don’t have to（不必）；\n- 推测：must（肯定推测，仅肯定句）/have to无推测用法。\n\n#### 4. should/ought to\n- 表建议：should（常用）/ought to（正式，后接to do）；\n- 表推测：should（按常理应该）/ought to（极少用）；\n- 否定：shouldn’t/ought not to。\n\n#### 5. need/dare\n- 情态动词：仅否定/疑问句，后接原形（needn’t/daren’t）；\n- 实义动词：可肯定/否定/疑问句，后接to do（need to do/dare to do）；\n- 无推测用法。",
+          "examples": [
+            {
+              "sentence": "The ground is wet, it must have rained last night.",
+              "translation": "地面是湿的，昨晚一定下雨了。",
+              "analysis": "ground is wet是明确证据，must表“肯定推测”；have rained是“情态动词+have+过去分词”，表对过去情况的推测。"
+            },
+            {
+              "sentence": "He can’t be the thief, he was with me all the time yesterday.",
+              "translation": "他不可能是小偷，他昨天一直和我在一起。",
+              "analysis": "was with me all the time是明确证据，can’t表“否定推测（不可能）”；mustn’t不能表推测，此处必须用can’t。"
+            },
+            {
+              "sentence": "They may be having a meeting now, don’t disturb them.",
+              "translation": "他们现在可能正在开会，别打扰他们。",
+              "analysis": "now表“正在进行”，may表“不确定推测”，结构为“情态动词+be+doing（having）”，表对正在进行动作的推测。"
+            },
+            {
+              "sentence": "She should know the way to the park, she lives near here.",
+              "translation": "她应该知道去公园的路，她就住在这附近。",
+              "analysis": "lives near here是“按常理”的依据，should表“按逻辑推测（应该）”，区别于表“建议”的should。"
+            },
+            {
+              "sentence": "Can he be late for the meeting? He never arrives late.",
+              "translation": "他开会可能迟到吗？他从不迟到。",
+              "analysis": "疑问推测用can，表“可能吗？”；must/may不能用于疑问推测，符合规则。"
+            },
+            {
+              "sentence": "He might not come to the party, he has to work overtime.",
+              "translation": "他或许不来参加派对了，他得加班。",
+              "analysis": "might not表“否定推测（或许不）”，语气比may not更弱；has to work overtime是推测的依据，但证据不充分，故用might not。"
+            },
+            {
+              "sentence": "You mustn’t smoke here, but you may smoke in the smoking area.",
+              "translation": "你不许在这里抽烟，但你可以在吸烟区抽。",
+              "analysis": "mustn’t表“禁止”（不表推测），may表“许可”；核心区分mustn’t的“禁止”和can’t的“不可能”。"
+            },
+            {
+              "sentence": "She can’t have forgotten the appointment, I reminded her this morning.",
+              "translation": "她不可能忘记约会，我今天早上提醒过她。",
+              "analysis": "reminded her是明确证据，can’t have forgotten表“对过去的否定推测（不可能忘记）”，结构为“情态动词+have+过去分词”。"
+            },
+            {
+              "sentence": "It could rain tomorrow, the weather forecast says so.",
+              "translation": "明天可能下雨，天气预报是这么说的。",
+              "analysis": "could表“不确定推测（可能）”，语气比may弱；weather forecast是推测的依据，但并非绝对，故用could。"
+            },
+            {
+              "sentence": "He should be back by 6 o’clock, he said he would leave the office at 5.",
+              "translation": "他应该6点前回来，他说他5点就离开办公室了。",
+              "analysis": "said he would leave at 5是“按常理”的依据，should表“推测（应该）”，符合语境；区别于表“建议”的用法。"
+            }
+          ],
+          "exercises": [
+            {
+              "question": "The light is off, he ___ be at home now.",
+              "options": {"A": "mustn’t", "B": "can’t", "C": "shouldn’t"},
+              "answer": "B",
+              "explanation": "light is off是明确证据，表“不可能在家”，can’t表“否定推测（不可能）”；mustn’t表“禁止”，shouldn’t表“不应该”，均不表推测。"
+            },
+            {
+              "question": "He ___ pass the exam, he has studied hard for it for a month.",
+              "options": {"A": "must", "B": "may", "C": "might"},
+              "answer": "A",
+              "explanation": "has studied hard for a month是明确证据，表“肯定能通过考试”，must表“肯定推测（一定）”；may/might表“不确定推测”，语义过弱。"
+            },
+            {
+              "question": "___ it be true that he won the first prize? I can’t believe it.",
+              "options": {"A": "Can", "B": "Must", "C": "May"},
+              "answer": "A",
+              "explanation": "疑问推测用can，表“可能吗？”；must/may不能用于疑问推测，符合规则。"
+            },
+            {
+              "question": "She ___ be reading in the library now, she likes reading there after school.",
+              "options": {"A": "can", "B": "should", "C": "mustn’t"},
+              "answer": "B",
+              "explanation": "likes reading there after school是“按常理”的依据，should表“推测（应该）”；can表推测仅用于否定/疑问句，mustn’t表“禁止”，均不符合。"
+            },
+            {
+              "question": "They ___ have finished the project yesterday, it was too difficult.",
+              "options": {"A": "can’t", "B": "mustn’t", "C": "needn’t"},
+              "answer": "A",
+              "explanation": "yesterday表过去，it was too difficult是明确证据，表“不可能完成”，can’t have finished表“对过去的否定推测”；mustn’t表“禁止”，needn’t表“不必”，均不表推测。"
+            },
+            {
+              "question": "He ___ come to the party tonight, but I’m not sure. He has a lot of work to do.",
+              "options": {"A": "must", "B": "may", "C": "can’t"},
+              "answer": "B",
+              "explanation": "I’m not sure表“不确定”，may表“推测（可能）”；must表“肯定推测”，can’t表“否定推测”，均不符合“不确定”的语境。"
+            },
+            {
+              "question": "The little girl ___ be lost, she is crying and looking for her mother.",
+              "options": {"A": "must", "B": "may", "C": "could"},
+              "answer": "A",
+              "explanation": "crying and looking for her mother是明确证据，表“肯定迷路了”，must表“肯定推测”；may/could表“不确定推测”，语义过弱。"
+            },
+            {
+              "question": "You ___ be serious! You can’t quit your job without a plan.",
+              "options": {"A": "can’t", "B": "mustn’t", "C": "shouldn’t"},
+              "answer": "A",
+              "explanation": "can’t be serious表“否定推测（不可能是认真的）”，符合“没计划就辞职不合理”的语境；mustn’t表“禁止”，shouldn’t表“不应该”，均不表推测。"
+            },
+            {
+              "question": "It ___ rain this afternoon, the sky is cloudy.",
+              "options": {"A": "might", "B": "must", "C": "can’t"},
+              "answer": "A",
+              "explanation": "sky is cloudy是“不明确”的依据，might表“推测（或许）”，语气弱；must表“肯定推测”（证据不足），can’t表“否定推测”（与cloudy矛盾），均不符合。"
+            },
+            {
+              "question": "He ___ be playing basketball on the playground now, I saw him go to the classroom just now.",
+              "options": {"A": "must", "B": "can’t", "C": "may"},
+              "answer": "B",
+              "explanation": "saw him go to the classroom是明确证据，表“不可能在操场打篮球”，can’t be playing表“对正在进行动作的否定推测”；must表“肯定推测”，may表“不确定推测”，均不符合。"
+            },
+            {
+              "question": "She ___ not like the gift, I didn’t ask her favorite color before buying it.",
+              "options": {"A": "must", "B": "may", "C": "can"},
+              "answer": "B",
+              "explanation": "didn’t ask her favorite color是“不明确”的依据，may not表“推测（可能不）”；must not表“禁止”，can not表“不可能”（证据不足），均不符合。"
+            },
+            {
+              "question": "They ___ have arrived at the airport by now, they took the early bus.",
+              "options": {"A": "should", "B": "can", "C": "needn’t"},
+              "answer": "A",
+              "explanation": "took the early bus是“按常理”的依据，should have arrived表“对过去的推测（应该已经到了）”；can表推测仅用于否定/疑问句，needn’t表“不必”，均不符合。"
+            },
+            {
+              "question": "— Is that Tom at the door? — It ___ be him, he is in Beijing now.",
+              "options": {"A": "mustn’t", "B": "can’t", "C": "shouldn’t"},
+              "answer": "B",
+              "explanation": "he is in Beijing now是明确证据，表“不可能是他”，can’t表“否定推测”；mustn’t表“禁止”，shouldn’t表“不应该”，均不表推测。"
+            },
+            {
+              "question": "The baby ___ be hungry, he hasn’t eaten for three hours.",
+              "options": {"A": "must", "B": "might", "C": "could"},
+              "answer": "A",
+              "explanation": "hasn’t eaten for three hours是明确证据，表“肯定饿了”，must表“肯定推测”；might/could表“不确定推测”，语义过弱。"
+            },
+            {
+              "question": "Could he ___ the answer to the question? He is good at this subject.",
+              "options": {"A": "know", "B": "knows", "C": "to know"},
+              "answer": "A",
+              "explanation": "could表推测（情态动词），后接动词原形know；knows是第三人称单数，to know是不定式，均不符合情态动词规则。"
+            },
+            {
+              "question": "He ___ be late for school, he always gets up early and takes the first bus.",
+              "options": {"A": "may", "B": "can’t", "C": "must"},
+              "answer": "B",
+              "explanation": "always gets up early and takes the first bus是明确证据，表“不可能迟到”，can’t表“否定推测”；may表“可能”，must表“肯定”，均不符合。"
+            },
+            {
+              "question": "They ___ be talking about the exam now, the exam is tomorrow.",
+              "options": {"A": "might", "B": "mustn’t", "C": "needn’t"},
+              "answer": "A",
+              "explanation": "exam is tomorrow是“不明确”的依据，might be talking表“对正在进行动作的推测（可能在讨论）”；mustn’t表“禁止”，needn’t表“不必”，均不表推测。"
+            },
+            {
+              "question": "She ___ have missed the train, she left home too late.",
+              "options": {"A": "must", "B": "may", "C": "can’t"},
+              "answer": "A",
+              "explanation": "left home too late是明确证据，must have missed表“对过去的肯定推测（一定错过了）”；may表“不确定推测”，can’t表“否定推测”，均不符合。"
+            },
+            {
+              "question": "— May he be in the office? — No, he ___. I saw him leave the building just now.",
+              "options": {"A": "may not", "B": "can’t", "C": "needn’t"},
+              "answer": "B",
+              "explanation": "saw him leave是明确证据，表“不可能在办公室”，否定推测用can’t；may not表“可能不”（证据不足），needn’t表“不必”，均不符合。"
+            },
+            {
+              "question": "It ___ snow in the south of China in winter, but it’s very rare.",
+              "options": {"A": "can", "B": "must", "C": "shouldn’t"},
+              "answer": "A",
+              "explanation": "it’s very rare表“罕见”，can表“推测（可能）”，用于肯定句时表“理论上的可能性”；must表“肯定推测”（罕见则证据不足），shouldn’t表“不应该”，均不符合。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
